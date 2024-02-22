@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TechiDaily</title>
+  
+  <subtitle>Enjoy life easier but more creative!</subtitle>
+  <link href="https://howto.techidaily.com/atom.xml" rel="self"/>
+  
+  <link href="https://howto.techidaily.com/"/>
+  <updated>2024-02-22T06:42:02.563Z</updated>
+  <id>https://howto.techidaily.com/</id>
+  
+  <author>
+    <name>TechiDaily</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>How to Undo Git Pull</title>
+    <link href="https://howto.techidaily.com/how-to-undo-git-pull/"/>
+    <id>https://howto.techidaily.com/how-to-undo-git-pull/</id>
+    <published>2024-02-21T04:00:00.000Z</published>
+    <updated>2024-02-22T06:42:02.563Z</updated>
+    
+    <content type="html"><![CDATA[<p>This tutorial demonstrates undoing a git pull to bring a git repository to a previous state using git hard reset.</p><h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>When you accidentally pull the wrong changes from a remote repository, you can use the following process to undo the git pull and bring the repository to a previous state.</p><h2 id="Prerequisites"><a href="#Prerequisites" class="headerlink" title="Prerequisites"></a>Prerequisites</h2><ol><li>Git installed on your system.</li><li>A terminal to run the commands.</li><li>A basic understanding of Git.</li><li>A remote repository to pull the changes from.</li><li>A local repository to undo the git pull.</li><li>A text editor to edit the files.</li><li>A backup of the files before the git pull.</li><li>A backup of the files after the git pull.</li><li>A backup of the files after the git pull and the changes you want to keep.</li><li>A backup of the files after the git pull and the changes you want to discard.</li><li>A backup of the files after the git pull and the changes you want to discard and the changes you want to keep.</li></ol><h2 id="Steps-to-Undo-Git-Pull"><a href="#Steps-to-Undo-Git-Pull" class="headerlink" title="Steps to Undo Git Pull"></a>Steps to Undo Git Pull</h2><ol><li>Open the terminal on your system.</li><li>Navigate to the directory where your local repository is located.</li><li>Run the following command to check the status of your local repository.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git status</span><br></pre></td></tr></table></figure></div><ol start="4"><li>Run the following command to check the list of commits in your local repository.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">log</span></span><br></pre></td></tr></table></figure></div><ol start="5"><li>Run the following command to check the list of changes in your local repository.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git diff</span><br></pre></td></tr></table></figure></div><ol start="6"><li>Run the following command to check the list of changes in your local repository after the git pull.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git diff HEAD..FETCH_HEAD</span><br></pre></td></tr></table></figure></div><ol start="7"><li>Run the following command to undo the git pull and bring the repository to a previous state.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git reset --hard &lt;commit_id&gt;</span><br></pre></td></tr></table></figure></div><ol start="8"><li>Run the following command to check the status of your local repository after the git reset.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git status</span><br></pre></td></tr></table></figure></div><ol start="9"><li>Run the following command to check the list of commits in your local repository after the git reset.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">log</span></span><br></pre></td></tr></table></figure></div><ol start="10"><li>Run the following command to check the list of changes in your local repository after the git reset.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git diff</span><br></pre></td></tr></table></figure></div><ol start="11"><li>Run the following command to check the list of changes in your local repository after the git reset and the changes you want to keep.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git diff HEAD..FETCH_HEAD</span><br></pre></td></tr></table></figure></div><ol start="12"><li>Run the following command to check the list of changes in your local repository after the git reset and the changes you want to discard.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git diff HEAD..FETCH_HEAD</span><br></pre></td></tr></table></figure></div><ol start="13"><li>Run the following command to check the list of changes in your local repository after the git reset and the changes you want to discard and the changes you want to keep.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git diff HEAD..FETCH_HEAD</span><br></pre></td></tr></table></figure></div>]]></content>
+    
+    
+    <summary type="html">TThis tutorial demonstrates undoing a git pull to bring a git repository to a previous state using git hard reset.</summary>
+    
+    
+    
+    <category term="git" scheme="https://howto.techidaily.com/categories/git/"/>
+    
+    
+    <category term="git pull" scheme="https://howto.techidaily.com/tags/git-pull/"/>
+    
+    <category term="undo" scheme="https://howto.techidaily.com/tags/undo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to Git Push With SSH Key</title>
+    <link href="https://howto.techidaily.com/how-to-git-push-with-ssh-key/"/>
+    <id>https://howto.techidaily.com/how-to-git-push-with-ssh-key/</id>
+    <published>2024-02-01T16:00:00.000Z</published>
+    <updated>2024-02-21T16:57:38.053Z</updated>
+    
+    <content type="html"><![CDATA[<p>This tutorial describes the process of pushing Git files with specific SSH keys to remote servers using command line.</p><h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>When you have multiple SSH keys and you want to push your Git files to a remote server using a specific SSH key, you can use the following process to do so.</p><h2 id="Prerequisites"><a href="#Prerequisites" class="headerlink" title="Prerequisites"></a>Prerequisites</h2><ol><li>Git installed on your system.</li><li>SSH keys generated and added to your Git account.</li><li>A remote server to push your Git files.</li><li>A terminal to run the commands.</li><li>A Git repository to push your files.</li><li>A text editor to edit the SSH configuration file.</li><li>A basic understanding of Git and SSH.</li></ol><h2 id="Steps-to-Git-Push-With-SSH-Key"><a href="#Steps-to-Git-Push-With-SSH-Key" class="headerlink" title="Steps to Git Push With SSH Key"></a>Steps to Git Push With SSH Key</h2><ol><li>Open the terminal on your system.</li><li>Navigate to the directory where your Git repository is located.</li><li>Run the following command to check the remote URL of your Git repository.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git remote -v</span><br></pre></td></tr></table></figure></div><ol start="4"><li>Run the following command to check the list of SSH keys on your system.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">ls</span> -al ~/.ssh</span><br></pre></td></tr></table></figure></div><ol start="5"><li>Run the following command to check the list of SSH keys added to your SSH agent.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-add -l</span><br></pre></td></tr></table></figure></div><ol start="6"><li>Run the following command to check the list of SSH keys added to your Git account.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T</span><br></pre></td></tr></table></figure></div><ol start="7"><li>Run the following command to edit the SSH configuration file.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nano ~/.ssh/config</span><br></pre></td></tr></table></figure></div><ol start="8"><li>Add the following lines to the SSH configuration file.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">Host github.com</span><br><span class="line">  HostName github.com</span><br><span class="line">  User git</span><br><span class="line">  IdentityFile ~/.ssh/id_rsa</span><br><span class="line">  IdentitiesOnly <span class="built_in">yes</span></span><br></pre></td></tr></table></figure></div><ol start="9"><li>Replace <code>github.com</code> with the remote server URL and <code>id_rsa</code> with the name of your SSH key.</li><li>Save the changes and exit the text editor.</li><li>Run the following command to push your Git files to the remote server.</li></ol><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure></div>]]></content>
+    
+    
+    <summary type="html">This tutorial describes the process of pushing Git files with specific SSH keys to remote servers using command line.</summary>
+    
+    
+    
+    <category term="git" scheme="https://howto.techidaily.com/categories/git/"/>
+    
+    
+    <category term="git" scheme="https://howto.techidaily.com/tags/git/"/>
+    
+    <category term="ssh key" scheme="https://howto.techidaily.com/tags/ssh-key/"/>
+    
+    <category term="git ssh" scheme="https://howto.techidaily.com/tags/git-ssh/"/>
+    
+  </entry>
+  
+</feed>
