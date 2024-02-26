@@ -2,11 +2,11 @@
 title: How to Git Push With SSH Key
 date: 2024-02-02 00:00:00
 tags: 
-  - Git
-  - SSH Key
-  - Git SSH
+  - git
+  - ssh key
+  - git ssh
 categories: 
-  - Git
+  - git
 description: This tutorial describes the process of pushing Git files with specific SSH keys to remote servers using command line.
 keywords: git push with ssh key, git ssh key, git ssh, git push, git push with specific ssh key, git push with specific ssh key to remote server, git push with specific ssh key to remote server using command line
 ---
