@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>How to Git Push With SSH Key</title>
+    <url>/how-to-git-push-with-ssh-key/</url>
+    <content><![CDATA[<p>This tutorial describes the process of pushing Git files with specific SSH keys to remote servers using command line.</p>
+<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>When you have multiple SSH keys and you want to push your Git files to a remote server using a specific SSH key, you can use the following process to do so.</p>
+<h2 id="Prerequisites"><a href="#Prerequisites" class="headerlink" title="Prerequisites"></a>Prerequisites</h2><ol>
+<li>Git installed on your system.</li>
+<li>SSH keys generated and added to your Git account.</li>
+<li>A remote server to push your Git files.</li>
+<li>A terminal to run the commands.</li>
+<li>A Git repository to push your files.</li>
+<li>A text editor to edit the SSH configuration file.</li>
+<li>A basic understanding of Git and SSH.</li>
+</ol>
+<h2 id="Steps-to-Git-Push-With-SSH-Key"><a href="#Steps-to-Git-Push-With-SSH-Key" class="headerlink" title="Steps to Git Push With SSH Key"></a>Steps to Git Push With SSH Key</h2><ol>
+<li>Open the terminal on your system.</li>
+<li>Navigate to the directory where your Git repository is located.</li>
+<li>Run the following command to check the remote URL of your Git repository.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git remote -v</span><br></pre></td></tr></table></figure></div>
+
+<ol start="4">
+<li>Run the following command to check the list of SSH keys on your system.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">ls</span> -al ~/.ssh</span><br></pre></td></tr></table></figure></div>
+
+<ol start="5">
+<li>Run the following command to check the list of SSH keys added to your SSH agent.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-add -l</span><br></pre></td></tr></table></figure></div>
+
+<ol start="6">
+<li>Run the following command to check the list of SSH keys added to your Git account.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ssh -T</span><br></pre></td></tr></table></figure></div>
+
+<ol start="7">
+<li>Run the following command to edit the SSH configuration file.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">nano ~/.ssh/config</span><br></pre></td></tr></table></figure></div>
+
+<ol start="8">
+<li>Add the following lines to the SSH configuration file.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">Host github.com</span><br><span class="line">  HostName github.com</span><br><span class="line">  User git</span><br><span class="line">  IdentityFile ~/.ssh/id_rsa</span><br><span class="line">  IdentitiesOnly <span class="built_in">yes</span></span><br></pre></td></tr></table></figure></div>
+
+<ol start="9">
+<li>Replace <code>github.com</code> with the remote server URL and <code>id_rsa</code> with the name of your SSH key.</li>
+<li>Save the changes and exit the text editor.</li>
+<li>Run the following command to push your Git files to the remote server.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure></div>
+]]></content>
+      <categories>
+        <category>git</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
+        <tag>ssh key</tag>
+        <tag>git ssh</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How to Undo Git Pull</title>
+    <url>/how-to-undo-git-pull/</url>
+    <content><![CDATA[<p>This tutorial demonstrates undoing a git pull to bring a git repository to a previous state using git hard reset.</p>
+<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>When you accidentally pull the wrong changes from a remote repository, you can use the following process to undo the git pull and bring the repository to a previous state.</p>
+<h2 id="Prerequisites"><a href="#Prerequisites" class="headerlink" title="Prerequisites"></a>Prerequisites</h2><ol>
+<li>Git installed on your system.</li>
+<li>A terminal to run the commands.</li>
+<li>A basic understanding of Git.</li>
+<li>A remote repository to pull the changes from.</li>
+<li>A local repository to undo the git pull.</li>
+<li>A text editor to edit the files.</li>
+<li>A backup of the files before the git pull.</li>
+<li>A backup of the files after the git pull.</li>
+<li>A backup of the files after the git pull and the changes you want to keep.</li>
+<li>A backup of the files after the git pull and the changes you want to discard.</li>
+<li>A backup of the files after the git pull and the changes you want to discard and the changes you want to keep.</li>
+</ol>
+<h2 id="Steps-to-Undo-Git-Pull"><a href="#Steps-to-Undo-Git-Pull" class="headerlink" title="Steps to Undo Git Pull"></a>Steps to Undo Git Pull</h2><ol>
+<li>Open the terminal on your system.</li>
+<li>Navigate to the directory where your local repository is located.</li>
+<li>Run the following command to check the status of your local repository.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git status</span><br></pre></td></tr></table></figure></div>
+
+<ol start="4">
+<li>Run the following command to check the list of commits in your local repository.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">log</span></span><br></pre></td></tr></table></figure></div>
+
+<ol start="5">
+<li>Run the following command to check the list of changes in your local repository.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git diff</span><br></pre></td></tr></table></figure></div>
+
+<ol start="6">
+<li>Run the following command to check the list of changes in your local repository after the git pull.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git diff HEAD..FETCH_HEAD</span><br></pre></td></tr></table></figure></div>
+
+<ol start="7">
+<li>Run the following command to undo the git pull and bring the repository to a previous state.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git reset --hard &lt;commit_id&gt;</span><br></pre></td></tr></table></figure></div>
+
+<ol start="8">
+<li>Run the following command to check the status of your local repository after the git reset.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git status</span><br></pre></td></tr></table></figure></div>
+
+<ol start="9">
+<li>Run the following command to check the list of commits in your local repository after the git reset.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">log</span></span><br></pre></td></tr></table></figure></div>
+
+<ol start="10">
+<li>Run the following command to check the list of changes in your local repository after the git reset.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git diff</span><br></pre></td></tr></table></figure></div>
+
+<ol start="11">
+<li>Run the following command to check the list of changes in your local repository after the git reset and the changes you want to keep.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git diff HEAD..FETCH_HEAD</span><br></pre></td></tr></table></figure></div>
+
+<ol start="12">
+<li>Run the following command to check the list of changes in your local repository after the git reset and the changes you want to discard.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git diff HEAD..FETCH_HEAD</span><br></pre></td></tr></table></figure></div>
+
+<ol start="13">
+<li>Run the following command to check the list of changes in your local repository after the git reset and the changes you want to discard and the changes you want to keep.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git diff HEAD..FETCH_HEAD</span><br></pre></td></tr></table></figure></div>
+]]></content>
+      <categories>
+        <category>git</category>
+      </categories>
+      <tags>
+        <tag>git pull</tag>
+        <tag>undo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How to Restore Deleted Files Before Commit in Git</title>
+    <url>/how-to-restore-deleted-files-before-commit-in-git/</url>
+    <content><![CDATA[<p>This tutorial demonstrates restoring deleted files before commit in Git.</p>
+<ul>
+<li>Restore Deleted Files Before Commit Using the reset and checkout Commands in Git</li>
+<li>Restore Deleted Files Before Commit Using the git checkout Command in Git</li>
+<li>Restore a Batch of Deleted Files Before Commit in Git</li>
+</ul>
+<p>We use the git checkout and git reset commands to restore deleted files before committing. Git provides us with powerful options to do complex tasks with these commands.</p>
+<p>We can either unstage deleted file first and then restore it in the working tree in a separate step. Alternatively, we can combine the two operations into one step.</p>
+<p>This tutorial shows a clever trick to batch undelete multiple files with a single command.</p>
+<h2 id="1-Restore-Deleted-Files-Before-Commit-Using-the-reset-and-checkout-Commands-in-Git"><a href="#1-Restore-Deleted-Files-Before-Commit-Using-the-reset-and-checkout-Commands-in-Git" class="headerlink" title="1. Restore Deleted Files Before Commit Using the reset and checkout Commands in Git"></a>1. Restore Deleted Files Before Commit Using the <code>reset</code> and <code>checkout</code> Commands in Git</h2><p>First, let us set up a repository and add a few files. It looks like this:</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/initial-repo-before-deletes.webp"
+                      alt="Initial Repo Before Deletes"
+                ></p>
+<p>Our first couple of commits look like this in the log:</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/initial-repo-commits.webp"
+                      alt="Initial Repo Commits"
+                ></p>
+<p>We now delete a file with the <code>rm</code> command.</p>
+<p>The deleted file <strong>file7.txt</strong> is no longer present in our repository.</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/delete-file.webp"
+                      alt="Delete file"
+                ></p>
+<p>The default behavior of <code>rm</code> is to stage the delete changes automatically.</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/rm-autostages-deletion.webp"
+                      alt="Rm-Autostages-Deletion"
+                ></p>
+<p>We now proceed to restore deleted file before committing.</p>
+<p>First, we unstage the deletion with the <code>reset</code> command.</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git reset &lt;commit_hash&gt; [--] &lt;path_to_file&gt;</span><br></pre></td></tr></table></figure></div>
+
+<p>This command restores the index to the state of the c<code>ommit_hash</code> for all files that match the <code>path_to_file</code> parameter.</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git reset HEAD --file7.txt</span><br></pre></td></tr></table></figure></div>
+
+<p>This restores the index to <code>HEAD</code> for <code>file7.txt</code>. HEAD points to our last commit.</p>
+<p>Remember, we have not committed the deletion, so our last commit does not have the deletion entry.</p>
+<p>In essence, we use this command to unstage deleted files.</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/git-reset-unstage-change.webp"
+                      alt="Git reset unstage change"
+                ></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/unstage-deleted-file.webp"
+                      alt="Unstage deleted file"
+                ></p>
+<p>Next, we restore the deleted file in the working area with the <code>git checkout</code> command.</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git checkout [--] &lt;path_to_file&gt;</span><br></pre></td></tr></table></figure></div>
+
+<p><code>checkout</code> overwrites content in the working tree with the index in this form.</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git checkout -- file7.txt</span><br></pre></td></tr></table></figure></div>
+
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/git-restore-deleted-file-2-steps.webp"
+                      alt="Git restore deleted file 2 steps"
+                ></p>
+<h2 id="2-Restore-Deleted-Files-Before-Commit-Using-the-git-checkout-Command-in-Git"><a href="#2-Restore-Deleted-Files-Before-Commit-Using-the-git-checkout-Command-in-Git" class="headerlink" title="2. Restore Deleted Files Before Commit Using the git checkout Command in Git"></a>2. Restore Deleted Files Before Commit Using the <code>git checkout</code> Command in Git</h2><p>The <code>git checkout</code> command provides us with a form where we can combine the two steps above into one.</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git checkout &lt;commit&gt; [--] &lt;path_to_file&gt;</span><br></pre></td></tr></table></figure></div>
+
+<p>In this form, <code>git checkout</code> overwrites content in both the index and working areas with commit.</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git checkout HEAD -- file7.txt</span><br></pre></td></tr></table></figure></div>
+
+<p><code>HEAD</code> points to our last commit. We did not commit the deletion, so our last commit does not know the delete operation.</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/git-undelete-single-step-checkout.webp"
+                      alt="Git undelete single step checkout"
+                ></p>
+<h2 id="3-Restore-a-Batch-of-Deleted-Files-Before-Commit-in-Git"><a href="#3-Restore-a-Batch-of-Deleted-Files-Before-Commit-in-Git" class="headerlink" title="3. Restore a Batch of Deleted Files Before Commit in Git"></a>3. Restore a Batch of Deleted Files Before Commit in Git</h2><p>What if we deleted a bunch of files and did not commit? Suppose we deleted 1000 files, and we now want to restore all of them.</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/delete-several-files.webp"
+                      alt="Delete several files"
+                ></p>
+<p>Typing the above commands 1000 times isn’t a programmer’s way to do stuff. Instead, we can use wildcards in the path specifiers to match many files and undelete them with a single command.</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git reset HEAD .</span><br></pre></td></tr></table></figure></div>
+
+<p>This is the same command as above, except we replaced <code>file7.txt</code> with the <code>.</code> wildcard. The <code>.</code> tells git to match all files.</p>
+<p>So, this command unstages all of our deleted files. We then restore them in the working area.</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git checkout .</span><br></pre></td></tr></table></figure></div>
+
+<p>The same command with <code>file7.txt</code> is again replaced with the <code>.</code> wildcard. It restores all the unstaged deletions in one go.</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/batch-restore-deletions.webp"
+                      alt="Batch restore deletions"
+                ></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/all-deleted-files-restored.webp"
+                      alt="All deleted files restored"
+                ></p>
+]]></content>
+      <categories>
+        <category>git</category>
+      </categories>
+      <tags>
+        <tag>undo</tag>
+        <tag>git restore</tag>
+        <tag>restore deleted files</tag>
+      </tags>
+  </entry>
+</search>
