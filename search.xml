@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>How to Git Push With SSH Key</title>
+    <url>/how-to-git-push-with-ssh-key/</url>
+    <content><![CDATA[<p>This tutorial describes the process of pushing Git files with specific SSH keys to remote servers using command line.</p>
+<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>When you have multiple SSH keys and you want to push your Git files to a remote server using a specific SSH key, you can use the following process to do so.</p>
+<h2 id="Prerequisites"><a href="#Prerequisites" class="headerlink" title="Prerequisites"></a>Prerequisites</h2><ol>
+<li>Git installed on your system.</li>
+<li>SSH keys generated and added to your Git account.</li>
+<li>A remote server to push your Git files.</li>
+<li>A terminal to run the commands.</li>
+<li>A Git repository to push your files.</li>
+<li>A text editor to edit the SSH configuration file.</li>
+<li>A basic understanding of Git and SSH.</li>
+</ol>
+<h2 id="Steps-to-Git-Push-With-SSH-Key"><a href="#Steps-to-Git-Push-With-SSH-Key" class="headerlink" title="Steps to Git Push With SSH Key"></a>Steps to Git Push With SSH Key</h2><ol>
+<li>Open the terminal on your system.</li>
+<li>Navigate to the directory where your Git repository is located.</li>
+<li>Run the following command to check the remote URL of your Git repository.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git remote -v</span><br></pre></td></tr></table></figure></div>
+
+<ol start="4">
+<li>Run the following command to check the list of SSH keys on your system.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">ls</span> -al ~/.ssh</span><br></pre></td></tr></table></figure></div>
+
+<ol start="5">
+<li>Run the following command to check the list of SSH keys added to your SSH agent.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-add -l</span><br></pre></td></tr></table></figure></div>
+
+<ol start="6">
+<li>Run the following command to check the list of SSH keys added to your Git account.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ssh -T</span><br></pre></td></tr></table></figure></div>
+
+<ol start="7">
+<li>Run the following command to edit the SSH configuration file.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">nano ~/.ssh/config</span><br></pre></td></tr></table></figure></div>
+
+<ol start="8">
+<li>Add the following lines to the SSH configuration file.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">Host github.com</span><br><span class="line">  HostName github.com</span><br><span class="line">  User git</span><br><span class="line">  IdentityFile ~/.ssh/id_rsa</span><br><span class="line">  IdentitiesOnly <span class="built_in">yes</span></span><br></pre></td></tr></table></figure></div>
+
+<ol start="9">
+<li>Replace <code>github.com</code> with the remote server URL and <code>id_rsa</code> with the name of your SSH key.</li>
+<li>Save the changes and exit the text editor.</li>
+<li>Run the following command to push your Git files to the remote server.</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure></div>
+]]></content>
+      <categories>
+        <category>git</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
+        <tag>ssh key</tag>
+        <tag>git ssh</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>How to Restore Deleted Files Before Commit in Git</title>
     <url>/how-to-restore-deleted-files-before-commit-in-git/</url>
     <content><![CDATA[<p>This tutorial demonstrates restoring deleted files before commit in Git.</p>
@@ -206,68 +268,6 @@
       <tags>
         <tag>undo</tag>
         <tag>git pull</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>How to Git Push With SSH Key</title>
-    <url>/how-to-git-push-with-ssh-key/</url>
-    <content><![CDATA[<p>This tutorial describes the process of pushing Git files with specific SSH keys to remote servers using command line.</p>
-<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>When you have multiple SSH keys and you want to push your Git files to a remote server using a specific SSH key, you can use the following process to do so.</p>
-<h2 id="Prerequisites"><a href="#Prerequisites" class="headerlink" title="Prerequisites"></a>Prerequisites</h2><ol>
-<li>Git installed on your system.</li>
-<li>SSH keys generated and added to your Git account.</li>
-<li>A remote server to push your Git files.</li>
-<li>A terminal to run the commands.</li>
-<li>A Git repository to push your files.</li>
-<li>A text editor to edit the SSH configuration file.</li>
-<li>A basic understanding of Git and SSH.</li>
-</ol>
-<h2 id="Steps-to-Git-Push-With-SSH-Key"><a href="#Steps-to-Git-Push-With-SSH-Key" class="headerlink" title="Steps to Git Push With SSH Key"></a>Steps to Git Push With SSH Key</h2><ol>
-<li>Open the terminal on your system.</li>
-<li>Navigate to the directory where your Git repository is located.</li>
-<li>Run the following command to check the remote URL of your Git repository.</li>
-</ol>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git remote -v</span><br></pre></td></tr></table></figure></div>
-
-<ol start="4">
-<li>Run the following command to check the list of SSH keys on your system.</li>
-</ol>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">ls</span> -al ~/.ssh</span><br></pre></td></tr></table></figure></div>
-
-<ol start="5">
-<li>Run the following command to check the list of SSH keys added to your SSH agent.</li>
-</ol>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-add -l</span><br></pre></td></tr></table></figure></div>
-
-<ol start="6">
-<li>Run the following command to check the list of SSH keys added to your Git account.</li>
-</ol>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ssh -T</span><br></pre></td></tr></table></figure></div>
-
-<ol start="7">
-<li>Run the following command to edit the SSH configuration file.</li>
-</ol>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">nano ~/.ssh/config</span><br></pre></td></tr></table></figure></div>
-
-<ol start="8">
-<li>Add the following lines to the SSH configuration file.</li>
-</ol>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">Host github.com</span><br><span class="line">  HostName github.com</span><br><span class="line">  User git</span><br><span class="line">  IdentityFile ~/.ssh/id_rsa</span><br><span class="line">  IdentitiesOnly <span class="built_in">yes</span></span><br></pre></td></tr></table></figure></div>
-
-<ol start="9">
-<li>Replace <code>github.com</code> with the remote server URL and <code>id_rsa</code> with the name of your SSH key.</li>
-<li>Save the changes and exit the text editor.</li>
-<li>Run the following command to push your Git files to the remote server.</li>
-</ol>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure></div>
-]]></content>
-      <categories>
-        <category>git</category>
-      </categories>
-      <tags>
-        <tag>git</tag>
-        <tag>ssh key</tag>
-        <tag>git ssh</tag>
       </tags>
   </entry>
 </search>
