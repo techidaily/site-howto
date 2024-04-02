@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Oppo A18 ? Fix It Easily | Dr.fone
-date: 2024-03-18 12:44:11
-updated: 2024-03-21 10:14:13
+date: 2024-04-01T06:52:30.255Z
+updated: 2024-04-02T06:52:30.255Z
 tags: 
   - problems
 categories:

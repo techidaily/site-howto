@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Nubia Red Magic 9 Pro ? Fix It Easily | Dr.fone
-date: 2024-03-18 15:28:45
-updated: 2024-03-21 22:18:41
+date: 2024-04-01T06:52:30.224Z
+updated: 2024-04-02T06:52:30.224Z
 tags: 
   - problems
 categories:

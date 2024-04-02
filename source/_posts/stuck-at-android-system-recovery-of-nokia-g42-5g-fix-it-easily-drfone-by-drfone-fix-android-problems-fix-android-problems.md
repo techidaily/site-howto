@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Nokia G42 5G ? Fix It Easily | Dr.fone
-date: 2024-03-20 20:49:58
-updated: 2024-03-21 20:27:25
+date: 2024-04-01T06:52:30.218Z
+updated: 2024-04-02T06:52:30.218Z
 tags: 
   - problems
 categories:

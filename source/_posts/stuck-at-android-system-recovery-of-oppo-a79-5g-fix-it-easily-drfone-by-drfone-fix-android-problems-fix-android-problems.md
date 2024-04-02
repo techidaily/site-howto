@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Oppo A79 5G ? Fix It Easily | Dr.fone
-date: 2024-03-20 10:28:34
-updated: 2024-03-21 14:26:26
+date: 2024-04-01T06:52:30.283Z
+updated: 2024-04-02T06:52:30.283Z
 tags: 
   - problems
 categories:

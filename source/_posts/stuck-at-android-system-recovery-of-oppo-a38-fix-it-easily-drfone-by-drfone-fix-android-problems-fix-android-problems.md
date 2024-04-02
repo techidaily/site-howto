@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Oppo A38 ? Fix It Easily | Dr.fone
-date: 2024-03-19 13:54:47
-updated: 2024-03-21 23:24:40
+date: 2024-04-01T06:52:30.275Z
+updated: 2024-04-02T06:52:30.275Z
 tags: 
   - problems
 categories:

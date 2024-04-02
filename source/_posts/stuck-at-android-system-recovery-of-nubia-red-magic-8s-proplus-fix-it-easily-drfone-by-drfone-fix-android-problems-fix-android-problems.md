@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Nubia Red Magic 8S Pro+ ? Fix It Easily | Dr.fone
-date: 2024-03-18 20:30:19
-updated: 2024-03-21 11:31:56
+date: 2024-04-01T06:52:30.222Z
+updated: 2024-04-02T06:52:30.222Z
 tags: 
   - problems
 categories:

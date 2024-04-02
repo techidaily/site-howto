@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of OnePlus 12R ? Fix It Easily | Dr.fone
-date: 2024-03-18 23:41:29
-updated: 2024-03-21 10:58:28
+date: 2024-04-01T06:52:30.241Z
+updated: 2024-04-02T06:52:30.241Z
 tags: 
   - problems
 categories:

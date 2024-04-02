@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Oppo A78 5G ? Fix It Easily | Dr.fone
-date: 2024-03-19 20:39:29
-updated: 2024-03-21 19:43:43
+date: 2024-04-01T06:52:30.280Z
+updated: 2024-04-02T06:52:30.280Z
 tags: 
   - problems
 categories:

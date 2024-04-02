@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Oppo K11 5G ? Fix It Easily | Dr.fone
-date: 2024-03-20 11:34:16
-updated: 2024-03-21 19:11:15
+date: 2024-04-01T06:52:30.293Z
+updated: 2024-04-02T06:52:30.293Z
 tags: 
   - problems
 categories:

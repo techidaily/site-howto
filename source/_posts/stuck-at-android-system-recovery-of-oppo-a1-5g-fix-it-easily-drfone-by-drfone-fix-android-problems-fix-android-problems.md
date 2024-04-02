@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Oppo A1 5G ? Fix It Easily | Dr.fone
-date: 2024-03-19 14:26:31
-updated: 2024-03-21 12:59:19
+date: 2024-04-01T06:52:30.255Z
+updated: 2024-04-02T06:52:30.255Z
 tags: 
   - problems
 categories:
