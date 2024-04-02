@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Oppo A2 ? Fix It Easily | Dr.fone
-date: 2024-04-01T06:52:30.274Z
-updated: 2024-04-02T06:52:30.274Z
+date: 2024-04-01T12:08:30.126Z
+updated: 2024-04-02T12:08:30.126Z
 tags: 
   - problems
 categories:

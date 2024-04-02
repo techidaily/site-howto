@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Nokia C300 ? Fix It Easily | Dr.fone
-date: 2024-04-01T06:52:30.213Z
-updated: 2024-04-02T06:52:30.213Z
+date: 2024-04-01T12:08:30.090Z
+updated: 2024-04-02T12:08:30.090Z
 tags: 
   - problems
 categories:
