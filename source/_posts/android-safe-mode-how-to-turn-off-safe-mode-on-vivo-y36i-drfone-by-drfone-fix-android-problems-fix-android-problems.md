@@ -1,0 +1,546 @@
+---
+title: Android Safe Mode - How to Turn off Safe Mode on Vivo Y36i? | Dr.fone
+date: 2024-03-19 13:57:16
+updated: 2024-03-21 16:32:48
+tags: 
+  - problems
+categories:
+  - android
+description: This article describes Android Safe Mode - How to Turn off Safe Mode on Vivo Y36i?
+excerpt: This article describes Android Safe Mode - How to Turn off Safe Mode on Vivo Y36i?
+keywords: android fix,Vivo Y36i android fix,Vivo Y36i android repair,Vivo Y36i android support,android solutions,Vivo Y36i android issues,Vivo Y36i android help,fix android problems,Vivo Y36i android troubleshooting,android help,Vivo Y36i android tips,android issues
+thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+---
+
+## Android Safe Mode - How to Turn off Safe Mode on Vivo Y36i?
+
+Safe mode on Android is very useful to get rid of dangerous apps and malware. This allows the user to perform a uninstall of the crashed or malicious apps by putting safe mode on Android. Now the question is how to remove safe mode? In this article, we have discussed in detail how to get out of safe mode and also discussed some frequently asked questions. Keep reading this article.
+
+## Part 1: How to turn off safe mode on Android?
+
+This is very important to turn off the safe mode after you put the safe mode on Android. Your mobile performance is limited in this mode. So you have to turn off safe mode. For doing this, there are some methods. Try to apply them one by one. If you succeed, stop there. Else go to the next method.
+
+**Method 1: Restarting the Vivo Y36i device**
+
+This is the easiest method to turn off the safe mode in Android. To use this method, follow the steps below.
+
+Step 1 – Tap and hold the power button of your Vivo Y36i.
+
+Step 2 – You could find the option “Restart”. Tap on it. (If you have only one option, move to the step no 2)
+
+Step 3 – Now, your phone will boot up in some time and you can see the Vivo Y36i device is no more on safe mode.
+
+![the Vivo Y36i device](https://images.wondershare.com/drfone/article/2017/06/14986725432763.jpg)
+
+This method, if goes well, will turn off safe mode in Android from your device. IF not, move to the next method instead.
+
+**Method 2: Do a soft reset:**
+
+The soft reset is very easy to perform. It won’t delete any of your personal files etc. Besides, it clears all the temp files and unnecessary data and recent apps so that you get a healthy device. This method is very good for turning off Safe mode on Android.
+
+Step 1 – Tap and hold the power button.
+
+Step 2 – Now, select “Power off” from the given option. This will make your device off.
+
+Step 3 – Wait a few seconds and then turn it on again.
+
+This time you can see your phone is no more in safe mode. Also, your junk files have been also removed. If you still find the Vivo Y36i device is the safe mode, follow the next method.
+
+**Method 3: Break all power**
+
+This method is sometimes very helpful to turn off safe mode on android by disconnecting all the power as well as resetting the SIM card.
+
+Step 1 – Take the back cover off from the Vivo Y36i device and remove the battery. (Not all devices will give you this facility)
+
+Step 2 – Take out the SIM card.
+
+Step 3 – Reinsert the SIM card and insert the battery again.
+
+Step 4 – Turn the Vivo Y36i device on by tapping and holding the power button.
+
+Now, you can see your device is out of safe mode. If you still find your device in Safe mode, see the next method.
+
+**Method 4: Wipe the cache of the Vivo Y36i device.**
+
+The cache of the Vivo Y36i device sometimes creates an obstacle in overcoming the safe mode on Android. To solve this issue, follow the steps below.
+
+Step 1 – Turn on your device in safe mode. It can generally be done by tapping the home, power, and volume up button on Android device. If this combination is not working for you, search the internet with your device model number.
+
+![tap home, power and volume up](https://images.wondershare.com/drfone/article/2017/06/14986725776650.jpg)
+
+Step 2 – Now you can find the recovery mode screen. Navigate to the “Wipe cache” option with the volume up and down button and select the option by tapping the power button.
+
+![Navigate to “Wipe cache”](https://images.wondershare.com/drfone/article/2017/06/14986726461259.jpg)
+
+Step 3 – Now follow on-screen instruction and your device will be rebooted.
+
+After successful completion of this method, your device should no longer be in safe mode. If the problem still persists, the only solution is to do a factory reset. This will erase all the data from your device. So take backup of your internal storage.
+
+**Method 5: Factory data reset**
+
+To factory data reset, you have to follow the below steps.
+
+Step 1 – Enter in the recovery mode by following the steps mentioned earlier.
+
+Step 2 – Now select “Factory data reset” from the given options.
+
+![select “Factory data reset”](https://images.wondershare.com/drfone/article/2017/06/14986726765597.jpg)
+
+Step 3 – Now, follow the on-screen instructions and your device will be factory reset.
+
+After this method, you can successfully get rid of the safe mode on Android. Restore your data from the backup you created.
+
+**Watch the video below to turn off safe mode on your phone:**
+
+<iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iiA3E-Oj_pk"></iframe>
+
+## Part 2: How to put the phone in safe mode?
+
+If some apps or programs create a problem on your device, the solution is safe mode. Safe mode allows you to uninstall the app or the program out of your device safely. So, safe mode on Android is quite useful sometimes. Let’s have a look at how to turn on safe mode in Android.
+
+Before this, remember to take a backup of your Vivo Y36i. We recommend you to use the Dr.Fone - Phone Backup (Android). This tool is the best in its class to provide users with a very easy-to-use user interface yet powerful solution.
+
+
+
+### [Dr.Fone - Phone Backup (Android)\_](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
+
+Flexibly Backup and Restore Android Data
+
+- Selectively backup Android data to the computer with one click.
+- Preview and restore the backup to any Android devices.
+- Supports 8000+ Android devices.
+- There is no data lost during backup, export, or restore.
+
+Always remember to use this tool before you enter in the safe mode as you never know what will happen next and you might end up with factory resetting. This, as the result, will erase all your valuable data. So always perform backup data before you proceed.
+
+To enter the safe mode, follow the instructions below.
+
+Step  1 – First of all, long press the power button and let the Power options appear.
+
+![Power options](https://images.wondershare.com/drfone/article/2017/06/14986727492182.jpg)
+
+Step 2 – Now, long press on the "Power off” option. This will instantly ask you if you want to reboot into safe mode. Select the option and your device will reboot in safe mode.
+
+![‘Power off” ](https://images.wondershare.com/drfone/article/2017/06/14986728022827.jpg)
+
+If you are using Android version 4.2 or earlier, turn off the Vivo Y36i device and turn it on the back by tapping the power button. When the logo appears, tap and hold the volume down button. This will allow the Vivo Y36i device to boot in safe mode.
+
+Follow these steps carefully and now you can see a “Safe Mode” written at the corner of your device. This will confirm that you have successfully entered in Safe mode on Android.
+
+## Part 3: Safe mode on Android FAQs
+
+In this section, we’ll discuss some frequently asked questions about the safe mode. Some users have many questions regarding the safe mode. Here we’ll try to cover some of them.
+
+**1\. Why is My Vivo Y36i on safe mode?**
+
+This is a very common question around the world. For many Android device users, it’s quite common to see your phone in safe mode suddenly. Android is a secure platform and if your device sees any threat from your recently installed apps or any programs that want to harm your device; it would go into safe mode automatically. Sometimes, you might accidentally perform the steps discussed in part 2 and boot your device in safe mode.
+
+**2\. Safe mode won't turn off on My Vivo Y36i**
+
+For the solution to remove safe mode from your device you must follow the step-by-step methods as mentioned in part 1. This will surely take your device out of the safe mode.
+
+The safe mode is a very useful program for any Android device. But it limits the programs of Android and you must remove safe mode after uninstalling the harmful app. This article showed you how to turn off safe mode easily.
+
+[Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
+
+## How To Fix Unresponsive Phone Touchscreen Of Vivo Y36i
+
+Smartphones nowadays contribute to our daily workflow, whether you’re a student or a professional. They get more sophisticated and add new features every year, making them more attractive with each new release. However, users sometimes deal with their **screen touch not working** on Android, raising various concerns.
+
+![fix unresponsive android/ios touchscreen intro](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-01.jpg)
+
+If you are facing a similar issue, this page has all the solutions to teach you **what to do if your phone screen is not working.** By exploring the different methods below, you will be able to know how to fix a frozen phone touch screen as an Android user. Read on for more information.
+
+## Part 1: Top Causes of an Unresponsive Touchscreen
+
+Android has been the best-selling OS since 2011, with over three billion active users. With the release of Android 13, complaints over **touch issues** on certain Android phones have popped up over the internet. Meanwhile, software updates over the years can sometimes make their **phones stuck on the loading screen,** causing worry among Android users.
+
+Here are some of the top causes why your **phone screen stopped working,** mainly for Android.
+
+- **Physical Damage**
+
+If your Android **phone is not responding to touch,** it can be due to a cracked LCD causing temperature variants or magnetic fields to malfunction on your Vivo Y36i.
+
+![cracked screen iphone](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-02.jpg)
+
+For iOS users, your iPhone will temporarily stop working if it detects extreme temperatures such as a too-hot or too-cold reading. You should turn off your iPhone and let it cool down or warm to a normal temperature.
+
+- **Faulty Applications**
+
+Certain apps can sometimes make your phone experience **touch issues**. Your Android screen may work everywhere except a particular app. In this case, the fault is likely on the app, not your smartphone. It’s recommended to download the latest apps with frequent software updates to prevent malicious apps from corrupting or crashing your phone.
+
+- **iOS/Android Software Issues**
+
+Your **phone screen not responding** can also be due to software glitches that your smartphone picks up during regular use. Your iOS/Android device will sometimes freeze or hang if you run too many intensive apps simultaneously. The situation can lead to **touch issues** when using the phone.
+
+- **Dirty Screen or Bad Peripherals**
+
+It may not respond properly when an Android device is dirty due to water, sweat, or body oils. It will not be able to take inputs, causing your **phone to not respond to touch**. A poor screen protector and a tightly pressed phone case will also negatively impact your smartphone.
+
+![dirty samsung screen](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-03.jpg)
+
+## Part 2: What To Do When Your Smartphone Is Not Responding to Touch
+
+Here is a list of things you should do **how to fix a frozen phone touch screen,** whether you’re using an iPhone or an Android smartphone.
+
+### 1\. Clean Your Smartphone
+
+Your **screen touch not working** can sometimes get fixed by simply cleaning the screen on your smartphone. Use a soft dry cloth, gently clean your iPhone or Android device, and ensure water, oils, dirt, or other debris are no longer on your display. If you recently dropped your device in water, turn it off and leave it untouched for the next few hours.
+
+![cleaning iphone with cloth](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-04.jpg)
+
+### 2\. Remove Extra Peripherals
+
+Unplug any external device connected to your iPhone’s Lightning port or USB-C if your **phone screen stops working**. For Android users, meanwhile, disconnect any accessories like chargers or wireless headphones. After that, try using the touchscreen. If it works, the outcome proves that the fault appeared due to the external device.
+
+### 3\. Force Restart Your Device
+
+If your **phone screen is still unresponsive**,maybe it **is o**verloaded. You should force restart your Vivo Y36i. It doesn’t delete any data. Here’s how.
+
+**Example 1: For Vivo Y36i Smart Phones**
+
+Here’s how to force restart your smartphone to fix your **phone screen that’s not responding.**
+
+- Press and hold the **Power**and **Volume Down** buttons simultaneously for more than 7 seconds to force a reboot.
+
+![samsung force restart](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-05.jpg)
+
+**E****xample 2: For Vivo Y36i Redmi**
+
+If your Vivo Y36i Redmi **phone is stuck on loading screen** or “thinking” for a long time without responding, reboot it in just two steps.
+
+**Step 1:** Press and hold the power button on the right side of the screen, then a screen showing several options appears.
+
+**Step 2:** Choose **Restart,** then **Accept** if a confirmation message spears. Then wait a few seconds or minutes when your device is performing the reboot.
+
+![reboot xiaomi redmi options](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-06.jpg)
+
+### 4\. Update Your Software
+
+Your smartphone may behave erratically due to software bugs. While these are out of your control, you can quickly fix **your phone not responding to touch** by simply updating your OS to the latest version. Here’s how.
+
+- For iOS users, go to your iPhone **Settings**\> **General** > **Software Update** > **Download and Install**.
+- For Android owners, go to **Settings > Software Update.** Tap the **Check for software updates**to see if a new update is available.
+
+![ios software update](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-07.jpg)
+
+### 5\. Perform a Factory Reset
+
+If nothing helps, your remaining option is to try completing a Factory Reset. Doing this will erase all your data, but this is arguably the quickest way to restore your **screen-frozen phone** to its factory default settings. Factory Reset is available on Android devices with almost similar steps. Here’s how.
+
+**For Android, Vivo Y36i Series**
+
+**Step 1:** Search and tap the **Settings** option, and open **General management.**
+
+**S****tep 2:** Swipe the options, find and tap **Reset** >  **Factory data reset**, and check the information below. Then swipe and press the **Reset** button.
+
+**Note:**
+
+You might be asked to enter the pin of the security lock on the phone if you’ve set one.
+
+**S****tep 3:** You may need to enter your Vivo Y36i account password if you have bounded an account to your phone after taping **Delete all**. Then your Vivo Y36i phone will reset. You’ll see its initial setup screen when it turns back on.
+
+## Part 3: How to Fix Unresponsive Touchscreen With an Alternative
+
+The methods outlined above usually solve issues on your **smartphone not responding to touch**. If all else fails, Wondershare Dr.Fone for [<u>iOS</u>](https://drfone.wondershare.com/ios-system-repair.html) and [<u>Android</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) can fix various smartphone issues within less than 10 minutes. The program enables you to fix common scenarios such as black screen, boot loop, bricked iOS or Android, and much more without any required skills.
+
+![dr.fone main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+### Key Features
+
+The key features of Wondershare Dr.Fone for iOS and Android are listed below.
+
+- **Fix all iOS and Android Problems in Minutes**
+
+Wondershare Dr.Fone for Android and iOS allows you to fix your smartphone within less than 10 minutes. For iPhone owners, common issues such as a black screen, white screen of death, iPhone frozen, stuck on a restart loop, or recovery mode can easily be repaired with Dr.Fone. For Android users, meanwhile, problems, including unresponsive screen, black screen of death, boot loop, and more, are done within minutes.
+
+- **Supports up to 1000+ Android Models and iOS 16**
+
+The program supports all iOS versions, including the latest iOS 16 and iOS 16 beta. Compared to the iTunes store or other methods, the app can quickly fix any iPhone issues without data loss. For Android users, meanwhile, Dr.Fone supports up to 1000+ Android smartphones making it highly versatile even if you’re using an older Android device or the latest models.
+
+### Tech Specs
+
+Here are the minimum system requirements of Wondershare Dr.Fone (iOS) for your computer.
+
+| **Computer OS** | **iOS** |
+| --- | --- |
+| Windows: 7, 8, 8.1, 10, 11 | Support all iOS versions, including the latest iOS 16 & iOS 16 beta |
+| macOS: 12, 11, 10.15, 10.14, 10.13, 10.12, 10.11, 10.10, 10.9, or 10.8 |
+
+Meanwhile, here are the tech specs for Wondershare Dr.Fone (Android)’s minimum system requirements.
+
+| **Computer OS** | **Android** |
+| --- | --- |
+| Windows 7, 8, 8.1, 10, 11 | Android 2.1 and up |
+
+### Pros and Cons
+
+Here are the pros and cons of using Wondershare Dr.Fone (Android)
+
+**Pros**
+
+- Fone – System Repair’s UI for iOS and Android is clutter free and beginner-friendly. You can start repairing your phone right away after installation.
+- Repairing your iOS or Android smartphone within less than 10 minutes saves you precious time.
+
+**Cons**
+
+- The iOS and Android versions of Wondershare Dr.Fone are sold separately. You’ll have to get each version of the program if you own a smartphone for both iOS and Android.
+
+### Pricing
+
+The iOS and Android versions of Wondershare Dr.Fone has different price plans. See them below.
+
+Wondershare Dr.Fone (iOS) offers a quarterly, 1-year, and perpetual license, depending on your budget. Here’s the pricing below.
+
+- Quarterly License (1-5 Mobile Devices) - $6.65/Month – With Auto Renew
+- 1 Quarter License (1-5 Mobile Devices) - $7.32/Month – No Auto Renew
+- 1-Year License (1-5 Mobile Devices) - $4.99/Month – No Auto Renew
+- Perpetual License (1-5 Mobile Devices) - $79.95
+
+Wondershare Dr.Fone (Android) price plans are available for a 1-Year or Perpetual License, depending on your budget.
+
+- 1-Year License (1-5 Mobile Devices) - $39.95
+- Perpetual License (1-5 Mobile Devices) - $49.95
+- 1-Year Business License (Unlimited Devices) - $399.00
+
+### How To Fix Unresponsive Touchscreen With Wondershare Dr.Fone
+
+In this step-by-step guide below, you can fix your **unresponsive phone screen** using Wondershare Dr.Fone on iOS and Android.
+
+**Step 1**: Download and install Wondershare Dr.Fone for iOS or Android on your computer. Launch the app afterward and connect your smartphone.
+
+![dr.fone fix unresponsive touchscreen 01](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+**Step 2A (For iOS)**: Choose the correct model of your iPhone to download the appropriate firmware package.
+
+**Step 2B (For Android)**: Choose the correct **Brand, Name, Model, Country,** as well as **Carrier**, then click **Next**.
+
+![dr.fone fix unresponsive touchscreen 02](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+**Step 3**: Follow the on-screen instructions provided on the main program window and wait for the repair process to complete.
+
+![dr.fone fix unresponsive touchscreen 03](https://images.wondershare.com/drfone/drfone/android-repair-09.jpg)
+
+## Part 4: People Also Ask
+
+Some common questions you should know when taking care of an unresponsive phone touchscreen are listed below.
+
+### 1\. Why Did My iPhone Screen Go Black After Not Responding to Touch?
+
+Your iPhone screen with a **touch issue** will sometimes go black after not responding to touch due to several issues. It could be hardware, software, issues with a particular app, software crash, or you have a low battery. If it’s a drained battery, you’re in luck; all you have to do is charge it. Otherwise, you’ll have to perform a force restart on your iPhone to try to reboot it.
+
+### 2\. How Do I Keep My Android From Crashing?
+
+Keeping your apps updated should help you solve app crashing issues that can impact your Android OS. These apps build up large caches throughout your normal usage. Clearing cached data from time to time can drastically improve your smartphone’s performance and prevent **touch issues**. To remove your app cache, go to **Settings** \> **Storage** and tap **Cached Data**.
+
+### 3\. Can I Use Dr.Fone for Free?
+
+Wondershare Dr.Fone for iOS and Android is free to download and install. You can also test the first few steps and see if the program supports your device. However, when you click the **Fix Now** button to start the repair process, you will be required to enter a valid license to activate the program.
+
+![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+## Conclusion
+
+Knowing the common causes of an **unresponsive phone touchscreen** is the first step to preventing it from happening to your smartphone. While there are ways to fix it when it does happen, prevention is better than cure, as most experts say. However, if the methods outlined above don’t work, your best bet is to use a dedicated program such as Wondershare Dr.Fone for Android and iOS.
+
+Wondershare Dr.Fone works on almost all modern smartphones today and can fix a **stop-working phone screen** within less than 10 minutes. It’s beginner-friendly and doesn’t require advanced technical know-how to use right away.
+
+## App Won't Open on Your Vivo Y36i? Here Are All Fixes
+
+It is not a very rare phenomenon where an App won't open, crash abruptly or face trouble while launching on an Android device. Many Android phone users also add to the fact that whenever they try to launch an App, it keeps loading but does not run smoothly, as it should in normal circumstances.
+
+In such a scenario it is obvious for Android Smartphone users to look for possible solutions for such a random error so that their App/Apps load and work normally.
+
+Many people are also interested in knowing about the causes behind why an App won't open or why multiple/all Apps won’t open. This article will answer your query about why won't my App open on an Android phone by listing a few probable causes for the problem.
+
+Here are all the fixes you need if an App won’t open on your Vivo Y36i. Read on to find out all about why Apps won't open on your Vivo Y36i and solutions to overcome such a problem.
+
+## Part 1: Possible reasons for Apps won't open
+
+If you are an Android phone user and face a problem while trying to open an App on your device, you will ask yourself “Why won't my App open?”. To answer your question and explain to you why an App won't open on your phone, here are some probable and simple reasons to make you understand the real problem.
+
+It is appropriate to tag our generation as smartphone addicts because we use smartphones for anything and everything. All our important information, such as photos, videos, audio files, documents, notes, calendars, emails, etc, are stored on our phones. This causes a major storage/space problem in our phones and **a shortage of storage space** is one of the main reasons why an App won’t open or why all Apps won't open on your Vivo Y36i. To see how much of your storage space is occupied by Apps, go to “Settings” and select “Application Manager”.
+
+![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984182929893.jpg)
+
+![Settings](https://images.wondershare.com/drfone/article/2017/06/14984583143306.jpg)
+
+Another possible reason for Apps to crash or why an App won't open is a possible data crash. This may occur due to **an unstable internet connection** or **various other background software interruptions**.
+
+The causes for the problem to occur are many and no specific reason can be established as the only reason why Apps won't open on your Vivo Y36i. There are a lot of speculations about why such a problem occurs and persists, but it is more important to focus on how to fix if a particular App won't open or if all Apps won't open on Android.
+
+## Part 2: Quickest solution to fix _apps won’t open_ on Android
+
+You have already understood ‘why won't your app open?’ at the start of this article. But, you are not happy with the traditional solutions to fix the app won't open issue.
+
+Well, in such a case [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can prove to be your savior. It resolves failed Android system update issues, crashing apps, and black screen of death. It can also get an unresponsive or bricked Android device or boot loop stuck device fixed with one click.
+
+
+
+### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+
+Why won't my app open? The quick fix is here!
+
+- This is the first software in the industry that repairs Android systems.
+- All the latest Vivo Y36i tablets and mobiles are compatible with it.
+- With single-click operation, fixing the app won't open problems is super easy.
+- No technical skills are needed to use the tool.
+- The high success rate for Vivo Y36i Android device issue fixing.
+
+**3981454** people have downloaded it
+
+#### Here comes the detailed guide to fix apps won't open problem using Dr.Fone - System Repair (Android)
+
+**Note:** _When you are up to fixing apps won't open issues, make sure to [back up your Vivo Y36i](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) beforehand. These processes might lead to data erasing and you don’t want to suffer data loss this way._
+
+**Phase 1: Preparation and connection of Android device**
+
+Step 1: Post-installation and launch of Dr.Fone on your computer, you got to press the ‘System Repair’ tab. Connect the Android device later.
+
+![fix App won't open by repairing android system](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+Step 2: Hit the ‘Android Repair’ located on the left panel followed by tapping the ‘Start’ button.
+
+![start to fix App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+Step 3: Feed your Vivo Y36i details under the Vivo Y36i device information screen. Please check the warning and press the ‘Next’ button right after that.
+
+![select the android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+**Phase 2: Repairing your Vivo Y36i under ‘Download’ mode**
+
+Step 1: You got to boot the Android device under Download mode, as it’s important. The steps for that are as follows –
+
+- Android devise with a ‘Home’ button – Press together ‘Volume Down’, ‘Home’, and ‘Power’ buttons together for 5 to 10 seconds after turning off the Vivo Y36i device. Release them afterward and click the ‘Volume Up’ button to get into the ‘Download’ mode.
+
+![boot android in download mode with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+- When there is no ‘Home’ button – Turn off the Vivo Y36i device and then for 5 to 10 seconds, keep the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons pressed. Tap the ‘Volume Up’ button after releasing all the buttons to enter the ‘Download’ mode.
+
+![boot android in download mode without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+Step 2: Hitting the ‘Next’ button starts downloading the Android firmware.
+
+![fix App won't open in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+Step 3: Once Dr.Fone - System Repair (Android) verifies the downloaded firmware, it begins fixing the app won't open the issue asap.
+
+![fixing App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+## Part 3: 3 Common fixes if a particular App won’t open
+
+In this segment, we will discuss the three best ways to help you fix the problem if only a particular App won't open/launch/ run and takes an indefinite time to load.
+
+1\. Update the App
+
+It is always advisable to keep your Android software as well as your Apps up-to-date and you must constantly check for any updates which may be available in the Google Play Store.
+
+Follow the steps given below to update the app which won't open on your phone:
+
+• Visit Google Play Store on your Vivo Y36i.
+
+![Visit Google Play Store](https://images.wondershare.com/drfone/article/2017/06/14984583996008.jpg)
+
+• Now select “My Apps & Games” from the main menu.
+
+![select “My Apps & Games](https://images.wondershare.com/drfone/article/2017/06/14984183627979.jpg)
+
+• In this step, you may click on “Update All” to update all Apps for which an update is available or manually select the Apps which you wish to Update.
+
+![Update All](https://images.wondershare.com/drfone/article/2017/06/14984183782889.jpg)
+
+Once the App is updated, close all Apps and tabs running in the background. Now try to launch the app once again. If it opens, your problem is solved. If not, DO NOT worry as there are more ways to help you.
+
+2\. Force Stop the App
+
+Closing the App completely which won't open on your phone is a good idea. To make sure that no operations are running in the background related to the App, you must “Force Stop” it. Doing this is extremely simple and all you need to do is follow the steps given herein under:
+
+• Visit “Settings” on your phone.
+
+• Click on “Apps” to see a list of all the Apps on your Vivo Y36i.
+
+![Click on “Apps”](https://images.wondershare.com/drfone/article/2017/06/14984184003158.jpg)
+
+• Select the App which won't open.
+
+• Now click on “Force Stop” as shown below.
+
+![click on “Force Stop”](https://images.wondershare.com/drfone/article/2017/06/14984184186018.jpg)
+
+3\. Clear App Cache and Data
+
+This method resolves the issue to a great extent by wiping off unnecessary App content from your device.
+
+Carefully follow the step-by-step instructions given below to clear all App cache and data:
+
+• Visit “Settings” and select “Apps”.
+
+• From the list of Apps that appears, select the App that won't open.
+
+• Now tap on “Clear Cache” and “Clear data” directly or under “Storage”.
+
+![Clear data](https://images.wondershare.com/drfone/article/2017/06/14984585184488.jpg)
+
+## Part 4: 3 Common fix if all Apps won’t open on Android
+
+In this segment, we will discuss solutions to the problem if all your Apps won't open. They are simple and easy to follow and solve the error in no time.
+
+1\. Android updates
+
+Firstly, it is very important to keep your Android software updated at all times as an old Android version might not support new Apps or updated Apps.
+
+To update your software:
+
+• Visit “Settings” and keep going downwards.
+
+• Now select “About Phone”.
+
+• From the options available on the screen, tap on “System Updates"
+
+![tap on “System Updates](https://images.wondershare.com/drfone/article/2017/06/14984184697337.jpg)
+
+• In this step, if you are prompted for an update, follow the instruction given and do so.
+
+Updating your Android software solves most of your problems. This method might sound weird but works wonders when it comes to App related issues.
+
+2\. Restart the phone
+
+Restarting your Vivo Y36i to fix an error might sound old school but it gives good results when your Apps won't open. Restarting your phone is fairly simple. All you need to do is:
+
+• Long press the power button.
+
+• Now click on “Restart”.
+
+![click on “Restart”](https://images.wondershare.com/drfone/article/2017/06/14984184913200.jpg)
+
+Your phone will automatically restart and once it does, you can try to launch the App. You may also restart your Vivo Y36i by pressing the power button for about 15-20 seconds.
+
+3\. Reset Factory Settings
+
+This method is a little tedious and must be last on your list. Also, make sure you take a backup of all your data and contents stored on your Vivo Y36i and this solution will completely wipe off your phone making as good as a new smartphone.
+
+To Factory Reset your Vivo Y36i, carefully follow the guidelines given below:
+
+• Visit “Settings” to find the “Backup and reset” option as shown in the screenshot below.
+
+![Backup and reset](https://images.wondershare.com/drfone/article/2017/06/14984185141857.jpg)
+
+• Now click on “Factory Data Reset”>“Reset Device”>“Erase Everything”
+
+![Erase Everything](https://images.wondershare.com/drfone/article/2017/06/14984185334400.jpg)
+
+Your phone will now reboot and will be required to set up from scratch.
+
+“Why Won’t my App open” is a question asked by many Android phone users who fear that the problem occurs due to a virus attack or a system failure. However, this is not the case. The reason for the error to the surface is quite minor and can be fixed by you, sitting at home, without resorting to any kind of technical or external assistance. The solutions listed above are easy to understand and not very time-consuming.
+
+So go ahead and try them out now!
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+

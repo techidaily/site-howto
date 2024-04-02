@@ -102,15 +102,20 @@ theme: redefine
 sitemap:
   path: 
     - sitemap.txt
-  rel: true
+  rel: false
   tags: false
   categories: false
 
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+## 执行 hexo clean && hexo deploy 。
+## 如果提交失败
+## cd .deploy_git
+## git push -u https://$GITHUB_DEPLOY_TOKEN@github.com/techidaily/site-howto.git HEAD:gh-pages --force
 deploy:
   type: git
-  repo: https://lauer3912@github.com/techidaily/site-howto
-  # 执行 hexo clean && hexo deploy 。
-  branch: gh-pages
-  token: $GITHUB_DEPLOY_TOKEN
+  repo: 
+    url: https://github.com/techidaily/site-howto.git
+    branch: gh-pages
+    token: $GITHUB_DEPLOY_TOKEN

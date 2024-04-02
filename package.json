@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
+    "build": "hexo generate -c 12",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo clean && hexo server",
-    "publish": "hexo deploy -g -c 8"
+    "publish": "hexo deploy -g -c 12"
   },
   "hexo": {
     "version": "7.1.1"
@@ -21,18 +21,17 @@
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-feed": "^3.0.0",
     "hexo-generator-index": "^3.0.0",
-    "hexo-generator-searchdb": "^1.4.1",
-    "hexo-generator-sitemap": "^3.0.1",
+    "hexo-generator-sitemap-ex": "^3.3.0",
     "hexo-generator-tag": "^2.0.0",
     "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-less": "^4.0.0",
     "hexo-renderer-marked": "^6.0.0",
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "lodash": "^4.17.21"
   },
-  "devDependencies": {
-    "glob": "^10.3.10"
+  "engines": {
+    "pnpm": "yarn",
+    "npm": "yarn"
   }
 }
