@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Nokia G22 ? Fix It Easily | Dr.fone
-date: 2024-04-01T12:08:30.093Z
-updated: 2024-04-02T12:08:30.093Z
+date: 2024-04-01T12:47:09.190Z
+updated: 2024-04-02T12:47:09.190Z
 tags: 
   - problems
 categories:

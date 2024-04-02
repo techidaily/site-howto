@@ -105,10 +105,12 @@ const updatePostsTask = () => {
 
 const publishTask = () => {
     console.log(`当前目录为: ${__dirname}`);
-    console.log('执行 yarn run publish');
+    
     try {
+        console.log('执行 yarn 安装依赖');
         execSync(`yarn`, { cwd: __dirname });
-        
+
+        console.log('执行 yarn run publish');
         const child = execSync(`yarn run publish`, { cwd: __dirname });
         const { stdout, stderr } = child;
         console.log(`1.输出:\n ${stdout.toString()} \n`);

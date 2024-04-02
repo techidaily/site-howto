@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Nokia C32 ? Fix It Easily | Dr.fone
-date: 2024-04-01T12:08:30.092Z
-updated: 2024-04-02T12:08:30.092Z
+date: 2024-04-01T12:47:09.189Z
+updated: 2024-04-02T12:47:09.189Z
 tags: 
   - problems
 categories:

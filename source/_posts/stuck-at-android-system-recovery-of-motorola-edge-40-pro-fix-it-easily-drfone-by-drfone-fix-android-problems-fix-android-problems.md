@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Motorola Edge 40 Pro ? Fix It Easily | Dr.fone
-date: 2024-04-01T12:08:30.085Z
-updated: 2024-04-02T12:08:30.085Z
+date: 2024-04-01T12:47:09.170Z
+updated: 2024-04-02T12:47:09.170Z
 tags: 
   - problems
 categories:
