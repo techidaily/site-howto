@@ -1,7 +1,7 @@
 ---
 title: 6 Solutions to Fix Error 505 in Google Play Store on OnePlus 11R | Dr.fone
-date: 2024-05-20T09:03:24.766Z
-updated: 2024-05-21T09:03:24.766Z
+date: 2024-07-07T18:31:06.055Z
+updated: 2024-07-08T18:31:06.055Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 6 Solutions to Fix Error 505 in Google Play Store on OnePlus 11R
 excerpt: This article describes 6 Solutions to Fix Error 505 in Google Play Store on OnePlus 11R
 keywords: OnePlus 11R android problems,android repair,OnePlus 11R android troubleshooting,OnePlus 11R android issues,OnePlus 11R android support,android problems,android solutions,OnePlus 11R fix android problems,fix android problems,OnePlus 11R android solutions
-thumbnail: https://www.lifewire.com/thmb/x14UrRTf3--IfQ99R_ewwR4TwWY=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104288650-cd3f369f8ead449f94d1a1ce6f55c9de.jpg
+thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006aaa80a48dab2ef20ecc47cd.jpg
 ---
 
 ## 6 Solutions to Fix Error 505 in Google Play Store on OnePlus 11R
@@ -47,7 +47,7 @@ The most common cause for error code 505 pop-up is that Android system files tha
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 One click to repair Android system and make error code 505 disappear
 
@@ -232,7 +232,7 @@ It is always a good idea to back up your data especially before embarking on any
 
 
 
-### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
+### Wondershare Dr.Fone
 
 Flexibly Back up and Restore Android Data
 
@@ -263,7 +263,7 @@ When your device is displayed on the window of the program, click "Back Up Now "
 
 ![Android. Process. Media - select data types](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 3. How to Fix "Android. Process. Media" Error
 
@@ -323,7 +323,7 @@ This Should clear the error message for good.
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Android process media has stopped issue in one click
 
@@ -366,7 +366,7 @@ It may take a while, so you could have a cup of coffee to wait for the repair pr
 
 ![android.process.media stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ### Method 7: Factory Reset your device
 
@@ -378,7 +378,7 @@ If the problem persists after trying the above steps, it could be related to spe
 
 It is our hope that when faced with this fairly common error, you will not panic. This is a fairly mild issue that can easily be fixed as we have seen above.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## OnePlus 11R Stuck on Screen – Finding Solutions For Stuck on Boot
 
@@ -496,7 +496,7 @@ Changing or modifying system files can be fatal for smartphones. Thus, to keep y
 
 As you have observed, the power of Dr.Fone can be a perfect phone manager for you at all times. While providing system repair services, it can also help you manage your device's data and other statuses. Thus, consider keeping Dr.Fone close to your device and its operations. In this way, you will be able to have complete control over all types of data present in the OnePlus 11R smartphone.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,675,795** people have downloaded it
 

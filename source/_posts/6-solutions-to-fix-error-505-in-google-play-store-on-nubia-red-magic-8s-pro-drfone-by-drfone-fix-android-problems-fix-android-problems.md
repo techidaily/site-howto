@@ -1,7 +1,7 @@
 ---
 title: 6 Solutions to Fix Error 505 in Google Play Store on Nubia Red Magic 8S Pro | Dr.fone
-date: 2024-05-20T09:03:24.756Z
-updated: 2024-05-21T09:03:24.756Z
+date: 2024-07-07T18:32:02.401Z
+updated: 2024-07-08T18:32:02.401Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 6 Solutions to Fix Error 505 in Google Play Store on Nubia Red Magic 8S Pro
 excerpt: This article describes 6 Solutions to Fix Error 505 in Google Play Store on Nubia Red Magic 8S Pro
 keywords: Nubia Red Magic 8S Pro android troubleshooting,Nubia Red Magic 8S Pro android repair,Nubia Red Magic 8S Pro android issues,Nubia Red Magic 8S Pro android support,android problems,android support,android tips,android help,Nubia Red Magic 8S Pro android tips,android troubleshooting,Nubia Red Magic 8S Pro android help
-thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534572567-56facec43df78c784197b92d.jpg
+thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8ff0fa954ebc9cead95a6f721.jpg
 ---
 
 ## 6 Solutions to Fix Error 505 in Google Play Store on Nubia Red Magic 8S Pro
@@ -47,7 +47,7 @@ The most common cause for error code 505 pop-up is that Android system files tha
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 One click to repair Android system and make error code 505 disappear
 
@@ -239,7 +239,7 @@ The world of internet and its intricacies are beyond a novice’s realm. Chances
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Play Store stuck on downloading
 

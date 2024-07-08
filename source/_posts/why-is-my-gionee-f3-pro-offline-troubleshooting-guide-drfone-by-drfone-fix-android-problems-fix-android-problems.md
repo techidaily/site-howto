@@ -1,7 +1,7 @@
 ---
 title: Why Is My Gionee F3 Pro Offline? Troubleshooting Guide | Dr.fone
-date: 2024-06-20T01:06:21.794Z
-updated: 2024-06-21T01:06:21.794Z
+date: 2024-07-07T18:30:34.664Z
+updated: 2024-07-08T18:30:34.664Z
 tags: 
   - problems
 categories:
@@ -152,7 +152,7 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![Open Dr.Fone System Repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,189,324** people have downloaded it
 

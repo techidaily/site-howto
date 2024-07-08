@@ -1,7 +1,7 @@
 ---
 title: Nokia C12 Plus Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T09:56:02.162Z
-updated: 2024-05-01T09:56:02.162Z
+date: 2024-07-07T18:33:54.746Z
+updated: 2024-07-08T18:33:54.746Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Nokia C12 Plus Camera Not Working Unexpected Error? Fix It Now
 excerpt: This article describes Nokia C12 Plus Camera Not Working Unexpected Error? Fix It Now
 keywords: Nokia C12 Plus android issues,android support,android issues,android troubleshooting,Nokia C12 Plus android tips,android guide,android tips
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## Nokia C12 Plus Camera Not Working Unexpected Error? Fix It Now
@@ -130,7 +130,7 @@ Today, we will use Dr.Fone’s System Repair (Android) module to fix Android cam
 
 Download Dr.Fone here.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
@@ -164,7 +164,7 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
@@ -220,7 +220,7 @@ Your trouble with ‘why does My Nokia C12 Plus keep shutting off?’ can be res
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
 
@@ -268,7 +268,7 @@ Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once dow
 
 ![fixed phone keeps turning off with the repair program](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 4: Update software to the latest version to fix Android phone keeps turning off
 
@@ -316,7 +316,7 @@ That's all. Well, booting to Safe Mode is easy and it also helps you to identify
 
 
 
-### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
+### Wondershare Dr.Fone
 
 Flexibly Back up and Restore Android Data
 
@@ -345,7 +345,7 @@ There you go, you have successfully backed up data.
 
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 Now moving on to factory reset your phone:
 
@@ -369,7 +369,7 @@ Now for all those of you who are wondering why does My Nokia C12 Plus keeps turn
 
 So, do not hold back, go ahead, and try these tricks. They have helped many and will be useful for you too.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## 4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nokia C12 Plus
 

@@ -1,7 +1,7 @@
 ---
 title: 6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy S23 | Dr.fone
-date: 2024-05-20T09:03:24.974Z
-updated: 2024-05-21T09:03:24.974Z
+date: 2024-07-07T18:30:29.155Z
+updated: 2024-07-08T18:30:29.155Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy S23
 excerpt: This article describes 6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy S23
 keywords: android support,android solutions,android troubleshooting,android problems,Samsung Galaxy S23 android troubleshooting,Samsung Galaxy S23 fix android problems,Samsung Galaxy S23 android repair,android fix,android issues,Samsung Galaxy S23 android problems,Samsung Galaxy S23 android support
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## 6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy S23
@@ -47,7 +47,7 @@ The most common cause for error code 505 pop-up is that Android system files tha
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 One click to repair Android system and make error code 505 disappear
 
@@ -222,7 +222,7 @@ Here, we are going to mention four common methods that you can try to resolve th
 
 When it comes to the home button not working Samsung Galaxy S23 problem, the most common reason is the unknown system issues. In such a scenario, the best solution is using Dr.Fone - System Repair (Android) software to repair your Android system to normal in one click. This tool is powerful enough to resolve various Android issues within a few minutes.
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix home button not working on Android
 
@@ -458,7 +458,7 @@ Dr.Fone - System Repair (Android) equips Samsung Galaxy S23 users with the abili
 
 ![dr.fone system repair main window](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,227,773** people have downloaded it
 
@@ -492,7 +492,7 @@ Dr. Fone's features are perfect for unbricking Samsung Galaxy S23 devices. Below
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
 

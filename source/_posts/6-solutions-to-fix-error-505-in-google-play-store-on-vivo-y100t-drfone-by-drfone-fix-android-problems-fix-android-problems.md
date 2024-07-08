@@ -1,7 +1,7 @@
 ---
 title: 6 Solutions to Fix Error 505 in Google Play Store on Vivo Y100t | Dr.fone
-date: 2024-05-20T09:03:25.193Z
-updated: 2024-05-21T09:03:25.193Z
+date: 2024-07-07T18:30:27.950Z
+updated: 2024-07-08T18:30:27.950Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 6 Solutions to Fix Error 505 in Google Play Store on Vivo Y100t
 excerpt: This article describes 6 Solutions to Fix Error 505 in Google Play Store on Vivo Y100t
 keywords: fix android problems,Vivo Y100t android repair,Vivo Y100t android troubleshooting,Vivo Y100t android tips,android problems,Vivo Y100t android issues,android repair
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## 6 Solutions to Fix Error 505 in Google Play Store on Vivo Y100t
@@ -47,7 +47,7 @@ The most common cause for error code 505 pop-up is that Android system files tha
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 One click to repair Android system and make error code 505 disappear
 
@@ -226,7 +226,7 @@ Well, we have got [Dr.Fone - System Repair (Android)](https://tools.techidaily.c
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Easy-to-operate program to fix Android phone won’t charge
 
@@ -474,7 +474,7 @@ Before this, remember to take a backup of your Vivo Y100t. We recommend you to u
 
 
 
-### [Dr.Fone - Phone Backup (Android)\_](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
+### Dr.Fone - Phone Backup (Android)\_
 
 Flexibly Backup and Restore Android Data
 
@@ -493,7 +493,7 @@ Step  1 – First of all, long press the power button and let the Power options
 
 Step 2 – Now, long press on the "Power off” option. This will instantly ask you if you want to reboot into safe mode. Select the option and your device will reboot in safe mode.
 
-![‘Power off” ](https://images.wondershare.com/drfone/article/2017/06/14986728022827.jpg)
+![‘Power off”](https://images.wondershare.com/drfone/article/2017/06/14986728022827.jpg)
 
 If you are using Android version 4.2 or earlier, turn off the Vivo Y100t device and turn it on the back by tapping the power button. When the logo appears, tap and hold the volume down button. This will allow the Vivo Y100t device to boot in safe mode.
 

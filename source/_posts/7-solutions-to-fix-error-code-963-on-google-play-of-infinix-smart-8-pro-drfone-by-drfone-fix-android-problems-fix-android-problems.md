@@ -1,7 +1,7 @@
 ---
 title: 7 Solutions to Fix Error Code 963 on Google Play Of Infinix Smart 8 Pro | Dr.fone
-date: 2024-05-20T09:03:27.233Z
-updated: 2024-05-21T09:03:27.233Z
+date: 2024-07-07T18:33:38.733Z
+updated: 2024-07-08T18:33:38.733Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 7 Solutions to Fix Error Code 963 on Google Play Of Infinix Smart 8 Pro
 excerpt: This article describes 7 Solutions to Fix Error Code 963 on Google Play Of Infinix Smart 8 Pro
 keywords: Infinix Smart 8 Pro android fix,android repair,android support,android problems,Infinix Smart 8 Pro android tips,Infinix Smart 8 Pro android help,Infinix Smart 8 Pro android issues,Infinix Smart 8 Pro android guide,Infinix Smart 8 Pro android problems
-thumbnail: https://www.lifewire.com/thmb/xLyhmkxw8rwSLNhzfV0GfYs8tZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-tiktok-without-the-app-63a4562e4c4b4bd69477425853809a35.jpg
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
 ## 7 Solutions to Fix Error Code 963 on Google Play Of Infinix Smart 8 Pro
@@ -46,7 +46,7 @@ When it comes to the most convenient solution to fix error 963, [Dr.Fone - Syste
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 One click to fix Google Play error 963
 
@@ -449,7 +449,7 @@ The System Repair tool in Dr.Fone helps you to resolve this issue in your Androi
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
 
@@ -483,7 +483,7 @@ In the last step, you will have to put in the code and proceed with the “Confi
 
 ![type code and confirm it](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,120,524** people have downloaded it
 
