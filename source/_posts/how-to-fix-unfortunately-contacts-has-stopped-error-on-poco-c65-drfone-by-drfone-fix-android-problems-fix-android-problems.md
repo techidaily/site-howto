@@ -1,0 +1,451 @@
+---
+title: How to Fix Unfortunately, Contacts Has Stopped Error on Poco C65 | Dr.fone
+date: 2024-06-28T00:35:32.743Z
+updated: 2024-06-29T00:35:32.743Z
+tags: 
+  - problems
+categories:
+  - android
+description: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Poco C65
+excerpt: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Poco C65
+keywords: android problems,Poco C65 android fix,Poco C65 android help,Poco C65 android issues,android solutions,android guide,Poco C65 android problems,android issues,Poco C65 android troubleshooting,android fix,Poco C65 android support,Poco C65 fix android problems
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
+---
+
+## How to Fix Unfortunately, Contacts Has Stopped Error on Poco C65
+
+Have you recently noticed a message stating “Contacts has stopped”? This is enough to take away all your peace. As, our native contacts app stashes all our useful contacts which are time and again needed by a user. It’s malfunctioning is enough to give us chills. But, why the Poco C65 or any other Android device incurs such problems?
+
+It can occur while you launch the app or while you’re in the app already finding the required contact or when any other application is trying to gain access to it. So, to rage a battle with this issue, you need to seek help of some powerful methods in killing down the issue of contacts app crashes. And, the best part is that you’ve secured yourself by reaching the right place. We will be taking an in-depth discussion on several methods that may prove to be helpful. Let’s read them up here now.
+
+## Part 1: Get Android system fixed in one click
+
+We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
+
+
+
+### Dr.Fone - System Repair (Android)
+
+Fix Contacts app crashing on Android in one click
+
+- Incorporates with 1-click technology to resolve any issues occurring in your Poco C65. Black screen of death, app crash, system crash, faulty issues etc.
+- fone – Repair (Android) interface is extremely simple for users and lays functionalities aptly.
+- One of its kind software with highest success rate in the market.
+- Fully compatible with all kinds of Android phones, models, as well as the popular carrier.
+- It provides users with 24 hours customer care service to resolve queries.
+
+**3,016,434** people have downloaded it
+
+In this tutorial, we will learn the methodology of addressing the contacts keep stopping problem and gain triumph over it.
+
+Step 1: Load program and draw connection of device
+
+Download Dr.Fone - System Repair (Android) on PC. While program installs, use USB cable to connect device with system. From interface, tap on “System Repair” main window.
+
+![contacts stopping on samsung - download the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+Step 2: Opt for Android Repair option
+
+You’ll be directed to the “System Repair” screen where you have to opt for “Android Repair” options appearing over the left panel of the program. After that, do not forget to press “Start”.
+
+![contacts stopping on samsung - android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+Step 3: Key in device information
+
+From following screen, fill the fields of “Brand”, “Name”, “Model”, “Country” and several other parameters. Then, tap on “Next” option to proceed further.
+
+![contacts stopping on samsung - enter info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+Step 4: Download Firmware package
+
+Just follow the on-screen steps for booting your Poco C65 into download mode. Then, hit the “Next” button to proceed with downloading the most suitable firmware package for your Poco C65.
+
+![contacts stopping on samsung - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+Step 5: Repair Android phone
+
+Once the software downloads, the program will automatically repair any issues irking over your phone. Now, your phone is all free from contacts error.
+
+![contacts stopping on samsung - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+## Part 2: 9 Common ways to fix “Unfortunately, Contacts Has Stopped”
+
+### 2.1 Restart Android system
+
+Our response to any minuscule issue is straightaway restarting phone. This helps in clearing out any problem that might have disrupt the functioning of phone. So, to fix the problem of “Contacts app won’t open”, you too can try out your hand in this method.
+
+1. Get hold of your Android system and long press the power button.
+2. This will fadeout the main screen and showcase several options from where you’ve to tap on “Reboot/Restart” mode.
+
+![contacts app stopping - retart android](https://images.wondershare.com/drfone/article/2019/04/restart-reboot-android-phone.jpg)
+
+Now, your device will quickly reboot the Poco C65 device. Once, the Poco C65 device regains its normal state, check whether the issue is coming again or not.
+
+### 2.2 Clear cache and data of Contacts app
+
+The cache memory basically stashes the copies of the concerned application. It is indeed a streak of copies of the desired app storing information and incurring additional space on the storage. This might be the reason why the contact app crashes rapidly on your Poco C65. Hence, it can prove to be a good remedy for this problem. Just follow down the steps mentioned below-
+
+1. First of all, go to “Settings” application from the app drawer or from the notification panel.
+2. Now, surf and select for “Applications” or “Apps & notifications”.
+3. Here, you need to browse for “Contacts” app and open it.
+4. On “Contacts” app, just tap on “CLEAR CACHE” and “CLEAR DATA” button. This will prompt the cache memory to be cleared.
+
+![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
+
+### 2.3 Wipe cache partition
+
+As we know the cache memories are the temporary files build by the firmware. These are of little importance as they are bound to become a bit more corrupted in nature. And sometimes, may indirectly become a hurdle for the working of contacts app. It is good if the Poco C65 device is cleared off from the caches. Instead of manually wiping down the cache memory, we will understand how to clear off the cache partition in the following steps.
+
+1. From device, just power off your device. Then, press the “Volume Down + Power” button with “Home” combinations together.
+2. In a moment’s time, lose fingers from the “Power” button but do not release fingers from “Volume Down” and “Home” buttons.
+3. Once you view the “Android System Recovery” screen, just lose the “Volume Down” and “Home” buttons.
+4. Over the options available, just opt for “wipe cache partition” by tapping the “Volume down” button until the desired option is highlighted.
+5. Finally, push the “Power” key to give consent to the selection.
+
+![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
+
+7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the Poco C65 device.
+
+### 2.4 Disable Google+ app
+
+The root cause for detecting any problem is not very easy. You never know the overloading of Google + application might have directly impacted contacts app crashes. To resolve it, disabling it may prove to be a helpful solution. Here is the quick reference for disabling Google+ application.
+
+1. First of all, visit “Settings” from your Poco C65.
+2. In “Settings”, visit the “Application Manager” or “Applications” menu and browse for “Google +” app.
+3. From the application main page, you can choose to do either of the methods:
+
+- Either, completely disable the application to work by pressing on “Force stop” or “Disable” feature.
+- Or, brush away the unnecessary cache piled up on your storage by using “Clear Cache” functionality.
+
+There will be a prompt stating that the application may misbehave. However, you must disable the feature and check whether it worked out for you or not.
+
+![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
+
+### 2.5 Update your device software
+
+Many a times, we skip updating our device software thinking it is of less importance. In fact, one must not miss out the updates that occurs in phone. As, without the updates, the scope of some applications are affected to some extent. For its better functioning and avoiding issues like “contacts keep stopping”, here is how you should update device software.
+
+1. First and foremost, head on to “Settings” menu. Over there, click on “About Device”.
+2. There, you need to tap over “Software Update”.
+
+![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
+
+The device will now check whether there are any updates available for your device. If yes, then update application right away.
+
+### 2.6 Reset App Preferences
+
+As stated, the malfunctioning of contacts can be due to be any unexpected reason. Hence, users can opt for resetting app preferences. This may prove to be helpful in brushing away the issue of “Contacts app won’t open”.
+
+- Launch “Settings” app and surf for “Apps” or “Applications” option on your Poco C65.
+- Just, tap over the three dots appearing at the upper right section and then tap on “Reset app preferences”.
+- At last, just select “Reset default apps”.
+
+![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
+
+### 2.7 Delete voicemail
+
+Do you happen to exchange voicemails quite often? It can trigger to be the reason for contact app crashes. If your device happens to have a bulk of voicemails, you must get rid of them sooner or later. As, these might standout to be the prime reason for contacts stopping on Poco C65. If you’re unaware about the procedure of removing all kinds of voicemails, you can proceed to make use of the following steps.
+
+1. Start with, launching the “Google Voice” app.
+2. From there, duly opt for “Voicemail”.
+3. Just click on the press menu option and at last select “Delete” option.
+
+### 2.8 Uninstall the downloaded apps
+
+Some applications contain some unwanted advertisements and some elements of malware. This can be enough for disrupting the functionality of the built-in contact app won’t open. It is crucial for your phone to be detoxed from such elements. You need to manually scrap off such applications. Do, ensure to download the application from the genuine source for future use.
+
+- On your Poco C65, just go to “Home” screen and tap on “Apps” icon.
+- Then, tap on “Settings” icon followed by going to “Applications” or “Apps & Preferences” menu.
+- After that, tap on “Menu icon” which will showcase the apps installed on device.
+- Simply, open the app and hit the “Uninstall” button to brush away that app. Repeat the same with other application(s).
+
+Now, check whether you’ve fought the battle with the problem or not.
+
+![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
+
+### 2.9 Reset to Factory Settings
+
+Last but not least, if all the methods falls flat to resolve the issue of contacts app won’t open. Then, it might be your device has some internal problem. This can be any software crash which might not be fixing with the aforementioned steps. That is where reset to factory settings may prove to be a good option. With this method, your phone will be cleared of all the components, settings and everything present in it. Here are is the comprehensive tutorial for biding bye to the problem of contacts app won’t open.
+
+Note: Do ensure to take a backup of all the data available in your device. As, we don’t want you to regret afterwards.
+
+- Just go to “Settings” and surf and select “Backup & Reset” option.
+- You need to toggle on the option for performing the backup on your Google account.
+- Then, tap on “Reset” button and then tick mark the option for resetting your phone.
+
+![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
+
+
+
+## 8 Solutions to Solve YouTube App Crashing on Poco C65
+
+YouTube can be considered among the apps that are widely used by users. And seeing “Unfortunately YouTube has stopped” error on the Android display screen is a thing that you can’t stand. The reasons can be multiple for why YouTube is not working or it keeps crashing. For instance, an outdated app, not updated OS, low storage, or corrupted cache. No matter what has triggered the problem on your device, we have solutions for it. Please read and follow this article to get the problem sorted.
+
+## Restart the app
+
+The issues like YouTube keeps crashing are often get disappeared by just quitting and restarting the app. This is helpful to give a fresh start to the app and restarting will bring your device back to normal. Hence, the first resolution we would like to recommend is to restart your app. Follow the steps to do this.
+
+- Go to “Settings” and tap “Apps & Notifications” or “Application”.
+- Choose “YouTube” from the list of apps and open it.
+- Tap on “Force Close” or “Force Stop”.
+
+![Youtube not working android - fix by restarting app](https://images.wondershare.com/drfone/article/2019/06/restart-youtube.jpg)
+
+- You can now restart your device and then launch the app again. Check if this works or not.
+
+## Restart the Android
+
+Similar to the app, if you restart the Poco C65 device, it will start operating properly making the YouTube app work better than before. So, as the next tip, please restart your device.
+
+- Long press the “Power” key.
+- Press “Restart” and confirm.
+
+![Youtube not working android - fix by restarting android](https://images.wondershare.com/drfone/article/2019/06/restart-device.jpg)
+
+## Use a VPN
+
+There is a possibility that YouTube is prohibited in your region. Banning some apps is done for some safety reasons. And therefore, you need to check if this is done in your area or not. If yes, then we shouldn’t mention the reason why YouTube is not working on Android. In such a case, use a VPN to access YouTube.
+
+## Clear the Cache of YouTube
+
+When the stored cache files start getting crash, the “Unfortunately YouTube has stopped” sort of errors are likely to appear. And therefore, if the above method didn’t work, try this one to get the problem resolved. We are going to clear the cache of YouTube to make it run smoothly.
+
+- Go to “Settings” and tap “Apps & Notifications”/”Applications”.
+- Now, choose “YouTube” from the list of apps.
+- Open “Storage” and click on “Clear Cache”.
+
+![Youtube not working android - clear cache](https://images.wondershare.com/drfone/article/2019/06/clear-cache-youtube.jpg)
+
+## Reinstall YouTube from Play Store
+
+If YouTube keeps crashing, make sure to uninstall and reinstall it from Play Store. Doing this will make the app gets refreshed, remove the glitches, and make it normal as a result. Here are the steps for it.
+
+- Firstly, uninstall it by “Settings” > “Apps” > “YouTube” > “Uninstall”.
+- Now, go to the “Play Store” and search “YouTube”. Tap on “Install”.
+
+## Reset Network Settings
+
+The apps that run on the internet might start crashing due to connectivity issues. Therefore, resetting the network settings once can work as a great remedy to follow when YouTube has stopped on your Poco C65. This will remove all your network settings like Wi-Fi passwords etc.
+
+- Tap on “Settings” followed by “Backup and reset”.
+- Look for “Reset Network Settings”.
+
+![Youtube not responding - reset network settings](https://images.wondershare.com/drfone/article/2019/06/reset-network-settings.jpg)
+
+**Note:** In some phones, you may find the option in “System” > “Advanced” > “Reset”.
+
+## Re-flash the stock ROM of Android in one click
+
+There are times when a corrupted system gives you such errors. And therefore, you should try re-flashing the stock ROM on your Poco C65. Before you wonder how we would like to introduce a highly recommended tool for this. It is Dr.Fone - System Repair (Android). It holds the proficiency to flash the stock ROM in just a click. So, when your YouTube is not responding due to a corrupted system, make use of this tool to get it solved. The benefits associated with this tool are as follows.
+
+
+
+### Dr.Fone - System Repair (Android)
+
+Android repair tool to flash the stock ROM of Android
+
+- Easy to use and quickly fixes the issues
+- Has the capability to repair any Android system issue
+- 1000+ Android models are supported
+- Takes no special technical knowledge to use
+- Higher success rate with promising results
+
+**3981454** people have downloaded it
+
+**Step 1: Launch the Tool**
+
+Start with visiting the website on your PC and downloading the Dr.Fone toolkit. Install and open the tool. Now, from the main screen, choose “System Repair”.
+
+![Youtube not responding - fix with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 2: Connect Device**
+
+With the help of the USB cord, connect your Poco C65 to the computer. Click on “Android Repair” now from the left panel.
+
+![Youtube not responding - connect device to pc](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+**Step 3: Enter Information**
+
+Now, as the next step, you need to make sure of the details of your device. Please enter the name and brand of the phone. The country, region, and career are also to be added. Hit on “Next” once done.
+
+![Youtube not responding - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+**Step 4: Download Firmware**
+
+Now, follow the instructions given on the screen according to your device. Click on “Next” and the program will start downloading the firmware.
+
+![Youtube crashing on Android - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+**Step 5: Repair the Issue**
+
+Lastly, when the firmware is downloaded, the system will start getting repaired on its own. You need to wait until you are informed about the completion of the process.
+
+![Youtube crashing on Android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+## Reset Factory Settings of this Device
+
+When nothing works, the last resort you can go with is resetting the Poco C65 device to factory state. Doing this will remove any sort of conflicting bugs and other stuff. However, this will remove the data from your device. So make sure to backup everything before going with this method. The steps are:
+
+- Open “Settings” and tap “Backup & reset”.
+- Go to “Factory data reset” and tap “Reset phone”
+
+![Youtube crashing on Android - factory reset android](https://images.wondershare.com/drfone/article/2019/06/factory-reset.jpg)
+
+## Reasons for Poco C65 Stuck on Boot Screen and Ways To Fix Them
+
+One of the main reasons why people own a phone is for convenience. It will be ironic if that device, supposed to grant convenience, provides problems instead. Some people face this when their ****Android phone is stuck on the logo**** page and unable to do anything. As expected, this is common in Android phones and is why people are unhappy with Android phones.
+
+This article will share the possible reasons why your ****Android phone is stuck on the boot screen****. This article will share three possible reasons for this problem and five valuable tips to help fix this issue. If all else fails, we have an application to share and recommend that is guaranteed to solve your problem in no time. Keep on reading to find out more!
+
+## Part 1. Why Is Your Poco C65 Stuck on the Boot Screen?
+
+There are countless reasons why a problem happens, just like why your ****Android phone is stuck on the logo**** page. This section sieved out the top 3 reasons why your ****Android boot screen**** happens and some tips to overcome it.
+
+### 1. Changes to the Software
+
+Android is a flexible operating system. It allows users to customize it in any way they desire, which is Android’s beauty. The customizable nature of the operating system allows users to unlock, root, flash, and tinker. However, this flexibility in customization might be a double edge sword. Accidental tampering with the Android system might result in software problems, such as being stuck on the ****Android boot screen****.
+
+Fortunately, this is not a complicated fix. Android accepts different fixes and allows the system to return to how it once was. Even with software issues, the system does not get completely inoperable. The best way to fix changes to the software is to start from the beginning of the process. This might offer the best chance for you to restore your phone to normal.
+
+Although it is fun to customize and change the software, following trusted sources ensures you do not damage your phone. Having an ****Android phone stuck on the logo**** page is one of the many examples of the problems that might happen if changes to the software go out of hand.
+
+### 2. Android Software Updates
+
+Updates are a common cause of ****Android phones stuck on the logo****. It happened when the update did not complete as it should have been. Several reasons for incomplete updates, such as poor internet connection, the connection between computer and phone being lost, a power cut, the phone freezing, and the list go on. When an update is uncompleted, issues such as being stuck at the ****Android boot screen**** and many others might occur.
+
+Before an update starts, your mobile device will notify you of the duration of the update. As a tip, set aside an additional 10-15 minutes on top of the update duration to ensure your update is completed successfully. It will be ideal for activating the software update only when there is sufficient power in your phone or keep it charging during the update.
+
+When an update is disrupted or stopped before it completes, the existing Android version will become corrupted while the new software to be updated is incomplete. This means that your Poco C65 has no system to run on. Always complete your software updates, and you will not have the problem of your ****Android phone getting stuck on the logo****.
+
+![updating software](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-01.jpg)
+
+### 3. Malfunctioning Applications
+
+If you noticed that your ****Android phone is stuck on the logo**** page only after installing certain apps, there is a high chance that the app is not compatible with the existing apps in your phone or with the Android version. When an app conflicts with the Android system or other apps, this will run into problems with your phone.
+
+This problem typically happens when an app is downloaded from a third-party source, not the official Google Play Store. This app from a third-party source might be malicious or contain a virus. This can cause problems such as being stuck at the ****Android boot screen****.
+
+To overcome this, locate the app that has been giving you issues and remove the app from your phone. Restart your device, and you should be able to have your Poco C65 functioning properly.
+
+![malfunctioning apps on android](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-02.jpg)
+
+## Part 2. 5 Helpful Ways To Fix Android Phones Stuck on Boot Screen
+
+After understanding the common problems on why your ****Android phone is stuck on the logo**** page, here are five easy solutions you can try solving at home.
+
+### 1. Force Reboot
+
+When encountering problems with your Poco C65, such as being stuck at the ****Android boot screen****, you should first try a forced reboot. This simple yet effective solution could be what you need to solve all your Android problems. It is essential to leave your device turned off for at least a minute or two before turning it back on.
+
+![forcing rebooting android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-03.jpg)
+
+### 2. Pull Out Battery
+
+Another way to restart your Poco C65 when it is frozen is to try taking the battery out. Android devices are designed with a removable battery, and sometimes you can resolve the issue easily by removing the battery and replacing it after a couple of seconds. Then, turn on your device again and test to see if your ****Android phone is stuck on the logo**** page.
+
+If it works, then the problem is solved. However, some Android devices come with a built-in battery. For these kinds of devices, a stimulated battery pull should be attempted. A simulated battery pull is a set of instructions telling your Poco C65 to switch off and on again. If your device does not offer the simulated battery pull option, omit this troubleshooting option.
+
+![removing battery on android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-04.jpg)
+
+### 3. Charge Your Device
+
+If your ****Android phone is stuck on the logo**** page and not getting past it, no matter how many times you have tried, it may be due to a low battery! As simple as it sounds, plug your device into a power outlet and try restarting your phone. You might be surprised that this simple fix is all it takes to solve your Android problem.
+
+![charging android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-05.jpg)
+
+### 4. Wipe Cache Data
+
+Cache refers to a software or hardware component of an Android device that stores your program and data for reference. This data might result from the daily usage of your device or duplicate data from a different source on the Poco C65 device. Similar to a computer, if the cache occupies too much space on your device, it might cause your Poco C65 to become slower and eventually get stuck at the ****Android boot screen****.
+
+Wiping out the cache data from your Poco C65 could free up more space, allow your device to function faster, and avoid problems such as being stuck at the ****Android boot screen****. Do not worry; wiping the cache data is entirely safe and will not lead to any loss of important data or programs on your phone.
+
+### 5. Factory Reset
+
+If all the methods above fail, performing a factory rest might be your last option. However, it is important to note that performing a factory reset will erase everything on your phone, including apps, contacts, photos, etc. As a tip, back up all your data from your device before performing a factory reset. That way, you can still retrieve all your precious information after the reset.
+
+Follow the steps below to perform a factory rest on your Poco C65:
+
+**Step 1:** Turn off your phone and press the Power button and Volume Down button at the same time
+
+**Step 2:** Use the Volume button to scroll the options and highlight Wipe data/factory reset. Press the Power button to begin the factory reset.
+
+![factory reset of android phones](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-06.jpg)
+
+## Part 3. Bonus Tip: Best App To Solve Android Phone Stuck On Boot Screen
+
+If all the solutions above do not work and you do not want to perform a factory reset on your phone, one option is to use an app called Dr.Fone. It is one of the most effective phone recovery solutions and can help to bring your Poco C65 back to a state like it was brand new. Being stuck on the ****Android boot screen**** will be a problem of the past.
+
+![interface of dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+Refer to the tutorial below to solve your ****Android phone is stuck on the logo**** page issue.
+
+**Step 1**: Download and install Dr.Fone – System Repair (Android) on your computer. Open the application and connect your Poco C65 to the computer.
+
+**Step 2**: Select the issue you face on the next page. If you use a Poco C65 phone, select ****Stuck at Poco C65 Logo****. Alternatively, you can click on ****Black Screen**** or ****Stuck in Boot Loop****.
+
+![selecting issue from dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+**Step 3**: Input the ****Brand****, ****Name****, ****Model****, ****Country,**** and ****Carrier**** of your phone and click on ****Next****.
+
+![filling in data for phone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+**Step 4**: Follow the instructions provided on the page and wait for the system repair to finish. After which, click on ****Done**** to complete the process.
+
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+## Conclusion
+
+This article summarizes some possible reasons your ****Android phone is stuck on the logo**** page. Five useful strategies were shared to easily overcome your Poco C65 being stuck in the boot. However, if all the above methods do not work, we recommend trying the Dr.Fone-System Repair.
+
+Dr.Fone-System Repair repairs the operating system issues and fixes the problem with your Poco C65. Once you power on your Poco C65 again, you can rest assured that it will be like new.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-y27s-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Fix Vivo Y27s Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-a1x-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Super Easy Ways To Deal with Oppo A1x 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Full Solutions to Fix Error Code 920 In Google Play on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Google Play Services Wont Update? 12 Fixes are Here on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>8 Solutions to Solve YouTube App Crashing on Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-play-7t-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>App Wont Open on Your Honor Play 7T? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Android Safe Mode - How to Turn off Safe Mode on Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-smart-8-plus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Fix Unfortunately Settings Has Stopped on Infinix Smart 8 Plus Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>9 Solutions to Fix Process System Isnt Responding Error on Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-htc-u23-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>App Wont Open on Your HTC U23? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Android Safe Mode - How to Turn off Safe Mode on Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Fixing Persistent Pandora Crashes on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-honor-v-purse-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>What To Do When Honor V Purse Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-a05s-screen-drfone-by-drfone-android/" ><u>Recommended Best Applications for Mirroring Your Samsung Galaxy A05s Screen | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-m14-5g-without-them-knowing-drfone-by-drfone-virtual-android/" ><u>In 2024, 3 Ways to Track Samsung Galaxy M14 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-itel-p40plus-to-pc-drfone-by-drfone-android/" ><u>In 2024, How to Screen Mirroring Itel P40+ to PC? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-narzo-60x-5g-by-drfone-android/" ><u>How To Fix OEM Unlock Missing on Realme Narzo 60x 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-a2plus-phone-pattern-lock-without-factory-reset-by-drfone-android/" ><u>How to Unlock Xiaomi Redmi A2+ Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-pro-phone-without-google-account-by-drfone-android/" ><u>In 2024, How to Unlock Vivo X100 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-nubia-try-these-fixes-by-drfone-android/" ><u>In 2024, Forgotten The Voicemail Password Of Nubia? Try These Fixes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-g42-5g-drfone-by-drfone-virtual-android/" ><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-nubia-z50s-pro-phone-pattern-lock-by-drfone-android/" ><u>Tips and Tricks for Setting Up your Nubia Z50S Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/" ><u>3 Easy Solutions to Hard Reset Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-y27s-phone-network-ready-by-drfone-android/" ><u>What Is a SIM Network Unlock PIN? Get Your Vivo Y27s Phone Network-Ready</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-4-ways-for-apple-iphone-se-2020-to-mac-mirroring-drfone-by-drfone-ios/" ><u>Top 4 Ways for Apple iPhone SE (2020) to Mac Mirroring | Dr.fone</u></a></li>
+</ul></div>
+
+
