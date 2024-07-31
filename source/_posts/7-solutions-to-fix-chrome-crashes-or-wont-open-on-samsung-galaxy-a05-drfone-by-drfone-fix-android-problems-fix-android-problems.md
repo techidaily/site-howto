@@ -1,7 +1,7 @@
 ---
 title: 7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy A05 | Dr.fone
-date: 2024-05-20T09:03:26.698Z
-updated: 2024-05-21T09:03:26.698Z
+date: 2024-07-30T08:02:23.702Z
+updated: 2024-07-31T08:02:23.702Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy A05
 excerpt: This article describes 7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy A05
 keywords: Samsung Galaxy A05 android fix,android troubleshooting,android tips,Samsung Galaxy A05 android issues,Samsung Galaxy A05 android tips,Samsung Galaxy A05 android problems,Samsung Galaxy A05 android help,Samsung Galaxy A05 android guide,Samsung Galaxy A05 android repair,android guide,android issues
-thumbnail: https://www.lifewire.com/thmb/xLyhmkxw8rwSLNhzfV0GfYs8tZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-tiktok-without-the-app-63a4562e4c4b4bd69477425853809a35.jpg
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
 ## 7 Solutions to Fix Chrome Crashes or Won’t Open on Samsung Galaxy A05
@@ -18,6 +18,9 @@ Google Chrome is one of the most popular web browsers in the world. It is fast, 
 
 Being one of the widely used browsers, Chrome is always our rescue whenever vital information is our need. Imagine, you launched Chrome for some urgent work and all of a sudden, got “Unfortunately Chrome has stopped” error. You re-opened it thinking about proper functioning of it now but to no avail. Does this situation sound familiar? Are you in a same problem as well? Fret not! We will discuss in this article why your Chrome is crashing on Android and the potential solutions to do away with the problem. Please read the article attentively and know what helps you best.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Too many tabs opened
 
 One of the main reasons why Chrome keeps crashing could be the multiple opened tabs. If you keep open the tabs, it may slow down the performance of Chrome and the app will use RAM. As a result, it will obviously get stopped midway. Therefore, we suggest you to close the tabs which are opened. And once you do that, exit the app and then launch it again.
@@ -30,10 +33,16 @@ When Chrome or any other app keeps running on the background, issues like “Unf
 
 2\. Now simply swipe the app up/left/right (according to the Samsung Galaxy A05 device).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix Chrome crashing on Android by force quiting](https://images.wondershare.com/drfone/article/2019/05/force-quit-chrome.jpg)
 
 3\. The app will be force quit now. You can then start it again to check if thing get back to normal.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Part 3: Chrome cache overflowing
 
 While using any app for long, the temporary files for those gets collected in the form of cache. And when cache is not getting cleared, one may face the freezing, crashing or sluggish apps. And this could also be the cause why your Chrome keeps stopping. Hence, the following steps will show you how to clear cache and make Chrome work as before.
@@ -50,12 +59,18 @@ While using any app for long, the temporary files for those gets collected in th
 
 Most probably Chrome is not able to support the website you are trying to access. We doubt if the particular website you are making use of is the culprit and making Chrome keeps stopping. In such case, we would like to recommend you to make use of another browser and try to access the website from there. See if this works or not. If now, please follow the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5: Android firmware corruption
 
 Another reason why your Chrome has stopped could be the corrupted software. You can’t expect anything normal when your firmware corruption occurs and so in the case of Chrome. If this is the case, the re-flashing the stock ROM is the most recommended solution. And the best that can help you in this is none other than [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). Within one click, it vows to help users in flashing the ROM without any complications. Read the advantages offered by this tool.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix crashing Chrome
@@ -105,6 +120,9 @@ While you were trying to download from internet, the file didn’t download prop
 - Go to “Settings” and tap on “Apps”.
 - Select “Chrome” and tap on “Uninstall Updates”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix Chrome crashing on Android by uninstalling updates](https://images.wondershare.com/drfone/article/2019/05/uninstall-updates.jpg)
 
 - Now, you need to re-install it from Play Store. From the “My Apps” section, tap on Chrome and update it.
@@ -116,16 +134,29 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 - Go to “Settings” and tap on “System”/”About Phone”/”About Device”.
 - Now, choose “Software Update”/”System Update” and your device will detect if there is any update present on your device. Proceed accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix Chrome crashing by updating android](https://images.wondershare.com/drfone/article/2019/05/update-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy A05
 
 Smartphones nowadays contribute to our daily workflow, whether you’re a student or a professional. They get more sophisticated and add new features every year, making them more attractive with each new release. However, users sometimes deal with their **screen touch not working** on Android, raising various concerns.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![fix unresponsive android/ios touchscreen intro](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-01.jpg)
 
 If you are facing a similar issue, this page has all the solutions to teach you **what to do if your phone screen is not working.** By exploring the different methods below, you will be able to know how to fix a frozen phone touch screen as an Android user. Read on for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 1: Top Causes of an Unresponsive Touchscreen
 
 Android has been the best-selling OS since 2011, with over three billion active users. With the release of Android 13, complaints over **touch issues** on certain Android phones have popped up over the internet. Meanwhile, software updates over the years can sometimes make their **phones stuck on the loading screen,** causing worry among Android users.
@@ -136,6 +167,9 @@ Here are some of the top causes why your **phone screen stopped working,** main
 
 If your Android **phone is not responding to touch,** it can be due to a cracked LCD causing temperature variants or magnetic fields to malfunction on your Samsung Galaxy A05.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cracked screen iphone](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-02.jpg)
 
 For iOS users, your iPhone will temporarily stop working if it detects extreme temperatures such as a too-hot or too-cold reading. You should turn off your iPhone and let it cool down or warm to a normal temperature.
@@ -158,16 +192,25 @@ It may not respond properly when an Android device is dirty due to water, sweat,
 
 Here is a list of things you should do **how to fix a frozen phone touch screen,** whether you’re using an iPhone or an Android smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Clean Your Smartphone
 
 Your **screen touch not working** can sometimes get fixed by simply cleaning the screen on your smartphone. Use a soft dry cloth, gently clean your iPhone or Android device, and ensure water, oils, dirt, or other debris are no longer on your display. If you recently dropped your device in water, turn it off and leave it untouched for the next few hours.
 
 ![cleaning iphone with cloth](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Remove Extra Peripherals
 
 Unplug any external device connected to your iPhone’s Lightning port or USB-C if your **phone screen stops working**. For Android users, meanwhile, disconnect any accessories like chargers or wireless headphones. After that, try using the touchscreen. If it works, the outcome proves that the fault appeared due to the external device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Force Restart Your Device
 
 If your **phone screen is still unresponsive**,maybe it **is o**verloaded. You should force restart your Samsung Galaxy A05. It doesn’t delete any data. Here’s how.
@@ -190,6 +233,9 @@ If your Samsung Galaxy A05 Redmi **phone is stuck on loading screen** or “thi
 
 ![reboot xiaomi redmi options](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-06.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Update Your Software
 
 Your smartphone may behave erratically due to software bugs. While these are out of your control, you can quickly fix **your phone not responding to touch** by simply updating your OS to the latest version. Here’s how.
@@ -215,12 +261,18 @@ You might be asked to enter the pin of the security lock on the phone if you’v
 
 **S****tep 3:** You may need to enter your Samsung Galaxy A05 account password if you have bounded an account to your phone after taping **Delete all**. Then your Samsung Galaxy A05 phone will reset. You’ll see its initial setup screen when it turns back on.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Fix Unresponsive Touchscreen With an Alternative
 
 The methods outlined above usually solve issues on your **smartphone not responding to touch**. If all else fails, Wondershare Dr.Fone for [<u>iOS</u>](https://drfone.wondershare.com/ios-system-repair.html) and [<u>Android</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) can fix various smartphone issues within less than 10 minutes. The program enables you to fix common scenarios such as black screen, boot loop, bricked iOS or Android, and much more without any required skills.
 
 ![dr.fone main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### Key Features
 
 The key features of Wondershare Dr.Fone for iOS and Android are listed below.
@@ -233,6 +285,9 @@ Wondershare Dr.Fone for Android and iOS allows you to fix your smartphone within
 
 The program supports all iOS versions, including the latest iOS 16 and iOS 16 beta. Compared to the iTunes store or other methods, the app can quickly fix any iPhone issues without data loss. For Android users, meanwhile, Dr.Fone supports up to 1000+ Android smartphones making it highly versatile even if you’re using an older Android device or the latest models.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tech Specs
 
 Here are the minimum system requirements of Wondershare Dr.Fone (iOS) for your computer.
@@ -261,6 +316,9 @@ Here are the pros and cons of using Wondershare Dr.Fone (Android)
 
 - The iOS and Android versions of Wondershare Dr.Fone are sold separately. You’ll have to get each version of the program if you own a smartphone for both iOS and Android.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pricing
 
 The iOS and Android versions of Wondershare Dr.Fone has different price plans. See them below.
@@ -304,10 +362,16 @@ Some common questions you should know when taking care of an unresponsive phone 
 
 Your iPhone screen with a **touch issue** will sometimes go black after not responding to touch due to several issues. It could be hardware, software, issues with a particular app, software crash, or you have a low battery. If it’s a drained battery, you’re in luck; all you have to do is charge it. Otherwise, you’ll have to perform a force restart on your iPhone to try to reboot it.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 2\. How Do I Keep My Android From Crashing?
 
 Keeping your apps updated should help you solve app crashing issues that can impact your Android OS. These apps build up large caches throughout your normal usage. Clearing cached data from time to time can drastically improve your smartphone’s performance and prevent **touch issues**. To remove your app cache, go to **Settings** \> **Storage** and tap **Cached Data**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Can I Use Dr.Fone for Free?
 
 Wondershare Dr.Fone for iOS and Android is free to download and install. You can also test the first few steps and see if the program supports your device. However, when you click the **Fix Now** button to start the repair process, you will be required to enter a valid license to activate the program.
@@ -322,6 +386,9 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Samsung Galaxy A05 Not Connecting to Wi-Fi? 12 Quick Ways to Fix
 
 Nowadays, it’s pretty much essential to have your Samsung Galaxy A05 or smartphone connected to the internet. Whether you’re watching videos, looking something up, or using any kind of app, you need the internet for these applications to function correctly.
@@ -332,18 +399,30 @@ There are plenty of problems you could experience, whether it’s the [Wi-Fi net
 
 Luckily, despite there being so many problems out there, there are also many solutions. Today, we’re going to share with you the complete definitive guide to help you get your Samsung Galaxy A05 connected and free from problems and issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Restart your Samsung Galaxy A05
 
 Begin by powering off your Samsung Galaxy A05 and unplugging your router. Wait for about a minute before plugging in the router and turning on your device. This simple reset can often restore stable connections and fix Android wifi not working.
 
 ![restart android](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Turn on Airplane mode and turn off
 
 Turn on Airplane Mode for a few seconds, then turn it off. This maneuver refreshes your device's network connections and might rectify the Android not connecting to wifi issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn on airplane mode](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3. Check Wi-Fi Router settings
 
 The third step you’ll want to take is making sure the internet router in your house is working properly and is actually sending internet data to your Samsung Galaxy A05. Of course, if you have other internet-enabled devices connected to the same router and they’re working fine, you know this isn’t the problem.
@@ -356,8 +435,14 @@ However, if you’ve got a problem with Wi-Fi not working on your Android and ot
 4. Call up your internet provider to see if there’s an internet connection issue in your area
 5. Open your web browser and log into your router settings to ensure your Samsung Galaxy A05 is connected to the Wi-Fi network and is allowed to send and receive data
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. Boot your Android in safe mode
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wifi not working on android - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-safe-mode.jpg)
 
 If you’re unable to connect to the internet, but other devices have no issues, you may find the issues is coming from within your Samsung Galaxy A05 itself. Fortunately, there are ways you can see whether this is the problem.
@@ -404,6 +489,9 @@ You can do this easily using powerful Android recovery software known as [Dr.Fon
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 A one-click tool to fix Wi-Fi not working on Android
@@ -422,10 +510,16 @@ To help you have the best and the most accurate experience when using the Dr.Fon
 
 Once installed, connect your Samsung Galaxy A05 to your computer using a USB cable, and open the software, click "System Repair".
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wifi slow on android - get a tool to fix](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step Two** Click the "Android" option in the menu and then click "Start" to begin the Repair process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![fix wifi slow on android by repairing android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step Three** On the next screen, go through the options and use the drop-down menus to make sure the information is correct for your individual device. Accept the terms and conditions of the software, and then click the "Next" button.
@@ -434,6 +528,9 @@ Once installed, connect your Samsung Galaxy A05 to your computer using a USB cab
 
 **Step Four** Confirm you want the software to carry out the repair process by typing the ‘000000’ code into the pop-up box and pressing Confirm. Make sure you read everything displayed in this box beforehand to know what’s happening.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![wifi not working on android - confirm the repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step Five** Now put your phone into Download Mode by following the on-screen instructions, so your device is ready for the repair process. The method for getting your phone into Download Mode will vary depending on your device, so make sure you’re following the right instructions.
@@ -446,12 +543,24 @@ Once installed, connect your Samsung Galaxy A05 to your computer using a USB cab
 
 The whole process is automatic, so you won’t need to do anything until it’s finished. Once completed, you can disconnect your phone and start connecting it to the internet as normal!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![wifi not working on android - wifi issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Part 8. Check the Wi-Fi connectivity on another phone
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![android phone not connecting to wifi - connectivity on another phone](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
 
 When experiencing problems with your Wi-Fi network, it’s worth noting the problem might not be with your phone, but rather the Wi-Fi network itself. This is why it’s important to make sure you check the connection on another device.
@@ -505,8 +614,14 @@ As you continue to use your Samsung Galaxy A05, the partition cache will fill up
 5. Select the Android System Recovery option, followed by Wipe Cache Partition
 6. Restart your device and connect to the internet
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 12. Reset factory settings
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wifi not working on android - factory settings](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
 
 If worse comes to worst, another option you have is to factory reset your Samsung Galaxy A05. As we’ve spoken about above, while using your phone from the day you started using it, your device will fill up with files and data which can become messy and causes bugs.
@@ -539,3 +654,62 @@ However, by factory resetting your device, you can start again from the factory 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-timeless-titans-a-list-of-the-top-10-classic-adventure-games/"><u>[New] In 2024, Timeless Titans  A List of the Top 10 Classic Adventure Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-mastering-the-art-of-persuasion-in-marketing/"><u>[New] Mastering the Art of Persuasion in Marketing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-diving-deep-into-youtube-launching-and-earning-your-way-for-2024/"><u>[Updated] Diving Deep Into Youtube  Launching and Earning Your Way for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-leading-chat-apps-to-replace-zoom-on-desktopmobile-devices-for-2024/"><u>[Updated] Leading Chat Apps to Replace Zoom on Desktop/Mobile Devices for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-overcoming-shaky-drone-video-quality/"><u>[Updated] Overcoming Shaky Drone Video Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-perfecting-iphone-cinematic-work-top-8-tips-for-excellent-pro-video-production/"><u>[Updated] Perfecting iPhone Cinematic Work  Top 8 Tips for Excellent Pro Video Production</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-memetic-engineering-techniques-for-2024/"><u>10 Memetic Engineering Techniques for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-integrating-your-day-job-with-passionate-online-content/"><u>2024 Approved  Integrating Your Day Job with Passionate Online Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-master-fades-with-ease-4-methods-unveiled/"><u>2024 Approved  Master Fades with Ease  4 Methods Unveiled</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-motorola-edgeplus-2023-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Motorola Edge+ (2023)? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-note-13-proplus-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi Note 13 Pro+ 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-nokia-130-music-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Nokia 130 Music? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-nokia-c110-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Nokia C110 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-y100i-power-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y100i Power 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/creative-expression-on-snapchat-discover-the-hottest-filters-and-lenses/"><u>Creative Expression on Snapchat  Discover the Hottest Filters & Lenses</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/flawless-ppt-transitions-adding-voice-over-effectively-for-2024/"><u>Flawless PPT Transitions  Adding Voice Over Effectively for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-civi-3-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Civi 3 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-motorola-edge-40-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Motorola Edge 40 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-oppo-find-x6-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo Find X6 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-lenovo-thinkphone-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Lenovo ThinkPhone in Minutes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-15-pro-max-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 15 Pro Max Waze | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y02t-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y02T</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-expert-tips-add-ons-that-elevate-your-vimeo-video/"><u>In 2024, Expert Tips  Add-Ons that Elevate Your Vimeo Video</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-getting-ahead-with-professional-itunes-capture-methods/"><u>In 2024, Getting Ahead with Professional iTunes Capture Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 with a Mask On</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-cant-i-install-the-ipogo-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Why cant I install the ipogo On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-image-missing-from-tvs-panel/"><u>Laptop Image Missing From TV's Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/microsofts-ai-hub-enhancing-shopping-experience/"><u>Microsoft’s AI Hub – Enhancing Shopping Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/motorola-edge-2023-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 2023 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-oppo-reno-10-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo Reno 10 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-realme-c67-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme C67 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-sony-xperia-1-v-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Sony Xperia 1 V? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/seeking-the-perfect-cut-choose-between-filmora-or-democreator-for-2024/"><u>Seeking the Perfect Cut? Choose Between Filmora or Democreator for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-magic5-ultimate-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor Magic5 Ultimate Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-10t-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme 10T 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-motorola-edgeplus-2023-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola Edge+ (2023) Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-poco-m6-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Poco M6 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-nubia-red-magic-8s-proplus-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nubia Red Magic 8S Pro+ Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-xiaomi-13-ultra-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi 13 Ultra Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>

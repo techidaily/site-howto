@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor X9b? | Dr.fone
-date: 2024-04-07T02:15:37.232Z
-updated: 2024-04-08T02:15:37.232Z
+date: 2024-07-30T13:14:24.537Z
+updated: 2024-07-31T13:14:24.537Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Fix the Soft Bricked Honor X9b?
 excerpt: This article describes How to Fix the Soft Bricked Honor X9b?
 keywords: fix android problems,android fix,android troubleshooting,android guide,Honor X9b android problems,Honor X9b android troubleshooting,android repair
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## How to Fix the Soft Bricked Honor X9b?
@@ -22,6 +22,18 @@ If you are confused about the soft brick and hard brick problems and looking for
 
 Read on to find out more.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is the difference between soft brick and hard brick?
 
 To begin with, let us understand the basic difference between a soft brick and hard brick issue. Both versions of a bricked phone prevent it from booting but differ in their causes and gravity of the problem.
@@ -78,12 +90,18 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
@@ -92,16 +110,26 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Reasons for Honor X9b Stuck on Boot Screen and Ways To Fix Them
 
 One of the main reasons why people own a phone is for convenience. It will be ironic if that device, supposed to grant convenience, provides problems instead. Some people face this when their ****Android phone is stuck on the logo**** page and unable to do anything. As expected, this is common in Android phones and is why people are unhappy with Android phones.
 
 This article will share the possible reasons why your ****Android phone is stuck on the boot screen****. This article will share three possible reasons for this problem and five valuable tips to help fix this issue. If all else fails, we have an application to share and recommend that is guaranteed to solve your problem in no time. Keep on reading to find out more!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 1. Why Is Your Honor X9b Stuck on the Boot Screen?
 
 There are countless reasons why a problem happens, just like why your ****Android phone is stuck on the logo**** page. This section sieved out the top 3 reasons why your ****Android boot screen**** happens and some tips to overcome it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1. Changes to the Software
 
 Android is a flexible operating system. It allows users to customize it in any way they desire, which is Android’s beauty. The customizable nature of the operating system allows users to unlock, root, flash, and tinker. However, this flexibility in customization might be a double edge sword. Accidental tampering with the Android system might result in software problems, such as being stuck on the ****Android boot screen****.
@@ -110,6 +138,9 @@ Fortunately, this is not a complicated fix. Android accepts different fixes and 
 
 Although it is fun to customize and change the software, following trusted sources ensures you do not damage your phone. Having an ****Android phone stuck on the logo**** page is one of the many examples of the problems that might happen if changes to the software go out of hand.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2. Android Software Updates
 
 Updates are a common cause of ****Android phones stuck on the logo****. It happened when the update did not complete as it should have been. Several reasons for incomplete updates, such as poor internet connection, the connection between computer and phone being lost, a power cut, the phone freezing, and the list go on. When an update is uncompleted, issues such as being stuck at the ****Android boot screen**** and many others might occur.
@@ -118,6 +149,14 @@ Before an update starts, your mobile device will notify you of the duration of t
 
 When an update is disrupted or stopped before it completes, the existing Android version will become corrupted while the new software to be updated is incomplete. This means that your Honor X9b has no system to run on. Always complete your software updates, and you will not have the problem of your ****Android phone getting stuck on the logo****.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![updating software](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-01.jpg)
 
 ### 3. Malfunctioning Applications
@@ -130,10 +169,16 @@ To overcome this, locate the app that has been giving you issues and remove the 
 
 ![malfunctioning apps on android](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. 5 Helpful Ways To Fix Android Phones Stuck on Boot Screen
 
 After understanding the common problems on why your ****Android phone is stuck on the logo**** page, here are five easy solutions you can try solving at home.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1. Force Reboot
 
 When encountering problems with your Honor X9b, such as being stuck at the ****Android boot screen****, you should first try a forced reboot. This simple yet effective solution could be what you need to solve all your Android problems. It is essential to leave your device turned off for at least a minute or two before turning it back on.
@@ -152,6 +197,9 @@ If it works, then the problem is solved. However, some Android devices come with
 
 If your ****Android phone is stuck on the logo**** page and not getting past it, no matter how many times you have tried, it may be due to a low battery! As simple as it sounds, plug your device into a power outlet and try restarting your phone. You might be surprised that this simple fix is all it takes to solve your Android problem.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![charging android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-05.jpg)
 
 ### 4. Wipe Cache Data
@@ -160,6 +208,9 @@ Cache refers to a software or hardware component of an Android device that store
 
 Wiping out the cache data from your Honor X9b could free up more space, allow your device to function faster, and avoid problems such as being stuck at the ****Android boot screen****. Do not worry; wiping the cache data is entirely safe and will not lead to any loss of important data or programs on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### 5. Factory Reset
 
 If all the methods above fail, performing a factory rest might be your last option. However, it is important to note that performing a factory reset will erase everything on your phone, including apps, contacts, photos, etc. As a tip, back up all your data from your device before performing a factory reset. That way, you can still retrieve all your precious information after the reset.
@@ -172,6 +223,9 @@ Follow the steps below to perform a factory rest on your Honor X9b:
 
 ![factory reset of android phones](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-06.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Part 3. Bonus Tip: Best App To Solve Android Phone Stuck On Boot Screen
 
 If all the solutions above do not work and you do not want to perform a factory reset on your phone, one option is to use an app called Dr.Fone. It is one of the most effective phone recovery solutions and can help to bring your Honor X9b back to a state like it was brand new. Being stuck on the ****Android boot screen**** will be a problem of the past.
@@ -184,6 +238,9 @@ Refer to the tutorial below to solve your ****Android phone is stuck on the logo
 
 **Step 2**: Select the issue you face on the next page. If you use a Honor X9b phone, select ****Stuck at Honor X9b Logo****. Alternatively, you can click on ****Black Screen**** or ****Stuck in Boot Loop****.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![selecting issue from dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step 3**: Input the ****Brand****, ****Name****, ****Model****, ****Country,**** and ****Carrier**** of your phone and click on ****Next****.
@@ -192,8 +249,14 @@ Refer to the tutorial below to solve your ****Android phone is stuck on the logo
 
 **Step 4**: Follow the instructions provided on the page and wait for the system repair to finish. After which, click on ****Done**** to complete the process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article summarizes some possible reasons your ****Android phone is stuck on the logo**** page. Five useful strategies were shared to easily overcome your Honor X9b being stuck in the boot. However, if all the above methods do not work, we recommend trying the Dr.Fone-System Repair.
@@ -206,6 +269,9 @@ Have you recently noticed a message stating “Contacts has stopped”? This is 
 
 It can occur while you launch the app or while you’re in the app already finding the required contact or when any other application is trying to gain access to it. So, to rage a battle with this issue, you need to seek help of some powerful methods in killing down the issue of contacts app crashes. And, the best part is that you’ve secured yourself by reaching the right place. We will be taking an in-depth discussion on several methods that may prove to be helpful. Let’s read them up here now.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
@@ -236,28 +302,43 @@ Step 2: Opt for Android Repair option
 
 You’ll be directed to the “System Repair” screen where you have to opt for “Android Repair” options appearing over the left panel of the program. After that, do not forget to press “Start”.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![contacts stopping on samsung - android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Key in device information
 
 From following screen, fill the fields of “Brand”, “Name”, “Model”, “Country” and several other parameters. Then, tap on “Next” option to proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![contacts stopping on samsung - enter info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 4: Download Firmware package
 
 Just follow the on-screen steps for booting your Honor X9b into download mode. Then, hit the “Next” button to proceed with downloading the most suitable firmware package for your Honor X9b.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![contacts stopping on samsung - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 5: Repair Android phone
 
 Once the software downloads, the program will automatically repair any issues irking over your phone. Now, your phone is all free from contacts error.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![contacts stopping on samsung - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Part 2: 9 Common ways to fix “Unfortunately, Contacts Has Stopped”
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1 Restart Android system
 
 Our response to any minuscule issue is straightaway restarting phone. This helps in clearing out any problem that might have disrupt the functioning of phone. So, to fix the problem of “Contacts app won’t open”, you too can try out your hand in this method.
@@ -280,6 +361,10 @@ The cache memory basically stashes the copies of the concerned application. It i
 
 ![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 2.3 Wipe cache partition
 
 As we know the cache memories are the temporary files build by the firmware. These are of little importance as they are bound to become a bit more corrupted in nature. And sometimes, may indirectly become a hurdle for the working of contacts app. It is good if the Honor X9b device is cleared off from the caches. Instead of manually wiping down the cache memory, we will understand how to clear off the cache partition in the following steps.
@@ -290,10 +375,16 @@ As we know the cache memories are the temporary files build by the firmware. The
 4. Over the options available, just opt for “wipe cache partition” by tapping the “Volume down” button until the desired option is highlighted.
 5. Finally, push the “Power” key to give consent to the selection.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
 
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the Honor X9b device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.4 Disable Google+ app
 
 The root cause for detecting any problem is not very easy. You never know the overloading of Google + application might have directly impacted contacts app crashes. To resolve it, disabling it may prove to be a helpful solution. Here is the quick reference for disabling Google+ application.
@@ -309,6 +400,9 @@ There will be a prompt stating that the application may misbehave. However, you 
 
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.5 Update your device software
 
 Many a times, we skip updating our device software thinking it is of less importance. In fact, one must not miss out the updates that occurs in phone. As, without the updates, the scope of some applications are affected to some extent. For its better functioning and avoiding issues like “contacts keep stopping”, here is how you should update device software.
@@ -320,6 +414,9 @@ Many a times, we skip updating our device software thinking it is of less import
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.6 Reset App Preferences
 
 As stated, the malfunctioning of contacts can be due to be any unexpected reason. Hence, users can opt for resetting app preferences. This may prove to be helpful in brushing away the issue of “Contacts app won’t open”.
@@ -328,6 +425,10 @@ As stated, the malfunctioning of contacts can be due to be any unexpected reason
 - Just, tap over the three dots appearing at the upper right section and then tap on “Reset app preferences”.
 - At last, just select “Reset default apps”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
 
 ### 2.7 Delete voicemail
@@ -380,3 +481,77 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-decoding-facebooks-video-mutes-your-2023-remedy-guide/"><u>[New] In 2024, Decoding Facebook's Video Mutes – Your 2023 Remedy Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-innovative-tips-for-multisnap-creation-on-snapchat/"><u>[New] In 2024, Innovative Tips for Multisnap Creation on Snapchat</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigate-effortlessly-to-your-favorite-facebook-videos-with-these-top-addons/"><u>[New] In 2024, Navigate Effortlessly to Your Favorite Facebook Videos With These Top Addons</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-music-licens-written-by-john-doe/"><u>[New] In 2024, Navigating Music Licens Written by John Doe</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-best-iphone-camera-aids/"><u>[New] In-Depth Look  Best iPhone Camera Aids</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-your-essential-guide-to-unblocking-on-instagram/"><u>[Updated] In 2024, Your Essential Guide to Unblocking on Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/"><u>[Updated] Multiplying Joy  Sharing a Pile of Photos & Videos with Instagram</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-5-seconds-timelapse-shooter-for-2024/"><u>[Updated] Top 5-Seconds Timelapse Shooter for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oneplus-12r-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My OnePlus 12R Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-s24plus-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy S24+ Activity | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-audio-recording-top-mics-for-4k-video/"><u>2024 Approved  Mastering Audio Recording - Top Mics for 4K Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-starting-with-social-giving-best-practices-for-fb-posts/"><u>2024 Approved  Starting with Social Giving  Best Practices for FB Posts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-turn-off-spotifys-recommended-listings/"><u>2024 Approved  Step-by-Step Guide  Turn Off Spotify's Recommended Listings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-visualizing-2023-social-medias-next-big-thing/"><u>2024 Approved  Visualizing 2023  Social Media's Next Big Thing</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-infinix-zero-30-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Infinix Zero 30 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-y36-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y36? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-xiaomi-redmi-note-12r-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi Redmi Note 12R Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/diminishing-decibels-a-guide-to-quieter-soundscapes-in-lumafusion-for-2024/"><u>Diminishing Decibels  A Guide to Quieter Soundscapes in Lumafusion for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-google-pixel-fold-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Google Pixel Fold</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-techniques-for-when-your-iphone-fails-to-deliver-text-messages-10-methods/"><u>Essential Troubleshooting Techniques for When Your iPhone Fails to Deliver Text Messages (10 Methods)</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-xiaomi-redmi-note-13-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi Note 13 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-y36-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo Y36 for Free? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-6-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 6 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-cool-youtube-previews-in-imovie-easily/"><u>In 2024, Crafting Cool YouTube Previews in iMovie Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-g42-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia G42 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-y100-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo Y100 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-melodyrecorder-free-an-experts-evaluation/"><u>In 2024, MelodyRecorder Free  An Expert's Evaluation</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-c67-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme C67 5G FRP</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-process-of-identifying-youtube-audience/"><u>In 2024, Unveiling the Process of Identifying YouTube Audience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-13-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 13 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/microphone-feedback-audio-recorder/"><u>Microphone Feedback  Audio Recorder</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-oppo-f25-pro-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo F25 Pro 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-samsung-galaxy-s23-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Samsung Galaxy S23? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-oppo-a78-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo A78 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-realme-12-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Realme 12 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-htc-u23-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for HTC U23 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-14-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi 14 Pro</u></a></li>
+<li><a href="https://techidaily.com/tecno-pop-7-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Tecno Pop 7 Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10c-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10C Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-s17t-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo S17t</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-a38-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo A38 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-f34-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy F34 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-control-in-windows-cmd/"><u>Unlock Full Control in Windows CMD</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-s23-tactical-edition-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy S23 Tactical Edition Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-note-12-4g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi Note 12 4G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-13c-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 13C Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-pro-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 Pro 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+</ul></div>

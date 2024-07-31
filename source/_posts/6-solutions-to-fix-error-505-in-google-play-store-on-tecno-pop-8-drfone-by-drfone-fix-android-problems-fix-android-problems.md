@@ -1,7 +1,7 @@
 ---
 title: 6 Solutions to Fix Error 505 in Google Play Store on Tecno Pop 8 | Dr.fone
-date: 2024-05-20T09:03:25.071Z
-updated: 2024-05-21T09:03:25.071Z
+date: 2024-07-30T07:48:31.851Z
+updated: 2024-07-31T07:48:31.851Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 6 Solutions to Fix Error 505 in Google Play Store on Tecno Pop 8
 excerpt: This article describes 6 Solutions to Fix Error 505 in Google Play Store on Tecno Pop 8
 keywords: android problems,Tecno Pop 8 android fix,android repair,fix android problems,android help,android solutions
-thumbnail: https://www.lifewire.com/thmb/YDOkX4KOrU-1Gfk6Kj7DPlg333E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows11contextmenu-f4d6ebb14db4444d851b4338aa553e21.png
+thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b903378f876b3f4cc7ee4fa520.png
 ---
 
 ## 6 Solutions to Fix Error 505 in Google Play Store on Tecno Pop 8
@@ -64,6 +64,9 @@ One click to repair Android system and make error code 505 disappear
 
 Step1: Download [the Dr.Fone - System Repair (Android) program](https://tools.techidaily.com/wondershare/drfone/android-repair/), install and launch it. The following interface will pop up.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make error code 505 disappear by android repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step2: Select the "Android Repair" among the 3 tabs, connect your Android to PC, and click "Start".
@@ -76,6 +79,9 @@ Step3: Choose the correct device details from each field, confirm them and conti
 
 Step4: Boot your Android in download mode, then start downloading the firmware of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix error code 505 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Step5: After the Tecno Pop 8 device firmware is downloaded, the tool will start repairing your Android.
@@ -115,6 +121,9 @@ Working with an old operating system is ok, but many times old version also crea
 - \>Click on Update
 - \>Need to click on Install (if any update is available)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update](https://images.wondershare.com/drfone/article/2017/06/14976276197089.jpg)
 
 #### **Solution 4: Clearing the cache memory from Google services Framework and Google play store**
@@ -162,6 +171,11 @@ Due to continuous updation of new apps and services Google Play store used to be
 - \>A Message will appear ‘Change play store app to factory version’- Accept it
 - \>Now Open Google play store>It will refresh the updates within 5 to 10 minutes(So you need to keep your internet connection on while Google play store is updating its store for new updates.)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Click on Uninstalling Updates](https://images.wondershare.com/drfone/article/2017/06/14976277917398.jpg)
 
 #### **Solution 6: Third party App**
@@ -170,6 +184,9 @@ In the case, error 505 occur due to the installation of two or more apps with du
 
 Download link: [https://www.luckypatchers.com/download/](https://www.luckypatchers.com/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![lucky patcher](https://images.wondershare.com/drfone/article/2017/06/14976278389200.jpg)
 
 Note: If still, you are in the state of trouble to solve the issue of error code 505 then Google Play help center is here to look out all troubles related to app store and its service. You can check out the details by visiting the following link:
@@ -180,6 +197,10 @@ Or call them at their call center number regarding the issue.
 
 ![call center number](https://images.wondershare.com/drfone/article/2017/06/14976278809798.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bonus FAQ about Google Play error
 
 **Q1: What is a 505 error code?**
@@ -204,14 +225,23 @@ The 506 error code is a frequent error when operating the Google Play Store. You
 
 However, sometimes the five simple couldn’t work anymore. A system repair software can be helpful quickly. We really recommend [the Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) , only a few minutes, the error will be fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## [Solved] Warning: Camera Failed on Tecno Pop 8
 
 In this article, you will learn why camera fails on Tecno Pop 8 devices, how to make camera work again, as well as a system repair tool to fix this issue in few clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
 
 Tecno Pop 8 devices are one of the best Android devices available in the market and their users are always satisfied with their features. However, it is a recent observation that many Tecno Pop 8 users complain about Tecno Pop 8 camera failed error while using the camera App on the Tecno Pop 8 device. It is a strange error and pops up suddenly with only one option to tap on, i.e., “OK”
@@ -220,6 +250,10 @@ The error message reads as follows: “Warning: Camera Failed”.
 
 Once you click on “OK” the app shuts down abruptly and your Tecno Pop 8 camera is failed. We understand this is not a very pleasing situation, thus, here are ways to tackle the camera failed Tecno Pop 8 issue. Let us now move ahead and find out why exactly you experience Warning: Camera Failed error and how to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 1: Why Tecno Pop 8 phone has Warning: Camera Failed error?
 
 We are all aware that no device runs smoothly, without any glitches. We also know that there is a cause behind every problem. Listed below are a few reasons behind camera failed error, especially on Tecno Pop 8 devices:
@@ -240,6 +274,9 @@ If you are experiencing some kind of issues in your Tecno Pop 8s such as Tecno P
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One-click solution to fix camera failed on Tecno Pop 8 devices
@@ -261,10 +298,16 @@ One-click solution to fix camera failed on Tecno Pop 8 devices
 
 **Step 2.** You will have to provide the Tecno Pop 8 device details accurately to ensure that the software provides a precise firmware package to be downloaded. Enter brand, name, model, country, and carrier of your device and agree to the terms and condition.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the details of samsung device](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step 3**. Now put your device in the download mode. The software will provide you with a guide to put the phone in download mode to begin the downloading process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **Step 4.** As soon as the firmware is downloaded, the software will automatically initiate the repair process. You will be able to see the ongoing repair.
@@ -283,14 +326,23 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 
 2\. Now a list of all Apps will appear before you. Keep scrolling down until your find “Camera”.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![camera app](https://images.wondershare.com/drfone/article/2017/07/14997065904511.jpg "camera app")
 
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![clear data](https://images.wondershare.com/drfone/article/2017/07/14997066321127.jpg "clear data")
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to fix Camera Failed error by removing third-party Apps?
 
 Another tip to fix Tecno Pop 8 camera failed error is by deleting a few unwanted third-party Apps (recently installed) to free some space in the Tecno Pop 8 device’s internal storage. It is essential to create and keep storage space for the camera App to function smoothly and allow it to store its data as well. Also, if this issue only happens recently, it might be some newly installed Apps causing some glitches with the camera.
@@ -301,6 +353,9 @@ Simply, follow the instructions given below to remove Apps from Tecno Pop 8 Devi
 
 2\. You will see that a list of downloaded and built-in Apps will open up before you as follows.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![installed apps](https://images.wondershare.com/drfone/article/2017/07/14997066916915.jpg "installed apps")
 
 3\. Now, once you select the App you want to uninstall, the App Info screen will appear. Tap on “Uninstall” option and then tap on “Uninstall” again on the pop-up message.
@@ -319,10 +374,16 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 2\. Now, press and hold the power on/off, home and volume up button simultaneously. Your device will now vibrate. This a signal to let go of the power button (only).
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14997067742072.jpg "boot in recovery mode")
 
 3\. Once the Recovery Screen appears, leave all buttons and use the volume down key till you reach “Wipe Cache Partition”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
 
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
@@ -331,6 +392,9 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 You may try to use the camera app once the process completes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Part 6: How to fix Camera Failed error by Reset Settings?
 
 Resetting the camera settings solves the problem 9 out of 10 times and thus is worth a try.
@@ -341,10 +405,16 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 2\. Then go to Camera “Settings” by tapping on the circular gear like icon.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![camera settings](https://images.wondershare.com/drfone/article/2017/07/14997069036741.jpeg "camera settings")
 
 3\. Now look for “Reset Settings” options and click on it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reset settings](https://images.wondershare.com/drfone/article/2017/07/14997069347307.jpg "reset settings")
 
 Once done, go back to the Home Screen and start the camera App again to use it.
@@ -357,6 +427,9 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 1\. Start by visiting “Settings” on your Tecno Pop 8 device on which the camera has failed.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![phone settings](https://images.wondershare.com/drfone/article/2017/07/14997069645058.jpg "phone settings")
 
 2\. Now from the list of options before you, select “Backup and reset” and move ahead.
@@ -365,6 +438,10 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 3\. Now you must first select “Factory data reset” and then tap on “Reset Device” as shown in the screenshot below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
 
 4\. Finally, you have to click on “Erase Everything” and wait for the Tecno Pop 8 device to reboot itself.
@@ -425,8 +502,14 @@ A Dedicated Tool to Retrieve Data from [Broken Android Devices](https://www.wond
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: 9 Solutions to fix the black screen of death of Android
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - [3.1 One click to fix the black screen of death ![hot icon](https://images.wondershare.com/drfone/2022/images/hot-icon.gif)](https://drfone.wondershare.com/android-issue/android-black-screen-of-death.html#part3.1)
 - [3.2 Force restart your Tecno Pop 8](https://drfone.wondershare.com/android-issue/android-black-screen-of-death.html#part3.2)
 - [3.3 Check and clean your phone](https://drfone.wondershare.com/android-issue/android-black-screen-of-death.html#part3.3)
@@ -445,6 +528,10 @@ What to do? Shall we find someone who is tech-savvy to seek help? Come on, this 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Fix Black Screen of Death for Android In One Click
@@ -464,10 +551,16 @@ Fix Black Screen of Death for Android In One Click
 
 2. Select "System Repair" from the home page, and then click on the "Android ".
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![fix android black screen of death by selecting the repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 3. Click "Start" to commence the Android system repair. In the next screen, select and confirm your Android model details like name, model, country, etc. and go on.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![choose android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 4. Boot your Android into Download mode by following the on-screen demonstrations.
@@ -486,8 +579,14 @@ Fix Black Screen of Death for Android In One Click
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/06HDyPDOBqM?ecver=1"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3.2 Force restart your Tecno Pop 8
 
 Because it is the quickest and most painless solution, most people do this when their **Android phone screen goes black** too fast. The majority of phone issues can be resolved by performing a hard reboot. Here are the necessary measures if you haven’t tried this method before.
@@ -512,6 +611,9 @@ Step 3: If the phone isn’t charging normally, ensure the charging port isn’t
 
 Step 4: After you’re done with the cleaning, it’s best to charge the phone for at least 10 minutes. Just give it a quick charge and then try to restart it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wa stickers](https://images.wondershare.com/drfone/article/2023/08/android-black-screen-of-death-1.jpg)
 
 ### 3.4 Remove the battery
@@ -532,6 +634,9 @@ This easy and straightforward method should help you fix your Android screen bla
 
 If your Tecno Pop 8 screen suddenly goes black, let the battery die completely. Then once the battery is completely dead, you should plug it in to charge and turn it on by pressing the Power button. Try to check if you still encounter the issue after doing so.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.6 Wipe cache partition to fix black screen of death
 
 If your Tecno Pop 8 turns on, but the screen remains black, clearing the cache partition should solve the problem. After all, keeping caches on your phone would cause it to run more slowly and cause other problems. Therefore, the issue can be resolved by clearing the cache partition. Check the following steps on how to do this below:
@@ -548,6 +653,9 @@ Note: The steps necessary to enter recovery mode will vary depending on your spe
 
 Step 3: Find the **Wipe cache partition** option using the volume controls after entering Recovery Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![wipe cache partition android phone](https://images.wondershare.com/drfone/article/2023/08/android-black-screen-of-death-2.jpg)
 
 Step 4: Select **Wipe cache partition** by pressing the Power button.
@@ -560,6 +668,9 @@ Step 7: Use the Volume Down button to navigate to the "Reboot system now" option
 
 After rebooting, you can see that you have successfully got rid of the annoying Android black screen of death. For most of the cases, this method solves the problem. If not, you have to move to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.7 Uninstall incompatible apps
 
 Android screen black can be a result of installing a bug or incompatible apps. If you have recently installed an app that crashes frequently, that may be the reason for the issue. Uninstalling the app from the Tecno Pop 8 device may solve the problem with ease. For doing this, you need to boot your device in Safe mode. Follow the below steps.
@@ -574,6 +685,9 @@ Step 4: After selecting Settings, head to the Apps section.
 
 Step 5: Select the app by clicking on it; the App Info window should appear. To uninstall the app, tap the Uninstall option from the menu below the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![uninstall app on android phone](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-a-black-screen-on-android-phones-05.jpg)
 
 Step 6: Now restart the Tecno Pop 8 device by pressing the power button and let it boot up in normal mode.
@@ -590,10 +704,16 @@ Step 2: Press the Power Off button to enter Safe mode.
 
 Step 3: Activate Safe mode by clicking the “Safe Mode” icon.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter android in safe mode](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-a-black-screen-on-android-phones-06.jpg)
 
 Step 4: To return to Normal mode, turn off your device and then turn it back on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3.9 Factory reset to fix Android black screen of death
 
 The factory reset is the option that enables the factory state of your device by erasing all data, settings, bugs, and apps. Your device will be fresh like factory condition after this reset. Worth mentioning here, you’ll lose all the internal data and installed apps after this reset. So, to overcome the Android tablet black screen of death, you must perform this action as the last option. Follow the below steps carefully.
@@ -651,3 +771,62 @@ But among the methods discussed above, Dr.Fone – System Repair just stood out 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-5-ways-to-record-vr-gameplay/"><u>[New] 2024 Approved  5 Ways to Record VR Gameplay</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-harnessing-zoom-for-impactful-youtube-livestream-presentations/"><u>[New] Harnessing Zoom for Impactful YouTube Livestream Presentations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-highlighting-top-facebook-video-tools/"><u>[New] Highlighting Top Facebook Video Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seeking-peak-playback-performance-vlc-or-mx-showdown/"><u>[New] Seeking Peak Playback Performance  VLC or MX Showdown</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-beginners-roadmap-to-choosing-a-camera-for-2024/"><u>[New] The Beginner's Roadmap to Choosing a Camera for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-top-platform-trio-which-one-triumphs-vimeo-youtube-dailymotion/"><u>[New] The Top Platform Trio  Which One Triumphs – Vimeo, YouTube, Dailymotion?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-deciphering-the-block-code-on-snapchat/"><u>[Updated] 2024 Approved  Deciphering the Block Code on Snapchat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-drone-journey-full-phantom-4-features-explored/"><u>[Updated] The Ultimate Drone Journey  Full Phantom 4 Features Explored</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-x9a-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor X9a Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-top-ranked-collage-assemblers-unveiled/"><u>2024 Approved  Android’s Top-Ranked Collage Assemblers Unveiled</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-innovate-your-content-leveraging-instagrams-green-screen-magic/"><u>2024 Approved  Innovate Your Content  Leveraging Instagram's Green Screen Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-potential-with-expert-picked-video-stabilization-tools/"><u>2024 Approved  Unlock Your Potential with Expert-Picked Video Stabilization Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-value-packed-skyspace-service-big-data-at-low-cost/"><u>2024 Approved  Value-Packed SkySpace Service  Big Data at Low Cost</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-motorola-moto-g14-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Motorola Moto G14 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/amazon-prime-videos-social-stardom-on-twitter/"><u>Amazon Prime Video's Social Stardom on Twitter</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nubia-red-magic-9-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nubia Red Magic 9 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-x100-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo X100? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blurry-looks-simple-ways-to-hide-identities-in-pictures-for-2024/"><u>Blurry Looks  Simple Ways to Hide Identities in Pictures for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/chuckle-laugh-moments-and-tears-from-these-top-ten-ig-feeds/"><u>Chuckle-Laugh Moments & Tears From These Top Ten IG Feeds</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-v30-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo V30 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-oppo-reno-9a-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Reno 9A Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/htc-u23-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>HTC U23 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bringing-life-to-slides-adding-audio-effectively-powerpoint/"><u>In 2024, Bringing Life to Slides  Adding Audio Effectively (PowerPoint)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quality-acoustics-at-an-accessible-price-point/"><u>In 2024, Quality Acoustics at an Accessible Price Point</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-real-time-recorder-battle-go-obs-vs-shadowplay/"><u>In 2024, Real-Time Recorder Battle  Go OBS! Vs. ShadowPlay</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-cinema-experience-free-and-paid-iphones-app-list/"><u>In 2024, Seamless Cinema Experience  Free & Paid iPhones App List</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unfreezing-frozen-obs-stream-input/"><u>In 2024, Unfreezing Frozen OBS Stream Input</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/initial-guide-to-zoom-room-segregation/"><u>Initial Guide to Zoom Room Segregation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/keep-your-videos-in-shape-and-sound/"><u>Keep Your Videos In Shape and Sound</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-cool-tactics-for-enduring-xbox-game-pass-hike/"><u>Keeping Cool: Tactics for Enduring Xbox Game Pass Hike</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-edge-stabilized-gimbals-iphoneandroidprofessional-rankings-1-10-for-2024/"><u>Leading-Edge Stabilized Gimbals  IPhone/Android/Professional Rankings #1-#10 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-low-light-photos-on-ios-11-for-2024/"><u>Mastering Low-Light Photos on iOS 11 for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gpu-firmware-gtx-1060-upgrade/"><u>Nvidia GPU Firmware - GTX 1060 Upgrade</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-samsung-galaxy-s24-ultra-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Samsung Galaxy S24 Ultra? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/poco-m6-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/snapdivide-assessment/"><u>SnapDivide Assessment</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-s17-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo S17 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-s24plus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy S24+ Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-magic-6-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor Magic 6 Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-motorola-moto-g73-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Motorola Moto G73 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-spark-10-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Spark 10 Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-itel-s23plus-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Itel S23+? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nubia-red-magic-8s-proplus-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nubia Red Magic 8S Pro+? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-note-30-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Note 30 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>

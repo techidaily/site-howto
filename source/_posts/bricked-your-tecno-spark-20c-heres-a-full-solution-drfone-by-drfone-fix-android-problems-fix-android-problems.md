@@ -1,7 +1,7 @@
 ---
 title: Bricked Your Tecno Spark 20C? Heres A Full Solution | Dr.fone
-date: 2024-03-18 15:11:45
-updated: 2024-03-21 19:43:45
+date: 2024-07-30T09:49:06.728Z
+updated: 2024-07-31T09:49:06.728Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Bricked Your Tecno Spark 20C? Heres A Full Solution
 excerpt: This article describes Bricked Your Tecno Spark 20C? Heres A Full Solution
 keywords: Tecno Spark 20C android support,fix android problems,Tecno Spark 20C android issues,android repair,Tecno Spark 20C android solutions,Tecno Spark 20C android problems
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## Bricked Your Tecno Spark 20C? Here’s A Full Solution
@@ -43,6 +43,10 @@ If your device is completely unresponsive, don’t worry Dr.Fone can help you ge
 
 Step 1: Download and install Wondershare Dr.Fone to your PC. Launch the program and then click on Data Recovery. Select the data types you would like to recover and then click on Next.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-Install Wondershare Dr.Fone ](https://images.wondershare.com/drfone/drfone/android-recover-broken-01.jpg)
 
 Step 2. Select the issue type for your phone. Choose from "Touch screen not responsive or cannot access the phone" or "Black/broken screen".
@@ -55,10 +59,16 @@ Step 3: In the next step, you need to select your device model. If you don’t k
 
 Step 4: The next screen will provide instructions on how to enter “Download mode.” Connect the Tecno Spark 20C device to your PC once it is in “Download Mode”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-Download Mode](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
 
 Step 5: The program will begin an analysis of your device and then download the recovery package.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-download the recovery package](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
 
 Step 6: Then Dr.Fone will display all the recoverable file types. You can click on the files to preview them. Select the ones you need and click on "Recover to Computer" to save them to your computer.
@@ -71,6 +81,9 @@ Step 6: Then Dr.Fone will display all the recoverable file types. You can click 
 
 Android devices are usually very flexible in allowing users to flash ROM but sometimes an incorrect process can result in a bricked device. While there are few solutions to this problem, here are a few things you can do;
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### When the Tecno Spark 20C device Boots Straight into Recovery
 
 If the Tecno Spark 20C device can boot to the recovery screen, you can find an alternative ROM to install and copy it your device. Installation can then be done in the recovery menu. If the Tecno Spark 20C device is booting to recovery mode there is a chance that it can be fixed.
@@ -91,6 +104,9 @@ Step 2: Go to “Advanced” which will bring up a number of options to choose f
 
 Step 3: One of the options should be “Wipe Dalvik cache” select this option and then follow the instructions. When finished select “Go Back” to return to the main menu.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-Go Back](https://images.wondershare.com/drfone/others/fix-bricked-android-02.jpg)
 
 Step 4: Go to the “Wipe Cache Partition” and select it.
@@ -131,6 +147,9 @@ Pandora, an app bringing music to our fingertips, is a beloved platform for stre
 
 In this article, you’ll explore practical solutions to the problem of “**why does Pandora keep stopping**.” Following the steps and tips, you can regain smooth and uninterrupted access to your favorite tunes. Have a hassle-free and enjoyable music streaming experience with Pandora on your Tecno Spark 20C.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![dead android with pandora logo](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-01.jpg)
 
 ## Part 1: Basic Troubleshooting and Fixes
@@ -150,12 +169,18 @@ If these basic fixes fail to address the continuous crashing of the Pandora app,
 
 Several underlying factors might be at play when persistent crashes plague your Pandora app. This section explores these.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Poor Internet Connection
 
 A stable internet connection is pivotal for seamless app functionality. Crashes in Pandora can stem from poor connectivity. [Check your internet connection](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html). Ensure you’re connected to a reliable network. Restart your router or switch between Wi-Fi and mobile data to troubleshoot connectivity issues.
 
 ![wi-fi page android](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### Corrupted/Broken Devices
 
 If you notice that all other [apps are crashing](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html), your device’s system may also have a problem. In this case, simple app reinstalls/restarts can fix the problem.
@@ -166,8 +191,14 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 - **Step 1:** Launch Dr.Fone on your computer. Access **System Repair**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,851,928** people have downloaded it
@@ -178,6 +209,10 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 - **Step 3:** Click **Start** to initiate Android System Repair.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![dr.fone system repair start screen](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 4:** Check if the Tecno Spark 20C device details presented onscreen are correct. You may edit them accordingly for any mistakes.
@@ -186,6 +221,9 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 - **Step 5:** Follow the onscreen instructions to place your phone into Download mode. Then, Dr.Fone will download the firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![wondershare dr.fone download mode tutorial](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - **Step 6:** After downloading, click **Fix Now**. Then, type in “000000” on the appearing window text box. Click **Confirm.**
@@ -194,6 +232,9 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 - **Step 7:** Once finished, click **Done**. Your Pandora app should not crash once you reinstall it again by now.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ### Cache Buildup
@@ -206,6 +247,9 @@ Accumulated cache data can hamper app performance, leading to frequent crashes. 
 
 Outdated system software can create compatibility issues, causing app instability. Ensure your device’s system software is up-to-date. Check for and install any pending system updates in your device’s settings. Updated software often includes [bug fixes](https://drfone.wondershare.com/iphone-problems/fix-ios-17-keyborad-bug-and-autocorrect-issue.html) and improvements that can rectify compatibility-related crashes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![xiaomi firmware update page](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-11.jpg)
 
 You can systematically troubleshoot and resolve the issues by addressing the potential culprits behind constant Pandora app crashes, ensuring a smoother and uninterrupted music streaming experience. If the problems persist, contacting Pandora support or seeking professional assistance might be advisable to delve deeper into the technical aspects of the app’s performance issues.
@@ -228,6 +272,9 @@ When persistent issues arise, especially if other apps are affected similarly, W
 
 **3,362,023** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## My Videos Aren't Playing on Tecno Spark 20C – What Can I Do?
 
 ![person holding their android with black screen](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-1.jpg)
@@ -240,8 +287,14 @@ You may encounter **videos not playing on your Tecno Spark 20C** more frequentl
 
 See what you can do if **videos won’t play on your Android.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Are My Videos Not Playing On Android?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![person recording cityscape using their android](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-2.jpg)
 
 Considering how most smartphone manufacturers tend to emphasize the unbelievable quality of their cameras, perfect night modes, seamless slow-motion recordings, superb resolution, and more, you’d expect all images and videos to function flawlessly on your Android. Unfortunately, that’s not always the case.
@@ -266,6 +319,10 @@ Since there are many reasons for having problems with videos not playing on your
 
 ### 1. Do a Factory Reset
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![person holding a black android](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-3.jpg)
 
 While a factory reset shouldn’t always be the first solution you go to, it can usually prove to be the most effective one.
@@ -278,6 +335,10 @@ Though there could be slight variations between different phones, you can usuall
 
 ![factory reset on android](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### 2. Restart Your Tecno Spark 20C
 
 While a factory reset is all but guaranteed to fix the issues you’re encountering with your videos, sometimes a simple restart might do the trick just fine. A restart works by clearing your RAM (Random Access Memory).
@@ -288,14 +349,23 @@ Over time, however, your RAM can get filled with unnecessary data and data fragm
 
 Restarting your phone will clear your RAM and potentially eliminate any data fragments causing your videos to be unplayable.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3. Check the Video Format
 
 As a general rule of thumb, the videos you capture should be in a format your device supports. However, the videos you’ve downloaded might not be. That’s why checking the files’ video format before trying other possible fixes is in your best interest.
 
 If the format isn’t supported, installing the right video player with the necessary compatibility is the most straightforward fix. Some of the most popular video players for Android include VLC for Android, GOM Player, MX Player, Bsplayer, and RealPlayer. You can easily find all of them in the Google Play Store.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### 4. Check the Internet Connection
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![pull-down bar on android showing wifi is turned off](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-5.jpg)
 
 If you’re having problems playing downloaded or online videos, check your internet connection to see if there’s an issue there. If your internet’s down, any downloaded videos might not have downloaded correctly, and any online videos that haven’t been loaded will not play.
@@ -306,6 +376,9 @@ You might need a network reset if your phone can’t connect to a Wi-Fi network.
 
 ![android network reset](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5. Clear the Cache
 
 The cache stores a copy of your most commonly used data, helping decrease loading time and improve your phone’s performance. However, too much cache data can take up too much space and cause data corruption, preventing you from accessing some of your apps.
@@ -314,6 +387,9 @@ On average, you should clear your phone’s cache every few months to ensure tha
 
 To clear the cache from your apps, you’ll want to go to **Settings > Apps.** From there, select the app you want to remove the cache from, scroll down to **Storage**, then choose **Clear Cache**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![clear cache on android apps](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-7.jpg)
 
 ### 6. Update Android OS
@@ -335,16 +411,25 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your Tecno Spark 2
 - **Step 1**: Download and launch Wondershare Dr.Fone on your PC.
 - **Step 2**: Go to **Toolbox**, then use a cable to connect your Tecno Spark 20C to your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare dr.fone toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3**: Select **System Repair > Android**.
 - **Step 4**: In the new window, select **Start**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare dr.fone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 5**: Fill in information about your phone’s **Brand, Name, Model, Country,** and **Carrier**.
 - **Step 6**: Agree with the warning and select **Next**.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare dr.fone device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 7**: Follow the on-screen instructions to put your device in **Download Mode**.
@@ -355,6 +440,9 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your Tecno Spark 2
 - **Step 9**: When the download is complete, select **Fix Now** to install it.
 - **Step 10**: Type **000000**, then select **Confirm**to continue fixing your device.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare dr.fone system repair confirmation](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 11**: Wait for the **Repairing Now**process to finish.
@@ -372,6 +460,9 @@ To check whether you’re using the latest version of your video player, go to *
 
 ![android app version](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### 9. Clear Cookies and Browsing Data
 
 If online videos are causing problems, not your recorded or downloaded ones, you might be due for a quick cookie and browsing data clearing.
@@ -380,6 +471,9 @@ Cookies are usually there to improve the user experience, allowing you to load w
 
 You’ll first need to launch your mobile browser to clear cookies and browsing data. If you’re using Google Chrome, the process is simple and streamlined. Tap the three dots in the upper right corner and go to **Settings**. From there, go to **Privacy and security > Clear browsing data > Clear data**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ### 10. Reinstall Video Apps
 
 If you still have issues with videos not playing on your Tecno Spark 20C, you could try deleting and reinstalling your video apps. Sometimes, simply updating the video app might still retain the glitch causing problems. However, if you delete it in its entirety and then install it again, the issue should be gone.
@@ -388,6 +482,9 @@ To uninstall the video app on your Android, go to **Settings > Apps**. Locate th
 
 To reinstall it again, go to the Google Play Store, search for the video app you want to have, then click **Install**.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,974,400** people have downloaded it
@@ -413,3 +510,77 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-master-guide-ultimate-tips-for-maximizing-mobizens-screen-capture/"><u>[New] 2024 Approved  Master Guide  Ultimate Tips for Maximizing Mobizen's Screen Capture</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-periscope-to-pro-livestreaming-basics-for-ios-and-android-for-2024/"><u>[New] From Periscope to Pro  Livestreaming Basics for iOS and Android for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-expert-insights-optimized-video-downloading-software/"><u>[New] In 2024, Expert Insights  Optimized Video Downloading Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-the-iphones-full-potential-with-10-composition-principles/"><u>[New] Unleashing the iPhone's Full Potential with 10 Composition Principles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-pushing-boundaries-in-image-editing/"><u>[Updated] 2024 Approved  Pushing Boundaries in Image Editing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capture-dynamic-movements-ipad-timelapse-tips/"><u>[Updated] In 2024, Capture Dynamic Movements  IPad Timelapse Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-tv-off-switch-guide/"><u>[Updated] In 2024, Instagram TV Off Switch Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-live-choreo-streaming-on-shouqi-media/"><u>[Updated] In 2024, Live Choreo Streaming on Shouqi Media</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infuse-projects-with-sounds-in-adobe-premiere-pro/"><u>[Updated] Infuse Projects with Sounds in Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simple-methods-swap-sea-creature-sounds-in-windows-os/"><u>[Updated] Simple Methods  Swap Sea Creature Sounds in Windows OS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-update-short-form-video-coverage/"><u>[Updated] Update Short-Form Video Coverage</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-y100i-power-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo Y100i Power 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-redmi-12-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi Redmi 12 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guiding-audio-dimming-in-fl-studio/"><u>2024 Approved  Guiding Audio Dimming in FL Studio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-online-play-in-depth-guide-to-using-kinemaster-and-its-rivals/"><u>2024 Approved  Mastering Online Play  In-Depth Guide to Using KineMaster and Its Rivals</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-a15-4g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy A15 4G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-gionee-f3-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Gionee F3 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mac-slicer-software-enhance-video-production-prowess/"><u>Best Mac Slicer Software  Enhance Video Production Prowess</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-poco-x6-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Poco X6 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-a15-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy A15 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/essential-tips-for-audio-gradual-decline-in-premiere-pro-for-2024/"><u>Essential Tips for Audio Gradual Decline in Premiere Pro for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-iphones-with-defective-silence-switch-alternatives-to-the-traditional-mute-functionality/"><u>Fix iPhones with Defective Silence Switch: Alternatives to the Traditional Mute Functionality</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-poco-m6-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Poco M6 Pro 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-raw-footage-to-instagram-gold-top-10-editor-shortlists-for-2024/"><u>From Raw Footage to Instagram Gold - Top 10 Editor Shortlists for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-motorola-moto-g34-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Motorola Moto G34 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-12-pro-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone 12 Pro Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-iphone-15-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your iPhone 15 Pro and iPad?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-overcoming-deformed-video-playback-online/"><u>In 2024, Overcoming Deformed Video Playback Online</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-shoot-exceptional-igtv-video-content-with-mobile-and-professional-cameras/"><u>In 2024, Shoot Exceptional IGTV Video Content with Mobile & Professional Cameras</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-7-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 7 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/have-filmmaking-tools-for-aspiring-youtubers-for-2024/"><u>Must-Have Filmmaking Tools for Aspiring YouTubers for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-elevate-your-video-production-top-4k-video-editing-software/"><u>New In 2024, Elevate Your Video Production Top 4K Video Editing Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/stunning-appraisal-and-alternative-suggestions-for-2024/"><u>Stunning Appraisal & Alternative Suggestions for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-hot-40-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Hot 40 Pro Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-path-to-longer-instagram-vids-a-comprehensible-approach-for-2024/"><u>The Path to Longer Instagram Vids  A Comprehensible Approach for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-synergy-of-business-and-virtual-experience-design/"><u>The Synergy of Business and Virtual Experience Design</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-m14-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy M14 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-spark-10-4g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Spark 10 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/visual-flow-mastery-with-simple-transitions/"><u>Visual Flow Mastery with Simple Transitions</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-v27-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo V27 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-redmi-note-12-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Redmi Note 12 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-find-x7-ultra-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo Find X7 Ultra Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>

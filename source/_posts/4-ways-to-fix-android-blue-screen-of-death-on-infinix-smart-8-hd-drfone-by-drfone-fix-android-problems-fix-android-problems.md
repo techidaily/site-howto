@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Fix Android Blue Screen of Death On Infinix Smart 8 HD | Dr.fone
-date: 2024-05-20T09:03:22.764Z
-updated: 2024-05-21T09:03:22.764Z
+date: 2024-07-30T07:29:20.891Z
+updated: 2024-07-31T07:29:20.891Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 4 Ways to Fix Android Blue Screen of Death On Infinix Smart 8 HD
 excerpt: This article describes 4 Ways to Fix Android Blue Screen of Death On Infinix Smart 8 HD
 keywords: Infinix Smart 8 HD fix android problems,Infinix Smart 8 HD android solutions,Infinix Smart 8 HD android support,android troubleshooting,Infinix Smart 8 HD android guide,fix android problems,android help,Infinix Smart 8 HD android tips,android repair,Infinix Smart 8 HD android repair
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## 4 Ways to Fix Android Blue Screen of Death On Infinix Smart 8 HD
@@ -26,6 +26,9 @@ The Android blue screen of death issue is not a difficult problem to deal with a
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html)
 
 World's 1st data retrieval software for broken Android devices.
@@ -43,6 +46,9 @@ Follow the steps given below to extract data when you experience an Android scre
 
 2\. Once you launch the software, you will see many tabs before you. Click on "Data Recovery" > "Android".
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![android blue screen of death-data extraction](https://images.wondershare.com/drfone/guide/drfone-data-recovery-android-2.png "data extraction")
 
 3\. And then choose "Recover from Broken Phone" from the program's screen.
@@ -59,6 +65,10 @@ Follow the steps given below to extract data when you experience an Android scre
 
 6\. In this step, refer to the instructions in your device manual to enter into Download Mode on your Infinix Smart 8 HD and hit “Next”. An example of what to do to reach Download Mode is shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![android blue screen of death-boot in download mode](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png "boot in download mode")
 
 7\. Finally, let the software recognize your Infinix Smart 8 HD, and start to download the recovery package for your device.
@@ -73,6 +83,9 @@ The process may take up to a few minutes and once it's done all your files will 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: One click to fix the Android blue screen of death
 
 We understand how annoying it is to see the Android blue screen of death and fail to access your device data. But, with [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), your troubles would burst away.
@@ -81,6 +94,9 @@ This software effectively fixes Android screen of death issue along with app cra
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Easy and effective solution to fix the **Android blue screen of death**！
@@ -99,14 +115,23 @@ Easy and effective solution to fix the **Android blue screen of death**！
 
 Step 1: Installation and running Dr.Fone - System Repair (Android) on your system takes you to the main screen. Choose the ‘System Repair’ option followed by connecting the Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fix Android blue screen of death by android repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Press the ‘Android Repair’ option before tapping the ‘Start’ button.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![start to fix Android blue screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Over the Infinix Smart 8 HD device information window, select all relevant data about your device followed by the ‘Next’ button.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select data to fix Android blue screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Initiate repairing after entering ‘Download’ mode**
@@ -119,10 +144,18 @@ Step 1: Get the Infinix Smart 8 HD device in ‘Download’ mode to fix the **An
 
 - On a ‘Home’ button device – shut down the Android phone/tablet, and then push the ‘Power’, ‘Volume Down’, and ‘Home’ keys for 10 seconds. Let go of the keys and press the ‘Volume Up’ key to enter ‘Download’ mode.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fix android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Step 2: Tap the ‘Next’ button to download firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![download firmware to fix android without home key](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Dr.Fone - System Repair (Android) would verify the firmware post-download. It will start repairing the Android system automatically.
@@ -131,6 +164,9 @@ Step 3: Dr.Fone - System Repair (Android) would verify the firmware post-downloa
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Part 3: Force Restart Your Infinix Smart 8 HD
 
 A force restart is a basic step that can clear minor software glitches. It has the potential to resolve the Android blue screen of death issue. Force restarting your device can clear temporary bugs and reset all processes. It is a simple yet often overlooked way to fix the Android blue screen of death issue. Use the following steps to force restart your Infinix Smart 8 HD:
@@ -139,12 +175,18 @@ A force restart is a basic step that can clear minor software glitches. It has t
 
 ![force restart android phone](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: Remove phone battery to fix blue screen of death
 
 The best home remedy to fix any kind of Android screen of death remove the Infinix Smart 8 HD device’s battery. This technique might sound too simple, but it has solved the Android blue screen of death issue for many users whose devices started normally after reinserting the battery. Here is what you should do.
 
 1\. Open the back cover of your Infinix Smart 8 HD and carefully remove its battery.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android blue screen of death-remove the battery](https://images.wondershare.com/drfone/article/2017/07/14997039368225.jpeg "remove the battery")
 
 2\. Let the battery be out for 5-7 minutes. Meanwhile, long press the power button to drain out any residual charge from your device.
@@ -159,6 +201,9 @@ Note: Not all Android devices allow you to remove their battery. If you own such
 
 In some cases, issues related to the Android blue screen of death can be caused by problems with the SIM card or SD card. Removing and reinserting these cards can help resolve potential conflicts or glitches. Remember that this method can help resolve issues related to SIM card or SD card conflicts. However, it may not address more complex software or hardware problems causing the blue screen issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 6: Clean or change the LCD connector
 
 If you're facing the Android blue screen of death issue, the issue might be related to a hardware problem. The problem can be a loose or damaged LCD connector. In this scenario, you can try cleaning or changing the connector. This method is more advanced and involves disassembling your device. That's why you need to proceed with caution and only if you're comfortable with hardware tasks.
@@ -185,12 +230,18 @@ Once you are on the Recovery Screen, you will see a list of options before you, 
 
 Use the Volume Down button to scroll downwards and reach the "Wipe data/Factory reset" option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![android blue screen of death-wipe data factory reset](https://images.wondershare.com/drfone/article/2017/07/14997040167334.jpg "wipe data factory reset")
 
 Now use the power button to select it and wait for the Infinix Smart 8 HD device to reboot automatically.
 
 You will notice that the Android device will turn back on without getting stuck at the **Android blue screen of death**. Now you can set up your device from scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 9: What Should You Do if Android Still Stuck on Blue Screen?
 
 Have you tried all the methods, and your Infinix Smart 8 HD is still stuck on the blue screen of death? In this case, it's important to consider the possibility of a hardware issue. Remember that hardware issues can be complex. Trying to fix things without the right expertise can result in additional harm. If you're uncertain about the next steps, it's wisest to ask for assistance from a trained professional.
@@ -201,10 +252,16 @@ The Android screen of death, especially the **Android blue screen of death**, is
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reasons for Infinix Smart 8 HD Stuck on Startup Screen and Ways To Fix Them
 
 There are many reasons why ****phones get stuck on the boot screen****. It could be something as simple as physical damage or more complicated related to software problems. Having your ****phone stuck on the logo**** screen, or boot screen is annoying, and it is no surprise that people will find ways to fix this issue when encountered.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![samsung stuck on boot screen](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-01.jpg)
 
 This article will share the possible reasons why your ****phone is stuck on the boot screen****. This article will share three possible reasons for this problem and three valuable tips to help fix this issue. If all else fails, there is an application that is recommended and is sure to solve your issue in no time. Keep on reading to find out more!
@@ -237,6 +294,9 @@ The older operating system is also not desired as your phone typically will send
 
 After understanding the common problems on why your phone is ****stuck on the startup screen**** page, here are three easy solutions to try solving yourself at home.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### Hard reboot your phone
 
 To quickly fix any of your phone issues, especially when stuck on the startup screen, perform a hard reboot. The term hard reboot means turning your device off and on again. You might think this is a simple option, but this is a tried and tested method that might work on a minor glitch that results in your smartphone getting ****stuck on the startup screen**** page.
@@ -295,12 +355,18 @@ The following steps will show you how to use Dr.Fone to perform system repair on
 
 **Tip:** Make sure the information you input is accurate, as it will affect the system repair if the information is inaccurate.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![input device information](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 ****Step 5****: Connect your device to your computer and follow the instructions on the screen to enter ****Download mode****. Click on ****Next**** to proceed to the next step.
 
 ****Step 6****: Wait for the process to complete, and a new firmware will be updated on your device. Power on your phone and check if the issue still exists.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Frequently Asked Questions
 
 The following are interesting and frequently asked questions about how to solve boot loops.
@@ -325,34 +391,58 @@ A boot loop typically starts when there is a change to your system before a rebo
 
 **3,405,439** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article summarizes some of the possible reasons why your ****phone is stuck on the boot screen****. It demonstrated three useful strategies to overcome your ****phone stuck in the boot**** with ease. However, if all the above methods do not work, why not try Dr.Fone-System Repair?
 
 Dr.Fone-System Repair repairs the operating system issues and fixes the issue with your phone. Once you power on your phone again, you can rest assured that it will be like new.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stuck at Android System Recovery Of Infinix Smart 8 HD ? Fix It Easily
 
 In this article, you will learn what is Android system recovery, and how to fix Android stuck at system recovery step by step. To get out of Android system recovery more easily, you need this Android repair tool.
 
 You know your Infinix Smart 8 HD is stuck in recovery mode when you cannot turn on the Infinix Smart 8 HD device. If you try to turn it on, it shows a message that says, "Android System Recover." This situation can be quite debilitating for most Android users. Most of the time, you don't know whether you have lost all of your important Android data. It is even more worrying because of the fact that you cannot turn on your device at all, especially when you don't know how to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Part 1. What is Android System Recovery?
 
 Despite all the worry that surrounds an unwanted Android system recovery screen, it is actually a feature that can be quite helpful to your Infinix Smart 8 HD when it's needed. It can be useful when you want to hard reset the Android device without having to access the settings. This can be very useful if your device is not working very well or if your touch screen is experiencing problems. It can also be very helpful when you are having a problem accessing the settings on your device.
 
 For these reasons, it is actually a good thing, although when it does happen unexpectedly, you may want to know how to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Part 2. How to get to Android System recovery
 
 Now that you know how useful the Android System can be, you may want to know how to utilize this feature to get out of some of the problems we mentioned above. Here's how you can safely get to the Android recovery system on your Infinix Smart 8 HD.
 
 Step 1: Hold down the power key and then select "Power Off" from the options on the screen. If, however, your screen is unresponsive, keep holding the power key for several seconds until the Infinix Smart 8 HD device is completely turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
 
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
 
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
@@ -392,6 +482,9 @@ One-stop solution to fix Android stuck at System recovery
 
 Once installed on your computer, open onto the main menu and connect your Infinix Smart 8 HD using the official USB cable. Select the System Repair option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step #2** Select the 'Android Repair' option from the next screen.
@@ -400,12 +493,18 @@ Once installed on your computer, open onto the main menu and connect your Infini
 
 Insert your device information, including the brand, carrier details, model and country and region you're in to ensure you're downloading the correct firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![select items to correctly fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step #3** Follow the onscreen instructions on how to put your device in Download Mode.
 
 Your device should already be in this mode but follow the instructions to make sure. There are methods available for devices, both with and without home buttons.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![fix Android stuck at System recovery in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **Step #4** The firmware will now start downloading. You'll be able to track this process in the window.
@@ -416,10 +515,16 @@ Ensure your device, and your computer stays connected the entire time, and make 
 
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
@@ -438,6 +543,9 @@ Step 5: Next, you need to press the Volume down button to highlight "Delete All 
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5. Backup and Restore Android System
 
 Losing data on your Infinix Smart 8 HD is a common occurrence, and since Android devices don't really have an automatic full backup solution, it is important to know how to backup and restore your device system. Here's how to easily do that.
@@ -477,3 +585,39 @@ Android system recovery mode can be quite useful, especially when your system is
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-strategic-use-of-creative-commons-copyright-law/"><u>[New] Strategic Use of Creative Commons Copyright Law</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-10-unique-video-reaction-strategies-for-online-enthusiasts-for-2024/"><u>[Updated] 10 Unique Video Reaction Strategies for Online Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-cinematic-crafts-win8/"><u>[Updated] Cinematic Crafts Win8</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-complying-with-aspect-ratios-in-tweets/"><u>[Updated] Complying with Aspect Ratios in Tweets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-essential-step-by-step-for-mac-file-formats/"><u>[Updated] In 2024, The Essential Step-by-Step for Mac File Formats</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-uploading-videos-to-instagram-on-desktop-for-2024/"><u>[Updated] Step-by-Step  Uploading Videos to Instagram on Desktop for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/a-windows-11-software-removal-primer-top-11-approaches-114-chars/"><u>A Windows 11 Software Removal Primer: Top 11 Approaches (114 Chars)</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-narzo-60x-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme Narzo 60x 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-honor-x9a-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor X9a Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-z-flip-5-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy Z Flip 5? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-itel-a60s-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Itel A60s Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gpu-excellence-in-4k-gameplay-experience-for-2024/"><u>GPU Excellence in 4K Gameplay Experience for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-f54-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy F54 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-inside-the-world-of-zdsoft-video-capturing/"><u>In 2024, Inside the World of ZDSoft Video Capturing</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-maze-of-windows-11s-error-codes/"><u>Navigating Through the Maze of Windows 11'S Error Codes</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-itel-a60-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Itel A60 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-a1x-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo A1x 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-redmi-note-13-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Redmi Note 13 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>

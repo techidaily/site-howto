@@ -1,7 +1,7 @@
 ---
 title: Fixes for Apps Keep Crashing on OnePlus 12 | Dr.fone
-date: 2024-03-20 21:40:45
-updated: 2024-03-21 20:22:51
+date: 2024-07-30T10:46:10.911Z
+updated: 2024-07-31T10:46:10.911Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Fixes for Apps Keep Crashing on OnePlus 12
 excerpt: This article describes Fixes for Apps Keep Crashing on OnePlus 12
 keywords: android problems,android guide,OnePlus 12 android issues,fix android problems,android help,OnePlus 12 android help,OnePlus 12 android fix,OnePlus 12 fix android problems
-thumbnail: https://www.lifewire.com/thmb/oj9f0wuX7XGgnL3sQwetCIX5y6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-pngs-wont-open-in-windows-11-41107f6a55db4318b6c2b64437de5b75.jpg
+thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1cb979a99a698fecfb5d28b74.jpg
 ---
 
 ## Fixes for Apps Keep Crashing on OnePlus 12
@@ -18,6 +18,9 @@ The rapid evolution of technology has transformed our smartphones into powerful 
 
 You're not alone if you're an Android user who encounters app crashes. This article will explore ten practical ways to fix apps that keep crashing on Android devices. We will also discuss the causes behind app crashes and how to prevent them.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What Are the Causes Behind Apps Keep Crashing on Android?
 
 There are many reasons for ****the app crashing**** on Android devices. These reasons range from insufficient storage space to bugs and glitches in the apps. Finding out the root cause of an app crashing is important so that you can find the appropriate solution. Discussed below are some of the reasons why your Android apps keep crashing:
@@ -26,10 +29,16 @@ There are many reasons for ****the app crashing**** on Android devices. These r
 
 When a device is low on memory, it may struggle to run multiple apps simultaneously. Each app requires memory to store its data and execute its processes. If the available memory is limited, it can cause apps to crash. That happens because they don't have enough resources to operate properly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Software Compatibility
 
 Android devices come in various models and run different operating system versions. That's why it is essential to use apps compatible with your device. Since there are a lot of Android variants, it is hard to optimize apps for all devices. An app not optimized for an Android version or device leads to crashes or malfunctions.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Outdated Apps
 
 Apps are regularly updated to introduce new features, fix bugs, and enhance performance. Using an outdated version of an app may cause instability or compatibility problems. Since the app is not optimized for the current version of Android, it can keep crashing.
@@ -38,10 +47,17 @@ Apps are regularly updated to introduce new features, fix bugs, and enhance perf
 
 Some apps rely heavily on network connectivity to function properly. They need a stable and strong internet connection to perform all the functions. These apps can crash if there are network connectivity issues, such as a weak Wi-Fi or network outage. Unstable connections can disrupt data transmission, making the app's function challenging.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### App Bugs
 
 Despite rigorous testing, apps can still have bugs or coding errors that lead to crashes. Bugs in apps can occur due to various reasons. It mostly relates to incorrect implementation of features or unexpected user interactions. App developers work to identify and fix these bugs, often releasing updates.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Part 2: How to Fix the Apps Keep Crashing on Android?
 
 Once you discover why your Android apps keep crashing, fixing them becomes a lot easier. However, there is no need to worry even if you cannot locate the problem source. Below we have listed 10 general and specialized solutions to ****fix app crashing****:
@@ -50,8 +66,14 @@ Once you discover why your Android apps keep crashing, fixing them becomes a lot
 
 As mentioned before, some apps rely on the internet to function. If you don’t have an active internet connection, they will not work. To avoid ****the app crashing****, you need to ensure that the internet connection on your device is working. If you use Wi-Fi, check the router and turn Wi-Fi off and on again. In the case of mobile data, try enabling Airplane mode and then disabling it.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![check the internet connection](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Force Stop the Apps Keep Crashing
 
 If your ****apps keep crashing****, you should try force-closing the targeted app and re-opening it. Doing this will flush out minor bugs and glitches from the app. These temporary bugs and glitches can occur due to various reasons and hamper the app's working. Use the following steps to force stop the app that keeps crashing and re-open it:
@@ -76,6 +98,9 @@ Not updating your Android OS for a long while can cause many performance issues 
 
 - ****Step 1:**** Launch the Settings app on your OnePlus 12 and scroll down to select “Software Update.” On the next screen, tap “Download and Install” to look for new updates.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![tap on download and install](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-4.jpg)
 
 - ****Step 2:**** During the update process, ensure you have a stable internet connection. Moreover, your device should be fully charged to avoid any complications.
@@ -86,6 +111,9 @@ Have you tried clearing the cache of the app that keeps crashing? The app cache 
 
 - ****Step 1:**** Navigate to your targeted app icon and long-press it. Now, tap “App Info” from the pop-up menu to access app information.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose app info option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-5.jpg)
 
 - ****Step 2:**** Following this, press "Storage," and on the following screen, hit “Clear Cache.” It will clean the cache for the targeted app.
@@ -104,6 +132,9 @@ Bugs in the app can prove a nightmare and hard to remove from the app. If your *
 
 ![press the install button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7: Check the App Permissions
 
 Sometimes, app crashes can occur due to improper or conflicting permissions. Whenever you install an app on your device, it needs related permission to function. If you have not granted the required permissions, the apps will not function, leading to ****apps keep crashing on Android****. You can check the app permissions using the following procedure:
@@ -114,6 +145,9 @@ Sometimes, app crashes can occur due to improper or conflicting permissions. Whe
 
 - ****Step 2:**** On the App Info screen, press “Permissions” to access all permission settings. Here, ensure that your app has the required permissions.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the app permissions](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-10.jpg)
 
 ### Fix 8: Check and Clear the Phone Storage
@@ -166,6 +200,23 @@ Open Wondershare Dr.Fone on your system after installation and select “System 
 
 Click "Start" to initiate the repair process and provide your device information. You will need to provide device details like Brand, Name, Model, Country, and Carrier. Now, check the “I agree with the warning, and I am ready to proceed” box and tap “Next.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![press the start button](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - ****Step 3: Repair the Apps Keeps Crashing on Android****
@@ -174,6 +225,9 @@ Follow the on-screen instruction to activate Download Mode on your device. Wonde
 
 ![tap on the fix now button](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Conclusion
@@ -192,6 +246,10 @@ We always like to explore every new feature or the features that already exist o
 
 However, this article will provide you various methods to get rid of the Error 495 play store problem that you face and you will not have to depend on any other sources for your solution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Reasons for Google play error 495
 
 Android Apps are most commonly downloaded from the Google Play Store with the help of Wi-Fi or Cellular Data. One may come across many types of errors. Mostly the errors come in during the download or update or installing time. Error 495 occurs when the user isn’t being able to download or install an app over Wi-Fi, but the user is able to do the same thing over cellular data.
@@ -225,6 +283,9 @@ With [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershar
 
 1. Download, install, and launch _Dr.Fone - System Repair (Android)_. Connect your Android to your computer with a USB cable.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix error 495 with Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 3. Select the option "Repair" > "Android Repair", and click "Start".
@@ -233,6 +294,9 @@ With [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershar
 
 5. Select the OnePlus 12 device information like brand, name, model, etc., and confirm your selection by typing in "000000".
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fix error 495 by select device info](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 7. Press the stated keys to boot your Android in download mode to download the firmware as instructed.
@@ -241,8 +305,15 @@ With [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershar
 
 9. After the firmware is downloaded, the program will automatically start to repair your Android.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix error 495 automatically](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Solution 2: Clear the Google Service Framework cache to Fix error 495
 
 Step 1:
@@ -253,6 +324,9 @@ Step 2:
 
 Click on ‘All Apps’ or ‘Swipe to All’ and the open the section named “Google Services Framework App”
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fix error 495-clear app cache](https://images.wondershare.com/drfone/article/2017/05/14952134099065.jpg).
 
 STEP 3:
@@ -273,6 +347,9 @@ STEP 2:
 
 Once the Settings section is open. A lot of further sections will pop up. No find the section named “Application Manager” or “Apps”. After locating it, tap on that section.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix error 495-application](https://images.wondershare.com/drfone/article/2017/05/14953043162812.jpg)
 
 STEP 3:
@@ -285,6 +362,9 @@ After reaching the “ALL” section tap the touch button to open menu/propertie
 
 There’s no need to be alarmed because on clicking the reset option, the apps won’t be deleted but it is only going to re-set them. And hence solving the Error 495 created in the Google Play.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix error 495-application manager](https://images.wondershare.com/drfone/article/2017/05/14952139272011.jpg)
 
 ## Solution 4: Fix Error Code 495 by installing a VPN app
@@ -305,6 +385,9 @@ Open Google Play Store and Download any app without the Error Code 495 coming in
 
 This fix will work for most of the Google Play Errors and not just only The Error Code 495.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 5: Remove your Google Account & Reconfigure it to fix error 495
 
 Removing the Google account and re-configuring it is a very common method adopted to get rid of the Error 495. Adopt the following steps to complete this method.
@@ -313,6 +396,9 @@ STEP 1:
 
 Go to the “Settings” section of your device. Like it was mentioned before, different devices and different users will have the placement of the settings section in a different place.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix error 495-settings](https://images.wondershare.com/drfone/article/2017/05/14953036986598.jpg)
 
 STEP 2:
@@ -329,6 +415,10 @@ STEP 4:
 
 Inside The Google section, there’ll be an option called “Remove Account”. Tap on that section, to remove your google account.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![fix error 495-remove account](https://images.wondershare.com/drfone/article/2017/05/14953038588742.jpg)
 
 STEP 5:
@@ -345,6 +435,9 @@ STEP 1:
 
 Go to the “Settings” section into your mobile device. The settings can be accessed by scrolling down and pulling down the drop-down menu and most likely the settings app will be on the top-right corner. Otherwise, it will be found after opening the app drawer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fix error 495-settings](https://images.wondershare.com/drfone/article/2017/05/14953039549767.jpg)
 
 STEP 2:
@@ -381,6 +474,11 @@ Luckily for your, multiple ways are available to resolve this issue. This articl
 
 Answering what causes OnePlus 12 screen unresponsiveness is difficult. Many reasons, ranging from minor bugs to serious hardware issues, can cause it. To find out the exact or near exact reason, you will have to review your device's activity before this issue occurs. You can use the following common reasons behind the ****OnePlus 12 6T touch screen not working**** as the basis of your investigation:
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### 1\. Touchscreen Calibration
 
 Excessive smartphone use can cause the touchscreen to go out of the required settings. It means until the touch screen is not recalibrated properly, the touch not working issues will continue to pop up.
@@ -389,14 +487,33 @@ Excessive smartphone use can cause the touchscreen to go out of the required set
 
 If your device's battery is damaged or is at the end of its lifespan, it can cause the touch screen not responding issues. Moreover, the low battery and issue with the charging port can also lead to this problem.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Corrupted System Files
 
 The presence of corrupted system files is also a significant cause of such issues. These corrupted files can also lead to serious performance issues on your phone.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Conflicting Settings
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part 2: The Common Solutions to Solve a OnePlus 12 Screen Unresponsive
 
 Fixing the ****OnePlus 12screen not working**** is easy as long as it is not a serious hardware issue. While there are multiple ways to solve this problem, we have chosen the 6 most common and easy solutions. Listed below are the 6 common solutions to solve a OnePlus 12 screen unresponsive:
@@ -407,8 +524,14 @@ As with any other issue or device, the first fix you should always try first is 
 
 ****Instruction:**** Press and hold the “Power” button for a couple of seconds until it turns off. Wait a few moments and then use the “Power” button to turn on the OnePlus 12 device. In some of the OnePlus 12 devices, you also have to use the “Volume Down” button along with the “Power” button to restart the OnePlus 12 device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### Solution 2. Check the Charging Port and Battery
 
 The issues with the battery of your OnePlus 12 5 can also lead to ****OnePlus 12 not working****. It can be due to your device's low or near-empty battery. While in some cases, serious issues with the battery can also be behind this problem. Similarly, the reason behind your phone's touch not working can be charging port issues.
@@ -423,6 +546,9 @@ It is an excellent option if your OnePlus 12 device's touch is not working due t
 
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution 4. Wipe the Cache of Your OnePlus 12 Device
 
 A common reason for ****OnePlus 12 Nord being stuck on the loading screen**** is the filled cache partition. If you do not clean out the cache partition of your OnePlus 12 device, its performance will degrade. As a result, your device will experience issues like the touch screen not working or getting stuck at the loading screen. Here is how you can clear the cache of your OnePlus 12 device:
@@ -433,12 +559,19 @@ A common reason for ****OnePlus 12 Nord being stuck on the loading screen**** i
 
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
 
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### Solution 5. Reset to Factory Settings
 
 Sometimes, clearing the cache partition doesn't help resolve the touchscreen issue. In that case, You have to factory reset your OnePlus 12 device. It is the best and last solution if other fixes haven't worked and you can't pinpoint the reason. Factory resetting your OnePlus 12 will delete all phone data. Thus, you should create a proper backup before trying this fix. Follow these steps to factory reset your OnePlus 12 in no time:
@@ -451,10 +584,17 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Solution 6. Replace the Old Screen with A New Screen
 
 If none of the above-mentioned fixes have worked so far, you should replace the touch screen. Replacing the touch screen is recommended in case of hardware and severe software issues. However, it can be quite an expensive fix as new touch screens aren't cheap. The prices for new touchscreens differ depending on the model. These prices start from $20 and go up to hundreds of dollars.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to Avoid OnePlus 12 Screen being Unresponsive?
 
 Protecting your OnePlus 12 device against system issues like touch not working is not difficult. While it is true that you can't 100% avoid such problems, the risks can still be reduced to a great extent. To prevent your OnePlus 12 screen from being unresponsive, here are some tips you can follow:
@@ -466,8 +606,15 @@ Protecting your OnePlus 12 device against system issues like touch not working i
 
 A new version of Dr.Fone is expected to release in the latter half of this month. The new version will include many improvements, advanced features, and increased device support. Furthermore, it will also have a better and more user-friendly interface.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone phone toolbox](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 To sum up this article, it can be said that issues like ****OnePlus 12 not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
@@ -487,3 +634,50 @@ To sum up this article, it can be said that issues like ****OnePlus 12 not worki
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-how-to-use-google-photos/"><u>[New] How to Use Google Photos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-from-gamer-to-filmmaker-sims-gameplay-recording/"><u>[New] In 2024, From Gamer to Filmmaker  Sims Gameplay Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-livestream-platform-push-facebook-vs-youtube-and-periscope/"><u>[New] Livestream Platform Push  Facebook Vs. YouTube & Periscope</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-to-alleviate-vr-motion-woes/"><u>[New] Strategies to Alleviate VR Motion Woes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716036873402-new-unlock-the-full-potential-of-skype-written-in-spanish-but-not-widely-known-among-english-speakers-it-was-used-as-a-basis-for-creating-new-models-like-be/"><u>[New] Unlock the Full Potential of Skype’ Written in Spanish, but Not Widely Known Among English Speakers. It Was Used as a Basis for Creating New Models Like BERT and GPT-3. How Can I Access This Model, In 2024 Is It Free to Use?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-streamline-and-simplify-a-user-friendly-approach-to-shorts-thumbnails/"><u>[Updated] 2024 Approved  Streamline & Simplify  A User-Friendly Approach to Shorts Thumbnails</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-5-ios-apps-for-seamless-psp-gaming-experience/"><u>[Updated] Top 5 iOS Apps For Seamless PSP Gaming Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mememirth-your-joy-jolt-app/"><u>2024 Approved  MemeMirth  Your Joy Jolt App</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-a15-4g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy A15 4G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audience-allure-identifying-the-top-6-video-types/"><u>Audience Allure  Identifying the Top 6 Video Types</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-practices-for-getting-high-quality-pictures-without-spending-money-for-2024/"><u>Best Practices for Getting High Quality Pictures Without Spending Money for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-poco-x6-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Poco X6 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-poco-m6-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Poco M6 Pro 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-avi-video-concatenators-top-10-tools-for-smooth-joining-for-2024/"><u>Free AVI Video Concatenators Top 10 Tools for Smooth Joining for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/freshen-your-graphics-experience-with-rx-5500xt-updates/"><u>Freshen Your Graphics Experience with RX 5500XT Updates</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-8-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 8 to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-p40-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Itel P40?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-defy-2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Defy 2 FRP Bypass</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-elevating-your-music-collection-advanced-mp3-file-editing-tips-and-tricks/"><u>New Elevating Your Music Collection Advanced MP3 File Editing Tips and Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-hot-40-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Hot 40 Pro Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-m14-4g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy M14 4G Users</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-honor-magic-6-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor Magic 6 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-v27-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo V27 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oppo-a79-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo A79 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>

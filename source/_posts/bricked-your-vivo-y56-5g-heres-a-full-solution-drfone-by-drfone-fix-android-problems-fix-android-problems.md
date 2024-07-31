@@ -1,7 +1,7 @@
 ---
 title: Bricked Your Vivo Y56 5G? Heres A Full Solution | Dr.fone
-date: 2024-03-18 12:14:21
-updated: 2024-03-21 14:46:47
+date: 2024-07-30T09:50:01.465Z
+updated: 2024-07-31T09:50:01.465Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Bricked Your Vivo Y56 5G? Heres A Full Solution
 excerpt: This article describes Bricked Your Vivo Y56 5G? Heres A Full Solution
 keywords: android help,Vivo Y56 5G android problems,Vivo Y56 5G android tips,android repair,android tips,Vivo Y56 5G android troubleshooting,Vivo Y56 5G android fix,Vivo Y56 5G android issues,android solutions,android troubleshooting,android support
-thumbnail: https://www.lifewire.com/thmb/dXcXyOjh5f14j9Nzv8d0qtr4jHE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-850120538-4d2af54c23a641c8a5f2e00ef7a9aa37.jpg
+thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364beb1c1710fc99d1f9d71ae26e.jpg
 ---
 
 ## Bricked Your Vivo Y56 5G? Here’s A Full Solution
@@ -37,6 +37,18 @@ World's 1st Android smartphone and tablet recovery software.
 
 **4,771,974** people have downloaded it
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Use Dr.Fone - Data Recovery (Android) to Rescue Data from a Bricked Android
 
 If your device is completely unresponsive, don’t worry Dr.Fone can help you get all the data back. Simply follow these steps to gain access to the Vivo Y56 5G device and recover all your data.
@@ -47,14 +59,23 @@ Step 1: Download and install Wondershare Dr.Fone to your PC. Launch the program 
 
 Step 2. Select the issue type for your phone. Choose from "Touch screen not responsive or cannot access the phone" or "Black/broken screen".
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-Select the issue type](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
 Step 3: In the next step, you need to select your device model. If you don’t know the model of your device click on “How to check the Vivo Y56 5G device model” to get help.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-select your device model](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
 
 Step 4: The next screen will provide instructions on how to enter “Download mode.” Connect the Vivo Y56 5G device to your PC once it is in “Download Mode”
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-Download Mode](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
 
 Step 5: The program will begin an analysis of your device and then download the recovery package.
@@ -63,6 +84,9 @@ Step 5: The program will begin an analysis of your device and then download the 
 
 Step 6: Then Dr.Fone will display all the recoverable file types. You can click on the files to preview them. Select the ones you need and click on "Recover to Computer" to save them to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-click on Recover](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
 <iframe width="750" height="415" src="https://www.youtube.com/embed/m12WULZ-6aA" frameborder="0" allowfullscreen=""></iframe>
@@ -91,12 +115,18 @@ Step 2: Go to “Advanced” which will bring up a number of options to choose f
 
 Step 3: One of the options should be “Wipe Dalvik cache” select this option and then follow the instructions. When finished select “Go Back” to return to the main menu.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-Go Back](https://images.wondershare.com/drfone/others/fix-bricked-android-02.jpg)
 
 Step 4: Go to the “Wipe Cache Partition” and select it.
 
 Step 5: Go to “Wipe data/ factory reset.”
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-Wipe data/ factory reset](https://images.wondershare.com/drfone/others/fix-bricked-android-03.jpg)
 
 Step 6: Finally reboot the Vivo Y56 5G device by selecting “Reboot system now.” This should fix the problem. You may also want to flash the same ROM or try a new one.
@@ -109,6 +139,9 @@ Sometimes these errors can be caused if the ROM installation was performed via S
 
 If all else fails, it is time to returning the Vivo Y56 5G device to the vendor if your warranty is still applicable.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Useful Tips to avoid Bricking your Android Phone
 
 If you are planning on installing custom ROM you need to install Custom Recovery. This will enable you restore the Vivo Y56 5G device to its original settings should anything go wrong and hopefully help you avoid bricking your device.
@@ -155,6 +188,23 @@ The Vivo Y56 5G Flash Tool is a superhero for various situations. Here are some 
 - **Bug Fixes.**Got pesky bugs or glitches? The Flash Tool can replace corrupted software to make your phone behave.
 - **Performance Enhancement.** If your phone feels sluggish, the Flash Tool can boost its speed by flashing a new OS.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ### How To Use the Vivo Y56 5G Flash Tool To Unbrick a Vivo Y56 5G Phone
 
 Now that you know what the Vivo Y56 5G Flash Tool is all about, it's time to learn how to use it. If you've bricked your Vivo Y56 5G phone, follow the steps below:
@@ -174,16 +224,26 @@ Now that you know what the Vivo Y56 5G Flash Tool is all about, it's time to lea
 
 - **Step 5.** Click the **refresh** button until the flash tool recognizes your device. Then, click **flash** to replace the firmware. A text saying "success" should appear under the result column.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![xiaomi flash tool success screen](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-06.jpg)
 
 Congratulations! Your phone should be up and working after following these steps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 3. Method 2: [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) System Repair – Your One-Stop Shop for Unbricking Your Vivo Y56 5G Phone
 
 If you gave the Vivo Y56 5G Flash Tool a shot and your phone is still not cooperating, don't lose hope. Sometimes, the magic touch needs a slight variation. That's where Dr.Fone comes into play. This dedicated software can work wonders when fixing various phone problems. It can even help in cases of **bricked Vivo Y56 5G** phones involving software or firmware issues.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Repair Android System Errors without Any Trouble.
@@ -196,6 +256,14 @@ Repair Android System Errors without Any Trouble.
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![wondershare dr.fone interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 One of Dr.Fone's most astonishing powers is its "System Repair" feature. This is where the real magic happens. If your Vivo Y56 5G phone is bricked, it can help repair the underlying software glitches that caused the issue. Moreover, Dr.Fone brings a toolbox of features to the table, making it more than just a one-trick pony. Here are its key features:
@@ -205,6 +273,9 @@ One of Dr.Fone's most astonishing powers is its "System Repair" feature. This is
 - **System Backup & Restore:**Fone can help you create a backup of your phone's system and restore it when needed.
 - **Unlocking Tools:**If you're locked out of your phone, Dr.Fone can help you regain access.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How To Use Dr.Fone System Recovery Feature To Unbrick a Vivo Y56 5G Phone
 
 Now that you know about Dr.Fone, it's time to understand how to use it. Hopefully, it can save your **bricked Vivo Y56 5G** phone from its problems. Follow the steps below:
@@ -212,6 +283,9 @@ Now that you know about Dr.Fone, it's time to understand how to use it. Hopefull
 - **Step 1.** DownloadDr.Fone from its [official website](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/), and launch it on your computer. After entering the **Toolbox** menu from the left panel, click **System Repair.** Make sure that your Vivo Y56 5G phone is connected.
 - **Step 2.** Select **Android** on the next screen.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![wondershare dr.fone phone os chooser](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 - **Step 3.** Initiate the Android System Repair by clicking **Start**.
@@ -220,20 +294,35 @@ Now that you know about Dr.Fone, it's time to understand how to use it. Hopefull
 
 - **Step 4.** Confirm your device details. You can edit any details that might be wrong.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![wondershare dr.fone device details confirmation](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 5.** Put your phone into Download mode. Follow the guidelines for phones with or without home buttons. Your phone will begin downloading the dedicated firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare dr.fone download mode tutorial](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - **Step 6.** After downloading the firmware, verify and proceed with the installation by clicking **Fix Now**. Confirm firmware installation by typing "000000" into the text box in the appearing window. Click **Confirm** afterward.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare dr.fone initiate system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 7.** After the process is finished, your phone should now be okay. Click **Done**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Part 4. Best Practices/Tips Before Unbricking Your Phone
 
 Before diving into the unbricking process, you must arm yourself with some tips and precautions to ensure your recovery journey is as smooth as possible. Here's what you need to know:
@@ -310,6 +399,9 @@ Step 1: It’s essential that you put the Android device under ‘Download’ mo
 
 - If the ‘Home’ button is not there, you got to turn down the Vivo Y56 5G device and altogether hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ keys between 5-10 seconds. Soon after you release the keys, tap the ‘Volume Up’ button for entering the ‘Download’ mode.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix Android phone won’t charge for a phone without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2: Click ‘Next’ to start downloading the Android firmware.
@@ -318,10 +410,19 @@ Step 2: Click ‘Next’ to start downloading the Android firmware.
 
 Step 3: Now, Dr.Fone - System Repair (Android) would verify the firmware and then start repairing the Android system on its own. It will ultimately fix your ‘why won't My Vivo Y56 5G charge’ trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Android phone won’t charge issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. 10 common ways to fix Android won't charge
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Check/replace charging cable
 
 Charging cables fray or become defunct after prolonged usage. Therefore, it is advised to always use the Vivo Y56 5G device’s original charging cable or purchase a good quality charging cord, which doesn't damage your device or your adapter.
@@ -334,18 +435,33 @@ It is also very commonly observed that the charging end of the cable which gets 
 
 The charging port in your device is a small opening where the charging end of the cabbie is inserted for the current to flow to the phone/tablet. Very often, we notice that the charging port gets blocked with tiny particles of dirt. The charging port might also get clogged if dirt and dust get accumulated in it, preventing the sensors from receiving and forwarding the current to the Vivo Y56 5G device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![check charging port](https://images.wondershare.com/drfone/article/2017/06/14985459938188.jpg)
 
 The best way to take this problem is to clean the port with a blunt pin or a soft bristle unused toothbrush. Make sure you clean the port gently and do not damage it or its sensors.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![clean charging port](https://images.wondershare.com/drfone/article/2017/06/14985460097930.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Check/replace charging adapter
 
 This method is fairly simple, and all you need to do is check whether or not the charging adapter is working properly as sometimes, the adapter itself is to be blamed for the charge. To make sure that you are not using a defective adapter, connect your charging cable/USB to another adapter. If your device charges normally, it means there is a problem is with your adapter, and you must replace it at the earliest to solve My Vivo Y56 5G won't charge the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![check charging adapter](https://images.wondershare.com/drfone/article/2017/06/14985010302112.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Try another power source
 
 This technique is more like a quick trick. It means to switch from one power source to another or use a more efficient and suitable power source. Laptops and PCs charge slower than a direct power source, i.e., a wall socket. Sometimes, the charging speed is slower, and the battery is draining. In such a scenario, choose to charge your device by directly plugging it into a socket on the wall to never experience My Vivo Y56 5G won't charge problem.
@@ -358,6 +474,9 @@ Follow the steps given below to clear your device’s cache:
 
 • Visit “Settings” and find “Storage”
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![phone storage](https://images.wondershare.com/drfone/article/2017/06/14985460357571.jpg)
 
 • Now tap on “Cached Data”.
@@ -382,6 +501,10 @@ Restarting a device is simple and can be done by following the steps given below
 
 To restart your device, you may also press the power button for about 20-25 seconds for the phone/tablet to automatically reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### 7\. Download and install the Ampere App
 
 The Ampere app can be downloaded from the Google Play Store. It is very helpful to fix the why won't my charge error as it gives you real-time information about your device’s battery consumption, charging status, and other essential data.
@@ -390,12 +513,18 @@ If the App gives information in green color, it means all is wetland your device
 
 ![charging status](https://images.wondershare.com/drfone/article/2017/06/14985011165678.jpg) ![full charged](https://images.wondershare.com/drfone/article/2017/06/14985011377424.jpg) ![discharging](https://images.wondershare.com/drfone/article/2017/06/14985011663339.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. Install software updates
 
 Installing your Android version updates is a good idea as the software is the interface that receives charge from the charging port sensors and gives a command for the phone/tablet to charge. People often continue to use older OS versions, which cause trouble and prevent the Vivo Y56 5G device from charging.
 
 To check for and install updates on your device, you must be connected to WiFi or a cellular network. Next, visit “Settings” and select “About device”. Now click on “Software Update”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![android software update](https://images.wondershare.com/drfone/article/2017/06/14985460584295.jpg)
 
 If there is an update available, you will be prompted to download it. Just follow the instructions given before you install a brand new Android OS version on your device.
@@ -426,6 +555,10 @@ Note: Once the factory reset process is complete, your device will automatically
 
 This should be your last resort to fix My Vivo Y56 5G won't charge problem, and you should only attempt to replace your battery if none of the other techniques work. Also, please consult a technician before purchasing and installing a new battery in your device as different phones and tablets have a different type of battery requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![replace phone battery](https://images.wondershare.com/drfone/article/2017/06/14985013005679.jpg)
 
 Finally, fixing the phone won't charge the problem is simple, and therefore there is no need for you to worry as you are not the only one experiencing such an issue. Other Android users have tried, tested, and recommended the methods given above to solve why won't My Vivo Y56 5G charge or Vivo Y56 5G tablet won't charge error. So go ahead and try them out now.
@@ -445,3 +578,42 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-best-video-editor-for-recorded-webcam-videos/"><u>[New] In 2024, Best Video Editor for Recorded Webcam Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-elevate-video-calls-browse-through-our-top-5-hd-webcams-and-mics/"><u>[Updated] 2024 Approved  Elevate Video Calls - Browse Through Our Top 5 HD Webcams & Mics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sci-fis-virtual-frontiers-top-10-metaverse-escapes/"><u>[Updated] Sci-Fi's Virtual Frontiers  Top 10 Metaverse Escapes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-discovering-the-power-of-fraps-in-video-capture/"><u>2024 Approved  Discovering the Power of Fraps in Video Capture</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-c51-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme C51 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-y56-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo Y56 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y27s-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y27s System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-comprehensible-guide-to-adding-images-on-instagram/"><u>A Comprehensible Guide to Adding Images on Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-s23plus-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy S23+ Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-tecno-pova-6-pro-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Pova 6 Pro 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-15-pro-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 15 Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-lava-yuva-2-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Lava Yuva 2 Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-12-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme 12 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-note-12r-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi Note 12R Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-g24-power-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola G24 Power 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/grasping-the-essence-of-ru-phonology/"><u>Grasping the Essence of RU Phonology</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-enjoy-youtube-on-iphoneipad-with-the-leading-ios-fb-video-downloader/"><u>In 2024, Enjoy YouTube on iPhone/iPad with the Leading iOS FB Video Downloader</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-s24-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy S24 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-pova-6-pro-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pova 6 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-13t-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi 13T Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-poco-m6-pro-4g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Poco M6 Pro 4G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tutorial-windows-movie-maker-for-effective-animation-designs/"><u>Tutorial  Windows Movie Maker for Effective Animation Designs</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-v30-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo V30 Pro? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-xiaomi-mix-fold-3-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Mix Fold 3 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>

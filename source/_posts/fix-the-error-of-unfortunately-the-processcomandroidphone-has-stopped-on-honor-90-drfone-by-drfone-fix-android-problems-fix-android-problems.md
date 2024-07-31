@@ -1,7 +1,7 @@
 ---
 title: Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor 90 | Dr.fone
-date: 2024-03-18 11:12:49
-updated: 2024-03-21 11:32:47
+date: 2024-07-30T10:26:49.996Z
+updated: 2024-07-31T10:26:49.996Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor 90
 excerpt: This article describes Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor 90
 keywords: android repair,Honor 90 android fix,fix android problems,Honor 90 android solutions,android guide,Honor 90 fix android problems,android help,Honor 90 android help,android tips,android troubleshooting,Honor 90 android troubleshooting
-thumbnail: https://www.lifewire.com/thmb/dlXSXWUVnvtFpXfW22z68Mqdr1g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TwitterVideoDownload-5b605aaac9e77c002c3a42f3.jpg
+thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c84a7394663cf2c5a8a40dbef.jpg
 ---
 
 ## Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor 90
@@ -18,10 +18,16 @@ Nowadays, smartphones are integral to life. They serve as your communication lif
 
 This beginner's guide is here to help you understand the causes of this problem. It will also provide you with practical "unfortunately the phone has stopped solutions."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Part 1: Learn Why Unfortunately the process.com.android.phone Has Stopped
 
 The error message "****Unfortunately,**** ****the process com.android.phone has stopped****" typically appears on Android devices when there is an issue with the Phone app. Issues with underlying processes responsible for handling phone-related functions are also a cause.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![process com.android.phone has stopped error](https://images.wondershare.com/drfone/article/2023/06/process-com-android-1.jpg)
 
 It can prevent you from making or receiving phone calls, accessing contacts, or using other phone-related features. Following are some of the possible reasons why you may encounter this error:
@@ -30,6 +36,13 @@ It can prevent you from making or receiving phone calls, accessing contacts, or 
 
 When you update your device's OS or the Phone app itself, it is possible to encounter bugs or compatibility issues. These issues can lead to the Phone app crashing and displaying this error message. Sometimes, the updated software may not work with the existing configurations of the Phone app. It results in instability which causes this error.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### App Cache/Data Corruption
 
 The Phone app relies on cached data and stored settings to function properly. If the cache or data of the app becomes corrupted, it can cause the Phone app to malfunction. The reasons include interrupted app installations or updates, improper shutdowns, or software conflicts. As a result, you may see the error message indicating that the process com.android.phone has stopped.
@@ -38,10 +51,16 @@ The Phone app relies on cached data and stored settings to function properly. If
 
 Android devices need sufficient memory (RAM) and processing power to run apps smoothly. If your device is running low on memory or processing capacity, it may struggle to handle the Phone app and its processes. It can lead to crashes and the error message. Running many resource-intensive apps at the same time also causes this issue. Other reasons include too many background processes that contribute to this error.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conflicting Third-Party Apps
 
 Third-party apps installed on your device can sometimes conflict with the Phone app. These conflicts can occur for various reasons, such as incompatible app versions. The software bugs within the third-party apps or configurations can also clash with the Phone app. Such conflicts can disrupt the normal operation of the Phone app. The result of all this trigger the error message.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Software or Firmware Glitches
 
 Software glitches or firmware issues can occasionally occur in Android devices. These glitches can affect the functioning of system processes, including the Phone app. They may arise from programming errors and system inconsistencies. Sometimes unexpected interactions between different OS components can also lead to this error.
@@ -50,6 +69,9 @@ Software glitches or firmware issues can occasionally occur in Android devices. 
 
 Having been denied access to your Phone can cause a lot of issues. Luckily, many simple fixes to the "****process.com.android.phone has stopped****" error exist. These solutions have worked for many users, and by following them, you may be able to resolve the issue too. Given below are the top 8 fixes to resolve this error and restore your device's phone functions:
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Restart/Reboot your Android Device
 
 One of the simplest yet effective solutions to tackle the "Unfortunately, ****the process com.android.phone has stopped****" error is to reboot your Honor 90. Restarting your device can often resolve temporary software glitches or conflicts. This fix requires no technical expertise.
@@ -58,14 +80,23 @@ So, it is worth trying before moving on to more complex solutions. Follow the gu
 
 - ****Step:**** Long-press your Honor 90's "Side" key and wait for the power menu to appear. Here, select "Restart" to initiate the reboot of your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the restart option](https://images.wondershare.com/drfone/article/2023/06/process-com-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Re-insert the SIM Card
 
 There is also a chance that the reason you are seeing this error message relates to the SIM card. A loose or improperly inserted SIM card can cause disruptions in the phone's communication functions. As a result, you see the "****Unfortunately, the process com.android.phone has stopped****" error.
 
 To fix this error, you can remove the SIM card and then re-insert it. If the issue is actually related to a SIM card, the issue will get resolved after you resolve the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reinsert the sim card](https://images.wondershare.com/drfone/article/2023/06/process-com-android-3.jpg)
 
 ### Fix 3: Clear the Cache and Data of the Phone App
@@ -76,12 +107,21 @@ Once the corrupted data is gone, it will restore the Phone app to proper functio
 
 - ****Step 1:**** Find the Phone app on your Honor 90 and long-press its icon. A small menu will pop up where you need to select "App Info."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![access phone app settings](https://images.wondershare.com/drfone/article/2023/06/process-com-android-4.jpg)
 
 - ****Step 2:**** It will lead you to detailed information about the Phone app. Here, press "Storage," and following that, you will see the "Clear Cache" and "Clear Data" options. Use them in the same order to clear the cache and data of the Phone app.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![clear phone app cache and data](https://images.wondershare.com/drfone/article/2023/06/process-com-android-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Disable Automatic Updates Feature
 
 In some cases, this error may occur due to conflicts or compatibility issues with the automatic app updates feature. The automatic update on your Honor 90 keeps your apps updated. Disabling this feature temporarily can help resolve the problem.
@@ -90,6 +130,9 @@ As a result, you will be able to use the Phone app without interruptions. To dis
 
 - ****Step 1:**** Navigate to the Google Play Store app on your Honor 90 and launch it. Next, tap on the profile icon in the screen's top right corner. From the options presented, select "Settings."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![open the play store settings](https://images.wondershare.com/drfone/article/2023/06/process-com-android-6.jpg)
 
 - ****Step 2:**** In Settings, press "Network Preferences" to expand the option. Now, open the "Auto-update apps" settings and enable the "Don't auto-update apps" option.
@@ -116,6 +159,9 @@ It is worth considering the SIM Toolkit is a potential source of the problem. Th
 
 - ****Step 1:**** On your Honor 90, find the SIM Toolkit app. After finding it, press and hold its icon until a short menu appears. Choose "App Info" from the available options to access its settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access sim toolkit settings](https://images.wondershare.com/drfone/article/2023/06/process-com-android-10.jpg)
 
 - ****Step 2:**** Now, you need to tap "Storage" to proceed. On the next screen, first, tap "Clear Cache" to clean the cache, and later press "Clear Data."
@@ -134,8 +180,14 @@ So, it's crucial to back up your important files before proceeding with this fix
 
 - ****Step 2:**** After tapping "Factory data reset," hit the "Reset" option. Next, enter your Honor 90 PIN to confirm the process, and use "Delete All" to start the factory reset process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![press the delete all button](https://images.wondershare.com/drfone/article/2023/06/process-com-android-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 8: Try Wondershare Dr.Fone - The Best and Most Reliable Android System Repair Tool
 
 It must be a frustrating experience to try one solution after the next and not be able to resolve the issue. In such situations, the best thing you can do is find a tool that can resolve all Android system problems. While there are many options available online, not all are great. The best Android system repair tool currently available is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/).
@@ -186,6 +238,9 @@ Did your Honor 90 decide to go on vacation and refuses to turn on? If your Honor
 
 Here, we hope we are able to give you a checklist of reasons behind this issue and the possible steps you can take to rectify it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Part 1: Common Reasons That Your Honor 90 Won't Turn On
 
 If you cannot find any reason why your Honor 90 will not switch on, here are some possible reasons:
@@ -204,6 +259,9 @@ Note: For now, the tool can rescue data from broken Android only if your phone i
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html)
 
 World's 1st data retrieval software for broken Android devices.
@@ -237,6 +295,10 @@ Opt for "Touch screen not responsive or cannot access the phone" or "Black/broke
 
 Look up for your device – pick the Honor 90 device Name and Device Model. Advance by clicking on the Next button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
 
 **Step 4: Go into your Honor 90’s Download Mode.**
@@ -249,16 +311,25 @@ The data recovery tool will guide you on how you can go into your Honor 90’s D
 
 Using the provided USB cable, attach your Honor 90 to your computer – the data recovery tool should be able to discover your device automatically and scan it for recoverable data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
 
 **Step 6: Review and Retrieve the Data from Broken Android Phone.**
 
 Wait for the program to finish scanning the phone – once completed, you will be able to get a list of recoverable files. You can have a preview of the file by highlighting them. Tick the box next to the file name and click on Recover to start retrieving the files and save them in the destination of your choosing.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ShpCFggyBvs"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Part 3: Android Phone Won't Turn On: **One Click Fix**
 
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
@@ -285,6 +356,15 @@ Prior to fixing the Android phone will not switch and getting things back in act
 
 Step 1: Run Dr.Fone on your computer once the installation is complete and tap the ‘Repair’ option form the interface. Now, connect your Android mobile with the computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![fix Android Phone not turn on by repairing system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
@@ -313,6 +393,9 @@ Step 2: Hitting the ‘Next’ key will allow you to download firmware and proce
 
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![fixed Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Part 4: Android Phone Won't Turn On: **Common Fix**
@@ -327,6 +410,9 @@ To try fixing an Android Phone that won’t turn on, follow these steps:
 6. Should the first five steps do not work for you, perform a hard reset. Do take note that each device will have a different way to do so and that data that is stored locally on the phone will be deleted.
 7. Send your Honor 90 to the repair shop should none of these steps work.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Useful Tips to Protect Your Honor 90
 
 There are several reasons as to why your Honor 90 won’t turn on. The problem could be a hardware or software issue which could be prevented. Here are some useful tips to protect your Honor 90.
@@ -372,6 +458,9 @@ To have the right idea about the problem, we have listed all the reasons of it o
 
 Now that we know the reasons, let us also learn about the solutions that will guide you to resolve the error code 505.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: 6 Solutions to fix error code 505
 
 Any error that occurs during downloading or installation process not only hinders with the new app but also takes a large amount of our time to solve the issue. To check that, let us go through the 6 solutions one by one.
@@ -382,6 +471,9 @@ The most common cause for error code 505 pop-up is that Android system files tha
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One click to repair Android system and make error code 505 disappear
@@ -407,6 +499,9 @@ Step2: Select the "Android Repair" among the 3 tabs, connect your Android to PC,
 
 Step3: Choose the correct device details from each field, confirm them and continue.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select correct device details to fix error code 505](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step4: Boot your Android in download mode, then start downloading the firmware of your device.
@@ -415,10 +510,16 @@ Step4: Boot your Android in download mode, then start downloading the firmware o
 
 Step5: After the Honor 90 device firmware is downloaded, the tool will start repairing your Android.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![fix error code 505 when firmware is downloaded](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 Step6: When your Android is repaired, the error code 505 will disappear.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![error code 505 fixed successfully](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 #### **Solution 2: Check whether Download Manger is ON or not**
@@ -478,6 +579,9 @@ Steps to Cache memory of Google Play Store
 
 It will clear the cache of Google play store
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![app info](https://images.wondershare.com/drfone/article/2017/06/14976276779206.jpg)
 
 Clearing the cache memory remove the extra temporary memory, thus free up space for the further installation process.
@@ -497,6 +601,9 @@ Due to continuous updation of new apps and services Google Play store used to be
 - \>A Message will appear ‘Change play store app to factory version’- Accept it
 - \>Now Open Google play store>It will refresh the updates within 5 to 10 minutes(So you need to keep your internet connection on while Google play store is updating its store for new updates.)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Click on Uninstalling Updates](https://images.wondershare.com/drfone/article/2017/06/14976277917398.jpg)
 
 #### **Solution 6: Third party App**
@@ -505,6 +612,9 @@ In the case, error 505 occur due to the installation of two or more apps with du
 
 Download link: [https://www.luckypatchers.com/download/](https://www.luckypatchers.com/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![lucky patcher](https://images.wondershare.com/drfone/article/2017/06/14976278389200.jpg)
 
 Note: If still, you are in the state of trouble to solve the issue of error code 505 then Google Play help center is here to look out all troubles related to app store and its service. You can check out the details by visiting the following link:
@@ -513,6 +623,9 @@ Note: If still, you are in the state of trouble to solve the issue of error code
 
 Or call them at their call center number regarding the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![call center number](https://images.wondershare.com/drfone/article/2017/06/14976278809798.jpg)
 
 ## Bonus FAQ about Google Play error
@@ -558,3 +671,72 @@ Not being able to download or install the app is very frustrating and time-consu
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-a-quick-dive-into-obs-zoom-fusion-steps/"><u>[New] 2024 Approved  A Quick Dive Into OBS-Zoom Fusion Steps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-complete-guide-to-registering-with-youtube-for-2024/"><u>[New] A Complete Guide to Registering with YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-cross-device-the-ultimate-tutorial-for-scraping-gifs-from-fb/"><u>[New] Cross-Device  The Ultimate Tutorial for Scraping GIFs From FB</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-ig-reel-secrets-pausing-time-for-creative-impact/"><u>[New] IG Reel Secrets  Pausing Time for Creative Impact</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-unlocking-video-content-potential-integrating-interactive-features-in-youtube-cards/"><u>[New] In 2024, Unlocking Video Content Potential  Integrating Interactive Features in Youtube Cards</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-joke-factory-imgur-edition/"><u>[Updated] Joke Factory  Imgur Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-picks-the-finest-cardboard-compatible-virtual-reality-titles/"><u>[Updated] Prime Picks  The Finest Cardboard-Compatible Virtual Reality Titles</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-demystifying-the-art-behind-live-video-thumbnails/"><u>2024 Approved  Demystifying the Art Behind Live Video Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-guidelines-instagram-and-intellectual-property/"><u>2024 Approved  Harmonious Guidelines  Instagram & Intellectual Property</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-can-i-see-all-my-connected-peers-shared-vids-and-pics/"><u>2024 Approved  How Can I See All My Connected Peers' Shared Vids and Pics?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-perfect-your-content-with-vimeo-on-instagram/"><u>2024 Approved  Perfect Your Content with Vimeo on Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-tecno-spark-20-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Tecno Spark 20 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-poco-m6-pro-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Poco M6 Pro 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-y78-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y78 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/decoding-best-practices-to-hire-a-level-film-directors/"><u>Decoding Best Practices to Hire A-Level Film Directors</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/designing-impactful-social-media-fb-ads-for-2024/"><u>Designing Impactful Social Media FB Ads for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/digital-doyens-guide-streaming-and-recording-mastery/"><u>Digital Doyen’s Guide  Streaming and Recording Mastery</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y56-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y56 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-samsung-galaxy-f14-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy F14 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-honor-x50-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Honor X50.</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-oppo-a79-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo A79 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oneplus-open-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your OnePlus Open</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fundamental-principles-of-powerful-video-product-endorsements/"><u>In 2024, Fundamental Principles of Powerful Video Product Endorsements</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-7-plus-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 7 Plus and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y77t-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y77t to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sky-high-selfies-and-beyond-an-insightful-analysis-of-dji-spark/"><u>In 2024, Sky High Selfies and Beyond  An Insightful Analysis of DJI Spark</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fundamentals-of-gif-design-and-creation/"><u>In 2024, The Fundamentals of GIF Design and Creation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-note-30-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Note 30 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-virtual-visage-creation-shaping-your-exaggerated-image/"><u>In 2024, Virtual Visage Creation  Shaping Your Exaggerated Image</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-realme-12plus-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme 12+ 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-advanced-audio-format-switcher-instant-mp3-generation-for-modern-listeners/"><u>New In 2024, Advanced Audio Format Switcher Instant MP3 Generation for Modern Listeners</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-find-x6-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X6 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-vivo-y100a-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo Y100A? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-asus-rog-phone-8-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Asus ROG Phone 8 Black and White | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-vivo-y100-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y100 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-12-pro-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 Pro 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-x100-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo X100 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srt-transition-the-ultimate-subcap-guide-for-2024/"><u>SRT Transition  The Ultimate SUBCAP Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/superior-editors-for-stellar-webcam-videos/"><u>Superior Editors for Stellar Webcam Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-find-n3-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo Find N3 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s17t-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17t Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-zero-30-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Zero 30 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-a2-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo A2 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-civi-3-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Civi 3 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-honor-x7b-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor X7b Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oneplus-11r-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your OnePlus 11R Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>

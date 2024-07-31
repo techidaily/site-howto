@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide How to Fix an Unresponsive Infinix Smart 8 Plus Screen | Dr.fone
-date: 2024-03-20 18:43:37
-updated: 2024-03-21 22:53:39
+date: 2024-07-30T11:56:32.380Z
+updated: 2024-07-31T11:56:32.380Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Troubleshooting Guide How to Fix an Unresponsive Infinix Smart 8 Plus Screen
 excerpt: This article describes Troubleshooting Guide How to Fix an Unresponsive Infinix Smart 8 Plus Screen
 keywords: android support,Infinix Smart 8 Plus android guide,android fix,android issues,Infinix Smart 8 Plus android repair,Infinix Smart 8 Plus android issues,Infinix Smart 8 Plus android fix,Infinix Smart 8 Plus android support,android guide
-thumbnail: https://www.lifewire.com/thmb/8cntKMhShePwne7YMK1BVkFRlYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snork-fa65ca350e2243e1a2deaf6bb7b209b1.jpg
+thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4255ce54480ebe44b63f8c8e.jpg
 ---
 
 ## Troubleshooting Guide: How to Fix an Unresponsive Infinix Smart 8 Plus Screen
@@ -22,6 +22,9 @@ However, like any other electronic device, Infinix Smart 8 Plus phones can somet
 
 This article will discuss some valuable solutions for dealing with Infinix Smart 8 Plus phone screen unresponsiveness. We will provide step-by-step instructions for troubleshooting and getting your phone back in working order. Whether you're a novice or an experienced user, these tips and tricks will help you navigate this problem and get back to using your phone without any issues. So, let's dive in and explore how to fix a Infinix Smart 8 Plus phone with an unresponsive screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What causes the Infinix Smart 8 Plus Screen unresponsive?
 
 The Infinix Smart 8 Plus screen may become unresponsive due to various reasons. Here are some common situations and their possible causes:
@@ -34,12 +37,21 @@ The Infinix Smart 8 Plus screen may become unresponsive due to various reasons. 
 
 Overheating, physical damage, and manufacturing defects are some common causes of Infinix Smart 8 Plus screen unresponsiveness, which may occur during use/gaming, no response when touching the screen, or after dropping the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The common solutions to solve a Infinix Smart 8 Plus Screen unresponsive
 
 Here are the three most common solutions to deal with phone screens being unresponsive, regardless of the brand:
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Restart the Infinix Smart 8 Plus device
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restart realme smartphone](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-1.jpg)
 
 Restarting the Infinix Smart 8 Plus device is a simple and quick solution to an unresponsive phone screen. To restart the phone, press and hold the **power button** until the screen **turns off**, then press and hold the **power button** again to t**urn the phone back on**.
@@ -62,6 +74,9 @@ If the above solutions don't work, contacting a professional is best. A trained 
 
 For different Infinix Smart 8 Plus models, there may be additional solutions to consider:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Check the Phone's Temperature
 
 ![realme phone temperature](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-4.jpg)
@@ -72,6 +87,13 @@ Sometimes, a Infinix Smart 8 Plus phone's screen, specifically Infinix Smart 8 P
 
 **Step 2:** If the phone is overheating, let it cool down before using it again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Reset to Factory Settings
 
 ![realme reset factory settings](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-5.jpg)
@@ -98,6 +120,10 @@ To avoid Infinix Smart 8 Plus screen being unresponsive, here are some suggestio
 
 Make sure to regularly check for and install software updates on your Infinix Smart 8 Plus phone. These updates often include bug fixes and security patches that can help prevent issues like overheating and screen unresponsiveness.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Check Hardware from Time to Time
 
 Regularly inspect your phone's hardware components such as charging ports, battery, and screen for any signs of damage or wear and tear. If you notice any issues, get them fixed promptly to prevent them from causing further damage.
@@ -110,6 +136,9 @@ Keep your Infinix Smart 8 Plus device in a temperature-controlled environment. H
 
 Dirt and debris on the screen can cause it to become unresponsive. Use a microfiber cloth to clean the screen regularly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### Reduce the number of running apps
 
 Running too many apps at once can overload the system and cause the screen to become unresponsive. Close any apps you're not using to free up system resources.
@@ -136,10 +165,16 @@ The inconvenience can impact user trust and the overall perception of an app's r
 
 ![downloading status on phone vector](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part I. 7 Usual Reasons Behind Apps Not Downloading in Google Play Store
 
 The reasons below collectively contribute to the frustration users experience when apps are **unable to download from the Play Store**:
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confused about apps not downloading](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-02.jpg)
 
 ### Connectivity Issues
@@ -154,6 +189,10 @@ Limited available storage on the Infinix Smart 8 Plus device prevents the instal
 
 Running an outdated version of the Play Store can cause compatibility issues with the newest versions of apps. You'll miss out on new features and improvements, affecting the overall user experience and the efficiency of the Play Store.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Google Account Authentication Problems
 
 Issues with verifying Google accounts can restrict access to the Play Store. It prevents you from downloading or updating apps. Authentication problems pose a significant barrier, impacting your ability to stay current with app versions.
@@ -172,12 +211,22 @@ Technical issues within the Play Store, such as bugs or glitches, can lead to fa
 
 If you encounter any of these issues, having a reliable tool to fix them is essential. [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair offers a solution if you **cannot download from the Play Store**. The platform ensures you can download apps again with a high success rate in minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Part II. Having a Third-Party Tool Is Essential To Safeguard Your Apps
 
 Dr.Fone - System Repair is a dependable alternative offering a comprehensive solution to various Android-related problems. Its key features set it apart, making it an essential asset for users facing app download challenges.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![dr.fone main window interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,307,222** people have downloaded it
@@ -200,6 +249,9 @@ One of the standout features of Dr.Fone - System Repair is its high success rate
 
 When grappling with persistent issues hindering app downloads on the Google Play Store, having a reliable third-party tool becomes essential to safeguard your apps and ensure a seamless user experience. The next section will show you how to use the platform to fix the **apps not downloading in the Google Play Store** problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part III. First Choice: Use Dr.Fone - System Repair for App Downloading Issues
 
 Using Dr.Fone - System Repair to resolve app downloading issues is straightforward. Here are three simple steps to effectively address app-related challenges:
@@ -208,16 +260,26 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 - **Step 1:** Download and install Dr.Fone - System Repair on your computer. Launch the program and select **System** **Repair** from the available options.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,143,540** people have downloaded it
 
 - **Step 2:** Connect your Infinix Smart 8 Plus to the computer using a USB cable. Dr.Fone will detect your device, and you'll be prompted to choose your device's type. Select **Android** **Repair**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![dr.fone choosing a device type](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 - **Step 3:** Follow the on-screen instructions until the app downloads the correct firmware for your device. As it downloads, Dr.Fone will verify it and put your device details on display. You can [<u>install the firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) on your Infinix Smart 8 Plus by choosing **Fix Now**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone firmware download successfully](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 - **Step 4:** Initiating the system repair process will be accompanied by a progress bar visible on the screen. Upon completion, a prompt window will emerge, presenting a completion message.
@@ -225,10 +287,16 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 - If you can download apps successfully, click **Done**to close the tool.
 - If the problem persists, select **TryAgain** to rerun the process.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone completion message window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 If you can't download Dr.Fone for some reason, you can try these common fixes to try to resolve your app download issues on your device
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part IV. 8 Other Methods of Resolving Common App Downloading Issues
 
 Here are 8 other methods to troubleshoot and resolve common app downloading problems:
@@ -243,6 +311,9 @@ A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u
 
 ![android internal storage menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### Update the Play Store
 
 An outdated Play Store version may lead to compatibility issues. Open the Google Play Store, go to **Settings**, and tap the **Play Store version**. If an update is available, install it to ensure compatibility with the latest apps.
@@ -259,14 +330,23 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 
 Authentication issues with your Google account can prevent app downloads. Confirm that your Google account is properly verified. Go to the Infinix Smart 8 Plus device settings, select **Accounts**, and ensure your Google account is active and synced.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![syncing google account on device](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-10.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Check Date and Time Settings
 
 Incorrect date and time settings may disrupt the authentication process. Verify that your device's date and time are set correctly. Enable automatic date and time settings to ensure accuracy.
 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Review Download Restrictions
 
 Device settings or parental controls might impose restrictions on certain app downloads. Examine the download restrictions in the Infinix Smart 8 Plus device settings and adjust them accordingly to allow for the installation of desired apps.
@@ -285,6 +365,18 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 
 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7 Fixes for "Unfortunately, Phone Has Stopped" on Infinix Smart 8 Plus
 
 Encountering issues with the Phone app is never welcoming. Being one of the useful apps, seeing it crashing and unresponsive gives sheer despondency. If talked about the triggering points, they are numerous. But the central point is what to do when the Phone app keeps crashing. In this article, we have discussed this issue in detail. To know this and more about why the "Unfortunately, Phone has stopped" error crops up, read this article and get the problem sorted on your own.
@@ -317,12 +409,21 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 2. Now from the list of all applications, go to "Phone" and tap on it.
 3. Now, click on "Storage" and choose "Clear Cache".
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 2.3 Update Google Play services
 
 Since Android is created by Google, there must be some Google Play services that are crucial to run several system functions. And if attempting the previous methods isn’t of any use, try updating Google Play services when you find the Phone app stopped. For doing this, you need to make sure that automatic updates are turned on in Google settings. If not, enable it and get the apps including Google Play services updated for smoother functions.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.4 Update the Infinix Smart 8 Plus firmware
 
 When the firmware is not updated, it may conflict with some apps and maybe that’s why your Phone app falls prey. Therefore, updating Infinix Smart 8 Plus firmware will be a sane step that should be taken when the Phone app has stopped. Follow the below-mentioned steps and then check if the Phone app is opening or not.
@@ -344,16 +445,28 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 4. To select, press the "Power" button.
 5. The process will begin and the Infinix Smart 8 Plus device will restart post it. Check if the problem still persists or it is finished. If unfortunately not, get to the next and the most productive solution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Phone app crashing - cache partition clearance](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 2.6 Get the Infinix Smart 8 Plus system repaired in one click
 
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix "Unfortunately, Phone Has Stopped" on Infinix Smart 8 Plus devices.
@@ -372,6 +485,9 @@ How to fix crashing Phone app using Dr.Fone - System Repair (Android)
 
 Click the "Start Download" button to download the tool on your computer, and then open the program to begin the repair, click on "System Repair".
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Phone app crashing - fix using a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Plug the Phone with PC**
@@ -384,12 +500,18 @@ Take your original USB cord and then connect your Infinix Smart 8 Plus to the co
 
 As the next step, enter some important details on the next screen. Be sure to enter the right name, brand, and model of the Infinix Smart 8 Plus device. When done everything, verify once and click on "Next".
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Phone app crashing - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step 4: Downloading Firmware**
 
 Downloading firmware will be the next step. Prior to this, you have to go through the instructions given onscreen to enter the DFU mode. Please click on "Next" and the program will bring the suitable firmware version and start downloading it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Phone app crashing - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 **Step 5: Get the Infinix Smart 8 Plus device Repaired**
@@ -398,8 +520,14 @@ When you see the firmware has been downloaded, the issue will begin to get resol
 
 ![Phone app crashing - device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### 2.7 Factory reset
 
 If none of the above methods worked for you, the last resort you are left with is a factory reset. This method will wipe everything from your device and make it function like normal. We also suggest you [make a backup of your data](https://drfone.wondershare.com/backup/android-backup-software.html) if it is important so as to prevent the loss. Here is how to do this to fix the crashing Phone app.
@@ -408,6 +536,9 @@ If none of the above methods worked for you, the last resort you are left with i
 2. Look for "Factory data reset" and then tap on "Reset phone".
 3. Within a while, your device will go through resetting and boot up to normalcy.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -427,3 +558,47 @@ If none of the above methods worked for you, the last resort you are left with i
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-live-video-on-fb-audience-focused-guide/"><u>[New] 2024 Approved  Live Video on FB  Audience-Focused Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-inverted-investigation-finding-true-sources-on-instagram-photos/"><u>[New] In 2024, The Art of Inverted Investigation  Finding True Sources on Instagram Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pro-level-techniques-for-avi-to-gif-transition-via-filmora-tools-windowsmacos/"><u>[New] Pro-Level Techniques for AVI to GIF Transition via Filmora Tools (Windows/macOS)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-terminate-your-own-discord-server-pcmobile/"><u>[Updated] How to Terminate Your Own Discord Server (PC/Mobile)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-use-youtube-cards-and-annotations/"><u>[Updated] How to Use YouTube Cards and Annotations?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hue-harmonies-crafting-visual-balance/"><u>[Updated] Hue Harmonies  Crafting Visual Balance</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-step-by-step-slow-motion-mastery-in-phantom-cameras/"><u>2024 Approved  Step-by-Step Slow Motion Mastery in Phantom Cameras</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-spark-20-proplus-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-a58-4g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo A58 4G</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-10t-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme 10T 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-site-performance-with-cookiebot-technology/"><u>Enhanced Site Performance with Cookiebot Technology</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/enhancing-visual-flow-effortless-fade-tricks-for-2024/"><u>Enhancing Visual Flow  Effortless Fade Tricks for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-x9a-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-razr-40-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola Razr 40 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-spark-20c-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Spark 20C 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-redmi-note-12r-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi Redmi Note 12R 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-svd-file-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .svd file document online</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-15-pro-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone 15 Pro without Password</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-magic-5-lite-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor Magic 5 Lite FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-steer-clear-of-obscurity-secure-a-top-spot-with-youtube-seo-tips/"><u>In 2024, Steer Clear of Obscurity  Secure a Top Spot with YouTube SEO Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-12-pro-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 12 Pro? How to Fix</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-process-for-amd-driver-downloads-and-patches/"><u>Streamlined Process for AMD Driver Downloads & Patches</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-gt-5-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme GT 5 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-best-video-capture-for-iphoneipad-users-for-2024/"><u>The Best Video Capture for iPhone/iPad Users for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-perfect-xiaomi-device-for-amateur-filmmakers/"><u>The Perfect Xiaomi Device for Amateur Filmmakers</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-play-8t-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor Play 8T? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-tecno-spark-10-4g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Tecno Spark 10 4G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-hot-30-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Hot 30 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-find-n3-flip-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo Find N3 Flip Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Android Screen Stuck General Vivo S18 Partly Screen Unresponsive | Dr.fone
-date: 2024-03-20 22:55:49
-updated: 2024-03-21 13:36:14
+date: 2024-07-30T09:18:44.008Z
+updated: 2024-07-31T09:18:44.008Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Android Screen Stuck General Vivo S18 Partly Screen Unresponsive
 excerpt: This article describes Android Screen Stuck General Vivo S18 Partly Screen Unresponsive
 keywords: android guide,android problems,Vivo S18 android repair,Vivo S18 android problems,Vivo S18 android support,android support,android repair,android fix,android help
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## Android Screen Stuck: General Vivo S18 Partly Screen Unresponsive
@@ -25,14 +25,24 @@ Fortunately, there are ways to overcome this, and one of the best is Dr.Fone. In
 
 While dead and ****stuck pixels on the phone**** may seem similar, there are important distinctions between the two. Read on to discover the differences and what causes them.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Stuck Vivo S18s on Phone
 
 A ****stuck pixel phone**** is always on, so it shows up on a touchscreen as a bright, persistent dot of red, green, blue, or white. Combinations are also possible, and although it is usually stationary, this dot occasionally flickers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ### Dead Vivo S18s on Smartphones
 
 In contrast to the stuck pixel, the dead pixel subpixels are all left unpowered, turning them off. A ****dead pixel on the phone**** is a tiny, persistent rectangle of black or white color on the part of the phone screen not working.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![stuck white pixel and dead pixel](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-02.jpg)
 
 ### Some Differences Between Stuck and Dead Vivo S18s on Phone
@@ -52,10 +62,16 @@ Stuck and ****dead pixels on phone screen****s can happen for various reasons, i
 - ****Manufacturing defects****. During manufacturing, some pixels may not work due to poor quality control, resulting in stuck or ****dead pixels on the phone**** In other words, if the power transfer issue isn't completely fixed, you might see more dead pixels.
 - ****Physical damage****. Accidents such as dropping the phone or exposure to extreme heat or cold can damage the screen and cause stuck or dead pixels. For instance, the ****upper part of the touch screen not working****may also occur due to pressure on the display when the phone is placed in a pocket with other sharp objects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![person holding a gadget with pen](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-03.jpg)
 
 - ****Age-related wear and tear****. Over time, the display on your phone may start to wear out, resulting in the appearance of dead or stuck pixels on the phone. It is more common in older devices and those with high usage rates. Factors such as exposure to sunlight or excessive phone use can also contribute to the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How To Fix Dead Vivo S18s on Phone Screens on Android Devices
 
 It is essential to have the right tools and knowledge to ****fix dead pixels on your phone**** screen. Fortunately, you can use several effective techniques to address the issue. In this section, you will discover step-by-step instructions on how to ****fix dead pixels on phone**** screens on Android devices.
@@ -66,6 +82,9 @@ Before attempting to fix a ****dead pixel on a smartphone**** screen, it is nec
 
 ****Step 1:**** Check for chips, cracks, or any other signs of damage on the screen if your ****phone touch screen is not working in some areas****. If you find any damage, you may need to take your phone to a professional repair shop or consider getting a replacement.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![phone with damaged screen from dropping](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-04.jpg)
 
 ****Step 2:**** If you have a screen protector or case, remove them because they can interfere with the process. This step will allow you to get a clear view of the screen and accurately assess the ****dead pixel on the phone****.
@@ -86,6 +105,9 @@ This method may seem simple, but it can be the most effective solution to your p
 
 ****Step 2:**** Select ****Restart**** on your phone's screen. It will initiate a reboot of your device.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![android interface restart and power off](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-07.jpg)
 
 **Tip:**
@@ -116,6 +138,9 @@ Consider a factory data reset if the previous options did not resolve your issue
 
 **Step 2:** Choose ****System > Reset > Erase all data (factory reset) > Erase all data****.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![smartphone reset settings](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-09.jpg)
 
 **Note:**
@@ -150,6 +175,9 @@ Wondershare Dr.Fone provides support for Vivo S18 S22 as well as other popular V
 
 ****Step 6:**** Your device will need to have the new Android firmware flashed onto it, which Wondershare Dr.Fone will take care of. Simply wait while the process completes.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Part 3: Benefits of Using Dr.Fone on Phones With Dead Vivo S18s
 
 If your phone's screen is malfunctioning or some features are inaccessible due to stuck or dead pixels, following the steps to ****fix dead pixels on the phone**** may be challenging. Resetting your phone and backing up data can also be a hassle.
@@ -161,6 +189,9 @@ The good thing is Dr.Fone can help you with these issues, making the process eas
 - ****Ease of use****. The software is user-friendly and easy to navigate, making it accessible to anyone without advanced technical knowledge.
 - ****Safety****. The software is safe and secure, ensuring that your data is not compromised during the process. This feature is for users concerned about the confidentiality of their data and wants to ensure that their personal information is not shared or stored on the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Frequently Asked Questions
 
 Aside from the methods and tools discussed for fixing ****dead pixels on phone screen****s and ****stuck pixels on the phone****, you may still have some questions regarding the issues. Whether you are dealing with a single stuck pixel or a cluster of dead pixels, this section aims to provide you with helpful insights.
@@ -169,10 +200,17 @@ Aside from the methods and tools discussed for fixing ****dead pixels on phone s
 
 No, a ****dead pixel on the phone**** is permanent. There is a much lower chance that dead pixels will self-correct over time. They are often impossible to fix using any of the widely used techniques. Unlike stuck pixels, they rarely have a chance of recovery. Before giving up, verify if the pixel is dead, as stuck pixels may be fixable.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### 2\. Can Dead Vivo S18s Worsen?
 
 Dead pixels cannot spread because each pixel functions independently of the others. Thus, a ****dead pixel on the phone**** does not affect surrounding pixels. However, it can be a nuisance for users, especially if it appears in prominent parts of the screen. Call an expert if you see that it is spreading so they can diagnose the issue and assess whether a repair is possible.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Why Are Dead Vivo S18s Spreading on My Vivo S18?
 
 It simply signifies that this specific area of your screen had poor manufacturing quality or is physically damaged if you have a patch of closely spaced ****dead pixels on your phone****. When a group of dead pixels is close together, it indicates localized damage or defect to that specific area. So, the pixels in that region no longer produce light or color.
@@ -183,6 +221,9 @@ It frequently happens throughout the LCD manufacturing process when one or more 
 
 In addition, the essential factor in comparing dead pixel policies is whether or not the policy permits the Vivo S18 devices to be returned, swapped, or repaired when this frequent issue arises.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Conclusion
@@ -191,10 +232,16 @@ You have learned the difference between a stuck and ****dead pixel on the phone*
 
 Remember to back up your data before attempting any fixes and to seek professional help if necessary. If you are still experiencing issues with dead pixels on your phone screen, don't hesitate to contact your device manufacturer for further assistance.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo S18
 
 “Unfortunately TouchWiz home has stopped” is the talk of the town due to annoying TouchWiz UI, a front-end user interface developed by Vivo S18. Not to mention, the Vivo S18 has borne a whole lot of heat from its agitated users over the years and the reason is pretty much obvious due to the pre-installed bloatware apps and the theme launch “TouchWiz home”. That not just brutally annoys users and eats up a heck of internal storage space but lags up too often due to low speed and stability. As a result users end up with “Unfortunately TouchWiz home has stopped” and “Unfortunately, TouchWiz has stopped”. Apparently, there are several flaws in the design and functioning of this launcher and hence, Touchwiz keeps stopping or becomes unresponsive.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Common scenarios when TouchWiz keeps stopping
 
 Here in this section, we will introduce some scenarios that can be blamed for why **_TouchWiz is not working_**. Check out the following points:
@@ -203,8 +250,14 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 - When you **<u>disable some built-in apps</u>**, you might get in trouble with TouchWiz. Doing this sometimes can hamper the TouchWiz operation and raise the “**_unfortunately TouchWiz home has stopped_**” error message.
 - Many times **<u>installing some third-party apps and widgets</u>** can cause this problem. The apps like launchers can be conflicting with TouchWiz home launcher and therefore cease it to work. Also, a glitched widget is responsible for the same i.e. forces stop the TouchWiz.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: 9 Fixes to “Unfortunately TouchWiz has stopped”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
@@ -255,6 +308,11 @@ Tip: You can use [Dr.Fone – Phone Backup (Android)](https://tools.techidaily.c
 
 You will get some instructions on your screen to keep your device in Download mode. Follow them according to the Vivo S18 device you own and hit “Next”. When you do this, the program will detect your device and let you download the latest firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -277,6 +335,9 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 - Now, tap “Clear Data” followed by “OK”.
 - Now restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![clear cache to fix touchwiz home stopping](https://images.wondershare.com/drfone/article/2019/02/clear-cache-touchwiz.jpg)
 
 Please note that this will delete all your Home screens post this method.
@@ -289,6 +350,9 @@ The functions regarding Motions and Gestures can be responsible for why **_Touch
 
 When you use TouchWiz, it may consume higher memory usage for high amount of graphic maintenance. As a result, the “**_unfortunately TouchWiz home has stopped_**” error might crop up. Taking this into consideration, you should try reconfiguring the animation scale and get rid of the error. Here’s how:
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Clear Cache Partition
 
 In case the above steps didn’t figure out the problem, here is the next tip. This method can be counted as one of the most effective one. Because it is able to fix minor issues in Android devices, we recommend you for “**_TouchWiz home has stopped_**” issue too. Let us know how you can do it:
@@ -298,6 +362,9 @@ In case the above steps didn’t figure out the problem, here is the next tip. T
 - Keep doing this until you see the Android screen. This will take your device into recovery mode.
 - You will observe some options on the screen. Take help of Volume buttons, scroll down to choose “Wipe Cache Partition”. Press Power button to confirm and the Vivo S18 device will be rebooted.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![clear cache partition](https://images.wondershare.com/drfone/article/2019/02/clear-cache-partition.jpg)
 
 Check now if the error is eliminated. If unfortunately not, please try the following solution.
@@ -323,8 +390,14 @@ Here is the next solution to be followed when TouchWiz keeps stopping. As we alr
 - Keep holding until rebooting finishes.
 - You will now witness “Safe mode” on the bottom screen. You can now release the button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![safe mode](https://images.wondershare.com/drfone/article/2019/02/enable-safe-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Reset Factory settings
 
 If the above method went futile and you’re still at the same place, then factory reset is the next logical step to be taken. We suggest this method because it will take your device to its factory state. As a result, TouchWiz will probably get normal and work perfectly.
@@ -335,10 +408,17 @@ Along with this, we would also suggest you go take backup of your data so that y
 - Notice if “Back up my data” is enabled or not. If not, turn it on and create backup.
 - Now, scroll for “Factory Data reset” option and confirm it by clicking “Reset Phone”.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reset factory settings](https://images.wondershare.com/drfone/article/2019/02/reset-factory-settings.jpg)
 
 - Wait a few minutes and your device will reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Install a new launcher to replace TouchWiz
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
@@ -351,12 +431,18 @@ Is your Vivo S18 device showing signs of being "bricked" or "soft-bricked"? When
 
 Moreover, this article will introduce you to the world of **Vivo S18 unbrick tools** and software, ensuring you can get your device back on track. So read on and explore the top Android system repair software that can bring life back to your **bricked Vivo S18** device.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![samsung bricked](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-01.jpg)
 
 ## Part 1: Understanding Bricked Vivo S18
 
 Have you ever heard the term "bricked" concerning your Vivo S18 device? This section explains it to you in simple terms. Imagine your device becoming like a brick, unresponsive and seemingly lifeless. That's what happens when a **Vivo S18 gets bricked**. There are two main types of brick: soft brick and hard brick.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### Soft Brick
 
 Soft brick is like a temporary setback for your device. To see if your **Vivo S18 is soft - bricked**, check out the details below:
@@ -364,6 +450,9 @@ Soft brick is like a temporary setback for your device. To see if your **Vivo S1
 - It happens when the software encounters issues, but the hardware is usually fine.
 - Your device might not start properly, [<u>freeze</u>](https://drfone.wondershare.com/iphone-problems/fix-iphone-freezing-after-updating-to-ios-17.html), or [<u>get stuck on the logo screen</u>](https://drfone.wondershare.com/iphone-recovery/iphone-stuck-at-the-apple-logo.html).
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Hard Brick
 
 Now, this is a more severe situation. In this case, your **bricked Vivo S18** might fall under the following conditions:
@@ -401,6 +490,9 @@ Dr.Fone - System Repair (Android) is like a magic wand for your Vivo S18 device.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Repair Android System Errors without Any Trouble.
@@ -445,14 +537,23 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Vivo S18**
 
 - **Step 1:** Launch Dr.Fone and head to the program's left-hand panel, where you'll find the Toolbox. You may fix your broken Android device by connecting it to your computer and selecting **System Repair** from the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare drfone android system repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,001,177** people have downloaded it
 
 - **Step 2:** Select **Android** on the following screen to troubleshoot an Android device. After that, you'll be brought to a new screen where you can initiate the fix by clicking **Start**.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start drfone start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 3:** When you click through to the next window, the service will automatically recognize the manufacturer of the Android device. Choose the appropriate **Brand**, **Name**, **Model**, **Country**, and **Carrier** from the drop-down menus. Select **OPEN** in the **Carrier** area if the phone is unlocked. The next step is to tick the box labeled **I accept the risk and am ready to continue**. Click **Next** to proceed with the rest of the Vivo S18 device repair.
@@ -463,14 +564,23 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Vivo S18**
 
 - If your phone has a home button, follow the on-screen prompts to power it down. Keep pressing and holding the Volume Down, Home, and Power Then, press the Volume Upbutton to activate the **Download Mode**.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone phone with home button android](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - If your Android doesn't have a Home button, you may still use it byturning it off and pressing the Volume Down, Bixby, and Power buttons simultaneously. Repeatedly pressing the Volume Up button will activate Download Mode.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![drfone phone without home button android](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - **Step 5:** The firmware download starts on the platform immediately after the Vivo S18 device enters **Download Mode**. You can click **Stop** to abort it at any stage during the process. The platform then verifies and presents the information as it downloads. By selecting **Fix Now**, you can install the firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone fix now android](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 - **Step 6:** The Android repair procedure may delete all of your data. To proceed, please type "000000" in the box provided. The system repair process will begin, and its status can be viewed in the next screen's progress bar.
@@ -510,6 +620,13 @@ Below is the disadvantage of this software:
 
 - Repair capabilities might be limited for complex issues.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### [<u>System Repair for Android</u>](https://play.google.com/store/apps/details?id=toolsaio.cleaner.booster.systemrepair&hl=en&gl=US)
 
 True to its name, System Repair for Android is designed to repair and rejuvenate your device's Android system. It's a reliable tool to tackle various software issues, including bricked devices.
@@ -536,6 +653,18 @@ Check below to learn about this app's drawback:
 
 - Advanced issues might require professional intervention.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [<u>Phone Doctor Plus</u>](https://play.google.com/store/apps/details?id=com.idea.PhoneDoctorPlus&hl=en&gl=US)
 
 Phone Doctor Plus is like a health check-up app for your device. It's designed to repair system issues and diagnose hardware problems that might contribute to a bricked device.
@@ -566,6 +695,9 @@ Check out this app's disadvantages below:
 
 Now that you know how to fix a **bricked Vivo S18** smartphone, let's focus on preventing it in the first place. Here are some simple steps you can take to keep your Vivo S18 device safe and sound:
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tips on preventing future bricking incidents](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-14.jpg)
 
 - **Regularly Check for Updates**
@@ -604,6 +736,10 @@ By following these easy tips, you can keep your Vivo S18 device running smoothly
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Encountering a **bricked Vivo S18** device can be a frustrating roadblock. However, there's a silver lining – the power of an Android system repair software like Dr.Fone – System Repair (Android). This user-friendly tool acts as your device's superhero, rescuing it from the clutches of bricking incidents.
@@ -625,3 +761,56 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-vanguard-wearables-for-sporting-captures/"><u>[New] 2024 Approved  Vanguard Wearables for Sporting Captures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-stepwise-strategies-to-record-flawless-screens-with-adobe-captive/"><u>[New] Stepwise Strategies to Record Flawless Screens with Adobe Captive</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-truth-about-magix-video-pro-xs-performance/"><u>[New] The Truth About Magix Video Pro X's Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-picks-in-gimbals-to-elevate-your-drone-imagery/"><u>[New] Top Picks in Gimbals to Elevate Your Drone Imagery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-anon-fb-live-watchers-group/"><u>[Updated] 2024 Approved  Anon FB Live Watchers Group</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-y200e-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo Y200e 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715859566623-2024-approved-leading-12-screen-recorders-no-time-limit/"><u>2024 Approved  Leading 12 Screen Recorders, No Time Limit!</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-sony-xperia-1-v-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Sony Xperia 1 V Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-note-12-pro-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi Note 12 Pro 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-asus-rog-phone-8-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Asus ROG Phone 8</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-a14-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy A14 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-y17s-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo Y17s? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-infinix-zero-5g-2023-turbo-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Zero 5G 2023 Turbo? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/connecting-to-google-meet-laptop-plus-mobile/"><u>Connecting to Google Meet  Laptop + Mobile</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/deciphering-the-value-of-free2x-cam-recorders/"><u>Deciphering the Value of Free2X Cam Recorders</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-nokia-xr21-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia XR21 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y100-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y100 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-magic-6-lite-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor Magic 6 Lite 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-realme-narzo-n55-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Realme Narzo N55 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-6s-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 6s Passcode not Working?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a05s-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel A05s Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-face-makeovers-simplified-best-apps-for-ios-and-android/"><u>In 2024, Face Makeovers Simplified  Best Apps for iOS and Android</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-capture-a-screenshot-or-video-of-whats-showing-on-your-mac-computer/"><u>In 2024, How to Capture a Screenshot or Video of What's Showing On Your Mac Computer</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-premier-annual-update-best-free-livestream-software-and-apps-review/"><u>In 2024, Premier Annual Update  Best Free Livestream Software & Apps Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-10t-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme 10T 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-pinnacle-audio-software-for-iphoneipad-the-2023-edition-of-top-ranked-editors/"><u>New 2024 Approved Pinnacle Audio Software for iPhone/iPad The 2023 Edition of Top-Ranked Editors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/proven-practice-for-preserving-playthroughs-tips-and-tricks-for-recording-roblox-gameplay-on-a-mac/"><u>Proven Practice for Preserving Playthroughs  Tips & Tricks for Recording Roblox Gameplay on a Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-tips-for-smooth-ipad-screen-capture/"><u>Quick Tips for Smooth iPad Screen Capture</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-hot-40-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Hot 40 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ssential-toolkit-3d-video-entrances-ranked/"><u>The Essential Toolkit  3D Video Entrances Ranked</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unite-your-photos-cross-platform-instagram-collage-for-2024/"><u>Unite Your Photos  Cross-Platform Instagram Collage for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-sony-xperia-5-v-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Sony Xperia 5 V? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-reno-9a-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Reno 9A Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-nokia-c12-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nokia C12 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-itel-p55-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Itel P55 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-honor-x7b-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor X7b Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>

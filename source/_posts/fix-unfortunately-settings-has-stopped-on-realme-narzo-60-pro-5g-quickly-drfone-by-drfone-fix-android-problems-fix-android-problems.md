@@ -1,7 +1,7 @@
 ---
 title: Fix Unfortunately Settings Has Stopped on Realme Narzo 60 Pro 5G Quickly | Dr.fone
-date: 2024-03-18 13:34:29
-updated: 2024-03-21 12:35:25
+date: 2024-07-30T10:38:36.226Z
+updated: 2024-07-31T10:38:36.226Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Fix Unfortunately Settings Has Stopped on Realme Narzo 60 Pro 5G Quickly
 excerpt: This article describes Fix Unfortunately Settings Has Stopped on Realme Narzo 60 Pro 5G Quickly
 keywords: Realme Narzo 60 Pro 5G android repair,android support,android tips,fix android problems,Realme Narzo 60 Pro 5G android issues,android problems,android repair,Realme Narzo 60 Pro 5G android solutions,android issues,android fix,android guide,android solutions
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## Fix Unfortunately Settings Has Stopped on Realme Narzo 60 Pro 5G Quickly
@@ -36,6 +36,9 @@ It is possible that the corrupted cache files are responsible for this error. He
 2. In the list of applications, look for “Settings” and open it.
 3. Now, select “Storage” followed by “Clear Cache”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![settings crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-settings.jpg)
 
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
@@ -48,8 +51,15 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
     Note: Please note that different devices have different ways to go to the Recent apps screen. Do it according to the Realme Narzo 60 Pro 5G device you own.
 2. Now, swipe the apps and tap on the clear option. You will be able to notice the amount of RAM cleared
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Part 3: Uninstall the Google update
 
 Uninstalling Google Play Store updates has also responded well to many users. It has worked in the case of the “Unfortunately Settings has stopped” error. So, we would also like to suggest you use this tip if the others don’t work. Here are the steps to be followed for this.
@@ -58,6 +68,13 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 2. Now, head to all the apps and select “Google Play Store” from there.
 3. Tap on “Uninstall Updates” and restart your device to check if the crashing Settings issue has been resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
 
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
@@ -66,6 +83,9 @@ Using a custom ROM on your device brings up this problem due to incompatibility 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix "Unfortunately, Settings Has Stopped"
@@ -84,18 +104,27 @@ Step 1: Download Tool
 
 Visit the official website of Dr.Fone and download the toolbox from there. Go for the installation process and wait until the installation gets over. Launch it now and choose the “System Repair” tab from the main window.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Android settings not responding- download tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Get the Phone Connected
 
 With the help of a USB cable, plug your Realme Narzo 60 Pro 5G into the PC. Upon proper connection, hit on the “Android Repair” option from the left panel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![Android settings not responding - connect android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Feed Correct Information
 
 In the next window, you need to fill in some necessary information like the name and model of the mobile device. Enter details like country and career. Check once and hit on “Next”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Android settings not responding - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 4: Enter Download Mode
@@ -108,6 +137,9 @@ Step 5: Repair the Issue
 
 Once the firmware is completely downloaded, your Realme Narzo 60 Pro 5G will automatically start getting repaired. Stay there and you will receive a notification that the repair is done.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Android settings not responding - fix the issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -122,8 +154,14 @@ Like RAM, wiping cache is also vital so as to make the Realme Narzo 60 Pro 5G de
 4. On reaching the required option, press the “Power” button to start wiping.
 5. Once finished, click the reboot option and the Realme Narzo 60 Pro 5G device will be rebooted, fixing the issue hopefully.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![Android settings not responding - cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Part 6: Factory reset your Android
 
 You can also opt for Factory resetting your device to fix the issue of Settings keeps stopping. By removing everything from the Realme Narzo 60 Pro 5G device, it will make your device run properly. If you have important data on your device, please make sure to [create a backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before taking action if you don’t want to lose it. The steps are as follows.
@@ -142,6 +180,9 @@ A lot of times minor issues crop up due to the operating systems that get outdat
 2. Now, hit on “System Update” and the Realme Narzo 60 Pro 5G device will look for any available update.
 3. If there is any, go along with the prompts to install it and make your phone even smarter.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Android settings not responding - update android firmware](https://images.wondershare.com/drfone/article/2019/04/update-samsung.jpg)
 
 ## Conclusion
@@ -150,14 +191,27 @@ If your Realme Narzo 60 Pro 5G shows the "Unfortunately Settings has stopped" er
 
 For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html). It's known for fixing many iOS problems without losing any data. Remember, a well-working device is just a few steps away!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Exit Android Factory Mode On Realme Narzo 60 Pro 5G?
 
 You’ve often heard that recovery mode will solve just about any problem your Realme Narzo 60 Pro 5G is experiencing. This is mostly true and one of the components of Android’s recovery mode, factory mode or [factory reset](https://drfone.wondershare.com/reset-android/wipe-data-factory-reset.html) is one of the most efficient ways to solve various problems on your device. While factory mode is often a good thing, there are times when your device can enter factory mode on its own. Other times, you can safely enter factory mode but not know how to get out.
 
 Fortunately for you, this article will explain all aspects of factory mode and especially how to safely exit factory mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Part 1. What is Android Factory Mode?
 
 Factory mode or what is commonly known as factory reset is one of the options available for you when your Realme Narzo 60 Pro 5G is in recovery mode. Several options are available for you once you enter Recovery mode on your device but few are as effective as the wipe data/ factory reset option. This option is useful in solving a whole host of problems that your device could be experiencing.
@@ -166,6 +220,9 @@ If you have been using your Realme Narzo 60 Pro 5G for a while now and its perfo
 
 It is however important to note that a factory reset or factory mode does often result in the loss of all your data. Therefore a backup is necessary to protect against this data loss risk.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Part 2. Backup your Android Device First
 
 Before we can see how to safely enter and exit factory mode, it is important to have a full backup of your device. We mentioned that a factory mode will likely erase all the data on your device. A backup will ensure that you can get your phone back to its original state before the factory mode.
@@ -174,6 +231,9 @@ In order to do a full and complete backup of your device you need to have a tool
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Backup & Restore (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexibly Backup and Restore Android Data
@@ -191,8 +251,16 @@ Follow these very simple steps to use this MobileTrans Phone Transfer software t
 
 Run the software on your computer and you can see all features displayed in the primary window. Choose this one: Backup & Restore. It allows you to get your device backed up entirely with one click.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![backup android before enter in recovery mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Plug in with your device
 
 Then plug in with your device to the computer. When your devic is detected, click on Backup.
@@ -251,6 +319,9 @@ Step 3: Select Android device details on the Realme Narzo 60 Pro 5G device infor
 
 Step 4: Enter ‘000000’ for confirmation then proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirmation on fixing](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Phase 2: Get in ‘Download’ mode for repairing the Android device**
@@ -259,6 +330,9 @@ Step 1: It’s important to put the Android device in ‘Download’ mode, here 
 
 - On a ‘Home’ button-less device – turn off the Realme Narzo 60 Pro 5G device and push down the ‘Volume Down’, ‘Power’ and ‘Bixby’ buttons for about 10 seconds and un-hold. Now, hit the ‘Volume Up’ button to get into ‘Download’ mode.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![fix Android stuck in factory mode on android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - For a device with ‘Home’ button – switch it off and hold down the ‘Power’, ‘Volume Down’ and ‘Home’ buttons together for 10 seconds and release. Click the ‘Volume Up’ button for entering ‘Download’ mode.
@@ -273,6 +347,9 @@ Step 3: Dr.Fone –Repair (Android) starts Android repair as soon as download an
 
 ![fixed Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. Common Solutions to Exit Factory Mode on Android
 
 Having a backup of all your data will eliminate the risk of losing any of your data. You can now safely exit factory mode using one of the 2 methods below. These two methods will work on a rooted device.
@@ -327,6 +404,9 @@ As much as factory mode can be a useful solution to a number of problems, it can
 
 The revolutionized world is about the internet, online life, and social media. You can get all the information you need from the internet. You are a click away from booking tickets, buying groceries, calling your loved ones, or even you can handle office meetings with the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix wifi keep disconnecting android](https://images.wondershare.com/drfone/article/2023/08/why-does-my-phone-keep-disconnecting-from-wifi.jpg)
 
 Since everything revolves around the internet, it's annoying if your WI-FI disconnects. You might question yourself **why does my Wi-Fi keep disconnecting from the phone**? To know the answer, read the article below.
@@ -357,12 +437,18 @@ If your Realme Narzo 60 Pro 5G gets disconnected frequently, then this disconnec
 
 Sometimes, the internet is stable, but it still disconnects. This is because the internet service provider might not send the best quality internet you have acquired it for. If your internet is stable and the phone still keeps disconnecting, then head onto the next part that will share the top 10 fixes to sort out this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: 10 Ways to Fix Wi-Fi Keep Disconnecting on Phone
 
 As we have mentioned earlier if your Wi-Fi is stable, but it keeps disconnecting from [Realme Narzo 60 Pro 5G S22](https://drfone.wondershare.com/samsung/samsung-galaxy-s22.html) or other Android phones, the coming section of this article is for you. We will provide you with 10 solutions with complete assistance to fix the "**Wi-fi keeps disconnecting Android**" issue.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/_eAyzfmK8Vs"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Restart Your Phone
 
 If the Wi-Fi keeps disconnecting from your Realme Narzo 60 Pro 5G, but the internet is stable, then you should try to fix the issue by restarting your phone. Sometimes, it's the phone that’s causing a problem, so to resolve it, you can follow the steps given below:
@@ -389,6 +475,9 @@ To fix the annoying problem that your Wi-Fi keeps disconnecting, you should try 
 
 **Step 2**: A list of all the Wi-Fi networks will appear on the screen. Select the network that is causing trouble from that list and hit the 'Forget Network' option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click on forgot network](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-4.jpg)
 
 **Step 3**: After that, you should reconnect to this Wi-Fi network by selecting it from the Wi-Fi list and entering its password.
@@ -399,14 +488,24 @@ To fix the annoying problem that your Wi-Fi keeps disconnecting, you should try 
 
 As we discussed, to restart your phone, you can also restart the router to get rid of the problem. For this, hit the restart button on the router to get a fresh start. If the Realme Narzo 60 Pro 5G device has no button, disconnect the power supply and plug it back in to connect again. Most internet issues are resolved by restarting the router.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![restart wifi router](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Fix 5: Forget Old Networks
 
 The problem that your Wi-Fi keeps disconnecting can also occur because of the list of networks you have connected to. Having yourselves connected to different set of networks could turn out to be quite problematic in the process. In the process of finding and switching to the best network, your device’s Wi-Fi will continually disconnect and reconnect with the nearby networks. To finish this irritating issue, you should remove and forget all the extra networks that you connected previously.
 
 **Step 1**: You should start by pressing and holding the Wi-Fi option from the drop-down menu on your phone until the Wi-Fi settings screen appears.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open wifi settings](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-7.jpg)
 
 **Step 2**: You will see a list of all the Wi-Fi networks you have connected to previously. One by one, select each network and hit the 'Forget Network' button to remove it.
@@ -419,8 +518,23 @@ Sometimes, different installed applications can also cause trouble. If your Wi-F
 
 **Step 1**: For uninstalling the problematic application, you have to select it and hold it. You will see a pop-up menu of multiple options; choose the option of ‘Uninstall' to remove the app from the phone.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on uninstall button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Fix 7: Reset Network Settings on your Phone
 
 It’s annoying that your Wi-Fi keeps disconnecting while you are working or studying. Android users can easily get over this problem by resetting the network settings. The steps for this fix are as follows:
@@ -449,6 +563,9 @@ Although the 5GHz frequency band is recognized for providing better network spee
 
 ![change routers range](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 9: Stay Connected while Asleep
 
 Most Android phones have a battery-saving feature. This feature disables the network connections to save the battery of the phone. If this is why the Wi-Fi keeps disconnecting, follow the steps shared below to fix it:
@@ -459,12 +576,21 @@ Most Android phones have a battery-saving feature. This feature disables the net
 
 **Step 2**: Then, from the battery screen, hit the 'More Battery Settings' options. Then, you will see the 'Stay Connected while Asleep' option; turn it on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![enable connected while asleep](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 10: Upgrade Router Firmware
 
 If none of the above-shared fixes work, the last fix to resolve the problem is upgrading your router firmware. For this, you should contact any professional who knows network operations as upgrading router firmware takes time and requires knowledge.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Wi-Fi Stay Connected
 
 The article above has discussed 10 solutions that offer a comprehensive toolkit to tackle the persistent issue of Wi-Fi keeps turning off Android. By toggling Airplane Mode, restarting your device, adjusting settings, and updating firmware, among other steps, you can effectively address and resolve this connectivity problem. With these solutions at your disposal, you can regain a stable and uninterrupted Wi-Fi experience on your Realme Narzo 60 Pro 5G.
@@ -486,3 +612,66 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-conversation-to-text-mastering-googles-document-feature/"><u>[New] From Conversation to Text  Mastering Google's Document Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-multimedia-with-pip-in-apple-browsers/"><u>[New] Streamline Multimedia with PIP in Apple Browsers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-using-b-roll-to-complement-visuals-effectively/"><u>[New] The Art of Using B-Roll to Complement Visuals Effectively</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-online-radio-stations-worldwide/"><u>[Updated] Best Online Radio Stations Worldwide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-secret-to-capturing-seamless-google-classesmeets/"><u>[Updated] In 2024, The Secret to Capturing Seamless Google Classes/Meets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-quick-guide-to-screen-capture-on-laptops-and-chromeos-for-2024/"><u>[Updated] Quick Guide to Screen Capture on Laptops and ChromeOS for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-guide-to-livestreaming-on-mobile-devices/"><u>[Updated] The Complete Guide to Livestreaming on Mobile Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-transforming-facebook-streams-into-flawless-records/"><u>[Updated] Transforming Facebook Streams Into Flawless Records</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unravel-the-secrets-to-successful-instagram-metrics-management-with-top-tools-for-2024/"><u>[Updated] Unravel the Secrets to Successful Instagram Metrics Management with Top Tools for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-before-you-fly-drone-purchase-tips-and-considerations/"><u>2024 Approved  Before You Fly  Drone Purchase Tips and Considerations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-closer-inspection-pro-tips-for-pixelated-play/"><u>2024 Approved  Closer Inspection  Pro Tips for Pixelated Play</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-final-cut-pro-x-mastery-crafting-instagrams-desired-format/"><u>2024 Approved  Final Cut Pro X Mastery  Crafting Instagram's Desired Format</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-blaze-2-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Blaze 2 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oppo-find-x7-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo Find X7 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/engagement-inquiry-what-shapes-your-social-media-experience/"><u>Engagement Inquiry: What Shapes Your Social Media Experience?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/exploring-ways-to-share-youtube-videos-on-social-media-platforms-fb-for-2024/"><u>Exploring Ways to Share YouTube Videos on Social Media Platforms (FB) for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-google-pixel-8-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Google Pixel 8 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-oppo-reno-10-proplus-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Reno 10 Pro+ 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-note-12r-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi Note 12R in Minutes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-s17e-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo S17e? Try These Fixes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-defy-2-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Defy 2 Phones with/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-a1-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo A1 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-network-live-broadcasts-via-vlc/"><u>In 2024, Mastering Network Live Broadcasts via VLC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-android-photo-enhancers/"><u>In 2024, Top 5 Android Photo Enhancers</u></a></li>
+<li><a href="https://facebook.techidaily.com/investing-in-your-segment-of-the-725-million-facebook-payout/"><u>Investing in Your Segment of the $725 Million Facebook Payout</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-samsung-galaxy-f14-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-tecno-camon-20-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Camon 20? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-y100a-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y100A Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/simplifying-video-editing-on-iphone-trim-and-adjust-sizes-for-2024/"><u>Simplifying Video Editing on iPhone  Trim & Adjust Sizes for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-y200e-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo Y200e 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-f15-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy F15 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-itel-a05s-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Itel A05s Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-magic5-ultimate-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor Magic5 Ultimate Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-spark-20-proplus-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Spark 20 Pro+ Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s17-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-11-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme 11 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-f15-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy F15 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Honor X9b | Dr.fone</u></a></li>
+</ul></div>

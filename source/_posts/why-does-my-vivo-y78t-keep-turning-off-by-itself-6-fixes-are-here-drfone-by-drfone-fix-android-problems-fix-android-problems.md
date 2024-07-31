@@ -1,7 +1,7 @@
 ---
 title: Why Does My Vivo Y78t Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone
-date: 2024-03-18 13:44:20
-updated: 2024-03-21 10:39:21
+date: 2024-07-30T12:44:47.953Z
+updated: 2024-07-31T12:44:47.953Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Why Does My Vivo Y78t Keep Turning Off By Itself? 6 Fixes Are Here
 excerpt: This article describes Why Does My Vivo Y78t Keep Turning Off By Itself? 6 Fixes Are Here
 keywords: Vivo Y78t fix android problems,Vivo Y78t android fix,Vivo Y78t android problems,Vivo Y78t android guide,Vivo Y78t android help,android fix
-thumbnail: https://www.lifewire.com/thmb/IOefl4e_6Yr9ZAczXaVDoLd0G88=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1365158534-d6952b03afff43f7a1c5f0405f31dc92.jpg
+thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401fbcd66ce15df928f6be58b2.jpg
 ---
 
 ## Why Does My Vivo Y78t Keep Turning Off By Itself? 6 Fixes Are Here
@@ -42,16 +42,26 @@ If your phone turns off now and then while you are using it and even refuses to 
 
 First, open the dialer on your Vivo Y78t shown in the screenshot below.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open the dialer](https://images.wondershare.com/drfone/article/2017/07/14994528759955.jpg)
 
 Now dial \*#\*#4636#\*#\* just like dialing a usual phone number and wait for the “Battery Info” screen to pop up.
 
 Note: Sometimes, the above-mentioned code may not work. In such cases, try dialing \*#\*#INFO#\*#\*. The following screen will appear now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Battery Info](https://images.wondershare.com/drfone/article/2017/07/14994528935445.jpg)
 
 If the battery looks good as you can see in the screenshot above and everything else seems normal, it means that your battery is healthy and need not be replaced. You may now move on to the next step to cure your device.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Part 3: One-click to fix Android phone keeps turning off
 
 We understand how annoying it is to find your Vivo Y78t turning off randomly on its own. So, when the age-old remedies to fix the phone keeps turning off turns futile, you need to go for a reliable tool like [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/).
@@ -60,6 +70,9 @@ Apart from tackling the Android phone keeps turning off the issue, it can also r
 
 Your trouble with ‘why does My Vivo Y78t keep shutting off?’ can be resolved easily using Dr.Fone - System Repair (Android). But, before that, you need to ensure that [the Android device has been backed up properly](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) to eliminate the risk of data erasing.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
@@ -84,6 +97,9 @@ Step 1: On your computer, install and launch Dr.Fone. Now, click the ‘System R
 
 Step 2: Here, you need to press the ‘Start’ button right after hitting the ‘Android’.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![choose repair to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Pick your Vivo Y78t details over the Vivo Y78t device information interface. Click the ‘Next’ button afterward.
@@ -104,6 +120,9 @@ For a device lacking ‘Home’ button – After switching off the Android mobil
 
 Step 2: Hitting the ‘Next’ button will start the Android firmware download.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![start firmware downloading](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once downloaded. Within some time the Android system gets repaired.
@@ -122,12 +141,18 @@ Go to "Settings" on your Vivo Y78t and navigate to the "System" or "Software Upd
 
 ![update software](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Cool down your phone to avoid your phone keeps turning off
 
 When a phone overheats, it can trigger an automatic shutdown as a protective mechanism to prevent damage to the Vivo Y78t device's internal components. Overheating occurs when the phone's internal temperature rises significantly, typically due to excessive heat generated by the processor and other hardware components during intensive tasks or prolonged usage.
 
 To prevent the phone from turning off due to overheating, you can take various measures, such as limiting intensive usage, avoiding direct sunlight and hot environments, and using the phone on hard surfaces to aid heat dissipation.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![cool down the phone](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off-1.jpg)
 
 ## Part 6: Narrow down the randomly turning off issue in Safe Mode
@@ -150,6 +175,9 @@ Once done, the phone will reboot and you will see “Safe Mode” on the main sc
 
 That's all. Well, booting to Safe Mode is easy and it also helps you to identify the real problem.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Part 7: Back up your data and perform a factory reset
 
 **Note:** _You must take a back-up of all your data because once you perform a factory reset on your device, all media, contents, data, and other files are wiped out, including your device settings._
@@ -173,10 +201,16 @@ To start with, download and run the backup software on the PC.
 
 Once you have the main screen of the software with multiple options that will appear before you, choose the "My Backup" option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![choose “Data Backup & Restore” option](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Now connect the Android phone to the PC and make sure that USB debugging is turned on. Then hit “Back Up Now” and wait for the next screen to open.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 You will see the file types that will be backed up. Wait for the backup process to complete.
@@ -185,8 +219,14 @@ You will see the file types that will be backed up. Wait for the backup process 
 
 There you go, you have successfully backed up data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 Now moving on to factory reset your phone:
@@ -197,12 +237,18 @@ Simply visit “Settings” on your Vivo Y78t by clicking the settings icon as s
 
 And then select the “Backup and Reset” option.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/07/14994531829910.jpg)
 
 Once selected, tap on "Factory data reset" and then "reset device" as shown in the picture below.
 
 Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on “ERASE EVERYTHING”](https://images.wondershare.com/drfone/article/2017/07/14994532028525.jpg)
 
 Note: Once the factory reset process is complete, your device will automatically restart and you will have to set it up once again. You can restore the backup data on your Vivo Y78t once you factory reset it, again using the Dr.Fone toolkit.
@@ -211,6 +257,9 @@ Now for all those of you who are wondering why does My Vivo Y78t keeps turning o
 
 So, do not hold back, go ahead, and try these tricks. They have helped many and will be useful for you too.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y78t
@@ -227,6 +276,10 @@ If you are also among the various users who see Android, unfortunately, the proc
 
 Looking for suitable solutions to fix Android SystemUI has stopped error? Then read on to find out all about Android SystemUI isn't responding error and the most effective ways to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 1: Why Android SystemUI Has stopped happens?
 
 ![android system ui-SystemUI Has stopped](https://images.wondershare.com/drfone/article/2017/06/14985097157775.jpg)
@@ -237,6 +290,9 @@ Another reason for the Android SystemUI isn't responding error to occur, maybe b
 
 It is not possible to say for sure which one of the above-mentioned reasons is causing your device to show Android SystemUI is not responding error. But what we can do is move on to fixing the Android SystemUI by following any one of the three methods given the following segments.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to fix “com.android.systemui has stopped” in one click
 
 As we’ve learned that Android system UI isn’t responding issue is primarily because of the Android OS updates not installed properly or were corrupted. Hence, there comes the need for a powerful Android system repair tool that can help you rectify such annoying errors.
@@ -269,12 +325,18 @@ If your Android has a Home button:
 
 - Turn off your device. Hold down “Volume Down + Home + Power” buttons altogether for about 10seconds. Let go of the buttons afterward and hit the Volume Up to boot in download mode.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix Android system UI stopping with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 In case your Android has no Home button:
 
 - Turn off your device. Hold down “Volume Down + Bixby + Power” buttons altogether for about 10seconds. Let go of the buttons afterward and hit the Volume Up to boot in download mode.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![fix Android system UI stopping with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2 – Once done, hit “Next” to initiate the downloading of the firmware.
@@ -287,6 +349,9 @@ Step 3 – As soon as the download completes, the Android repair will automatica
 
 Step 4 – In a just a matter of a few minutes, your Android system UI isn’t responding issue will be resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![com.android.systemui stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Part 3: Uninstall Google updates to fix Android SystemUI issue
@@ -300,12 +365,19 @@ Follow the steps given below to fix the Android SystemUI has stopped issue by ro
 - From the list of Apps, select “Google App”.
 - Finally, tap on “Uninstall Updates” as shown hereunder.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![android system ui-tap on “Uninstall Updates”](https://images.wondershare.com/drfone/article/2017/06/14985097623540.jpg)
 
 Note: To prevent the Android SystemUI isn't responding error to occur in the future, do not forget to change your Google Play Store settings to “Do Not Auto-Update Apps”.
 
 ![android system ui-“Do Not Auto-Update Apps”](https://images.wondershare.com/drfone/article/2017/06/14985097858029.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: Wipe Cache partition to fix Android SystemUI error
 
 Android, unfortunately, the process com.android.systemui has stopped error can also be fixed by clearing your cache partitions. These partitions are nothing but storage locations for your modem, kernels, system files, drivers, and built-in Apps data.
@@ -318,6 +390,10 @@ Different Android devices have different ways to put it in recovery mode. Refer 
 
 - Once you are the recovery mode screen, you will see several options as shown in the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![android system ui-wipe data reset](https://images.wondershare.com/drfone/article/2017/06/14985470953716.jpg)
 
 - Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
@@ -340,6 +416,9 @@ Follow the steps given below to factory reset your device to solve the Android S
 
 - Visit “Settings” by clicking the settings icon as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android system ui-Visit “Settings”](https://images.wondershare.com/drfone/article/2017/06/14985098633964.jpeg)
 
 - Now select “Backup and Reset”.
@@ -349,6 +428,9 @@ Follow the steps given below to factory reset your device to solve the Android S
 - In this step, select “Factory data reset” and then “Reset Device”.
 - Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![android system ui-tap on “ERASE EVERYTHING”](https://images.wondershare.com/drfone/article/2017/06/14985099118666.jpeg)
 
 After the factory reset process is completed, your device will automatically restart, and you will have to set it up once again.
@@ -359,6 +441,9 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y78t
 
 The revolutionized world is about the internet, online life, and social media. You can get all the information you need from the internet. You are a click away from booking tickets, buying groceries, calling your loved ones, or even you can handle office meetings with the internet.
@@ -393,6 +478,9 @@ If your Vivo Y78t gets disconnected frequently, then this disconnection is due t
 
 Sometimes, the internet is stable, but it still disconnects. This is because the internet service provider might not send the best quality internet you have acquired it for. If your internet is stable and the phone still keeps disconnecting, then head onto the next part that will share the top 10 fixes to sort out this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: 10 Ways to Fix Wi-Fi Keep Disconnecting on Phone
 
 As we have mentioned earlier if your Wi-Fi is stable, but it keeps disconnecting from [Vivo Y78t S22](https://drfone.wondershare.com/samsung/samsung-galaxy-s22.html) or other Android phones, the coming section of this article is for you. We will provide you with 10 solutions with complete assistance to fix the "**Wi-fi keeps disconnecting Android**" issue.
@@ -407,6 +495,9 @@ If the Wi-Fi keeps disconnecting from your Vivo Y78t, but the internet is stable
 
 **Step 2**: Now, select the 'Reboot' option to resolve the issue from the options on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select reboot option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-1.jpg)
 
 ### Fix 2: Check Router Settings
@@ -421,6 +512,9 @@ To fix the annoying problem that your Wi-Fi keeps disconnecting, you should try 
 
 **Step 1**: First, you need to open the Wi-Fi settings menu. This could be done by pressing and holding the Wi-Fi option from the drop-down menu of your phone until the settings open up.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on your wifi option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-3.jpg)
 
 **Step 2**: A list of all the Wi-Fi networks will appear on the screen. Select the network that is causing trouble from that list and hit the 'Forget Network' option.
@@ -447,6 +541,9 @@ The problem that your Wi-Fi keeps disconnecting can also occur because of the li
 
 **Step 2**: You will see a list of all the Wi-Fi networks you have connected to previously. One by one, select each network and hit the 'Forget Network' button to remove it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![forgot unnecessary wifi connections](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-8.jpg)
 
 ### Fix 6. Check Recently Installed Applications
@@ -457,6 +554,14 @@ Sometimes, different installed applications can also cause trouble. If your Wi-F
 
 ![tap on uninstall button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-9.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7: Reset Network Settings on your Phone
 
 It’s annoying that your Wi-Fi keeps disconnecting while you are working or studying. Android users can easily get over this problem by resetting the network settings. The steps for this fix are as follows:
@@ -467,6 +572,9 @@ It’s annoying that your Wi-Fi keeps disconnecting while you are working or stu
 
 **Step 2**: As you progress onto a new screen, you will find the option of “Reset Wi-Fi, Mobile Networks, and Bluetooth” in the menu. Select the option to lead to the next window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open reset option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-11.jpg)
 
 **Step 3**: Click on the option of “Reset Settings” present on the bottom of the next screen that shows up. Provide confirmation of resetting these settings by inserting your device’s PIN, if any.
@@ -475,32 +583,64 @@ It’s annoying that your Wi-Fi keeps disconnecting while you are working or stu
 
 **Step 4**: After providing the appropriate clearances, you will be asked for another confirmation of resetting the Vivo Y78t device’s networks to default. Click “OK” to execute.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on ok button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 8: Check Routers Range
 
 If your Wi-Fi automatically disconnects and connects again while you are roaming in the house, then it is because of the router's range; you should check it. For this, you can consider changing and modifying your AP (Access Point) band on your router.
 
 Although the 5GHz frequency band is recognized for providing better network speeds, this band has a shorter range as compared to the 2.4GHz band, which has a better coverage of area. You can easily shift your router’s range through its configuration page. It is considered optimal to utilize the 2.4GHz frequency band for better ranges.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![change routers range](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 9: Stay Connected while Asleep
 
 Most Android phones have a battery-saving feature. This feature disables the network connections to save the battery of the phone. If this is why the Wi-Fi keeps disconnecting, follow the steps shared below to fix it:
 
 **Step 1**: Start by opening the ‘Settings’ menu on your phone. Then scroll down until you find the 'Battery' option and open it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![open battery settings](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-15.jpg)
 
 **Step 2**: Then, from the battery screen, hit the 'More Battery Settings' options. Then, you will see the 'Stay Connected while Asleep' option; turn it on.
 
 ![enable connected while asleep](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 10: Upgrade Router Firmware
 
 If none of the above-shared fixes work, the last fix to resolve the problem is upgrading your router firmware. For this, you should contact any professional who knows network operations as upgrading router firmware takes time and requires knowledge.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wi-Fi Stay Connected
 
 The article above has discussed 10 solutions that offer a comprehensive toolkit to tackle the persistent issue of Wi-Fi keeps turning off Android. By toggling Airplane Mode, restarting your device, adjusting settings, and updating firmware, among other steps, you can effectively address and resolve this connectivity problem. With these solutions at your disposal, you can regain a stable and uninterrupted Wi-Fi experience on your Vivo Y78t.
@@ -520,3 +660,40 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-free-online-photo-tools-ranked-15/"><u>[New] Best Free Online Photo Tools Ranked #15</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hidden-history-unveiled-understanding-off-facebook-data/"><u>[New] Hidden History Unveiled  Understanding Off-Facebook Data</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-headline-for-job-searches/"><u>[New] Tailoring Your Headline for Job Searches</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphones-best-5-podcast-audio-platforms/"><u>[Updated] IPhone's Best 5 Podcast Audio Platforms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-cost-effective-media-providers-online-for-2024/"><u>[Updated] The Ultimate Guide to Cost-Effective Media Providers Online for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlock-social-data-with-top-free-facebook-downloaders/"><u>[Updated] Unlock Social Data with Top Free Facebook Downloaders</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-itel-s23-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Itel S23 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-exclusive-mp4-uploader-to-facebook-platform/"><u>2024 Approved  Exclusive MP4 Uploader to Facebook Platform</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-overcoming-adobe-premieres-srt-barriers/"><u>2024 Approved  Mastery Overcoming Adobe Premiere's SRT Barriers</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-realme-gt-neo-5-se-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme GT Neo 5 SE Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-v30-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo V30 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oneplus-nord-ce-3-lite-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on OnePlus Nord CE 3 Lite 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/go-big-or-go-home-selecting-the-most-satisfying-1tbplus-cloud-services-for-2024/"><u>Go Big or Go Home - Selecting the Most Satisfying 1TB+ Cloud Services for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-samsung-galaxy-m14-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy M14 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-note-12-4g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi Note 12 4G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-elevating-your-ig-aesthetics-with-top-10-grid-builders/"><u>In 2024, Elevating Your IG Aesthetics with Top 10 Grid Builders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/intense-review-the-gecata-game-watcher/"><u>Intense Review  The Gecata Game Watcher</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-infinix-note-30-vip-racing-edition-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Note 30 VIP Racing Edition Black and White | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/reimagine-your-snapchat-chats-with-ease-voice-change-guides-here/"><u>Reimagine Your Snapchat Chats with Ease  Voice Change Guides Here</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/secrets-to-capturing-engaging-and-dynamic-presentations/"><u>Secrets to Capturing Engaging and Dynamic Presentations</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-x50i-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor X50i Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-magic-v2-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor Magic V2 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-s23-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy S23 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-zero-30-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Zero 30 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>

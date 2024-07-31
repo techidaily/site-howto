@@ -1,7 +1,7 @@
 ---
 title: 6 Solutions to Fix Error 505 in Google Play Store on Poco X6 Pro | Dr.fone
-date: 2024-05-20T09:03:24.902Z
-updated: 2024-05-21T09:03:24.902Z
+date: 2024-07-30T07:46:59.429Z
+updated: 2024-07-31T07:46:59.429Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 6 Solutions to Fix Error 505 in Google Play Store on Poco X6 Pro
 excerpt: This article describes 6 Solutions to Fix Error 505 in Google Play Store on Poco X6 Pro
 keywords: android solutions,Poco X6 Pro android solutions,android tips,Poco X6 Pro android repair,android guide,fix android problems,android help,android troubleshooting,Poco X6 Pro android troubleshooting
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## 6 Solutions to Fix Error 505 in Google Play Store on Poco X6 Pro
@@ -47,6 +47,9 @@ The most common cause for error code 505 pop-up is that Android system files tha
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One click to repair Android system and make error code 505 disappear
@@ -68,6 +71,9 @@ Step1: Download [the Dr.Fone - System Repair (Android) program](https://tools.te
 
 Step2: Select the "Android Repair" among the 3 tabs, connect your Android to PC, and click "Start".
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![select android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step3: Choose the correct device details from each field, confirm them and continue.
@@ -76,10 +82,17 @@ Step3: Choose the correct device details from each field, confirm them and conti
 
 Step4: Boot your Android in download mode, then start downloading the firmware of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix error code 505 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Step5: After the Poco X6 Pro device firmware is downloaded, the tool will start repairing your Android.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![fix error code 505 when firmware is downloaded](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 Step6: When your Android is repaired, the error code 505 will disappear.
@@ -100,6 +113,9 @@ At the top, an option will appear
 
 \>Then Select Enable
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Application Manger](https://images.wondershare.com/drfone/article/2017/06/14976274734570.jpg)
 
 Enabling download manager to give permission to the Poco X6 Pro device to start the download or installation process.
@@ -143,6 +159,9 @@ Steps to Cache memory of Google Play Store
 
 It will clear the cache of Google play store
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![app info](https://images.wondershare.com/drfone/article/2017/06/14976276779206.jpg)
 
 Clearing the cache memory remove the extra temporary memory, thus free up space for the further installation process.
@@ -153,6 +172,18 @@ The reason behind the installation error code 505 might be Google play store upd
 
 Due to continuous updation of new apps and services Google Play store used to be flooded with so many updates or sometimes does not updated properly. That sometimes caused the problem in dealing with app installation. Resolving the issue is important to make your play store ready for future updation and installation.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Play store](https://images.wondershare.com/drfone/article/2017/06/14976277251819.jpg)
 
 - \>Go to Settings
@@ -162,6 +193,9 @@ Due to continuous updation of new apps and services Google Play store used to be
 - \>A Message will appear ‘Change play store app to factory version’- Accept it
 - \>Now Open Google play store>It will refresh the updates within 5 to 10 minutes(So you need to keep your internet connection on while Google play store is updating its store for new updates.)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![Click on Uninstalling Updates](https://images.wondershare.com/drfone/article/2017/06/14976277917398.jpg)
 
 #### **Solution 6: Third party App**
@@ -170,6 +204,9 @@ In the case, error 505 occur due to the installation of two or more apps with du
 
 Download link: [https://www.luckypatchers.com/download/](https://www.luckypatchers.com/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lucky patcher](https://images.wondershare.com/drfone/article/2017/06/14976278389200.jpg)
 
 Note: If still, you are in the state of trouble to solve the issue of error code 505 then Google Play help center is here to look out all troubles related to app store and its service. You can check out the details by visiting the following link:
@@ -180,6 +217,9 @@ Or call them at their call center number regarding the issue.
 
 ![call center number](https://images.wondershare.com/drfone/article/2017/06/14976278809798.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Bonus FAQ about Google Play error
 
 **Q1: What is a 505 error code?**
@@ -218,6 +258,9 @@ Wi-Fi authentication has to be done every time you wish to connect to a Wi-Fi ne
 
 Authentication error occurs when the “deal” between the Wi-Fi router and device fails due to certain reasons. First, the Poco X6 Pro device sends the password of the network and the "connect" request in an encrypted format to the Wi-Fi router. Then, the router decrypts the password and compares the password saved on it. Now, if the password matches, it sends affirmation for the "connect" request, and then the Poco X6 Pro device is allowed to connect to the network.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Why Authentication Error Occurred when Connecting to Wifi?
 
 There could be plenty of reasons for facing an authentication error on your device. Most of the time, it occurs whenever a Wifi router seems to malfunction. Furthermore, if your phone has been recently updated, then chances are that there could be an issue with its drivers. A security attack can also make your device malfunction as well. An unstable connection or a router blockage can also be a reason for this issue.
@@ -242,6 +285,9 @@ No! With Dr.Fone - System Repair (Android), you can do Android repair in just a 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 An easy-to-operate tool to fix Android system issues like a Wifi authentication error
@@ -277,6 +323,9 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 
 ![Wifi Authentication Error fixing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Use static IP address instead of DHCP
 
 DHCP, or Dynamic Host Configuration Protocol is the default IP address assignment for the Wi-Fi settings on many devices. Whereas DHCP can cause IP address conflict during the dynamic IP address assignment. So, you'd better change "DHCP" to "Static" to see if the authentication error persists.
@@ -289,18 +338,27 @@ Step 3: Depending on your Poco X6 Pro model, look for “IP Settings” and tap 
 
 Step 4: Note down the static IP address fields and wipe off all the fields. Punch it in again and then save it.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![change dhcp settings of wifi](https://images.wondershare.com/drfone/article/2019/06/dhcp-static.jpg)
 
 ### Check carefully for duplicate Wi-Fi names before you connect
 
 Perhaps, you might connect to a WiFi with a similar name. There are good chances that some users do not modify their WiFi network name and possibly, your neighbor may have the same WiFi network, service provider. Therefore, ensure you connect to the correct WiFi network.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Reset the Wifi network
 
 One of the easiest ways to fix the authentication problem of Wifi is to reset the network. To do this, you would be required to forget the respective network first and then connect to it again. This can be done by simply following these steps.
 
 1\. Firstly, you need to forget a Wifi network. To do it, go to your phone’s Settings > WiFi and network. From here, you can see a list of all the Wifi hotspots that your phone connects to. Select the network you wish to forget.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select the network](https://images.wondershare.com/drfone/article/2017/06/14981516957952.jpg)
 
 2\. When you would select a network, it will provide the basic information related to it. Just tap on the “Forget” button and agree to the pop-up message. This will erase the network’s information from your device.
@@ -309,14 +367,23 @@ One of the easiest ways to fix the authentication problem of Wifi is to reset th
 
 3\. Afterward, turn on your Wifi again and tap to the network you wish to connect to. Simply provide the credentials and tap on the “Connect” button to reestablish the connection. This way, you can reset the network successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![tap on the Connect button](https://images.wondershare.com/drfone/article/2017/06/14981518275903.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Modify network connection
 
 If the above solution won’t work, then you would be required to walk the extra mile to fix the Poco X6 Pro Wifi problem. After you reset a network connection, if still getting issues regarding the authentication of the network, you need to modify the connection. In this technique, you will be changing the IP settings on your phone to alter the way it establishes a secure connection. You can do it by following these steps.
 
 1\. To start with, visit your phone’s Settings and open the Wifi page.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open the Wifi page](https://images.wondershare.com/drfone/article/2017/06/14981518727215.jpg)
 
 2\. This will display a list of all the Wifi networks that are associated with your device. Just long-tap on the Wifi network that you wish to modify. It will open another pop-up window. From here, tap on the option of “Manage network settings”. Sometimes, users also get an option of “Modify network settings” here as well. Simply select it to proceed.
@@ -337,6 +404,9 @@ If the above solution won’t work, then you would be required to walk the extra
 
 Now, try to connect to the Wifi hotspot again. You would be able to overcome the authentication problem of Wifi.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Change Network Security Type
 
 It has been observed that, when we connect to Wifi, our device chooses a wrong security type. This clashes with the default security protocol of the router and authentication error occurred due to this. If your device is facing the same issue, then it can be fixed by simply changing its security type. To do this, follow these instructions:
@@ -365,6 +435,9 @@ Step 2: Now, opt for the “System Update” option. If the update is available,
 
 Sometimes, the WiFi router may hang up while establishing a connection and therefore, the wifi authentication problem occurs. Try restarting your Wi-Fi router and then check if your device connects successfully. If this doesn’t work, try to [reset your Android Network Settings](https://drfone.wondershare.com/android-issue/authentication-error.html#reset).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Bonus tip: Turn Airplane mode on/off
 
 By simply turning on the Airplane mode (and later turning it off), you can easily fix the authentication problem Wifi most of the time. You can find a toggle button for Airplane mode on the notification bar of your phone. If you can’t find it there, then go to your phone’s Settings > Connection > More Networks and turn on the feature of “Airplane Mode”.
@@ -379,16 +452,25 @@ After following these quick and easy suggestions, you would be able to fix the P
 
 ## How to Resolve Poco X6 Pro Screen Not Working
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 Nothing is more frustrating than your phone's touch screen becoming unresponsive. Given the importance of smartphones in daily work, a phone with a touch screen not working can badly affect your routine. It is an issue found in most smartphone brands, even among Poco X6 Pro phones, known for their efficient performance. If your ****Poco X6 Pro screen is not working****, it can be an exhausting experience.
 
 Luckily for your, multiple ways are available to resolve this issue. This article will list six fixes for resolving the ****Poco X6 Pro not working**** issue. It will also discuss the reasons behind this issue in detail and provide a list of tips to avoid it in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: What Causes Poco X6 Pro Screen Unresponsive?
 
 Answering what causes Poco X6 Pro screen unresponsiveness is difficult. Many reasons, ranging from minor bugs to serious hardware issues, can cause it. To find out the exact or near exact reason, you will have to review your device's activity before this issue occurs. You can use the following common reasons behind the ****Poco X6 Pro 6T touch screen not working**** as the basis of your investigation:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### 1\. Touchscreen Calibration
 
 Excessive smartphone use can cause the touchscreen to go out of the required settings. It means until the touch screen is not recalibrated properly, the touch not working issues will continue to pop up.
@@ -397,6 +479,9 @@ Excessive smartphone use can cause the touchscreen to go out of the required set
 
 If your device's battery is damaged or is at the end of its lifespan, it can cause the touch screen not responding issues. Moreover, the low battery and issue with the charging port can also lead to this problem.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Corrupted System Files
 
 The presence of corrupted system files is also a significant cause of such issues. These corrupted files can also lead to serious performance issues on your phone.
@@ -409,6 +494,9 @@ It is also possible that the conflicting settings in your device are causing thi
 
 Fixing the ****Poco X6 Proscreen not working**** is easy as long as it is not a serious hardware issue. While there are multiple ways to solve this problem, we have chosen the 6 most common and easy solutions. Listed below are the 6 common solutions to solve a Poco X6 Pro screen unresponsive:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 1. Restart the Poco X6 Pro Phone
 
 As with any other issue or device, the first fix you should always try first is to restart your device. It is the best solution to fix the ****Poco X6 Pro not working**** issue if temporary bugs and glitches are the reason behind it. When you restart your device, it flushes out all temporary bugs and glitches while resetting your device’s processes. Use this guide to restart your Poco X6 Pro device:
@@ -417,34 +505,57 @@ As with any other issue or device, the first fix you should always try first is 
 
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### Solution 2. Check the Charging Port and Battery
 
 The issues with the battery of your Poco X6 Pro 5 can also lead to ****Poco X6 Pro not working****. It can be due to your device's low or near-empty battery. While in some cases, serious issues with the battery can also be behind this problem. Similarly, the reason behind your phone's touch not working can be charging port issues.
 
 Thus, you should check and clean your device's charging port and see if it resolves the problem. Moreover, turn off your device, charge it, and then restart it to check if the touch screen not working issue is gone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Solution 3. Contact the Poco X6 Pro Customer Support
 
 Contacting Poco X6 Pro customer support can also help resolve the ****Poco X6 Pro screen not working**** problem. It is especially helpful if you are unable to find the cause and want to seek an expert opinion. The Poco X6 Pro customer support will help you find the issue and recommend a solution.
 
 It is an excellent option if your Poco X6 Pro device's touch is not working due to hardware issues. They can help guide you to a suitable service center to fix your phone and resolve this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### Solution 4. Wipe the Cache of Your Poco X6 Pro Device
 
 A common reason for ****Poco X6 Pro Nord being stuck on the loading screen**** is the filled cache partition. If you do not clean out the cache partition of your Poco X6 Pro device, its performance will degrade. As a result, your device will experience issues like the touch screen not working or getting stuck at the loading screen. Here is how you can clear the cache of your Poco X6 Pro device:
 
 ****Step 1:**** Turn off your device by pressing and holding the “Power” button. Once it is turned off, press and hold the “Power” and “Volume Down” buttons until you see the Poco X6 Pro logo.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wait for oneplus logo](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-3.jpg)
 
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
 
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
 ### Solution 5. Reset to Factory Settings
@@ -476,6 +587,9 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 
 ![dr.fone phone toolbox](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 To sum up this article, it can be said that issues like ****Poco X6 Pro not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
@@ -497,3 +611,68 @@ To sum up this article, it can be said that issues like ****Poco X6 Pro not work
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-bend-the-light-homegrown-animated-innovations/"><u>[New] Bend the Light  Homegrown Animated Innovations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-download-and-use-movie-maker-on-windows-11/"><u>[New] Download and Use Movie Maker on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-low-res-to-hd-your-first-foray-into-frame-rates/"><u>[New] From Low-Res to HD  Your First Foray Into Frame Rates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-becoming-a-meet-maestro-chat-techniques-unveiled/"><u>[New] In 2024, Becoming a Meet Maestro  Chat Techniques Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unveiling-the-most-shared-stock-photos-and-backstories/"><u>[New] In 2024, Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-innovating-entertainment-the-updated-sony-blu-ray-s6500/"><u>[New] Innovating Entertainment  The Updated Sony Blu-Ray S6500</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-calculating-youtubes-income-potential-with-cpm-rates-for-2024/"><u>[Updated] Calculating YouTube's Income Potential with CPM Rates for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-clearing-up-the-darkness-tips-for-non-black-screens-with-obs/"><u>[Updated] Clearing Up the Darkness  Tips for Non-Black Screens with OBS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quickening-speed-of-slide-show-media-playback/"><u>[Updated] Quickening Speed of Slide Show Media Playback</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-slash-the-size-of-oversized-drafts-with-easy-edit-tactics/"><u>2024 Approved  Slash the Size of Oversized Drafts with Easy Edit Tactics</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-transform-your-vision-youtubes-innovative-green-screen-solutions/"><u>2024 Approved  Transform Your Vision – YouTube's Innovative Green Screen Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-y02t-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo Y02T Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-f14-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy F14 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-a05-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy A05? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-lava-yuva-3-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Lava Yuva 3 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-nokia-c02-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nokia C02 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-poco-m6-pro-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Poco M6 Pro 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/captivate-with-voice-intros-that-intrigue/"><u>Captivate with Voice  Intros That Intrigue</u></a></li>
+<li><a href="https://windows11.techidaily.com/chrome-files-upload-hurdle-heres-how-to-clear-it-on-windows/"><u>Chrome Files Upload Hurdle? Here's How to Clear It on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-honor-100-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Honor 100 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-honor-x50i-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Honor X50i Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-moto-g34-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Moto G34 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-lava-blaze-2-pro-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-realme-c67-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme C67 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-x90s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo X90S Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-oppo-find-x7-ultra-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Find X7 Ultra Safely | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-samsung-galaxy-a34-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy A34 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-se-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone SE Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-vivo-v30-lite-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo V30 Lite 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-xs-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone XS without Security Questions?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-easy-steps-to-record-your-snapchat-screen/"><u>In 2024, Easy Steps to Record Your Snapchat Screen</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-google-meet-for-everyone-a-comprehensive-no-cost-strategy-booklet/"><u>In 2024, Google Meet for Everyone  A Comprehensive, No-Cost Strategy Booklet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-your-streams-youtube-buffer-in-chromesafari/"><u>In 2024, Master Your Streams  YouTube Buffer in Chrome/Safari</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/key-10-acoustic-amplifiers-for-android-ios/"><u>Key 10 Acoustic Amplifiers for Android, iOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-the-art-of-conducting-virtual-meetings-with-zoom-win10-for-2024/"><u>Master the Art of Conducting Virtual Meetings with Zoom (Win10) for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-oppo-f23-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo F23 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-xiaomi-redmi-k70-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Redmi K70 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-m34-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy M34 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-oppo-a2-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A2 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-realme-11x-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Realme 11X 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-v30-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo V30 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-reno-11-pro-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo Reno 11 Pro 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-magic-6-lite-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor Magic 6 Lite.</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v30-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vlc-analysis-and-substitutes-revisited/"><u>VLC Analysis & Substitutes Revisited</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-a15-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy A15 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-narzo-60x-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme Narzo 60x 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-lava-storm-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Lava Storm 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>

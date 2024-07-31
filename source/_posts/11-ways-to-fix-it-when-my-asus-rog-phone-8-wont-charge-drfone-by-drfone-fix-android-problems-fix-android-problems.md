@@ -1,7 +1,7 @@
 ---
 title: 11 Ways to Fix it When My Asus ROG Phone 8 Wont Charge | Dr.fone
-date: 2024-05-20T09:03:20.869Z
-updated: 2024-05-21T09:03:20.869Z
+date: 2024-07-30T07:14:40.901Z
+updated: 2024-07-31T07:14:40.901Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 11 Ways to Fix it When My Asus ROG Phone 8 Wont Charge
 excerpt: This article describes 11 Ways to Fix it When My Asus ROG Phone 8 Wont Charge
 keywords: android problems,android support,android fix,android tips,Asus ROG Phone 8 android fix,Asus ROG Phone 8 android solutions,android guide,Asus ROG Phone 8 android support,Asus ROG Phone 8 android problems,fix android problems,Asus ROG Phone 8 fix android problems
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## 11 Ways to Fix it When My Asus ROG Phone 8 Won't Charge
@@ -56,6 +56,9 @@ Step 2: Tap on the ‘Android Repair’ option and then click ‘Start’ for mo
 
 Step 3: Mention the detailed information about your Asus ROG Phone 8 under the Asus ROG Phone 8 device information section. Press ‘Next’ then on.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Get to ‘Download’ mode for repairing the Asus ROG Phone 8 device**
@@ -68,16 +71,25 @@ Step 1: It’s essential that you put the Android device under ‘Download’ mo
 
 - If the ‘Home’ button is not there, you got to turn down the Asus ROG Phone 8 device and altogether hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ keys between 5-10 seconds. Soon after you release the keys, tap the ‘Volume Up’ button for entering the ‘Download’ mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix Android phone won’t charge for a phone without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2: Click ‘Next’ to start downloading the Android firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![download android firmware to fix](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Now, Dr.Fone - System Repair (Android) would verify the firmware and then start repairing the Android system on its own. It will ultimately fix your ‘why won't My Asus ROG Phone 8 charge’ trouble.
 
 ![Android phone won’t charge issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2. 10 common ways to fix Android won't charge
 
 ### 1\. Check/replace charging cable
@@ -98,12 +110,22 @@ The best way to take this problem is to clean the port with a blunt pin or a sof
 
 ![clean charging port](https://images.wondershare.com/drfone/article/2017/06/14985460097930.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 3\. Check/replace charging adapter
 
 This method is fairly simple, and all you need to do is check whether or not the charging adapter is working properly as sometimes, the adapter itself is to be blamed for the charge. To make sure that you are not using a defective adapter, connect your charging cable/USB to another adapter. If your device charges normally, it means there is a problem is with your adapter, and you must replace it at the earliest to solve My Asus ROG Phone 8 won't charge the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![check charging adapter](https://images.wondershare.com/drfone/article/2017/06/14985010302112.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### 4\. Try another power source
 
 This technique is more like a quick trick. It means to switch from one power source to another or use a more efficient and suitable power source. Laptops and PCs charge slower than a direct power source, i.e., a wall socket. Sometimes, the charging speed is slower, and the battery is draining. In such a scenario, choose to charge your device by directly plugging it into a socket on the wall to never experience My Asus ROG Phone 8 won't charge problem.
@@ -148,16 +170,35 @@ If the App gives information in green color, it means all is wetland your device
 
 ![charging status](https://images.wondershare.com/drfone/article/2017/06/14985011165678.jpg) ![full charged](https://images.wondershare.com/drfone/article/2017/06/14985011377424.jpg) ![discharging](https://images.wondershare.com/drfone/article/2017/06/14985011663339.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. Install software updates
 
 Installing your Android version updates is a good idea as the software is the interface that receives charge from the charging port sensors and gives a command for the phone/tablet to charge. People often continue to use older OS versions, which cause trouble and prevent the Asus ROG Phone 8 device from charging.
 
 To check for and install updates on your device, you must be connected to WiFi or a cellular network. Next, visit “Settings” and select “About device”. Now click on “Software Update”.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![android software update](https://images.wondershare.com/drfone/article/2017/06/14985460584295.jpg)
 
 If there is an update available, you will be prompted to download it. Just follow the instructions given before you install a brand new Android OS version on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. Factory reset your device
 
 Factory Reset is must be done after due deliberation. Remember to take a back-up of all your data and contents on the cloud or an external memory device, such as a pen drive before adopting this method because once you perform a factory reset on your device, all media, contents, data and other files are wiped out, including your device settings.
@@ -166,6 +207,9 @@ Follow the steps given below to factory reset your device:
 
 • Visit “Settings” by clicking the settings icon as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![phone settings](https://images.wondershare.com/drfone/article/2017/06/14985012104018.jpg)
 
 • Now select “Backup and Reset” and move on.
@@ -176,6 +220,9 @@ Follow the steps given below to factory reset your device:
 
 • Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase everything](https://images.wondershare.com/drfone/article/2017/06/14985012764216.jpg)
 
 Note: Once the factory reset process is complete, your device will automatically restart and you will have to set it up once again.
@@ -184,10 +231,16 @@ Note: Once the factory reset process is complete, your device will automatically
 
 This should be your last resort to fix My Asus ROG Phone 8 won't charge problem, and you should only attempt to replace your battery if none of the other techniques work. Also, please consult a technician before purchasing and installing a new battery in your device as different phones and tablets have a different type of battery requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![replace phone battery](https://images.wondershare.com/drfone/article/2017/06/14985013005679.jpg)
 
 Finally, fixing the phone won't charge the problem is simple, and therefore there is no need for you to worry as you are not the only one experiencing such an issue. Other Android users have tried, tested, and recommended the methods given above to solve why won't My Asus ROG Phone 8 charge or Asus ROG Phone 8 tablet won't charge error. So go ahead and try them out now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix the Soft Bricked Asus ROG Phone 8?
 
 Bricked phone is a serious problem, as your brick smartphone could be suffering from a soft brick or hard brick problem, and must be dealt with carefully. It is very common to see a brick smartphone these days. If you are wondering what exactly is a bricked phone, here is your answer.
@@ -198,16 +251,25 @@ If you are confused about the soft brick and hard brick problems and looking for
 
 Read on to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: What is the difference between soft brick and hard brick?
 
 To begin with, let us understand the basic difference between a soft brick and hard brick issue. Both versions of a bricked phone prevent it from booting but differ in their causes and gravity of the problem.
 
 A soft-brick problem is caused merely by a software error/crash and makes your device switch on automatically every time you manually turn it off. This phenomenon is referred to as Boot Loop. Soft bricked Android phones are not as difficult to fix as the hard bricked Android phones. It is convenient to say that a soft bricked phone only boots up half-way and not fully, whereas a hard bricked device does not switch on at all. A hard brick error is thus caused when the kernel, which is nothing but an interface for the software to communicate with the hardware, is tampered with. A hard bricked phone is not recognized by your PC when plugged in and is a serious problem. It requires troubleshooting techniques and cannot be easily fixed as the soft brick problem.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![hard bricked v/s soft bricked ](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Stuck at the Boot Loop
 
 This is the first sign of a soft bricked Android phone. Boot Loop is nothing but when your phone does not remain switched off and turns itself on automatically, and freezes at the logo screen or blank screen, every time you manually try to power it off.
@@ -220,6 +282,9 @@ Since the phone refuses to boot, Cache can be cleared from entering into the Rec
 
 Once you are the recovery mode screen, you will see a number of options as shown in the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
@@ -252,6 +317,9 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
@@ -276,6 +344,9 @@ There are plenty of problems you could experience, whether it’s the [Wi-Fi net
 
 Luckily, despite there being so many problems out there, there are also many solutions. Today, we’re going to share with you the complete definitive guide to help you get your Asus ROG Phone 8 connected and free from problems and issues.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Restart your Asus ROG Phone 8
 
 Begin by powering off your Asus ROG Phone 8 and unplugging your router. Wait for about a minute before plugging in the router and turning on your device. This simple reset can often restore stable connections and fix Android wifi not working.
@@ -286,8 +357,15 @@ Begin by powering off your Asus ROG Phone 8 and unplugging your router. Wait for
 
 Turn on Airplane Mode for a few seconds, then turn it off. This maneuver refreshes your device's network connections and might rectify the Android not connecting to wifi issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn on airplane mode](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 3. Check Wi-Fi Router settings
 
 The third step you’ll want to take is making sure the internet router in your house is working properly and is actually sending internet data to your Asus ROG Phone 8. Of course, if you have other internet-enabled devices connected to the same router and they’re working fine, you know this isn’t the problem.
@@ -300,6 +378,9 @@ However, if you’ve got a problem with Wi-Fi not working on your Android and ot
 4. Call up your internet provider to see if there’s an internet connection issue in your area
 5. Open your web browser and log into your router settings to ensure your Asus ROG Phone 8 is connected to the Wi-Fi network and is allowed to send and receive data
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## Part 4. Boot your Android in safe mode
 
 ![wifi not working on android - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-safe-mode.jpg)
@@ -317,6 +398,9 @@ If your device connects to the internet while in Safe Mode, you’ll know you ha
 
 ## Part 5. Check the Android Wi-Fi adapter
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![wifi not working on android - check adapter](https://images.wondershare.com/drfone/article/2019/04/android-wifi-adapter.jpeg)
 
 If you’re using a Wi-Fi adapter on your device to connect to the internet, you’ll need to make sure this is working. This could be an adapter on your Asus ROG Phone 8 itself, especially if you’re using an older device, or if you’re using an adapter to boost the ranger of your router network.
@@ -327,6 +411,9 @@ You need to check both of these to make sure your connection is working properly
 2. If you’re using a router adapter, make sure it’s set up properly, and your Asus ROG Phone 8 is connected to the adapter using the correct passwords. Try connecting another device to see if the internet connection is working on there
 3. Whichever method you’re using, try disconnecting your Asus ROG Phone 8 and forgetting the network, and then reconnecting and entering the right password to refresh the connection
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 6. Check SSID and IP address on Android
 
 To make a Wi-Fi connection work, your Asus ROG Phone 8 needs to match two codes that connect and relate to your router to establish the connection and work correctly. These are known as the SSID and the IP address.
@@ -340,6 +427,9 @@ Every wireless device will have its own codes and making sure they’re matched 
 
 When these numbers are matching, if your Android is still not connecting to wifi, you’ll know this wasn’t the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 7. Fix Android system issues in one click
 
 If none of the solutions above are working, this could indicate a real problem with the firmware and operating system of your Asus ROG Phone 8. Fortunately, a fast solution to get everything working again is to completely repair the software of your phone.
@@ -348,6 +438,9 @@ You can do this easily using powerful Android recovery software known as [Dr.Fon
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 A one-click tool to fix Wi-Fi not working on Android
@@ -370,14 +463,23 @@ Once installed, connect your Asus ROG Phone 8 to your computer using a USB cable
 
 **Step Two** Click the "Android" option in the menu and then click "Start" to begin the Repair process.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix wifi slow on android by repairing android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step Three** On the next screen, go through the options and use the drop-down menus to make sure the information is correct for your individual device. Accept the terms and conditions of the software, and then click the "Next" button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wifi slow on android - select info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step Four** Confirm you want the software to carry out the repair process by typing the ‘000000’ code into the pop-up box and pressing Confirm. Make sure you read everything displayed in this box beforehand to know what’s happening.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wifi not working on android - confirm the repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step Five** Now put your phone into Download Mode by following the on-screen instructions, so your device is ready for the repair process. The method for getting your phone into Download Mode will vary depending on your device, so make sure you’re following the right instructions.
@@ -396,6 +498,9 @@ The whole process is automatic, so you won’t need to do anything until it’s 
 
 ## Part 8. Check the Wi-Fi connectivity on another phone
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![android phone not connecting to wifi - connectivity on another phone](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
 
 When experiencing problems with your Wi-Fi network, it’s worth noting the problem might not be with your phone, but rather the Wi-Fi network itself. This is why it’s important to make sure you check the connection on another device.
@@ -409,6 +514,9 @@ Of course, if you’re already using another phone on your Wi-Fi network, you kn
 5. If the page loads, you know the Wi-Fi network isn’t the problem
 6. If the page doesn’t load, you know you’ve got a problem with your Wi-Fi network
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 9. Change the password of the Wi-Fi
 
 ![android phone not connecting to wifi - password settings](https://images.wondershare.com/drfone/article/2019/04/android-wifi-password.jpg)
@@ -449,8 +557,14 @@ As you continue to use your Asus ROG Phone 8, the partition cache will fill up w
 5. Select the Android System Recovery option, followed by Wipe Cache Partition
 6. Restart your device and connect to the internet
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 12. Reset factory settings
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wifi not working on android - factory settings](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
 
 If worse comes to worst, another option you have is to factory reset your Asus ROG Phone 8. As we’ve spoken about above, while using your phone from the day you started using it, your device will fill up with files and data which can become messy and causes bugs.
@@ -464,6 +578,10 @@ However, by factory resetting your device, you can start again from the factory 
 5. Wait for your phone to complete the process
 6. Restart your device and connect to the internet
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 
@@ -485,3 +603,47 @@ However, by factory resetting your device, you can start again from the factory 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-selecting-the-optimal-mac-microphone-recorders-our-expert-picks-of-5/"><u>[New] In 2024, Selecting the Optimal Mac Microphone Recorders  Our Expert Picks of 5</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-navigating-tiktok-copyright-rules-before-posting-videos/"><u>[New] Navigating TikTok Copyright Rules Before Posting Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-supreme-4k-display-selection-the-best-of-ten/"><u>[New] Supreme 4K Display Selection  The Best of Ten</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-discovering-the-quintessential-25-influence-kings-and-queens/"><u>[Updated] 2024 Approved  Discovering The Quintessential 25 Influence Kings and Queens</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-novices-pathway-to-writing-youtube-video-plans-for-2024/"><u>[Updated] A Novice's Pathway to Writing YouTube Video Plans for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-new-frontiers-metaverses-vs-omniverse/"><u>2024 Approved  Navigating New Frontiers  Metaverses Vs. Omniverse</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-step-by-step-guide-to-creating-a-peak-vr-environment/"><u>2024 Approved  Step-by-Step Guide to Creating a Peak VR Environment</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-warmth-amidst-cold-selecting-perfect-winter-backdrops/"><u>2024 Approved  Warmth Amidst Cold  Selecting Perfect Winter Backdrops</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-virality-secrets-effective-hashtag-strategies/"><u>2024 Approved  YouTube's Virality Secrets  Effective Hashtag Strategies</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/6-best-voice-changers-for-2024/"><u>6 Best Voice Changers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nokia-g22-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nokia G22 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-tecno-pova-5-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Tecno Pova 5 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-deep-dive-into-enabling-imessage-on-non-ios-devices/"><u>A Deep Dive Into Enabling iMessage on Non-iOS Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-poco-x5-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Poco X5 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-z-flip-5-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy Z Flip 5? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-t2x-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo T2x 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-mix-fold-3-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Mix Fold 3? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-zero-30-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Zero 30 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-xr21-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia XR21 Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-150-2023-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia 150 (2023) Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-open-and-play-srt-on-different-platforms/"><u>In 2024, Open and Play SRT on Different Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instagram-to-tiktok-the-ultimate-connector-for-2024/"><u>Instagram to TikTok  The Ultimate Connector for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/metaverse-and-multiverse-demystified-an-in-depth-guide/"><u>Metaverse and Multiverse Demystified  An In-Depth Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-back-to-basic/"><u>New In 2024, Back to Basic</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/snap-boost-optimize-images-at-zero-cost/"><u>Snap-Boost  Optimize Images at Zero Cost</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-smart-8-plus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Smart 8 Plus Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-v27-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo V27 Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-civi-3-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Civi 3 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-editing-for-dummies-10-essential-youtube-insights/"><u>Video Editing for Dummies  10 Essential YouTube Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-itel-a05s-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Itel A05s Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>

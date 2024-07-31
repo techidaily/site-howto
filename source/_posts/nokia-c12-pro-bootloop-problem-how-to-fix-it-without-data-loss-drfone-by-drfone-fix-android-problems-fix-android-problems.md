@@ -1,7 +1,7 @@
 ---
 title: Nokia C12 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone
-date: 2024-04-30T09:56:02.546Z
-updated: 2024-05-01T09:56:02.546Z
+date: 2024-07-30T13:40:45.875Z
+updated: 2024-07-31T13:40:45.875Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Nokia C12 Pro Bootloop Problem, How to Fix it Without Data Loss
 excerpt: This article describes Nokia C12 Pro Bootloop Problem, How to Fix it Without Data Loss
 keywords: Nokia C12 Pro android issues,Nokia C12 Pro android fix,android tips,Nokia C12 Pro android repair,android problems,Nokia C12 Pro android tips,android repair,android guide,Nokia C12 Pro android solutions,android solutions
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## Nokia C12 Pro Bootloop Problem, How to Fix it Without Data Loss
@@ -40,6 +40,9 @@ Hence, if you are looking for ways to guide you about how to fix boot loop issue
 
 Read on to know more about how to fix the bootloop error without any data loss when your device suffers from the bootloop Android problem.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: One click to Fix Android Bootloop without factory reset
 
 If you are trying to figure out how to fix boot loop, the first option you have is the one-click fix to Android Bootloop which involves using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) software.
@@ -69,6 +72,9 @@ One click to fix boot loop of Android
 
 Open the software and select the System Repair option from the main menu to fix the Android bootloop error.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![fix android boot loop](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step #2** Connect your Nokia C12 Pro to your computer using the official cable and select the "Android" option from the three menu items. Click "Start" to confirm.
@@ -77,6 +83,9 @@ Open the software and select the System Repair option from the main menu to fix 
 
 You’ll then need to input the Nokia C12 Pro device information, such as your carrier info, device name, model, and country/region in order to ensure you’re downloading and repairing the correct firmware to your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select info to fix android boot loop](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step #3** Now you’ll need to put your phone into Download Mode to remove the Android bootloop.
@@ -93,12 +102,21 @@ Click "Next", and the software will begin downloading the firmware repair files.
 
 Make sure your computer stays connected to the internet, and your device stays connected to your computer throughout the entire process. Once the firmware has been downloaded, it will be automatically installed onto your mobile device, removing the boot loop Android error.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fixed android boot loop smoothly](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 You’ll be notified when the process is done and when you can remove your device and start using free from the boot loop Android error!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Part 3: Soft reset to fix Android bootloop issue
 
 When your device is stuck in Android boot loop, it does not necessarily mean that it is bricked. Boot loop might be occurring due to a simpler problem which can be fixed by turning off your device. This sounds like a home remedy for a serious problem but it works and resolves the problem most of the time.
@@ -107,6 +125,18 @@ Follow the steps given below to soft reset your device:
 
 Turn the Nokia C12 Pro device off and take out its battery.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![take out its battery](https://images.wondershare.com/drfone/article/2017/07/14994538333532.jpeg)
 
 If you cannot take the battery out, let the phone be off for about 3 to 5 minutes, and then turn it back on.
@@ -168,6 +198,9 @@ Wait for your device to perform the task and then:
 
 Reboot the phone in Recovery Mode by selecting the first option.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reboot the phone](https://images.wondershare.com/drfone/article/2017/07/14996671856305.jpg)
 
 This solution is known to fix the boot loop error 9 out of 10 times, but if you still can't start your Nokia C12 Pro normally, consider using a CWM Recovery to resolve the Android boot loop issue.
@@ -182,14 +215,24 @@ Press the home, power, and volume up buttons to launch the CWM Recovery screen.
 
 Note: you might have to use a different combination of keys to enter into Recovery Mode, depending on your device’s model.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter into Recovery Mode](https://images.wondershare.com/drfone/article/2017/07/14994539374814.jpg)
 
 Scroll down using” the volume key to select "Advanced".
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![select “Advanced”](https://images.wondershare.com/drfone/article/2017/07/14994539628787.jpeg)
 
 Now select “Wipe” and choose to wipe "Dalvik Cache".
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wipe “Dalvik Cache”](https://images.wondershare.com/drfone/article/2017/07/14994539844927.jpg)
 
 In this step, select "Mounts and Storage" to click on "Wipe" or "Cache".
@@ -202,10 +245,16 @@ So the bottom line is that boot loop Android issue may seem like an irreparable 
 
 An Android boot loop is a common phenomenon with all Android devices because we tend to tamper with our device’s internal settings. Once the ROM, firmware, kernel, etc are damaged or rendered incompatible with the Nokia C12 Pro device’s software, you cannot expect it to function smoothly, hence, the boot loop error occurs. Since you are not the only one suffering from the Android boot loop problem, be rest assured that the ways, given above, to combat it are recommended by users facing similar troubles. So, don't hesitate and go ahead to try them on.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Why Is My Nokia C12 Pro Offline? Troubleshooting Guide
 
 Ever had your Nokia C12 Pro claim it's offline, leaving you scratching your head about where it went wrong? We get it; it's confusing. That's why this article is here to untangle the mystery.
@@ -236,8 +285,14 @@ In some cases, a firewall on your Nokia C12 Pro might be overly restrictive, pre
 
 Now, you have understood the potential causes as the first step toward resolving the issue. Next, we'll guide you through the process of troubleshooting and getting your Nokia C12 Pro back online.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Phone offline on Android](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How To Fix “Phone Offline” With Internet Connection Problem
 
 Now that we've figured out why your phone says it's offline, let's tackle the issue head-on. If you're facing problems like downloads that won't start, Google Play stuck on "Loading…," or web pages refusing to load, chances are it's an internet connection issue causing the problem.
@@ -254,6 +309,9 @@ Switching to mobile data can be a quick fix if your Wi-Fi is acting up. It ensur
 
 ![Change connection to mobile data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Solution 2: On and off Airplane mode
 
 [<u>Airplane Mode</u>](https://drfone.wondershare.com/fake-location/airplane-mode-turn-off-gps-location.html) can sometimes cause connectivity confusion. Turning it off and on essentially resets your phone's wireless connections, which might resolve the offline issue.
@@ -264,8 +322,15 @@ How to on and off Airplane mode on Android:
 - **Step 2:** Look for the Airplane Mode icon and tap the icon to turn on Airplane Mode.
 - **Step 3:** Wait a few seconds, then tap it again to turn off the Airplane Mode. Now, check if your phone is now online.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![On and off the Airplane mode](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Solution 3: Reset network settings
 
 Resetting network settings can help eliminate any configuration glitches that might be causing the phone offline problem. It's like giving your phone's connection settings a fresh start.
@@ -292,6 +357,9 @@ How to restart your Wi-Fi router:
 
 These solutions should cover the most common connectivity issues. If the problem persists, we'll explore further steps in the following sections.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How To Fix “Phone Offline” Despite Having an Internet Connection
 
 Ever found it odd to receive the frustrating offline error message when you're sure your internet connection is up and running? If you've double-checked your internet connection and your phone still says it's offline, the issue may lie within your browser, apps, or device settings.
@@ -311,6 +379,9 @@ How to clear your browser’s cache and data on Android:
 
 Now, restart Google Chrome and check if the offline error persists.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Clear Google Chrome’s cache and data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-5.jpg)
 
 ### Solution 2: Re-install Google Chrome
@@ -326,6 +397,9 @@ How to re-install Google Chrome:
 
 ![Re-install Google Chrome on Google Play Store](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 3: Repair the system to fix the phone showing offline
 
 When persistent offline issues seem deeply rooted in your device's system, a comprehensive system repair may be the solution. Wondershare Dr. Fone's system repair tool is designed to address a range of system problems, providing a reliable way to fix any problem you have with your phone.
@@ -360,12 +434,18 @@ Click Start on the new screen to kick off the repair. Since you're dealing with 
 
 The platform will detect your Nokia C12 Pro's brand. Confirm the Name, Model, Country, and Carrier. If your device is unlocked, choose OPEN in the Carrier section. Agree to the warning, click Next, and proceed with the repair.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Confirm your Nokia C12 Pro’s details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 4:** Download firmware.
 
 Follow the instructions to put your Nokia C12 Pro into Download Mode. Once in Download Mode, you will start downloading the firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Activate Download mode to download the firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 5:** Confirm Installation
@@ -384,8 +464,14 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 
 For all its glory and goodness, the Android OS often has its users pulling their hair in frustration at just how buggy the OS can be at times. So, if you’re having one of those days today, we are here to help. Camera app is one of the most used apps on smartphones today. People only launch the app when they want to take a photo, for everything else there’s a dedicated photo gallery app. What happens when you launch the camera app only to realize it threw an error and you missed your photo moment? Don’t throw the phone, not yet. Let us help you out.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![camera not working error in android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part I: Why Is Android Camera Not Working?
 
 There are a few reasons why the camera app is not working on your Nokia C12 Pro.
@@ -406,6 +492,9 @@ OS bugs and general glitches within the OS and the camera app can cause camera n
 
 In the rarest cases, there might have developed an actual hardware issue with the camera system on your Nokia C12 Pro. The likely culprit is misuse and abuse, such as a dropped phone or maybe the phone was too hot for extended periods of time, causing hardware issues.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part II: How To Fix Android Camera Not Working Issue?
 
 So, how to get the Android camera not working problem solved? There are a few ways you can try fixing the camera not working issue on your Nokia C12 Pro right where you are, without needing to take the Nokia C12 Pro device to the manufacturer’s service center.
@@ -414,6 +503,9 @@ So, how to get the Android camera not working problem solved? There are a few wa
 
 One of the first things to do any time an app or your phone or tablet does not work like it should, restarting the Nokia C12 Pro device refreshes everything just enough to resolve most commonly occurring issues.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
 
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
@@ -428,16 +520,26 @@ Step 1: Launch the app switcher on your specific Android device the way your dev
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### II.III: Check App Permissions
 
 These days, thanks to strides in the privacy initiatives, apps need permissions before they can function the way they do. Most of the times, apps such as camera do have the necessary permissions, but sometimes it is possible that the permissions are set incorrectly. To check if the camera app has the requisite permissions, do the following:
 
 Step 1: Go to Settings > Apps > Camera > Permissions.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![camera permissions check android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-4.jpg)
 
 Step 2: Tap Camera.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
@@ -452,8 +554,14 @@ Step 1: Go to Settings > Apps > Camera and tap Storage Usage.
 
 Step 2: Tap Clear Cache.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### II.V: Clear The Photo Gallery App Cache
 
 The camera app is closely tied to the photo gallery app that comes baked in into Android OS. That is because photos that the camera app takes are stored in the photo gallery app. Consequently, if there were any issues in the photo gallery app, that could lead to the camera app not working on Android problem. Here’s how to clear the photo gallery app cache:
@@ -470,10 +578,17 @@ This does not happen always, but sometimes, with known bugs and issues, there ma
 
 Step 1: Go to Play Store and tap your profile picture on the right.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![google play store app updates](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-9.jpg)
 
 Step 2: Tap Manage Apps and Device.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![check for app updates play store](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-10.jpg)
 
 Step 3: If there are updates available, Tap Update All to update all apps.
@@ -488,6 +603,9 @@ If this is the case, close all apps and let the phone cool down. You might even 
 
 You may want to tap your camera system (the lenses and surrounding area) gently to see if that gets the camera working. In case it did, this is indicative of a hardware issue, and you should get it checked at the service center at your earliest convenience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### II.IX: Fix Android Camera Not Working Issue In One Click (With Dr.Fone)
 
 Now, if the above fixes have not worked, you might want to repair your Android OS once before you make that appointment with the service centre. And, we have just the app to help you fix your camera not working on Android problem quickly.
@@ -502,10 +620,16 @@ Download Dr.Fone here.
 
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare drfone on windows](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Click System Repair module and then Android.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 Step 3: For now, don’t bother with the scenarios given and click Start to go to the next screen.
@@ -555,3 +679,46 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-leverage-your-vfx-work-with-these-8-top-sites-offering-free-green-screen-resources/"><u>[New] 2024 Approved  Leverage Your VFX Work with These 8 Top Sites Offering Free Green Screen Resources</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-earning-in-the-e-commerce-arena-via-engaging-reviews/"><u>[New] Earning in the E-Commerce Arena via Engaging Reviews</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-secrets-unveiled-expert-adobe-captive-screen-recording-tips/"><u>[New] Secrets Unveiled  Expert Adobe Captive Screen Recording Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unveiling-hdr-and-4k-perfection-with-asus-proart-monitor/"><u>[New] Unveiling HDR & 4K Perfection with ASUS ProArt Monitor</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-investigating-the-upside-down-issue-on-instavideos/"><u>[Updated] Investigating the Upside-Down Issue on InstaVideos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-ethical-approaches-to-extract-and-convert-youtube-videos/"><u>2024 Approved  Ethical Approaches to Extract and Convert YouTube Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-for-extracting-tweets-as-mp3-audio-files/"><u>2024 Approved  Tips for Extracting Tweets as MP3 Audio Files</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-a05-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy A05? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-lava-yuva-3-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Lava Yuva 3 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-poco-m6-pro-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Poco M6 Pro 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-the-nuances-of-french-sound-articulation/"><u>Discovering the Nuances of French Sound Articulation</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v27-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V27 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-honor-v-purse-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor V Purse Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-quick-reliable-pc-image-capture-best-tools-ranked-1-5/"><u>In 2024, Quick, Reliable Pc Image Capture  Best Tools Ranked #1-#5</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-streamlining-your-iphone-memo-experience/"><u>In 2024, Streamlining Your iPhone Memo Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/insightful-analysis-of-modern-human-interaction-systems/"><u>Insightful Analysis of Modern Human Interaction Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-the-art-complete-vsco-editor-breakdown-for-2024/"><u>Master the Art  Complete VSCO Editor Breakdown for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-photo-quality-for-commercial-use-for-2024/"><u>Maximizing Photo Quality for Commercial Use for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-tecno-spark-10c-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Spark 10C – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-reno-9a-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 9A Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-xiaomi-redmi-k70-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Redmi K70 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-oppo-a59-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo A59 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-lava-storm-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Lava Storm 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trim-videos-with-flair-in-windows-11-photo-apps-for-2024/"><u>Trim Videos with Flair in Windows 11 Photo Apps for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-honor-magic-v2-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Honor Magic V2.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wake-up-that-dormant-laptop-display/"><u>Wake Up That Dormant Laptop Display!</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-oneplus-nord-n30-se-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your OnePlus Nord N30 SE Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-14-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 14 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+</ul></div>

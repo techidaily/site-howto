@@ -1,7 +1,7 @@
 ---
 title: Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi Note 12 5G | Dr.fone
-date: 2024-03-20 17:54:14
-updated: 2024-03-21 12:27:11
+date: 2024-07-30T10:12:51.567Z
+updated: 2024-07-31T10:12:51.567Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi Note 12 5G
 excerpt: This article describes Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi Note 12 5G
 keywords: Xiaomi Redmi Note 12 5G android issues,android help,Xiaomi Redmi Note 12 5G android guide,Xiaomi Redmi Note 12 5G android repair,android issues,Xiaomi Redmi Note 12 5G android troubleshooting,android troubleshooting,Xiaomi Redmi Note 12 5G android fix,android solutions
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi Note 12 5G
@@ -18,18 +18,30 @@ Mobile applications are important for smooth operations when it comes to smartph
 
 This is mainly due to geographical restrictions that are often imposed by developers. It poses a hurdle for users eager to access a particular application. However, there is no need to worry, as this article will help you in resolving this issue. It will delve into effective strategies and solutions to ensure the unavailability of an app is no longer an obstacle.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Part 1: Reasons Behind the App Not Available in Your Country Play Store Issue
 
 Encountering the "**Google Play App Not Available in Your Country**" issue can feel like hitting a roadblock. This restriction hampers your ability to explore and use valuable apps. It can also disrupt the smooth functioning of your daily digital activities. Before going for solutions, it is crucial to understand the reasons causing this restriction in installing apps on smartphones:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### 1\. Regional Restrictions
 
 One of the primary culprits behind this issue is the regional restrictions imposed by developers. Developers often roll out their apps gradually across different regions. It is done to adhere to legal and licensing requirements. This staggered release strategy ensures compliance with local laws. Moreover, it guarantees a smooth user experience tailored to specific geographical locations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Licensing and Legal Constraints
 
 Licensing agreements and legal constraints play an important role when it comes to the accessibility of apps. Developers may encounter licensing issues. This can prevent them from offering their apps in certain regions. It is due to copyright, trademark, or other legal considerations. Navigating the complex web of international laws and agreements is a big hassle. It becomes a determining factor in the availability of apps on the Play Store.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### 3\. Localization Challenges
 
 Apps are often designed with specific markets in mind. These incorporate language, cultural, and regulatory considerations to enhance user experience. The absence of proper localization can render an app incompatible with specific regions. It includes factors such as adapting the app for different languages, currencies, and cultural nuances. This can result in the app being excluded from the **Play Store app not available in your country.**
@@ -58,6 +70,9 @@ One of the most direct ways to address this issue is by manually adjusting your 
 
 ![update residence country](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Method 2: Use a Reliable VPN
 
 Confronting the message "**This app is not accessible in your country" on the Play Store**? Employing a Virtual Private Network (VPN) can be an effective strategy. It allows you to virtually transcend geographical restrictions. A VPN masks your actual location by routing your internet connection through servers in different regions.
@@ -86,6 +101,9 @@ One way to resolve the issue at hand is to sideload the app by downloading its A
 
 - **Step 2.** Once you have found the targeted app, download it on your Xiaomi Redmi Note 12 5G. When the download process is complete, tap the file to start the installation process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![install apk on device](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-7.jpg)
 
 ### Method 4: Try a Third-Party App Store
@@ -94,18 +112,28 @@ Google Play Store isn't the only apps and games store. There exist many options,
 
 - **Step 1.** Use a web browser on your Xiaomi Redmi Note 12 5G to look for a reliable third-party app store like Aptoide. Once it is downloaded, install it on your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![aptoide app store](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-8.jpg)
 
 - **Step 2.** Open the third-party app store and look for your targeted apps. Now, you should be able to download them without any restrictions.
 
 ![install app in aptoide](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Pro Tip: Fix Play Store Available in Your Country but Not Working on All Android Smartphones
 
 If the Play Store is not working on your Xiaomi Redmi Note 12 5Gs or an application is not downloading from it, we have a tip for you. [<u>Wondershare Dr.Fone – System Repair (Android)</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) is a perfect solution for all the issues for your Xiaomi Redmi Note 12 5Gs. Whether it is the Play Store functionality issue or the downloading of applications problem, System Repair (Android) is there to resolve them.
 
 It fixes various Android issues in a matter of a few seconds. This toolkit has a high success rate of fixing Android issues, including the Play Store Not Working issue. It can also resolve the issue of [<u>Apps Keep Crashing</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html), [<u>Phone Stuck in a Boot Loop</u>](https://drfone.wondershare.com/android-issue/boot-loop-android.html), and much more.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Features of Wondershare Dr.Fone
 
 There are some prevalent pointers you should know about Wondershare Dr.Fone. Before you continue using the tool for resolving Android problems, look into these prominent features:
@@ -114,6 +142,10 @@ There are some prevalent pointers you should know about Wondershare Dr.Fone. Bef
 2. This software is compatible with all the Xiaomi Redmi Note 12 5G models, including the latest one, Xiaomi Redmi Note 12 5G S23.
 3. With no technical expertise required, you can execute all tasks to repair your Android issues with a few clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
@@ -128,6 +160,9 @@ Repair Android System Errors without Any Trouble.
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Steps Included To Fix Play Store Not Working on All Android Smartphones
 
 While you have learned much about Wondershare Dr.Fone, in situations where an app is available but the Play Store is not working properly, it comes pretty handy. Here is how you can fix the Play Store not working problem on Android devices with Dr.Fone:
@@ -168,12 +203,18 @@ Your Google Play Balance is linked to the country setting on your Google Play ac
 
 It is risky to download Android applications from a third-party store because of the viral content. There could be issues like App Authenticity, Outdated Apps, Policy Violations, etc. It is better to download these apps from official platforms like Google Play Store since they are more secure.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 To summarize, the pursuit of the perfect app sometimes encounters hurdles. One frustrating issue often reported by users is the "**App Not Available in Your Country Play Store**" issue. However, armed with the knowledge, you can now navigate through these challenges. From changing your Play Store country to using VPNs, this guide has covered a range of methods. Each method provides a unique approach, catering to different preferences and circumstances.
 
 As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful tool designed to tackle Play Store malfunctions head-on. With support for even Android 13, this software offers a complete solution for Android. Its comprehensive approach and easy-to-use interface make it a valuable addition to your toolkit.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## How To Revive Your Bricked Xiaomi Redmi Note 12 5G in Minutes
 
 Xiaomi Redmi Note 12 5G has established a notable presence within the custom development arena. This trait holds for Xiaomi Redmi Note 12 5G. Today, it's still one of the most popular budget smartphones available. The popular smartphone offers the freedom to flash custom ROMs, attain administrative privileges, access countless customization options, and much more.
@@ -181,6 +222,9 @@ Xiaomi Redmi Note 12 5G has established a notable presence within the custom dev
 Yet, delving into these capabilities comes with its share of risks. The potential for your **Xiaomi Redmi Note 12 5G to brick** is high if you don't know what you're doing. This page teaches you how to **unbrick your Xiaomi Redmi Note 12 5G** if it happens.
 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Potential Causes of a Xiaomi Redmi Note 12 5G Becoming Bricked
 
 The factors that lead to your **Xiaomi Redmi Note 12 5G to brick** vary. The possible solutions also depend upon the underlying causes. At times, the manufacturer's intervention remains the only viable remedy. Below are the most frequent causes of bricking.
@@ -192,6 +236,9 @@ The factors that lead to your **Xiaomi Redmi Note 12 5G to brick** vary. The pos
 
 Every Android device is susceptible to experiencing a system failure that leads to a bricked state. The risk remains consistent whether your device is from Xiaomi Redmi Note 12 5G, Xiaomi Redmi Note 12 5G, Xiaomi Redmi Note 12 5G, or any other brand. That's why it's strongly advised against modifying their smartphones, especially when you don't know what you're doing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Part 2. Techniques To Unbrick a Xiaomi Redmi Note 12 5G
 
 When faced with a **bricked Xiaomi Redmi Note 12 5G**, below are various techniques to revive it. Whether through software resets or hardware interventions, these methods can help breathe life back into your device.
@@ -202,6 +249,9 @@ When faced with a **bricked Xiaomi Redmi Note 12 5G**, below are various techniq
 
 A particular suggestion involves allowing the Xiaomi Redmi Note 12 5G device's battery to discharge fully, enabling proper functionality of the Flash Tool software. This process typically spans a few days and is recommended by some specialists.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### Perform a Factory Reset
 
 Accessing the Xiaomi Redmi Note 12 5G device settings is impossible if your **Xiaomi Redmi Note 12 5G bricks**. For this reason, it is recommended to enter **Recovery Mode**. Here's how.
@@ -218,18 +268,31 @@ Xiaomi Redmi Note 12 5G offers its official software tools, such as the Xiaomi R
 
 - **Step 1**: Download and install the [Xiaomi Redmi Note 12 5GFlash Tool](https://xiaomiflashtool.com/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![mi flash tool main window](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-04.jpg)
 
 - **Step 2**: Download the [Stock Firmware](https://xiaomistockrom.com/category/stock-rom) of Xiaomi Redmi Note 12 5G and extract it on your computer. Press and Hold the Power and Volume Down buttons for at least 5-10 seconds to enter Fastboot Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![mi flash fastboot mode](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-05.jpg)
 
 - **Step 3**: Connect your Xiaomi Redmi Note 12 5G to the computer using a USB cable. Launch Xiaomi Redmi Note 12 5GFlash Tool and locate the Firmware you have downloaded on the computer. Click the **refresh** > **flash** to begin the flashing process.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![mi flash tool firmware](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-06.jpg)
 
 - **Step 4:** The **SUCCESS** result should appear in the Xiaomi Redmi Note 12 5GFlash Tool once the flashing process is done.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![mi flash tool success](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-07.jpg)
 
 However, if the Xiaomi Redmi Note 12 5GFlash Tool did not unbrick your Xiaomi Redmi Note 12 5G, consider using [Wondershare Dr.Fone - System Repair (Android).](https://tools.techidaily.com/wondershare/drfone/android-repair/) The platform allows you to **unbrick your Xiaomi Redmi Note 12 5G** with a few clicks.
@@ -238,6 +301,10 @@ However, if the Xiaomi Redmi Note 12 5GFlash Tool did not unbrick your Xiaomi Re
 
 Dr.Fone - System Repair (Android) equips Xiaomi Redmi Note 12 5G users with the ability to tackle soft brick and hard brick issues. This specialized Android repair tool enables you to restore your Xiaomi Redmi Note 12 5G through a streamlined process, requiring just a few simple clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![dr.fone system repair main window](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -252,6 +319,9 @@ Dr.Fone - System Repair (Android) offers several benefits to **unbrick your Xiao
 - **Compatibility with Over 1000 Android Models**. This app fixes glitches across modern Android devices. The software is compatible with an extensive range of models. Whether your Xiaomi Redmi Note 12 5G is unlocked or carrier-bound, restoration is not a problem.
 - **Unparalleled Software Flexibility**. Dr.Fone - System Repair (Android) also boasts an added capacity to mend iOS devices. This versatile tool is your all-inclusive solution for mobile devices, ensuring convenience whether you own an iOS or Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Advantage of Dr.Fone - System Repair (Android) for Unbricking Xiaomi Redmi Note 12 5G
 
 Here are three benefits to choosing Dr.Fone - System Repair (Android) for **unbricking a Xiaomi Redmi Note 12 5G**. You'll further believe Dr.Fone is a reliable assistant when reviving your **bricked Xiaomi Redmi Note 12 5G**.
@@ -315,6 +385,10 @@ Lastly, you can still refer to Xiaomi Redmi Note 12 5G for repairs. It remains t
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Fixing Persistent Pandora Crashes on Xiaomi Redmi Note 12 5G
 
 Pandora, an app bringing music to our fingertips, is a beloved platform for streaming tunes on Android devices. Despite its popularity, users might encounter occasional hurdles with the app, such as unexpected hanging, lagging, or even crashing. These interruptions can disrupt our musical journey.
@@ -323,6 +397,9 @@ In this article, you’ll explore practical solutions to the problem of “**why
 
 ![dead android with pandora logo](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Part 1: Basic Troubleshooting and Fixes
 
 Pandora, the music streaming app cherished by Android users, accompanies you on your musical journey. It offers an array of melodies at our fingertips. However, occasional crashes can disrupt this harmonious experience. This results in an annoying experience where **Pandora keeps stopping on Android** phones.
@@ -336,6 +413,9 @@ Crashes often result from glitches or bugs within the app’s code. These unexpe
 
 If these basic fixes fail to address the continuous crashing of the Pandora app, or if the crashes persist over an extended period, the next section will provide advanced solutions. These initial troubleshooting steps aim to tackle common and temporary issues that could impede Pandora’s performance. If the problem persists, it might necessitate more intricate resolutions or further investigation into the app’s underlying technicalities.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Causes Behind Constant Pandora App Crashes and Solutions
 
 Several underlying factors might be at play when persistent crashes plague your Pandora app. This section explores these.
@@ -344,8 +424,14 @@ Several underlying factors might be at play when persistent crashes plague your 
 
 A stable internet connection is pivotal for seamless app functionality. Crashes in Pandora can stem from poor connectivity. [Check your internet connection](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html). Ensure you’re connected to a reliable network. Restart your router or switch between Wi-Fi and mobile data to troubleshoot connectivity issues.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wi-fi page android](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Corrupted/Broken Devices
 
 If you notice that all other [apps are crashing](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html), your device’s system may also have a problem. In this case, simple app reinstalls/restarts can fix the problem.
@@ -356,6 +442,9 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 - **Step 1:** Launch Dr.Fone on your computer. Access **System Repair**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -364,6 +453,9 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 - **Step 2:** Choose **Android** on the next page.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![wondershare dr.fone phone os chooser](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 - **Step 3:** Click **Start** to initiate Android System Repair.
@@ -372,6 +464,9 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 - **Step 4:** Check if the Xiaomi Redmi Note 12 5G device details presented onscreen are correct. You may edit them accordingly for any mistakes.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone device details confirmation](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 5:** Follow the onscreen instructions to place your phone into Download mode. Then, Dr.Fone will download the firmware.
@@ -380,26 +475,47 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 - **Step 6:** After downloading, click **Fix Now**. Then, type in “000000” on the appearing window text box. Click **Confirm.**
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare dr.fone initiate system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 7:** Once finished, click **Done**. Your Pandora app should not crash once you reinstall it again by now.
 
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Cache Buildup
 
 Accumulated cache data can hamper app performance, leading to frequent crashes. [Clear the cache](https://drfone.wondershare.com/erase-iphone/clear-iphone-cache.html) of the Pandora app. Usually, you can see this option under **Settings > Apps** > **Clear Data.** Additionally, you can optimize your device’s RAM and storage space by deleting unnecessary files or closing unused apps.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![clear data page](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-10.jpg)
 
 ### Device Compatibility Issues
 
 Outdated system software can create compatibility issues, causing app instability. Ensure your device’s system software is up-to-date. Check for and install any pending system updates in your device’s settings. Updated software often includes [bug fixes](https://drfone.wondershare.com/iphone-problems/fix-ios-17-keyborad-bug-and-autocorrect-issue.html) and improvements that can rectify compatibility-related crashes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![xiaomi firmware update page](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-11.jpg)
 
 You can systematically troubleshoot and resolve the issues by addressing the potential culprits behind constant Pandora app crashes, ensuring a smoother and uninterrupted music streaming experience. If the problems persist, contacting Pandora support or seeking professional assistance might be advisable to delve deeper into the technical aspects of the app’s performance issues.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: What To Do if None of the Fixes Work
 
 If the suggested fixes don’t work, and you still wonder “**why does Pandora keeps stopping on Android**,” then it might be time to take a look at these alternatives:
@@ -414,6 +530,18 @@ In conclusion, navigating Pandora app crashes on your Xiaomi Redmi Note 12 5G de
 
 When persistent issues arise, especially if other apps are affected similarly, Wondershare Dr.Fone emerges as a reliable solution. Its comprehensive toolkit, including System Repair, can effectively address deep-seated issues. By embracing proactive measures and leveraging Dr. Fone’s prowess, users can enhance their device’s performance and ensure an uninterrupted music streaming experience on Pandora and other apps.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,362,023** people have downloaded it
@@ -433,3 +561,50 @@ When persistent issues arise, especially if other apps are affected similarly, W
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-media-manipulation-combining-windows-photos-and-story-remix/"><u>[New] Mastering Media Manipulation  Combining Windows Photos and Story Remix</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-audio-take-from-twitter-video-sources/"><u>[Updated] In 2024, Audio Take From Twitter Video Sources</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-mobilesync-facebook-video-grabber/"><u>[Updated] In 2024, Mobilesync  Facebook Video Grabber</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-from-adventure-to-audience-transforming-gopro-footage-with-social-media/"><u>2024 Approved  From Adventure to Audience  Transforming Gopro Footage with Social Media</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-a78-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo A78 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-honor-play-8t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor Play 8T Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-motorola-moto-g23-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Motorola Moto G23 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-sony-xperia-10-v-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Sony Xperia 10 V Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-v30-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo V30 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-narzo-60-pro-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme Narzo 60 Pro 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/free-12-best-video-players-and-apps-for-pc-and-mobile-devices/"><u>FREE 12 Best Video Players and Apps for PC and Mobile Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-make-your-mark-active-living-on-facebook-for-2024/"><u>How to Make Your Mark  Active Living on Facebook for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-v30t-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme V30T Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-oneplus-12r-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked OnePlus 12R Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-shielded-seeker-of-social-snapshots/"><u>In 2024, Shielded Seeker of Social Snapshots</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-11-pro-max-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 11 Pro Max Properly | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-xiaomi-redmi-k70-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Xiaomi Redmi K70 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-motorola-edge-40-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Motorola Edge 40? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-motorola-moto-g14-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Motorola Moto G14? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/poco-x5-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X5 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-nokia-g310-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia G310 Black and White | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-realme-c55-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme C55 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-phantom-v-flip-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Phantom V Flip Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-videos-to-tweets-best-converters-revealed/"><u>Transform Videos to Tweets  Best Converters Revealed</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-google-pixel-8-pro-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Google Pixel 8 Pro?</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-google-pixel-7a-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Google Pixel 7a Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12r-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12R Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Fix Android Blue Screen of Death On Vivo Y36i | Dr.fone
-date: 2024-05-20T09:03:23.421Z
-updated: 2024-05-21T09:03:23.421Z
+date: 2024-07-30T07:34:45.008Z
+updated: 2024-07-31T07:34:45.008Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 4 Ways to Fix Android Blue Screen of Death On Vivo Y36i
 excerpt: This article describes 4 Ways to Fix Android Blue Screen of Death On Vivo Y36i
 keywords: Vivo Y36i android support,Vivo Y36i fix android problems,Vivo Y36i android problems,Vivo Y36i android guide,Vivo Y36i android repair,Vivo Y36i android tips,Vivo Y36i android help
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## 4 Ways to Fix Android Blue Screen of Death On Vivo Y36i
@@ -20,6 +20,9 @@ Such an Android screen of death is caused by a temporary software crash but can 
 
 Read on to learn more about the Android screen of death and ways to combat it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to rescue data on Vivo Y36i with blue screen of death?
 
 The Android blue screen of death issue is not a difficult problem to deal with and can be fixed by you by following the easy steps given in this article. We suggest that all readers rescue the data stored on their Android devices to prevent data loss and keep it stored in your PC from where it can be accessed and recovered by you anytime, anywhere. This task might sound tedious, but, we have for you [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html), a software specially designed to retrieve data from broken and damaged Vivo Y36i phones and tabs, especially Vivo Y36i devices, and keep it safe in your PC without tampering with it or altering its format. It efficiently extracts data from broken or unresponsive Vivo Y36i devices, phones/tabs stuck at black/blue screen, or whose system crashed due to a virus attack.
@@ -43,10 +46,16 @@ Follow the steps given below to extract data when you experience an Android scre
 
 2\. Once you launch the software, you will see many tabs before you. Click on "Data Recovery" > "Android".
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![android blue screen of death-data extraction](https://images.wondershare.com/drfone/guide/drfone-data-recovery-android-2.png "data extraction")
 
 3\. And then choose "Recover from Broken Phone" from the program's screen.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![android blue screen of death-select file types](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-3.png "select file types")
 
 4\. In this step, choose from the two options before you the true nature of your device as shown in the screenshot below.
@@ -55,6 +64,9 @@ Follow the steps given below to extract data when you experience an Android scre
 
 5\. You will now be asked to feed in your phone’s model type and name as shown in the screenshot below. Give correct details for the software to identify your device smoothly and hit “Next”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android blue screen of death-select phone model](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png "select phone model")
 
 6\. In this step, refer to the instructions in your device manual to enter into Download Mode on your Vivo Y36i and hit “Next”. An example of what to do to reach Download Mode is shown below.
@@ -63,6 +75,9 @@ Follow the steps given below to extract data when you experience an Android scre
 
 7\. Finally, let the software recognize your Vivo Y36i, and start to download the recovery package for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![android blue screen of death-download recovery package](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-06.jpg "download recovery package")
 
 8\. Once it does, you will be able to preview all the files on the screen in front of you before you hit “Recover to Computer”.
@@ -73,6 +88,10 @@ The process may take up to a few minutes and once it's done all your files will 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part 2: One click to fix the Android blue screen of death
 
 We understand how annoying it is to see the Android blue screen of death and fail to access your device data. But, with [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), your troubles would burst away.
@@ -103,10 +122,16 @@ Step 1: Installation and running Dr.Fone - System Repair (Android) on your syste
 
 Step 2: Press the ‘Android Repair’ option before tapping the ‘Start’ button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![start to fix Android blue screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Over the Vivo Y36i device information window, select all relevant data about your device followed by the ‘Next’ button.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select data to fix Android blue screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Initiate repairing after entering ‘Download’ mode**
@@ -127,10 +152,19 @@ Step 2: Tap the ‘Next’ button to download firmware.
 
 Step 3: Dr.Fone - System Repair (Android) would verify the firmware post-download. It will start repairing the Android system automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![android system repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Force Restart Your Vivo Y36i
 
 A force restart is a basic step that can clear minor software glitches. It has the potential to resolve the Android blue screen of death issue. Force restarting your device can clear temporary bugs and reset all processes. It is a simple yet often overlooked way to fix the Android blue screen of death issue. Use the following steps to force restart your Vivo Y36i:
@@ -139,6 +173,10 @@ A force restart is a basic step that can clear minor software glitches. It has t
 
 ![force restart android phone](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 4: Remove phone battery to fix blue screen of death
 
 The best home remedy to fix any kind of Android screen of death remove the Vivo Y36i device’s battery. This technique might sound too simple, but it has solved the Android blue screen of death issue for many users whose devices started normally after reinserting the battery. Here is what you should do.
@@ -155,6 +193,10 @@ The best home remedy to fix any kind of Android screen of death remove the Vivo 
 
 Note: Not all Android devices allow you to remove their battery. If you own such a device, try the next step as it is your only option to fix the Android blue screen of death problem.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## Part 5: Put out your SIM Card/SD card and reinsert
 
 In some cases, issues related to the Android blue screen of death can be caused by problems with the SIM card or SD card. Removing and reinserting these cards can help resolve potential conflicts or glitches. Remember that this method can help resolve issues related to SIM card or SD card conflicts. However, it may not address more complex software or hardware problems causing the blue screen issue.
@@ -163,8 +205,14 @@ In some cases, issues related to the Android blue screen of death can be caused 
 
 If you're facing the Android blue screen of death issue, the issue might be related to a hardware problem. The problem can be a loose or damaged LCD connector. In this scenario, you can try cleaning or changing the connector. This method is more advanced and involves disassembling your device. That's why you need to proceed with caution and only if you're comfortable with hardware tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![clean or change the lcd connector](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Part 7: Update to the latest Android version
 
 Software problems can manifest the Android equivalent of a blue screen of death. It is usually triggered by errors or anomalies within the operating system. To address these concerns, upgrading to the most recent version of the Android OS proves effective. However, updating your device's software could introduce fresh glitches or compatibility conflicts. These steps outline the process of updating your device to the latest OS:
@@ -185,6 +233,9 @@ Once you are on the Recovery Screen, you will see a list of options before you, 
 
 Use the Volume Down button to scroll downwards and reach the "Wipe data/Factory reset" option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![android blue screen of death-wipe data factory reset](https://images.wondershare.com/drfone/article/2017/07/14997040167334.jpg "wipe data factory reset")
 
 Now use the power button to select it and wait for the Vivo Y36i device to reboot automatically.
@@ -201,6 +252,10 @@ The Android screen of death, especially the **Android blue screen of death**, is
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Vivo Y36i Not Connecting to Wi-Fi? 12 Quick Ways to Fix
 
 Nowadays, it’s pretty much essential to have your Vivo Y36i or smartphone connected to the internet. Whether you’re watching videos, looking something up, or using any kind of app, you need the internet for these applications to function correctly.
@@ -215,14 +270,24 @@ Luckily, despite there being so many problems out there, there are also many sol
 
 Begin by powering off your Vivo Y36i and unplugging your router. Wait for about a minute before plugging in the router and turning on your device. This simple reset can often restore stable connections and fix Android wifi not working.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![restart android](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Turn on Airplane mode and turn off
 
 Turn on Airplane Mode for a few seconds, then turn it off. This maneuver refreshes your device's network connections and might rectify the Android not connecting to wifi issue.
 
 ![turn on airplane mode](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Part 3. Check Wi-Fi Router settings
 
 The third step you’ll want to take is making sure the internet router in your house is working properly and is actually sending internet data to your Vivo Y36i. Of course, if you have other internet-enabled devices connected to the same router and they’re working fine, you know this isn’t the problem.
@@ -237,6 +302,9 @@ However, if you’ve got a problem with Wi-Fi not working on your Android and ot
 
 ## Part 4. Boot your Android in safe mode
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wifi not working on android - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-safe-mode.jpg)
 
 If you’re unable to connect to the internet, but other devices have no issues, you may find the issues is coming from within your Vivo Y36i itself. Fortunately, there are ways you can see whether this is the problem.
@@ -250,6 +318,9 @@ The best way to do this is to boot your device in Safe Mode. The process for doi
 
 If your device connects to the internet while in Safe Mode, you’ll know you have a problem with an app or service that’s running on your device. If this is the case, you’ll need to go through your apps and delete them and then reinstall them one at a time until you find the app or service that is causing your internet problems.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Part 5. Check the Android Wi-Fi adapter
 
 ![wifi not working on android - check adapter](https://images.wondershare.com/drfone/article/2019/04/android-wifi-adapter.jpeg)
@@ -262,6 +333,9 @@ You need to check both of these to make sure your connection is working properly
 2. If you’re using a router adapter, make sure it’s set up properly, and your Vivo Y36i is connected to the adapter using the correct passwords. Try connecting another device to see if the internet connection is working on there
 3. Whichever method you’re using, try disconnecting your Vivo Y36i and forgetting the network, and then reconnecting and entering the right password to refresh the connection
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 6. Check SSID and IP address on Android
 
 To make a Wi-Fi connection work, your Vivo Y36i needs to match two codes that connect and relate to your router to establish the connection and work correctly. These are known as the SSID and the IP address.
@@ -275,6 +349,9 @@ Every wireless device will have its own codes and making sure they’re matched 
 
 When these numbers are matching, if your Android is still not connecting to wifi, you’ll know this wasn’t the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 7. Fix Android system issues in one click
 
 If none of the solutions above are working, this could indicate a real problem with the firmware and operating system of your Vivo Y36i. Fortunately, a fast solution to get everything working again is to completely repair the software of your phone.
@@ -283,6 +360,9 @@ You can do this easily using powerful Android recovery software known as [Dr.Fon
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 A one-click tool to fix Wi-Fi not working on Android
@@ -301,10 +381,16 @@ To help you have the best and the most accurate experience when using the Dr.Fon
 
 Once installed, connect your Vivo Y36i to your computer using a USB cable, and open the software, click "System Repair".
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wifi slow on android - get a tool to fix](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step Two** Click the "Android" option in the menu and then click "Start" to begin the Repair process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix wifi slow on android by repairing android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step Three** On the next screen, go through the options and use the drop-down menus to make sure the information is correct for your individual device. Accept the terms and conditions of the software, and then click the "Next" button.
@@ -321,6 +407,9 @@ Once installed, connect your Vivo Y36i to your computer using a USB cable, and o
 
 **Step Six** Once the software has detected your device in Download Mode, it will automatically begin the repair process. You need to make sure your device stays connected throughout this time, and your computer stays on.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wifi not working on android - begin repairing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 The whole process is automatic, so you won’t need to do anything until it’s finished. Once completed, you can disconnect your phone and start connecting it to the internet as normal!
@@ -373,6 +462,9 @@ Here’s how you can do this easily on your Vivo Y36i;
 
 ## Part 11. Clear partition cache in recovery mode
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wifi not working on android - clear partition](https://images.wondershare.com/drfone/article/2019/04/android-reset-partitioncache.jpg)
 
 As you continue to use your Vivo Y36i, the partition cache will fill up with data your device needs and doesn’t need. However, by clearing your device’s partition cache, you can make clear up some space which should help your device have enough memory to connect to the internet.
@@ -384,6 +476,9 @@ As you continue to use your Vivo Y36i, the partition cache will fill up with dat
 5. Select the Android System Recovery option, followed by Wipe Cache Partition
 6. Restart your device and connect to the internet
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 12. Reset factory settings
 
 ![wifi not working on android - factory settings](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
@@ -401,6 +496,9 @@ However, by factory resetting your device, you can start again from the factory 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Guide: How To Unbrick a Bricked Vivo Y36i Phone
 
 Vivo Y36i phones are super popular thanks to their excellent features and affordable prices. But being so popular means people try to customize them with custom software. If you're not careful, you might have a **"bricked" Vivo Y36i** phone. It won't work at all. It will be more like a brick than a smartphone.
@@ -413,6 +511,9 @@ Don't worry, though. This guide is here to help. It will show you how to unbrick
 
 A **bricked phone** might sound like a techy term, but it's pretty simple – when your Vivo Y36i phone turns into a lifeless block that won't do anything. In this section, you'll learn all about why this happens, so you can avoid these issues and keep your phone alive as long as possible.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android logo head with broken glass](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-02.jpg)
 
 - **Trying to flash incompatible ROMs.** Sometimes, people want their Vivo Y36i phones to run different software like a custom version of Android called a ROM. But if you use the correct ROM for your specific phone, it can mess things up nicely. Also, inexperience with ROM flashing can **hard brick**your **Vivo Y36i** Be sure to follow guides and ask for community help online.
@@ -440,14 +541,23 @@ Now that you know what the Vivo Y36i Flash Tool is all about, it's time to learn
 - **Step 1.** Download the [Vivo Y36i Flash Tool](https://xiaomiflashtool.com/) and the [stock firmware](https://xiaomistockrom.com/category/stock-rom) of your device on your computer.
 - **Step 2.** Turn off your phone. Then, press and hold the Volume Down + Power Key simultaneously for 6-8 seconds. This will force your phone to enter the Fastboot mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![xiaomi press hold buttons together](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-03.jpg)
 
 - **Step 3.** Connect your phone to your computer using a cable when you see this screen flash.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![xiaomi fastboot screen](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-04.jpg)
 
 - **Step 4.** Using the Vivo Y36i Flash Tool, click **Select**. Then, locate the firmware files you downloaded earlier.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![xiaomi flash tool browse for folder menu](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-05.jpg)
 
 - **Step 5.** Click the **refresh** button until the flash tool recognizes your device. Then, click **flash** to replace the firmware. A text saying "success" should appear under the result column.
@@ -456,12 +566,22 @@ Now that you know what the Vivo Y36i Flash Tool is all about, it's time to learn
 
 Congratulations! Your phone should be up and working after following these steps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3. Method 2: [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) System Repair – Your One-Stop Shop for Unbricking Your Vivo Y36i Phone
 
 If you gave the Vivo Y36i Flash Tool a shot and your phone is still not cooperating, don't lose hope. Sometimes, the magic touch needs a slight variation. That's where Dr.Fone comes into play. This dedicated software can work wonders when fixing various phone problems. It can even help in cases of **bricked Vivo Y36i** phones involving software or firmware issues.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Repair Android System Errors without Any Trouble.
@@ -506,12 +626,18 @@ Now that you know about Dr.Fone, it's time to understand how to use it. Hopefull
 
 - **Step 6.** After downloading the firmware, verify and proceed with the installation by clicking **Fix Now**. Confirm firmware installation by typing "000000" into the text box in the appearing window. Click **Confirm** afterward.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare dr.fone initiate system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 7.** After the process is finished, your phone should now be okay. Click **Done**.
 
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Part 4. Best Practices/Tips Before Unbricking Your Phone
 
 Before diving into the unbricking process, you must arm yourself with some tips and precautions to ensure your recovery journey is as smooth as possible. Here's what you need to know:
@@ -526,6 +652,9 @@ So, there you have it – your guide to fixing a **bricked Vivo Y36i** phone. Re
 
 As a parting reminder, always keep a tool ready for emergencies. For this, choose Dr.Fone. It's a super tool for all your phone problems. Give it a shot and be confident with your phone wherever you go and whatever you do with it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,052,835** people have downloaded it
@@ -547,3 +676,46 @@ As a parting reminder, always keep a tool ready for emergencies. For this, choos
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-boosting-visuals-implementing-filters-on-devices/"><u>[New] Boosting Visuals  Implementing Filters on Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-budget-friendly-chinese-innovations-in-vr/"><u>[New] Budget-Friendly Chinese Innovations in VR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-text-overlays-on-photos-in-windows-10s-photos-app/"><u>[New] Mastering Text Overlays on Photos in Windows 10'S Photos App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-tiktok-profile-updates-with-linktree-integration/"><u>[Updated] Navigating TikTok Profile Updates with Linktree Integration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-prime-ringtone-retailers-for-game-of-thrones-fans/"><u>[Updated] Prime Ringtone Retailers for Game of Thrones Fans</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oneplus-12r-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My OnePlus 12R Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-combine-videos-into-one-on-iphone/"><u>2024 Approved  How to Combine Videos Into One on iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-y36-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y36? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-xiaomi-redmi-note-12r-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi Redmi Note 12R Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-12-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 12 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-customized-financing-blueprint-for-steam-gaming/"><u>Crafting a Customized Financing Blueprint for Steam Gaming</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-and-fabulous-the-best-fcpx-plugins-you-cant-miss-for-2024/"><u>Free and Fabulous The Best FCPX Plugins You Cant Miss for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-itel-a70-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Itel A70 Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/insta-stats-spotlight-pinpointing-viewers-of-your-photos-for-2024/"><u>Insta Stats Spotlight  Pinpointing Viewers of Your Photos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/periscope-footage-lifesaving-tips-and-tricks/"><u>Periscope Footage Lifesaving Tips & Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-oppo-a78-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo A78 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ranking-cellular-wonders-for-media-makers-for-2024/"><u>Ranking Cellular Wonders for Media Makers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-htc-u23-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for HTC U23 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-microsoft-store-error-0x80073cf3/"><u>Steps to Resolve Microsoft Store Error 0X80073CF3</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10c-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10C Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-f34-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy F34 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-s23-tactical-edition-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy S23 Tactical Edition Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-edge-40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Edge 40 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-note-12-4g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi Note 12 4G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-13c-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 13C Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-pro-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 Pro 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Bricked Your Vivo Y36? Heres A Full Solution | Dr.fone
-date: 2024-03-18 11:34:40
-updated: 2024-03-21 15:15:48
+date: 2024-07-30T09:49:57.459Z
+updated: 2024-07-31T09:49:57.459Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Bricked Your Vivo Y36? Heres A Full Solution
 excerpt: This article describes Bricked Your Vivo Y36? Heres A Full Solution
 keywords: android solutions,Vivo Y36 android guide,Vivo Y36 android fix,Vivo Y36 android issues,android support,Vivo Y36 android repair,android fix,android tips,Vivo Y36 android problems,Vivo Y36 android troubleshooting
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## Bricked Your Vivo Y36? Here’s A Full Solution
@@ -18,6 +18,9 @@ A bricked phone is a device that won’t turn on no matter what you do and every
 
 In this article we are going to look at how you can fix your device if you are sure it is bricked, how to rescue the data on your bricked device and even how you can avoid this situation in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 1: Rescue the data on your Bricked Android Phone
 
 Before we can learn how to fix a bricked device, it is important that you are able to save the data that is on the Vivo Y36 device. Having the data saved somewhere else will be the added insurance you need in case anything goes wrong during the process. There are very few software solutions in the market to help you get back data from a bricked device. One of these and the most reliable is [Wondershare Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html).
@@ -47,6 +50,9 @@ Step 1: Download and install Wondershare Dr.Fone to your PC. Launch the program 
 
 Step 2. Select the issue type for your phone. Choose from "Touch screen not responsive or cannot access the phone" or "Black/broken screen".
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-Select the issue type](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
 Step 3: In the next step, you need to select your device model. If you don’t know the model of your device click on “How to check the Vivo Y36 device model” to get help.
@@ -59,6 +65,9 @@ Step 4: The next screen will provide instructions on how to enter “Download mo
 
 Step 5: The program will begin an analysis of your device and then download the recovery package.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-download the recovery package](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
 
 Step 6: Then Dr.Fone will display all the recoverable file types. You can click on the files to preview them. Select the ones you need and click on "Recover to Computer" to save them to your computer.
@@ -71,6 +80,9 @@ Step 6: Then Dr.Fone will display all the recoverable file types. You can click 
 
 Android devices are usually very flexible in allowing users to flash ROM but sometimes an incorrect process can result in a bricked device. While there are few solutions to this problem, here are a few things you can do;
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### When the Vivo Y36 device Boots Straight into Recovery
 
 If the Vivo Y36 device can boot to the recovery screen, you can find an alternative ROM to install and copy it your device. Installation can then be done in the recovery menu. If the Vivo Y36 device is booting to recovery mode there is a chance that it can be fixed.
@@ -81,6 +93,9 @@ Step 2: Once you are in, navigate to the “Reboot system now.” If you are usi
 
 ![bricked android phone data recovery-Reboot system now.](https://images.wondershare.com/drfone/others/fix-bricked-android-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### When the Vivo Y36 device won’t stop rebooting
 
 Here’s what to do if the Vivo Y36 device wont stop rebooting.
@@ -91,6 +106,9 @@ Step 2: Go to “Advanced” which will bring up a number of options to choose f
 
 Step 3: One of the options should be “Wipe Dalvik cache” select this option and then follow the instructions. When finished select “Go Back” to return to the main menu.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-Go Back](https://images.wondershare.com/drfone/others/fix-bricked-android-02.jpg)
 
 Step 4: Go to the “Wipe Cache Partition” and select it.
@@ -125,6 +143,9 @@ While installing Custom ROM can actually be a great way to customize your device
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 4 Android System Repair Software for Vivo Y36 Bricked Devices
 
 Is your Vivo Y36 device showing signs of being "bricked" or "soft-bricked"? When a **Vivo Y36 is bricked**, it becomes unresponsive and unusable. But fear not, as this article will guide you through reviving your device's functionality. It will delve into the significance of unbricking and how it restores usability.
@@ -133,10 +154,16 @@ Moreover, this article will introduce you to the world of **Vivo Y36 unbrick too
 
 ![samsung bricked](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Understanding Bricked Vivo Y36
 
 Have you ever heard the term "bricked" concerning your Vivo Y36 device? This section explains it to you in simple terms. Imagine your device becoming like a brick, unresponsive and seemingly lifeless. That's what happens when a **Vivo Y36 gets bricked**. There are two main types of brick: soft brick and hard brick.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Soft Brick
 
 Soft brick is like a temporary setback for your device. To see if your **Vivo Y36 is soft - bricked**, check out the details below:
@@ -151,8 +178,14 @@ Now, this is a more severe situation. In this case, your **bricked Vivo Y36** mi
 - Thesoftware and hardware have significant problems, making the Vivo Y36 device unresponsive.
 - Your device won't turn on and might not show any signs of life.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![bricked Vivo Y36](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Common Causes of a Brick Vivo Y36
 
 Now, let's discuss why devices end up in this bricked state. It can happen due to a few common reasons:
@@ -175,12 +208,22 @@ So, why is it important to know all this? Well, a bricked device isn't just frus
 
 Now that you've grasped the concept, let's dive into how to **unbrick a Vivo Y36**. That's where Android system repair software comes in. These clever programs are like doctors for your device's software. They diagnose and fix issues to keep your appliance running smoothly. Let's explore the cream of the crop when it comes to these software solutions:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) – System Repair (Android)
 
 Dr.Fone - System Repair (Android) is like a magic wand for your Vivo Y36 device. It's designed to rescue your device from troubles and make it run smoothly again. Dr.Fone - System Repair (Android) is built to  fix various issues, including a bricked device. It can resolve problems like [<u>black screens</u>](https://drfone.wondershare.com/iphone-problems/iphone-13-black-screen.html), frozen devices, boot loops, and even devices stuck in recovery mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Repair Android System Errors without Any Trouble.
@@ -237,6 +280,9 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Vivo Y36**
 
 - **Step 3:** When you click through to the next window, the service will automatically recognize the manufacturer of the Android device. Choose the appropriate **Brand**, **Name**, **Model**, **Country**, and **Carrier** from the drop-down menus. Select **OPEN** in the **Carrier** area if the phone is unlocked. The next step is to tick the box labeled **I accept the risk and am ready to continue**. Click **Next** to proceed with the rest of the Vivo Y36 device repair.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone android device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 4:** Put your Vivo Y36 into **Download Mode** when prompted.
@@ -247,10 +293,17 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Vivo Y36**
 
 - If your Android doesn't have a Home button, you may still use it byturning it off and pressing the Volume Down, Bixby, and Power buttons simultaneously. Repeatedly pressing the Volume Up button will activate Download Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![drfone phone without home button android](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - **Step 5:** The firmware download starts on the platform immediately after the Vivo Y36 device enters **Download Mode**. You can click **Stop** to abort it at any stage during the process. The platform then verifies and presents the information as it downloads. By selecting **Fix Now**, you can install the firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone fix now android](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 - **Step 6:** The Android repair procedure may delete all of your data. To proceed, please type "000000" in the box provided. The system repair process will begin, and its status can be viewed in the next screen's progress bar.
@@ -290,6 +343,9 @@ Below is the disadvantage of this software:
 
 - Repair capabilities might be limited for complex issues.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [<u>System Repair for Android</u>](https://play.google.com/store/apps/details?id=toolsaio.cleaner.booster.systemrepair&hl=en&gl=US)
 
 True to its name, System Repair for Android is designed to repair and rejuvenate your device's Android system. It's a reliable tool to tackle various software issues, including bricked devices.
@@ -346,6 +402,9 @@ Check out this app's disadvantages below:
 
 Now that you know how to fix a **bricked Vivo Y36** smartphone, let's focus on preventing it in the first place. Here are some simple steps you can take to keep your Vivo Y36 device safe and sound:
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tips on preventing future bricking incidents](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-14.jpg)
 
 - **Regularly Check for Updates**
@@ -384,6 +443,9 @@ By following these easy tips, you can keep your Vivo Y36 device running smoothly
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Encountering a **bricked Vivo Y36** device can be a frustrating roadblock. However, there's a silver lining – the power of an Android system repair software like Dr.Fone – System Repair (Android). This user-friendly tool acts as your device's superhero, rescuing it from the clutches of bricking incidents.
@@ -396,6 +458,9 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 
 Screenshots can be misused to steal money or pirate copyrighted content. By prohibiting screenshots, apps and websites can help to protect your data and privacy. If you want to learn more, keep reading. This article will explain why apps and websites prevent screenshot capture and why it’s important for security. We’ll also give you tips on how to take photos of apps and websites that don’t let you take screenshots.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Can’t Take Screenshots Due to Security Policy on Android? Here’s Why
 
 Why can’t you take a screenshot of something on your phone and get the error message that says, “**Can’t take screenshot due to security policy**”? Apps and websites turn off or remove the screenshot feature for a variety of reasons, including:
@@ -410,6 +475,9 @@ Say you’re trying to take a screenshot on your Vivo Y36 device, and you get th
 
 Some apps and websites, such as banking apps, store private data like financial and credit card details. Blocking capturing screenshots is a way to prevent unauthorized access to confidential information.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cryptocurrency app screenshot error](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-02.jpg)
 
 Follow Regulations
@@ -436,12 +504,19 @@ Some apps and websites allow users to share private information. Some apps, like
 
 You **can’t take screenshots due to security policy Whatsapp** features, View Once media option. This method stops people from taking pictures of private media chats, protecting users’ privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![whatsapp screenshot blocked](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-03.jpg)
 
 You Are Using a Secure Folder
 
 Companies design secure folders to protect your most sensitive data from unauthorized access, so screenshots are not allowed within them.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. 8 Ways To Take Screenshots When You Can’t Due to Security Policy
 
 If you’re trying to take a screenshot of an app or website with a security policy in place, there’s usually no way to circumvent it. However, there are a few things you can do to take pictures of these apps and website content.
@@ -454,10 +529,17 @@ If you are using this Android device, you can enable the screen capture feature 
 
 - **Step 1:** Go to **Settings** > **Apps**, then tap the **More options** icon in the upper right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![android app settings interface](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-04.jpg)
 
 - **Step 2:** Choose **Special access** > **All files access**.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android apps special access settings](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-05.jpg)
 
 - **Step 3:** Enable **Vivo Y36 capture**.
@@ -486,6 +568,9 @@ Use Google Assistant
 
 With Google Assistant, taking screenshots on your Vivo Y36 is now easier than ever. Just say, “Hey, Google, take a screenshot,” Google Assistant will capture the screen and save it to your gallery.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![google assistant command](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-09.jpg)
 
 Use a Third-Party App To Take Screenshots
@@ -546,12 +631,18 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 1:** Once you have downloaded Dr.Fone, install it and launch it on your desktop. Then, connect your Vivo Y36 to your desktop using a USB cable.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,567,199** people have downloaded it
 
 - **Step 2:** From the **Toolbox** homepage, select **System Repair** > **Android**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone toolbox selection interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** Click **Start** on the new window.
@@ -564,6 +655,9 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 5:** Follow the in-app instructions to put your Vivo Y36 on Download mode, then click **Next**.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![put android on download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - **Step 6:** Wait while the firmware automatically downloads.
@@ -576,6 +670,10 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 8:** Read the dialogue box note, enter the code in the input box, and click **Confirm**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![enter code in the dialogue box](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 9:** Keep your smartphone connected and avoid using it while Dr.Fone is repairing it.
@@ -584,6 +682,9 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 10:** If your device has started properly, click **Done** to close this app. Otherwise, click **Try again**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![android system issue repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Conclusion
@@ -609,3 +710,51 @@ If you think the issue is with your Android system, or your device becomes brick
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-crafting-captivating-facebook-biographies-a-comprehensive-guide/"><u>[New] 2024 Approved  Crafting Captivating Facebook Biographies - A Comprehensive Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-techniques-for-soundless-video/"><u>[New] 2024 Approved  Essential Techniques for Soundless Video</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-breakthrough-vloggers-reviewed-the-best-15-youtube-channels-for-product-reviews/"><u>[New] Breakthrough Vloggers Reviewed  The Best 15 YouTube Channels for Product Reviews</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-green-screen-filming-essential-techniques/"><u>[New] Mastering Green Screen Filming  Essential Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-comprehensively-guide-to-transferring-videos-onto-facebook-from-pc-and-android-for-2024/"><u>[Updated] Comprehensively Guide to Transferring Videos Onto Facebook From PC & Android for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-optimize-online-presence-video-embellishment-with-logos-and-watermarks-for-2024/"><u>[Updated] Optimize Online Presence  Video Embellishment with Logos and Watermarks for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-best-resources-to-explore-for-personalized-text-enhancements-online/"><u>2024 Approved  Best Resources to Explore for Personalized Text Enhancements Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-from-basic-snaps-to-expertly-crafted-images-on-snapchat/"><u>2024 Approved  From Basic Snaps to Expertly Crafted Images on Snapchat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-guide-to-lenovos-screen-recording-process/"><u>2024 Approved  Guide to Lenovo's Screen Recording Process</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-prime-phone-pals-selecting-speech-to-text-apps-for-offline-use/"><u>2024 Approved  Prime Phone Pals  Selecting Speech-to-Text Apps for Offline Use</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-note-30-vip-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Note 30 VIP Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nubia-red-magic-9-proplus-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nubia Red Magic 9 Pro+? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-y100a-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y100A? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oppo-reno-11f-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Oppo Reno 11F 5G Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-gt-neo-5-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme GT Neo 5 Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-s23-tactical-edition-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy S23 Tactical Edition Phone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-100-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-honor-x7b-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Honor X7b Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-realme-narzo-60x-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Realme Narzo 60x 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nokia-c22-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nokia C22 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-seamless-blend-of-images-into-majestic-collage-art/"><u>The Seamless Blend of Images Into Majestic Collage Art</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-100-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor 100 without backup.</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-redmi-note-12-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Redmi Note 12 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-note-12-pro-4g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi Note 12 Pro 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-tecno-pova-6-pro-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Tecno Pova 6 Pro 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y27-4g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y27 4G Phones</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone files after scanning? | Stellar</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oneplus-nord-n30-se-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your OnePlus Nord N30 SE Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>

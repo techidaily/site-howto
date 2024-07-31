@@ -1,7 +1,7 @@
 ---
 title: Fix Google Pixel 8 Android System Webview Crash 2024 Issue | Dr.fone
-date: 2024-03-18 20:17:11
-updated: 2024-03-21 15:32:24
+date: 2024-07-30T10:20:51.479Z
+updated: 2024-07-31T10:20:51.479Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Fix Google Pixel 8 Android System Webview Crash 2024 Issue
 excerpt: This article describes Fix Google Pixel 8 Android System Webview Crash 2024 Issue
 keywords: android solutions,Google Pixel 8 android troubleshooting,Google Pixel 8 fix android problems,android help,fix android problems,android issues
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## Fix Google Pixel 8 Android System Webview Crash 2024 Issue
@@ -58,6 +58,9 @@ Updates are often intended to improve software stability and compatibility, but 
 
 Google Pixel 8 Android System WebView requires a certain amount of memory to operate properly. If your device is running low on memory, it can cause Google Pixel 8 Android System WebView to crash. It is more likely to happen on older devices with less RAM.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![webview crash out of memory message](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-03.jpg)
 
 - **Outdated Google Pixel 8 Android System WebView**
@@ -96,12 +99,27 @@ Android WebView is closely tied to Google Chrome, and issues with Chrome can som
 
 Open the **Google Play Store** and search for Google Chrome. If an update is available, tap **Update** to install it, then restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![update google chrome](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-06.jpg)
 
 Clearing Cache and Data for Android WebView
 
 Clearing the cache frees up phone storage and helps the app run more efficiently. To clear Google Pixel 8 Android System WebView's cache and data, go to **Settings** > **Apps** and select **Google Pixel 8 Android System WebView**. Tap on **Storage** and tap **Clear cache** on the lower right corner of your screen.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![clear cache of android system webview](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-07.jpg)
 
 Restart Device
@@ -122,6 +140,9 @@ Check for available software updates by going to **Settings** > **Software Updat
 
 While problems like when the Android System **WebView crashes Android** phones are common, they don't have to be a persistent problem for Google Pixel 8 users. It's also equally important to have effective solutions when app crashes occur. This is where [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) steps in as a reliable and comprehensive solution for restoring app stability and overall phone performance.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Restoring Apps and Phone Stability: A Step-by-Step Guide
 
 Dr. Fone's System Repair tool can help you resolve common Android scenarios, including Google Play Store malfunctions and persistent app crashes.
@@ -132,6 +153,9 @@ Before attempting any repairs, it is crucial to back up your Google Pixel 8 to p
 
 - **Step 1:** Download the Dr.Fone toolkit. Next, install the software on your desktop and launch it.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,090,920** people have downloaded it
@@ -143,6 +167,9 @@ Before attempting any repairs, it is crucial to back up your Google Pixel 8 to p
 
 - **Step 4:** Click **Start** to begin the process of fixing **Google Pixel 8 Android System WebView crashes**. Next, choose your device details and follow the in-app instructions to put your device in Download mode.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![android problems dr.fone can fix](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 5:** Dr.Fone will analyze your device's system and download the firmware to solve the root cause of the issue.
@@ -155,6 +182,9 @@ Before attempting any repairs, it is crucial to back up your Google Pixel 8 to p
 
 - **Step 7:** Once the repair is complete, your device will restart, and **Google Pixel 8 Android System WebView crashing apps** should no longer occur.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![successfully repaired android system issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 **More Articles About Android System:**
@@ -173,16 +203,26 @@ By understanding the signs and causes of **Google Pixel 8 Android System WebView
 
 For more comprehensive troubleshooting, Dr. Fone's mobile solution offers a reliable and user-friendly approach. Its advanced capabilities effectively tackle app crashing issues, providing you peace of mind that your phone is functioning optimally.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,684,259** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Why Is My Google Pixel 8 Offline? Troubleshooting Guide
 
 Ever had your Google Pixel 8 claim it's offline, leaving you scratching your head about where it went wrong? We get it; it's confusing. That's why this article is here to untangle the mystery.
 
 In the following sections, we're diving into the **"why is My Google Pixel 8 offline"** dilemma that many Android users face. We'll break down the possible reasons behind this common issue and guide you through simple steps on how to fix it. By the end of the article, you’ll be able to get back to smooth internet surfing on your Google Pixel 8. Let’s get started.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Part 1: Why Does My Google Pixel 8 Say Offline?
 
 When you encounter the “offline” error message, it can disrupt your usual smartphone activities. Suddenly, you find yourself unable to browse the internet, send or receive emails, or stay connected through instant messages.
@@ -225,6 +265,9 @@ Switching to mobile data can be a quick fix if your Wi-Fi is acting up. It ensur
 
 ![Change connection to mobile data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 2: On and off Airplane mode
 
 [<u>Airplane Mode</u>](https://drfone.wondershare.com/fake-location/airplane-mode-turn-off-gps-location.html) can sometimes cause connectivity confusion. Turning it off and on essentially resets your phone's wireless connections, which might resolve the offline issue.
@@ -235,8 +278,14 @@ How to on and off Airplane mode on Android:
 - **Step 2:** Look for the Airplane Mode icon and tap the icon to turn on Airplane Mode.
 - **Step 3:** Wait a few seconds, then tap it again to turn off the Airplane Mode. Now, check if your phone is now online.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![On and off the Airplane mode](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 3: Reset network settings
 
 Resetting network settings can help eliminate any configuration glitches that might be causing the phone offline problem. It's like giving your phone's connection settings a fresh start.
@@ -263,12 +312,18 @@ How to restart your Wi-Fi router:
 
 These solutions should cover the most common connectivity issues. If the problem persists, we'll explore further steps in the following sections.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How To Fix “Phone Offline” Despite Having an Internet Connection
 
 Ever found it odd to receive the frustrating offline error message when you're sure your internet connection is up and running? If you've double-checked your internet connection and your phone still says it's offline, the issue may lie within your browser, apps, or device settings.
 
 In this part, we'll answer the question “**Why does My Google Pixel 8 say offline android?**” despite a seemingly functional internet connection. Then, let's see other solutions on how to get your device back to its online, fully functional self.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution 1: Clear Google Chrome’s cache and data
 
 Sometimes, the answer to “**Why is my Android phone offline**” can be attributed to a buildup of corrupted or outdated data in your browser's cache. Clearing the cache and data for Google Chrome can resolve this issue, allowing for a fresh start and potentially eliminating the offline status.
@@ -295,6 +350,9 @@ How to re-install Google Chrome:
 - **Step 3:** Wait until it has finished uninstalling your app. Then, tap "Install" to start reinstalling the app.
 - **Step 4:** Once the installation is complete, open Google Chrome and check if the offline error persists while browsing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Re-install Google Chrome on Google Play Store](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-6.jpg)
 
 ### Solution 3: Repair the system to fix the phone showing offline
@@ -331,12 +389,18 @@ Click Start on the new screen to kick off the repair. Since you're dealing with 
 
 The platform will detect your Google Pixel 8's brand. Confirm the Name, Model, Country, and Carrier. If your device is unlocked, choose OPEN in the Carrier section. Agree to the warning, click Next, and proceed with the repair.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Confirm your Google Pixel 8’s details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 4:** Download firmware.
 
 Follow the instructions to put your Google Pixel 8 into Download Mode. Once in Download Mode, you will start downloading the firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Activate Download mode to download the firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 5:** Confirm Installation
@@ -363,6 +427,9 @@ We often hear Android users ask for solutions for this problem at different foru
 
 So the next time you ask, “Why does My Google Pixel 8 keep shutting off?”, refer to this article and follow the techniques given hereunder.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Possible reasons for phone turning off by itself
 
 We understand your trouble when you ask, “Why does My Google Pixel 8 keep turning off?” thus, here we have four of the possible reasons that might be causing the glitch and help you understand the problem better.
@@ -383,16 +450,25 @@ If your phone turns off now and then while you are using it and even refuses to 
 
 First, open the dialer on your Google Pixel 8 shown in the screenshot below.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![open the dialer](https://images.wondershare.com/drfone/article/2017/07/14994528759955.jpg)
 
 Now dial \*#\*#4636#\*#\* just like dialing a usual phone number and wait for the “Battery Info” screen to pop up.
 
 Note: Sometimes, the above-mentioned code may not work. In such cases, try dialing \*#\*#INFO#\*#\*. The following screen will appear now.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Battery Info](https://images.wondershare.com/drfone/article/2017/07/14994528935445.jpg)
 
 If the battery looks good as you can see in the screenshot above and everything else seems normal, it means that your battery is healthy and need not be replaced. You may now move on to the next step to cure your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: One-click to fix Android phone keeps turning off
 
 We understand how annoying it is to find your Google Pixel 8 turning off randomly on its own. So, when the age-old remedies to fix the phone keeps turning off turns futile, you need to go for a reliable tool like [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/).
@@ -401,8 +477,14 @@ Apart from tackling the Android phone keeps turning off the issue, it can also r
 
 Your trouble with ‘why does My Google Pixel 8 keep shutting off?’ can be resolved easily using Dr.Fone - System Repair (Android). But, before that, you need to ensure that [the Android device has been backed up properly](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) to eliminate the risk of data erasing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Repair Android System Errors without Any Trouble.
@@ -429,6 +511,9 @@ Step 2: Here, you need to press the ‘Start’ button right after hitting the �
 
 Step 3: Pick your Google Pixel 8 details over the Google Pixel 8 device information interface. Click the ‘Next’ button afterward.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 #### Phase 2: Enter ‘Download’ mode to repair and resolve ‘why does My Google Pixel 8 keep turning off’
@@ -441,6 +526,9 @@ For a device with the ‘Home’ button – Turn off the mobile and then hold do
 
 For a device lacking ‘Home’ button – After switching off the Android mobile, hold down ‘Bixby’, ‘Power’, ‘Volume Down’ key still 10 seconds. Now, un-hold them and tap the ‘Volume Up’ button to enter the ‘Download’ mode.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fix phone keeps turning off with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2: Hitting the ‘Next’ button will start the Android firmware download.
@@ -453,6 +541,10 @@ Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once dow
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## Part 4: Update software to the latest version to fix Android phone keeps turning off
 
 Software glitches or outdated operating systems can trigger automatic shutdowns on Android phones. Updating your Google Pixel 8's software version can be an effective solution to fix the issue of the phone repeatedly turning off. Regular software updates provided by the phone manufacturer often include bug fixes, performance improvements, and security patches. These updates can address underlying problems that may be causing the random shutdowns, ensuring a more stable and reliable phone performance.
@@ -461,8 +553,14 @@ To update the software on your Google Pixel 8, follow these steps:
 
 Go to "Settings" on your Google Pixel 8 and navigate to the "System" or "Software Update" section (the exact wording may vary depending on your device model and Android version). Look for the option to "Check for updates" to see if any new software updates are available.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![update software](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5: Cool down your phone to avoid your phone keeps turning off
 
 When a phone overheats, it can trigger an automatic shutdown as a protective mechanism to prevent damage to the Google Pixel 8 device's internal components. Overheating occurs when the phone's internal temperature rises significantly, typically due to excessive heat generated by the processor and other hardware components during intensive tasks or prolonged usage.
@@ -483,10 +581,16 @@ Long press the power button to see the following options on the screen.
 
 Now tap on “Power Off” for about 10 seconds and click “OK” on the message that pops-up as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![safe mode](https://images.wondershare.com/drfone/article/2017/07/14994529389258.jpg)
 
 Once done, the phone will reboot and you will see “Safe Mode” on the main screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe mode](https://images.wondershare.com/drfone/article/2017/07/14994529591962.jpg)
 
 That's all. Well, booting to Safe Mode is easy and it also helps you to identify the real problem.
@@ -518,6 +622,9 @@ Once you have the main screen of the software with multiple options that will ap
 
 Now connect the Android phone to the PC and make sure that USB debugging is turned on. Then hit “Back Up Now” and wait for the next screen to open.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 You will see the file types that will be backed up. Wait for the backup process to complete.
@@ -526,6 +633,9 @@ You will see the file types that will be backed up. Wait for the backup process 
 
 There you go, you have successfully backed up data.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -534,10 +644,16 @@ Now moving on to factory reset your phone:
 
 Simply visit “Settings” on your Google Pixel 8 by clicking the settings icon as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![visit “Settings”](https://images.wondershare.com/drfone/article/2017/07/14994531602106.jpg)
 
 And then select the “Backup and Reset” option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/07/14994531829910.jpg)
 
 Once selected, tap on "Factory data reset" and then "reset device" as shown in the picture below.
@@ -552,6 +668,10 @@ Now for all those of you who are wondering why does My Google Pixel 8 keeps turn
 
 So, do not hold back, go ahead, and try these tricks. They have helped many and will be useful for you too.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 
@@ -569,3 +689,69 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-c-span-video-acquisition-secrets-revealed/"><u>[New] C-Span Video Acquisition  Secrets Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-a-course-essential-equipment-for-youtube-enthusiasts-for-2024/"><u>[New] Charting a Course  Essential Equipment for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-foundational-framework-engaging-in-instagram-video-talk-for-2024/"><u>[New] Foundational Framework  Engaging in Instagram Video Talk for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-pros-picks-best-microphones-for-asmr-recording/"><u>[New] In 2024, Pros' Picks  Best Microphones for ASMR Recording</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-rise-above-the-rest-one-person-podcast-mastery/"><u>[New] Rise Above the Rest  One-Person Podcast Mastery</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-1-3-in-ipad-voice-memos-and-recorders/"><u>[Updated] 1-3 in iPad Voice Memos & Recorders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-3-proven-methods-to-enhance-your-music-archives/"><u>[Updated] 2024 Approved  3 Proven Methods to Enhance Your Music Archives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-curriculum-videos-top-tips-for-classroom-edits-for-2024/"><u>[Updated] Curriculum Videos  Top Tips for Classroom Edits for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-guide-to-selecting-the-best-8-open-source-calls-for-2024/"><u>[Updated] Essential Guide to Selecting the Best 8 Open Source Calls for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-prominent-comment-spotlights-for-2024/"><u>[Updated] Finding Prominent Comment Spotlights for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-insiders-guide-how-to-buy-a-future-ready-360-camera/"><u>[Updated] Insider's Guide  How to Buy a Future-Ready 360 Camera</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-making-marks-trendsetting-on-social-media-platforms-for-2024/"><u>[Updated] Making Marks  Trendsetting on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-premier-7-phone-apps-for-changing-tone-quality/"><u>[Updated] Premier 7 Phone Apps for Changing Tone Quality</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2-methods-to-add-effects-on-tiktok-for-2024/"><u>2 Methods To Add Effects On TikTok for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-compare-metaverse-vs-omniverse-a-complete-guide/"><u>2024 Approved  Compare Metaverse Vs. Omniverse  A Complete Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-top-5-cost-effective-video-editing-software-for-gamers/"><u>2024 Approved  Top 5 Cost-Effective Video Editing Software (For Gamers)</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-s17-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo S17 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-a1-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo A1 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-reno-10-pro-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo Reno 10 Pro 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-s23plus-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy S23+? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-motorola-moto-g14-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Moto G14 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/direct-download-dash-discovering-ifunnys-fun-laughter-for-2024/"><u>Direct Download Dash  Discovering iFunny's Fun Laughter for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-infinix-note-30-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Infinix Note 30 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-100-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor 100 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-reno-9a-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo Reno 9A Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-smart-7-hd-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix Smart 7 HD to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nokia-c12-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nokia C12 Pro Phone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-step-by-step-approach-to-macos-sierra-integration/"><u>In 2024, A Step-by-Step Approach to macOS Sierra Integration</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oneplus-open-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your OnePlus Open in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oneplus-open-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g14-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G14 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-the-ultimate-guide-to-crafting-your-own-emoji-statuses/"><u>In 2024, The Ultimate Guide to Crafting Your Own Emoji Statuses</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-v30-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo V30 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-beyond-adobe-top-4-video-editing-solutions-you-need-to-know-for-2024/"><u>New Beyond Adobe Top 4 Video Editing Solutions You Need to Know for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-and-easy-tips-for-creating-insta-groups/"><u>Quick & Easy Tips for Creating Insta Groups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/reviving-retro-film-techniques-detailed-instructions-for-2024/"><u>Reviving Retro Film Techniques  Detailed Instructions for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-zte-nubia-flip-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of ZTE Nubia Flip 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-reno-10-proplus-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Reno 10 Pro+ 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x-fold-2-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X Fold 2 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-gt-3-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme GT 3? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-g2-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo G2? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y27s-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y27s Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: What To Do When Vivo Y36 Has Black Screen of Death? | Dr.fone
-date: 2024-07-07T18:32:13.692Z
-updated: 2024-07-08T18:32:13.692Z
+date: 2024-07-30T12:37:17.211Z
+updated: 2024-07-31T12:37:17.211Z
 tags: 
   - problems
 categories:
@@ -25,6 +25,9 @@ This scenario is common with many Android mobile users, and they always hunt for
 
 If you face these situations, you might be facing the Android black screen of death issue. Follow this article, and we’ll discuss how to get rid of this annoying problem at ease.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Part 1: Why Android device gets black screen of death?
 
 Similar to the "[Blue Screen of Death](https://drfone.wondershare.com/android-issue/android-blue-screen-of-death.html)" (BSOD) on computers, the Android Black Screen of Death indicates a severe system crash or malfunction. When this issue occurs, the Vivo Y36 device's display remains blank, and you are unable to interact with the Vivo Y36 device, access apps, or perform any actions. The cause of the Android black screen of death can vary, but some common factors include:
@@ -39,6 +42,9 @@ Similar to the "[Blue Screen of Death](https://drfone.wondershare.com/android-is
 
 If you face the situations mentioned above, this is clearly a case of the Android screen black. But don't worry about that. You can follow the article below to get rid of this situation on your own.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to rescue data when Android gets black screen of death?
 
 This annoying Android black screen of death is making it impossible to access your internal data. So, the possibility is that you might lose all the data. We have a solution for all of your data recovery problems from a damaged Android device.
@@ -51,6 +57,9 @@ Use this revolutionary toolkit to get the data back from the black tablet screen
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Dr.Fone - Data Recovery (Android)
 
 A Dedicated Tool to Retrieve Data from [Broken Android Devices](https://www.wondershare.com/android/access-android-phone-with-broken-screen.html).
@@ -62,8 +71,15 @@ A Dedicated Tool to Retrieve Data from [Broken Android Devices](https://www.wond
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: 9 Solutions to fix the black screen of death of Android
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - [3.1 One click to fix the black screen of death ![hot icon](https://images.wondershare.com/drfone/2022/images/hot-icon.gif)](https://drfone.wondershare.com/android-issue/android-black-screen-of-death.html#part3.1)
 - [3.2 Force restart your Vivo Y36](https://drfone.wondershare.com/android-issue/android-black-screen-of-death.html#part3.2)
 - [3.3 Check and clean your phone](https://drfone.wondershare.com/android-issue/android-black-screen-of-death.html#part3.3)
@@ -74,6 +90,9 @@ A Dedicated Tool to Retrieve Data from [Broken Android Devices](https://www.wond
 - [3.8 Reboot to safe mode](https://drfone.wondershare.com/android-issue/android-black-screen-of-death.html#part3.8)
 - [3.9 Factory reset to fix Android black screen of death](https://drfone.wondershare.com/android-issue/android-black-screen-of-death.html#part3.9)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3.1 One click to fix the black screen of death
 
 Facing an Android device with a black screen of death, I believe, is one of the gloomiest moments of one's life, especially for those who know little about the technical part of Android. But here is the truth we have to admit: most cases of the black screen of death arise due to system glitches in Android.
@@ -101,6 +120,9 @@ Fix Black Screen of Death for Android In One Click
 
 2. Select "System Repair" from the home page, and then click on the "Android ".
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
     ![fix android black screen of death by selecting the repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 3. Click "Start" to commence the Android system repair. In the next screen, select and confirm your Android model details like name, model, country, etc. and go on.
@@ -109,6 +131,9 @@ Fix Black Screen of Death for Android In One Click
 
 4. Boot your Android into Download mode by following the on-screen demonstrations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![boot to download mode to fix android black screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 5. Then the tool will download the Android firmware and flash the new firmware to your Vivo Y36.
@@ -117,6 +142,9 @@ Fix Black Screen of Death for Android In One Click
 
 6. A moment later, your Vivo Y36 will be repaired completely, and the black screen of death will be fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
     ![android brought out of black screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 **Video guide: How to fix the Android black screen of death step by step**
@@ -125,6 +153,9 @@ Fix Black Screen of Death for Android In One Click
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3.2 Force restart your Vivo Y36
 
 Because it is the quickest and most painless solution, most people do this when their **Android phone screen goes black** too fast. The majority of phone issues can be resolved by performing a hard reboot. Here are the necessary measures if you haven’t tried this method before.
@@ -151,6 +182,9 @@ Step 4: After you’re done with the cleaning, it’s best to charge the phone f
 
 ![wa stickers](https://images.wondershare.com/drfone/article/2023/08/android-black-screen-of-death-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.4 Remove the battery
 
 If your phone’s battery is removable, you can try taking it out and trying again if restarting and cleaning it doesn’t fix the problem.
@@ -169,6 +203,9 @@ This easy and straightforward method should help you fix your Android screen bla
 
 If your Vivo Y36 screen suddenly goes black, let the battery die completely. Then once the battery is completely dead, you should plug it in to charge and turn it on by pressing the Power button. Try to check if you still encounter the issue after doing so.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3.6 Wipe cache partition to fix black screen of death
 
 If your Vivo Y36 turns on, but the screen remains black, clearing the cache partition should solve the problem. After all, keeping caches on your phone would cause it to run more slowly and cause other problems. Therefore, the issue can be resolved by clearing the cache partition. Check the following steps on how to do this below:
@@ -211,6 +248,9 @@ Step 4: After selecting Settings, head to the Apps section.
 
 Step 5: Select the app by clicking on it; the App Info window should appear. To uninstall the app, tap the Uninstall option from the menu below the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![uninstall app on android phone](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-a-black-screen-on-android-phones-05.jpg)
 
 Step 6: Now restart the Vivo Y36 device by pressing the power button and let it boot up in normal mode.
@@ -239,6 +279,9 @@ Step 1: Turn off the Vivo Y36 device. Then press the Volume Up + Power button + 
 
 Step 2: After booting up in recovery mode, you can find the "Factory data reset" option. Navigate to that option with the volume up and down arrow and select it with the power button.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Factory data reset](https://drfone.wondershare.com/images/article/2017/06/14987030401463.jpg)
 
 Step 3: In this step, you need to confirm your action by tapping on the “Yes” option. After this, your device will start erasing. This may take a while to complete the whole process.
@@ -267,8 +310,14 @@ There could be a lot of reasons why an Android black screen issue occurs, but th
 
 But among the methods discussed above, Dr.Fone – System Repair just stood out as this program does not only help you with a black screen of death problem, but it covers many other Android system issues too. It’s also a highly intuitive program that requires no skills to operate.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Fix Vivo Y36 Android System Webview Crash 2024 Issue
 
 In recent months, the term "**Android WebView crash 2023**" has become a common search term among Android users seeking solutions to these [app crashes](https://drfone.wondershare.com/iphone-problems/iphone-apps-crashing-on-ios-13.html). The issue has been particularly prevalent on Vivo Y36 devices, but it has also affected users of other Android models.
@@ -327,6 +376,23 @@ WebView might crash if it conflicts with other resources or processes running on
 
 In the next section, you'll explore potential solutions to keep your apps running smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Part 2: Android WebView Crashes? Here Are Quick and Proven Solutions
 
 Now you've identified the signs and causes of **Vivo Y36 Android System WebView crashing apps** on your phone. While these issues can be frustrating, there are several quick and proven solutions to fix them.
@@ -353,12 +419,19 @@ Android WebView is closely tied to Google Chrome, and issues with Chrome can som
 
 Open the **Google Play Store** and search for Google Chrome. If an update is available, tap **Update** to install it, then restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update google chrome](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-06.jpg)
 
 Clearing Cache and Data for Android WebView
 
 Clearing the cache frees up phone storage and helps the app run more efficiently. To clear Vivo Y36 Android System WebView's cache and data, go to **Settings** > **Apps** and select **Vivo Y36 Android System WebView**. Tap on **Storage** and tap **Clear cache** on the lower right corner of your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![clear cache of android system webview](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-07.jpg)
 
 Restart Device
@@ -375,6 +448,9 @@ OS updates may introduce changes to the Vivo Y36 Android System WebView that mak
 
 Check for available software updates by going to **Settings** > **Software Update**. If an update is required, tap on **Download and install**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![android device software update](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-08.jpg)
 
 While problems like when the Android System **WebView crashes Android** phones are common, they don't have to be a persistent problem for Vivo Y36 users. It's also equally important to have effective solutions when app crashes occur. This is where [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) steps in as a reliable and comprehensive solution for restoring app stability and overall phone performance.
@@ -389,6 +465,9 @@ Before attempting any repairs, it is crucial to back up your Vivo Y36 to prevent
 
 - **Step 1:** Download the Dr.Fone toolkit. Next, install the software on your desktop and launch it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,090,920** people have downloaded it
@@ -404,6 +483,9 @@ Before attempting any repairs, it is crucial to back up your Vivo Y36 to prevent
 
 - **Step 5:** Dr.Fone will analyze your device's system and download the firmware to solve the root cause of the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone downloading firmware interface](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 6:** Confirm your device information in the dialogue box. Dr.Fone will proceed to repair the detected WebView-related problems.
@@ -412,6 +494,9 @@ Before attempting any repairs, it is crucial to back up your Vivo Y36 to prevent
 
 - **Step 7:** Once the repair is complete, your device will restart, and **Vivo Y36 Android System WebView crashing apps** should no longer occur.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![successfully repaired android system issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 **More Articles About Android System:**
@@ -430,6 +515,9 @@ By understanding the signs and causes of **Vivo Y36 Android System WebView crash
 
 For more comprehensive troubleshooting, Dr. Fone's mobile solution offers a reliable and user-friendly approach. Its advanced capabilities effectively tackle app crashing issues, providing you peace of mind that your phone is functioning optimally.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,684,259** people have downloaded it
@@ -438,6 +526,9 @@ For more comprehensive troubleshooting, Dr. Fone's mobile solution offers a reli
 
 Encountering issues with the Phone app is never welcoming. Being one of the useful apps, seeing it crashing and unresponsive gives sheer despondency. If talked about the triggering points, they are numerous. But the central point is what to do when the Phone app keeps crashing. In this article, we have discussed this issue in detail. To know this and more about why the "Unfortunately, Phone has stopped" error crops up, read this article and get the problem sorted on your own.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: When can the "Unfortunately, Phone has stopped" error come?
 
 First things first! You need to stay updated on why the Phone app keeps stopping or crashing before jumping to any solution. Following are the points when this error comes up to annoy you.
@@ -449,6 +540,9 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1 Open the Phone app in Safe Mode
 
 First and foremost, the thing that can let you get rid of this trouble is Safe Mode. It is a feature that will end any excessive background functioning of the Vivo Y36 device. For instance, your device will be able to run sans any third-party apps when in Safe mode. Since the important functions and the naïve apps will be running on the Vivo Y36 device, you will get to know if it’s really a software glitch or not by running the Phone app in Safe mode. And this is the first solution we would recommend you make use of when the Phone app has stopped. Here is how to enable Safe Mode.
@@ -466,6 +560,13 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 2. Now from the list of all applications, go to "Phone" and tap on it.
 3. Now, click on "Storage" and choose "Clear Cache".
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
 
 ### 2.3 Update Google Play services
@@ -479,6 +580,9 @@ When the firmware is not updated, it may conflict with some apps and maybe that�
 1. Open "Settings" and go to "About Device".
 2. Now tap on "Software Updates" and check for the availability of the new update.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![Phone app crashing - update firmware](https://images.wondershare.com/drfone/article/2023/05/samsung-android-update-shot.jpg)
 
 1. Download and install it and then try to use the Phone app.
@@ -499,10 +603,16 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix "Unfortunately, Phone Has Stopped" on Vivo Y36 devices.
@@ -521,6 +631,9 @@ How to fix crashing Phone app using Dr.Fone - System Repair (Android)
 
 Click the "Start Download" button to download the tool on your computer, and then open the program to begin the repair, click on "System Repair".
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Phone app crashing - fix using a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Plug the Phone with PC**
@@ -539,16 +652,25 @@ As the next step, enter some important details on the next screen. Be sure to en
 
 Downloading firmware will be the next step. Prior to this, you have to go through the instructions given onscreen to enter the DFU mode. Please click on "Next" and the program will bring the suitable firmware version and start downloading it.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Phone app crashing - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 **Step 5: Get the Vivo Y36 device Repaired**
 
 When you see the firmware has been downloaded, the issue will begin to get resolved. Hang on and wait until you get notified for the repair of the Vivo Y36 device.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Phone app crashing - device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### 2.7 Factory reset
 
 If none of the above methods worked for you, the last resort you are left with is a factory reset. This method will wipe everything from your device and make it function like normal. We also suggest you [make a backup of your data](https://drfone.wondershare.com/backup/android-backup-software.html) if it is important so as to prevent the loss. Here is how to do this to fix the crashing Phone app.
@@ -557,6 +679,9 @@ If none of the above methods worked for you, the last resort you are left with i
 2. Look for "Factory data reset" and then tap on "Reset phone".
 3. Within a while, your device will go through resetting and boot up to normalcy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
@@ -580,3 +705,64 @@ If none of the above methods worked for you, the last resort you are left with i
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-complete-playback-manual-for-nintendo-switch-games/"><u>[New] 2024 Approved  The Complete Playback Manual for Nintendo Switch Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-voice-capturing-apps-for-ipads-3-top-picks-for-2024/"><u>[New] Essential Voice Capturing Apps for iPads #3 Top Picks for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elaborate-survey-gopro-silver-sensor-hero4-testing/"><u>[New] In 2024, Elaborate Survey  GoPro Silver Sensor HERO4 Testing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-quickcapture-plus-voice-guided-session-maker/"><u>[New] In 2024, QuickCapture + Voice-Guided Session Maker</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-uncomplicated-story-framework/"><u>[New] In 2024, Uncomplicated Story Framework</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-storytelling-with-jump-cuts-technique-for-2024/"><u>[Updated] Enhancing Storytelling with Jump Cuts Technique for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-fine-tune-your-videos-mood-with-custom-sound-design/"><u>[Updated] Fine-Tune Your Video's Mood with Custom Sound Design</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-captivate-viewers-using-multiple-perspectives-on-fb-live/"><u>[Updated] In 2024, How to Captivate Viewers Using Multiple Perspectives on FB Live</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snaps-in-a-flash-directly-upload-images-from-camera-roll-for-2024/"><u>[Updated] Snaps in a Flash  Directly Upload Images From Camera Roll for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-implementing-podcast-seo/"><u>[Updated] The Ultimate Guide to Implementing Podcast SEO</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-moto-g24-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola Moto G24 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-crafting-memorable-titles-a-comprehensible-ae-approach/"><u>2024 Approved  Crafting Memorable Titles  A Comprehensible AE Approach</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-hilarity-in-a-click-meme-creation/"><u>2024 Approved  Hilarity in a Click (Meme Creation)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-optimizing-apex-dive-deep-into-single-platform-solitude/"><u>2024 Approved  Optimizing Apex  Dive Deep Into Single-Platform Solitude</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oppo-a2-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Oppo A2 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-s18-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo S18 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/bridging-platforms-loop-ready-setups-for-youtube-and-tv-for-2024/"><u>Bridging Platforms  Loop-Ready Setups for YouTube and TV for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-lava-yuva-2-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Lava Yuva 2 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/capture-and-share-best-social-media-tools-of-the-year-for-2024/"><u>Capture and Share  Best Social Media Tools of the Year for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-your-command-prompt-palette/"><u>Customizing Your Command Prompt Palette</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-g24-power-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola G24 Power Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oneplus-open-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on OnePlus Open 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-asus-rog-phone-8-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Asus ROG Phone 8 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-poco-c65-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Poco C65 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-narzo-60-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme Narzo 60 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-itel-a05s-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Itel A05s?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-optimize-call-transcription-4-proven-tips-for-fb-video-calls/"><u>In 2024, Optimize Call Transcription  4 Proven Tips for FB Video Calls</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-art-of-sound-visualization-combining-waveform-graphics-and-animation-techniques-in-premiere-pro/"><u>In 2024, The Art of Sound Visualization Combining Waveform Graphics & Animation Techniques in Premiere Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tier-hdr-camera-selection-made-easy-for-2024/"><u>Top-Tier HDR Camera Selection Made Easy for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-narzo-60-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme Narzo 60 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-v30-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo V30? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-note-12t-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi Note 12T Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-tips-implementing-scheduled-file-purging/"><u>Win11 Tips: Implementing Scheduled File Purging</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-14-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 14 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y17s | Dr.fone
-date: 2024-03-18 12:36:43
-updated: 2024-03-21 14:34:50
+date: 2024-07-30T10:33:01.950Z
+updated: 2024-07-31T10:33:01.950Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y17s
 excerpt: This article describes Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y17s
 keywords: android troubleshooting,Vivo Y17s android tips,Vivo Y17s android support,fix android problems,android repair,Vivo Y17s android repair,android guide
-thumbnail: https://www.lifewire.com/thmb/URpxAt_UNeiJBr0hk-AFwm2D8lg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-change-your-tiktok-username-and-profile-picture-048cd3c3b4854846ab46f920e862332f.jpg
+thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg
 ---
 
 ## Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y17s
@@ -22,14 +22,23 @@ This beginner's guide is here to help you understand the causes of this problem.
 
 The error message "****Unfortunately,**** ****the process com.android.phone has stopped****" typically appears on Android devices when there is an issue with the Phone app. Issues with underlying processes responsible for handling phone-related functions are also a cause.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![process com.android.phone has stopped error](https://images.wondershare.com/drfone/article/2023/06/process-com-android-1.jpg)
 
 It can prevent you from making or receiving phone calls, accessing contacts, or using other phone-related features. Following are some of the possible reasons why you may encounter this error:
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### App or System Update
 
 When you update your device's OS or the Phone app itself, it is possible to encounter bugs or compatibility issues. These issues can lead to the Phone app crashing and displaying this error message. Sometimes, the updated software may not work with the existing configurations of the Phone app. It results in instability which causes this error.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### App Cache/Data Corruption
 
 The Phone app relies on cached data and stored settings to function properly. If the cache or data of the app becomes corrupted, it can cause the Phone app to malfunction. The reasons include interrupted app installations or updates, improper shutdowns, or software conflicts. As a result, you may see the error message indicating that the process com.android.phone has stopped.
@@ -38,10 +47,16 @@ The Phone app relies on cached data and stored settings to function properly. If
 
 Android devices need sufficient memory (RAM) and processing power to run apps smoothly. If your device is running low on memory or processing capacity, it may struggle to handle the Phone app and its processes. It can lead to crashes and the error message. Running many resource-intensive apps at the same time also causes this issue. Other reasons include too many background processes that contribute to this error.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conflicting Third-Party Apps
 
 Third-party apps installed on your device can sometimes conflict with the Phone app. These conflicts can occur for various reasons, such as incompatible app versions. The software bugs within the third-party apps or configurations can also clash with the Phone app. Such conflicts can disrupt the normal operation of the Phone app. The result of all this trigger the error message.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Software or Firmware Glitches
 
 Software glitches or firmware issues can occasionally occur in Android devices. These glitches can affect the functioning of system processes, including the Phone app. They may arise from programming errors and system inconsistencies. Sometimes unexpected interactions between different OS components can also lead to this error.
@@ -58,6 +73,9 @@ So, it is worth trying before moving on to more complex solutions. Follow the gu
 
 - ****Step:**** Long-press your Vivo Y17s's "Side" key and wait for the power menu to appear. Here, select "Restart" to initiate the reboot of your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the restart option](https://images.wondershare.com/drfone/article/2023/06/process-com-android-2.jpg)
 
 ### Fix 2: Re-insert the SIM Card
@@ -68,6 +86,9 @@ To fix this error, you can remove the SIM card and then re-insert it. If the iss
 
 ![reinsert the sim card](https://images.wondershare.com/drfone/article/2023/06/process-com-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Clear the Cache and Data of the Phone App
 
 The "****Unfortunately, the process com.android.phone has stopped****" error is connected to the Phone app. In this situation, clearing the cache and data of the Phone app itself can often resolve the issue. This fix focuses on removing any corrupted or conflicting data within the app.
@@ -76,12 +97,18 @@ Once the corrupted data is gone, it will restore the Phone app to proper functio
 
 - ****Step 1:**** Find the Phone app on your Vivo Y17s and long-press its icon. A small menu will pop up where you need to select "App Info."
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![access phone app settings](https://images.wondershare.com/drfone/article/2023/06/process-com-android-4.jpg)
 
 - ****Step 2:**** It will lead you to detailed information about the Phone app. Here, press "Storage," and following that, you will see the "Clear Cache" and "Clear Data" options. Use them in the same order to clear the cache and data of the Phone app.
 
 ![clear phone app cache and data](https://images.wondershare.com/drfone/article/2023/06/process-com-android-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Disable Automatic Updates Feature
 
 In some cases, this error may occur due to conflicts or compatibility issues with the automatic app updates feature. The automatic update on your Vivo Y17s keeps your apps updated. Disabling this feature temporarily can help resolve the problem.
@@ -90,12 +117,18 @@ As a result, you will be able to use the Phone app without interruptions. To dis
 
 - ****Step 1:**** Navigate to the Google Play Store app on your Vivo Y17s and launch it. Next, tap on the profile icon in the screen's top right corner. From the options presented, select "Settings."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![open the play store settings](https://images.wondershare.com/drfone/article/2023/06/process-com-android-6.jpg)
 
 - ****Step 2:**** In Settings, press "Network Preferences" to expand the option. Now, open the "Auto-update apps" settings and enable the "Don't auto-update apps" option.
 
 ![enable don’t auto update apps option](https://images.wondershare.com/drfone/article/2023/06/process-com-android-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Clear All Apps Cache and Data
 
 When dealing with this error, clearing the cache and data of all apps on your Vivo Y17s can also help. Doing this will remove any corrupt or conflicting data that might be causing the issue. This fix targets the overall app ecosystem on your device.
@@ -108,18 +141,35 @@ It intends to ensure a clean slate and potentially resolve the error. Use the fo
 
 - ****Step 2:**** On the app info screen, scroll down and press "Storage." Now use "Clear Cache" to clean the app's cache and "Clear Data" to erase the app's data. Repeat the same process for all the apps installed on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on storage option](https://images.wondershare.com/drfone/article/2023/06/process-com-android-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### Fix 6: Clear SIM Toolkit Cache and Data
 
 It is worth considering the SIM Toolkit is a potential source of the problem. The SIM Toolkit is an app that provides functionality related to your SIM card. Its functions include accessing value-added services and managing mobile network settings. Clearing the cache and data of the SIM Toolkit app can help resolve this issue. The steps you need to clear the cache and data of this app are the following:
 
 - ****Step 1:**** On your Vivo Y17s, find the SIM Toolkit app. After finding it, press and hold its icon until a short menu appears. Choose "App Info" from the available options to access its settings.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![access sim toolkit settings](https://images.wondershare.com/drfone/article/2023/06/process-com-android-10.jpg)
 
 - ****Step 2:**** Now, you need to tap "Storage" to proceed. On the next screen, first, tap "Clear Cache" to clean the cache, and later press "Clear Data."
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use clear cache and data](https://images.wondershare.com/drfone/article/2023/06/process-com-android-11.jpg)
 
 ### Fix 7: Perform Factory Reset
@@ -130,12 +180,22 @@ So, it's crucial to back up your important files before proceeding with this fix
 
 - ****Step 1:**** Start by launching the Settings app and selecting "General Management." Here, choose "Reset," and following that on the next screen, tap "Factory data reset."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![tap on factory data reset](https://images.wondershare.com/drfone/article/2023/06/process-com-android-12.jpg)
 
 - ****Step 2:**** After tapping "Factory data reset," hit the "Reset" option. Next, enter your Vivo Y17s PIN to confirm the process, and use "Delete All" to start the factory reset process.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the delete all button](https://images.wondershare.com/drfone/article/2023/06/process-com-android-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 8: Try Wondershare Dr.Fone - The Best and Most Reliable Android System Repair Tool
 
 It must be a frustrating experience to try one solution after the next and not be able to resolve the issue. In such situations, the best thing you can do is find a tool that can resolve all Android system problems. While there are many options available online, not all are great. The best Android system repair tool currently available is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/).
@@ -162,12 +222,19 @@ To start, connect your Vivo Y17s to your computer. Launch [Wondershare Dr.Fone](
 
 Click on "Start" to initiate the process, and following that, you will be prompted to provide specific details about your Vivo Y17s. These details include the "Brand," "Name," "Model," "Country," and "Carrier.” Afterward, tick the box that says, "I agree with the warning, and I am ready to proceed," and click "Next."
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![press the start button](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - ****Step 3: Resolve The process.com.android.phone Has Stopped Issue****
 
 The subsequent step involves entering Download Mode on your device, following the on-screen instructions provided by the software. Once your device is in Download Mode, this Android repair toolkit will proceed to download and install the relevant firmware. Now, select "Fix Now" and confirm the repair of your Vivo Y17s by entering the code "000000."
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![start the fix process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -228,12 +295,18 @@ Step 1. Connect your Vivo Y17s
 
 Download and launch the Dr.Fone toolkit on your computer and then opt for the "System Repair" option from the main interface. Meanwhile, get your Vivo Y17s connected with the computer using a genuine cable.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![fix sim not provisioned on android - install the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2. Opt for Android Repair and key in important information
 
 Now, hit on the "Android Repair" from the 3 options on the left, followed by hitting the "Start" button. From the upcoming screen, you’ll be asked to key in important device-related information, like brand, model, country, and carrier details. Hit "Next" afterward.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix sim not provisioned on android - select android repair](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 3. Boot your device in Download mode
@@ -295,12 +368,18 @@ Or just in case, you’ve still no joy and the SIM not provisioned on Android me
 
 Still, wondering how to fix SIM not provisioned? Perhaps, nothing worked for you, right? Well, on that note, you must head to your carrier store and request a new SIM card. Also, inform them about the “SIM not provisioned MM2” error, they will be able to execute proper diagnostics over your old SIM card and hopefully get it resolved. Or else, they’ll equip you with a brand new SIM card and swap the new SIM card into your device and get it activated in the meantime. Eventually, restoring the normal functioning of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 In wrapping up, SIM not provisioned errors on Android can be troubling, but they're certainly fixable. There are several methods, from a simple device restart to reaching out to your network provider. But if these don't work, we suggest trying [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool is known for its ability to handle an array of Android issues and could be just what your device needs. Navigate your tech challenges with ease using Dr.Fone.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## 7 Solutions to Fix Error Code 963 on Google Play Of Vivo Y17s
 
 People are increasingly complaining about Google Play Error Codes which pop-up during downloading, installing or updating an App via Google Play Store. Amongst these, the most recent and common one being Error Code 963.
@@ -313,6 +392,10 @@ Error Code 963, just like any other Google Play Store errors, is not something d
 
 Read on to find out more about the Google Play Error 963 and best ways to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Part 1: What is Error Code 963?
 
 Error 963 is a common Google Play Store error which basically hinders Apps from downloading and updating. Many people get worried when Error Code 963 does not let them install new Apps or update existing ones. However, please understand that Google Play Error is not such a big deal as it may sound and can be overcome easily.
@@ -323,12 +406,19 @@ Error 963 pop-up message reads as follows: “cannot be downloaded due to an err
 
 A similar message shows up even while you are trying to update an App, as shown in the screenshot below.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![can't update app](https://images.wondershare.com/drfone/article/2017/06/14984132013078.jpeg)
 
 Error Code 963 is basically an outcome of data crash which mostly is seen in cheaper smartphones. There might another reason for Error 963 preventing Apps from downloading and updating, which is Google Play Store Cache being corrupted. People also speculate SD Card related issues as many-a-times external memory enhancer chips do not support large Apps and their updates. Also, Error 963 is very common with HTC M8 and HTC M9 smartphones.
 
 All these reasons and more can handle with ease and you can continue to use Google play services smoothly. In the following segment, we will discuss various fixes to cure the problem to enable to you download, install and update Apps on your device normally.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Part 2: Easiest solution to fix _Error Code 963_ on Android
 
 When it comes to the most convenient solution to fix error 963, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) cannot be missed. It is the most productive program that covers a wide range of Android issues. It ensures full safety while performing and one can fix the Android issues in a hassle-free way.
@@ -354,14 +444,24 @@ One click to fix Google Play error 963
 
 Step 1 – To begin fixing error 963, run Dr.Fone after downloading and installing it on your PC. Now, pick out the ‘System Repair’ tab from the main screen. Thereupon, with the help of a USB cable, make connection between your Vivo Y17s and PC
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fix google play error 963 using repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ and then click the ‘Start’ button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select the android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3 – On the following screen, you need to choose the appropriate details for your device like the name, brand, model, country/region etc. Later, go for warning confirmation and hit ‘Next’.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![device references selected](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Taking Android device in Download mode for repairing**
@@ -372,6 +472,9 @@ If the Vivo Y17s device contains Home button:
 
 - Turn the Vivo Y17s device off and then keep holding the ‘Power’, ‘Volume Down’ and ‘Home’ buttons altogether for about 10 seconds. Next, release them all and push the ‘Volume Up’ key. This way, your device will enter the Download mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix google play error 963 on android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 If the Vivo Y17s device contains no Home button:
@@ -390,10 +493,16 @@ Step 3 – Upon successful downloading and verification of the firmware, the pro
 
 Step 4 – Within a while, the Google play error 963 will be vanished.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![make the fix google play error 963 disappear on android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Part 3: 6 Common Solutions to fix Error Code 963
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![fix Error Code 963](https://images.wondershare.com/drfone/article/2017/06/14984132296365.jpg)
 
 Since there is no specific reason for Error Code 963 to occur, similarly there is no one solution to the problem. You may use any one of them below or try them all to never see Error Code 963 on your device.
@@ -406,6 +515,9 @@ Follow the steps given below to fix  Error Code 963:
 
 Visit “Settings” and select “Application Manager”.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984136371337.jpg)
 
 Now select “All” to see all downloaded and built-in Apps on your device.
@@ -438,6 +550,9 @@ This method is strictly for certain Apps which cannot be updated because they ar
 
 Visit “Settings” and select “Apps”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select “Apps”](https://images.wondershare.com/drfone/article/2017/06/14984137395509.jpg)
 
 From “All” Apps click on the App which is unable to update.
@@ -474,6 +589,9 @@ Visit “Settings”, under “Accounts” select “Google”.
 
 Select your account and from the “Menu” select “Remove account” as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![select “Remove account”](https://images.wondershare.com/drfone/article/2017/06/14984138188713.jpg)
 
 Once your account is removed, follow the steps given hereunder to add it back again after a few minutes:
@@ -517,3 +635,53 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-bridging-avi-and-gif-with-filmoras-seamless-conversion-tools/"><u>[New] Bridging AVI & GIF with Filmora's Seamless Conversion Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-art-of-gamers-screen-recording-on-win10/"><u>[Updated] 2024 Approved  The Art of Gamers' Screen Recording on Win10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-skewed-imagery-texts/"><u>[Updated] Mastering Skewed Imagery Texts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-memetic-mastery-crafting-joy-via-adobe/"><u>[Updated] Memetic Mastery  Crafting Joy via Adobe</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-ultimate-guide-to-post-a-picture-on-youtube/"><u>2024 Approved  The Ultimate Guide to Post a Picture on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y27-4g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y27 4G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oneplus-nord-ce-3-lite-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your OnePlus Nord CE 3 Lite 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-nokia-c210-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Nokia C210 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-11-proplus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme 11 Pro+ Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-mix-fold-3-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Mix Fold 3 Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-12-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-play-7t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor Play 7T to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-can-i-browse-through-my-contacts-shared-material-in-messaging/"><u>In 2024, Can I Browse Through My Contacts' Shared Material in Messaging?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-v29-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo V29 Pro?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-direct-and-simple-idevice-media-transfer-to-youtube/"><u>In 2024, Direct and Simple  IDevice Media Transfer to YouTube</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-lava-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Lava FRP Locks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-listening-out-loud-deciphering-the-differences-between-podcasts-and-youtube/"><u>In 2024, Listening Out Loud  Deciphering the Differences Between Podcasts & YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-urban-to-agrarian-journey-stardew-titles-traced/"><u>In 2024, Urban to Agrarian Journey  Stardew Titles Traced</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-5-digital-audio-file-organizers-for-seamless-mp3-management-for-2024/"><u>New Top 5 Digital Audio File Organizers for Seamless MP3 Management for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pro-tip-unveiling-the-best-10-free-image-vaults-for-2024/"><u>Pro Tip  Unveiling the Best 10 Free Image Vaults for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-honor-90-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Honor 90 Pro Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-honor-x50-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Honor X50 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10c-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10C Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-lava-blaze-2-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Lava Blaze 2 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-14-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi 14 Pro? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-motorola-razr-40-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Motorola Razr 40 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-realme-12plus-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme 12+ 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Tecno Camon 20? 7 Ways to Resolve | Dr.fone
-date: 2024-06-28T00:36:28.220Z
-updated: 2024-06-29T00:36:28.220Z
+date: 2024-07-30T13:47:16.470Z
+updated: 2024-07-31T13:47:16.470Z
 tags: 
   - problems
 categories:
@@ -27,6 +27,9 @@ With technology, uncertainties are bound to happen. It becomes quite tricky to a
 3. **Get rid of Cache:** Extras of cache can pose to be problematic in the working of applications. Users must timely clean their devices so as to brush away any kind of cache memory.
 4. **Outdated version of Play store app:** Users generally do not feel the urge for updating the play store app. It is important to use only the updated version so as the functioning of Google Play app is not affected.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: 7 fixes for Play Store stuck on downloading
 
 ### 3.1 Check SD card and phone storage space
@@ -37,12 +40,18 @@ All the applications, data of one’s device is generally loads directly in phon
 
 Sometimes, it’s not your phone that is going all faulty, the root cause might be the internet connection. If the internet is running low or does not seem to be stable, then the **_play store download problem_** may occur. Users must ensure that the Tecno Camon 20 device they are working should have a stable network connection so as to combat the problem. Then, they can try downloading the application and check if the problem is prevalent or not.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Play Store stuck on downloading
@@ -63,12 +72,19 @@ Here is the complete guide which will help users in understanding how Dr.Fone - 
 
 First of all, load the program on PC. In the interim, draw connection of device with phone using a genuine cable. Over the interface, tap on “System Repair” mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![fix play store stuck on downloading](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Select Android Repair mode**
 
 Over the following screen, select “Android Repair” placed at the left panel to resolve play store stuck issue and press “Start” button too!
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![play store stuck on downloading - go to android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step 3: Fill in the information**
@@ -89,6 +105,9 @@ Fret not, the program will automatically detect the most suitable firmware for y
 
 After the package downloads, program will repair all kinds of problems surfacing over your phone automatically. This way, the **_Play store stuck on downloading_** will get resolved fully.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![get to repair android to fix play store download pending](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ### 3.4 Clear data and cache of Play Store and download again
@@ -112,6 +131,9 @@ When was the last time you cared to update your Play store app? Generally, users
 3. In Settings, browse for “Play Store Version” located under “About” section.
 4. Tap on it, if it shows that Play Store app is not updated then proceed with the on-screen prompts to update it to the latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![update device to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/update-play-store.jpg)
 
 ### 3.6 Try another Google account
@@ -122,6 +144,9 @@ If you’re unable to see a streak of hope and wondering why my **_Play Store is
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix Tecno Camon 20 Android System Webview Crash 2024 Issue
 
 In recent months, the term "**Android WebView crash 2023**" has become a common search term among Android users seeking solutions to these [app crashes](https://drfone.wondershare.com/iphone-problems/iphone-apps-crashing-on-ios-13.html). The issue has been particularly prevalent on Tecno Camon 20 devices, but it has also affected users of other Android models.
@@ -130,8 +155,14 @@ Android WebView for Android apps allows you to see and interact with web pages w
 
 So, what's going on with Tecno Camon 20 Android System WebView, and what can you do to fix its issues? Let's take a look. This article will shed light on **Tecno Camon 20 Android System WebView crashing apps**, helping you understand what triggers them, how to identify them, and what you can do to prevent them from happening again.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![black phone with android logo](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What Should We Know About Tecno Camon 20 Android System WebView Crashes?
 
 This year, the term "**Android WebView crash 2023**" has become a familiar and dreaded phrase. This issue has plagued Android users, causing app crashes, [freezing](https://drfone.wondershare.com/iphone-frozen/iphone-keeps-freezing.html), and frustration. But what exactly is Android WebView, and what triggers these apps to crash?
@@ -168,6 +199,9 @@ Updates are often intended to improve software stability and compatibility, but 
 
 Tecno Camon 20 Android System WebView requires a certain amount of memory to operate properly. If your device is running low on memory, it can cause Tecno Camon 20 Android System WebView to crash. It is more likely to happen on older devices with less RAM.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![webview crash out of memory message](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-03.jpg)
 
 - **Outdated Tecno Camon 20 Android System WebView**
@@ -190,6 +224,9 @@ If you're experiencing apps crashing after a recent update, consider uninstallin
 
 To do this on your Tecno Camon 20, navigate to **Settings** > **Apps**, then select **Tecno Camon 20 Android System WebView**. Tap the **menu** icon in the top right corner and tap **Uninstall updates**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![uninstall android system webview updates](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-04.jpg)
 
 Update Android WebView
@@ -206,12 +243,18 @@ Android WebView is closely tied to Google Chrome, and issues with Chrome can som
 
 Open the **Google Play Store** and search for Google Chrome. If an update is available, tap **Update** to install it, then restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![update google chrome](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-06.jpg)
 
 Clearing Cache and Data for Android WebView
 
 Clearing the cache frees up phone storage and helps the app run more efficiently. To clear Tecno Camon 20 Android System WebView's cache and data, go to **Settings** > **Apps** and select **Tecno Camon 20 Android System WebView**. Tap on **Storage** and tap **Clear cache** on the lower right corner of your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![clear cache of android system webview](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-07.jpg)
 
 Restart Device
@@ -228,6 +271,9 @@ OS updates may introduce changes to the Tecno Camon 20 Android System WebView th
 
 Check for available software updates by going to **Settings** > **Software Update**. If an update is required, tap on **Download and install**.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android device software update](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-08.jpg)
 
 While problems like when the Android System **WebView crashes Android** phones are common, they don't have to be a persistent problem for Tecno Camon 20 users. It's also equally important to have effective solutions when app crashes occur. This is where [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) steps in as a reliable and comprehensive solution for restoring app stability and overall phone performance.
@@ -257,14 +303,23 @@ Before attempting any repairs, it is crucial to back up your Tecno Camon 20 to p
 
 - **Step 5:** Dr.Fone will analyze your device's system and download the firmware to solve the root cause of the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone downloading firmware interface](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 6:** Confirm your device information in the dialogue box. Dr.Fone will proceed to repair the detected WebView-related problems.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone repairing android system issue](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 - **Step 7:** Once the repair is complete, your device will restart, and **Tecno Camon 20 Android System WebView crashing apps** should no longer occur.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![successfully repaired android system issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 **More Articles About Android System:**
@@ -275,6 +330,9 @@ Before attempting any repairs, it is crucial to back up your Tecno Camon 20 to p
 
 [Easy Ways to Bypass Google Account Verification (FRP) On Android Phones](https://drfone.wondershare.com/factory-reset-protection/bypass-factory-reset-on-android.html)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 The "**Android WebView crash 2023**" issue was widespread for many Android users. The common issues encountered were app crashes, slow loading times, and error messages. Fortunately, these problems are manageable with the right approach.
@@ -299,10 +357,16 @@ In this article, we will review the details of this Android phone issue. We’ll
 
 The issue of Android phone running slow and freezing is not limited to old devices only. The same problem has also been observed in newly purchased units. The roots of this unfortunate occurrence vary from one user to another. It depends on different elements, from external factors like users’ handling of the Tecno Camon 20 device to internal factors such as its capabilities. To understand it more, below are some Android phone specifications related to the Tecno Camon 20 device's overall performance and speed.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The CPU Core Count
 
 Unlike before, Android phones today are equipped with several cores. Each of them has the ability to execute a process alone. Therefore, the Tecno Camon 20 device can handle two or more tasks at once without compromising the quality of its performance. If your Tecno Camon 20 contains more CPU core, its performance surely be more powerful and speedy.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The CPU Clock Speed
 
 Simply put, clock speed is basically the speed at which the CPU cores can carry out a cycle in a second. A faster clock speed definitely translates into the Tecno Camon 20 device’s higher performance. For instance, an octa-core Android phone with a one GHz per second clock speed is a decent device. But it’s less powerful than a device with the same number of cores but runs at two GHz per second.
@@ -311,14 +375,24 @@ Simply put, clock speed is basically the speed at which the CPU cores can carry 
 
 In a simple language, Random Access Memory (RAM) temporarily stores the data from apps that are currently running. Smartphones can be more flexible with multi-tasking if their RAM has enough space. So if you’re among these users who perform multiple tasks simultaneously, you better choose a device with more RAM.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Internal Storage
 
 The mobile applications installed on your smartphones are directly related to internal storage. The apps save their data every time, so they behave strangely when the Tecno Camon 20 device runs out of storage. If you’re using heavy mobile applications, it’s best to opt for smartphones with huge internal storage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reasons Why My Tecno Camon 20 is Running Slow
 
 It’s not really hard to tell why your Tecno Camon 20 is slow because it’s apparently a common issue among users. But don’t worry. Most of the time, the problem is not a major concern. Here are some scenarios that may slow down your Tecno Camon 20s.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Overloading Background Processes
 
 It’s great to have an Android phone that can flawlessly multi-task. However, not all units can handle that well. As mentioned earlier, it depends on the CPU core count and the core’s clock speed. If your Tecno Camon 20 is running slow and freezing, many processes may be happening at the same time. Your device’s cores and clock speed are potentially incapable of executing such demands.
@@ -327,6 +401,9 @@ It’s great to have an Android phone that can flawlessly multi-task. However, n
 
 Mobile apps need to save data on your phone. They perform the tasks based on the data stored on the Tecno Camon 20 device. So if your Tecno Camon 20 is slow, it’s possible that your device is already running out of storage. Each app has its own storage requirement. If your phone goes below that, the app will surely crash and not work.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Animation Speed is Way Too Slow
 
 You can modify the Tecno Camon 20 device’s animation type and speed on your Tecno Camon 20 via the developer’s option. However, altering its default settings can sometimes make the Android phone run slow. If the speed is set slower, more delays are added to the animation. Hence, it takes a while for Your Tecno Camon 20 to launch an app or complete a certain process.
@@ -335,6 +412,9 @@ You can modify the Tecno Camon 20 device’s animation type and speed on your Te
 
 If your Tecno Camon 20 is running slow and freezing, the Tecno Camon 20 device’s software is probably outdated. The mobile apps installed on your device are lagging or crashing because they’re no longer compatible with the OS. It happens most of the time. Hence, always watch out for OS updates.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Your Phone is Experiencing Some System Issues
 
 Operating systems and device software serve as the main component of all smartphones. Sometimes, it runs into inevitable problems caused by computer bugs and other glitches. When it happens, the Tecno Camon 20 device’s overall performance is affected. So that can be the reason why sometimes your Tecno Camon 20 is running slow and freezing.
@@ -343,6 +423,9 @@ Operating systems and device software serve as the main component of all smartph
 
 Of course, a slow internet connection can make the Android phone runs slow too. Most apps today rely heavily on the internet to execute some tasks like communicating and streaming. So don’t panic when your Tecno Camon 20 is running slow and freezing. It’s possible that your internet connection is messing up with you.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## What to Do When My Tecno Camon 20 Lags?
 
 It’s not as bad as the black screen of death when the Android phone runs slow. However, it can still cause some delays and inconvenience for users. So it’s really important to take action when you notice some anomalies with its speed and performance. Below are some remedies that can help you get rid of this issue.
@@ -391,6 +474,9 @@ _Follow these steps to adjust the animation speed:_
 - **Step 3:** Click **Developers options.**
 - **Step 4:** Under the **Drawing** section, you’ll find the following animation scale settings: **Window Animation Scale, Transition Animation Scale,** and **Animator Duration Scale.** Adjust the speed of these three options to **0.5x.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![faster animation speed](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-4.JPG)
 
 ### Solution 4: Update Your Phone to the Latest Android Version
@@ -403,6 +489,9 @@ It’s always recommended to update your phone to the latest Android version. As
 - **Step 4:** Click **Check Now for Update.** If there’s new software available, it will automatically appear on the screen.
 - **Step 5:** Click **Install Now.** Depending on your device, it will restart itself after the installation process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![update android version](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-5.JPG)
 
 ### Solution 5: Reset Your Tecno Camon 20 to Factory Settings
@@ -418,6 +507,9 @@ _Here’s how to back up your Tecno Camon 20 using Wondershare Dr.Fone:_
 
 **Step 5:** Check the files or data you wish to back up. Right after, click **Backup.**
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start wondershare drfone backup](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
 _Here’s how to reset your Tecno Camon 20 to factory settings:_
@@ -438,6 +530,9 @@ The device’s operating system may sometimes run into unexpected problems. That
 - **Step 1:** Launch the Wondershare Dr.Fone application on your desktop. And then connect your Tecno Camon 20 to your computer.
 - **Step 2:** Click **System Repair** from the main dashboard or **Toolbox** section.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare drfone system repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** Click **Android.**
@@ -450,6 +545,9 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 - **Step 5:** Wondershare Dr.Fone will ask you to confirm your device details. Review the listed details for Brand, Name, Model, Country, and Carrier. Amend them if necessary. Tick the checkbox beside the Note if you agree to the terms. Lastly, click **Next** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 6:** At this point, you need to put your device into **Download Mode. Power off** your device. And then hold these three buttons altogether: **Volume Down, Home** (or **Bixby** if you’re using a newer model)**,** and **Power** buttons. Finally, press the **Volume Up** button.
@@ -458,6 +556,9 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 - **Step 7:** Wondershare Dr.Fone will automatically download the firmware that matches your device’s specifications. Wait until the process has been completed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![firmware download](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 8:** Thereafter, the details about the newly downloaded firmware package will be displayed on the screen. From there, click **Fix Now.**
@@ -470,6 +571,9 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 - **Step 10:** Wait while Wondershare Dr.Fone installs the new firmware to your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![install new firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 - **Step 11:** A notification will immediately appear after installing the new firmware. Click **Done** if your phone starts normally. Otherwise, click **Try Again** to repeat the process.
@@ -478,6 +582,9 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 **3,660,347** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Android phone is capable of performing lots of stuff. It can assist you in both your personal and professional tasks. But if it’s sluggish and doesn’t execute optimally, the good things it promises all go down the drain. So if you notice that your Tecno Camon 20 is running slow and freezing, act fast to resolve the issue. [<u>Wondershare Dr.Fone</u>](https://drfone.wondershare.com/guide/android-repair.html) can be of great help in this kind of situation. It’s an all-in-one mobile solution that can assist you with system repair, phone backup, data recovery, and a lot more.
@@ -500,3 +607,59 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-experts-choice-extracting-youtube-video-intros-online/"><u>[New] Expert's Choice  Extracting Youtube Video Intros Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-racing-game-compilation-for-2024/"><u>[New] Ultimate Racing Game Compilation for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unleashing-creative-potential-with-instas-bokeh-effects-for-2024/"><u>[New] Unleashing Creative Potential with Insta's Bokeh Effects for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-creating-compelling-fb-reels/"><u>[Updated] 2024 Approved  A Comprehensive Guide to Creating Compelling FB Reels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-access-unlimited-free-high-quality-green-screen-footage-online/"><u>[Updated] 2024 Approved  Access Unlimited Free, High-Quality Green Screen Footage Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-the-art-of-storytelling-6-leading-snapchat-apps-for-2024/"><u>[Updated] Elevate the Art of Storytelling  6 Leading Snapchat Apps for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-peak-memetic-artistry-hub/"><u>[Updated] Peak Memetic Artistry Hub</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-what-lies-behind-the-unlisted-tag-on-youtube/"><u>[Updated] What Lies Behind the 'Unlisted' Tag on YouTube?</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oneplus-open-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My OnePlus Open Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-poco-x6-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Poco X6 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-y78t-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo Y78t to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-tailored-dimensions-for-captivating-videos/"><u>2024 Approved  Tailored Dimensions for Captivating Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-lava-storm-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Lava Storm 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-motorola-moto-g13-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Motorola Moto G13 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-huawei-nova-y71-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Huawei Nova Y71 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-straightforward-approach-to-discovering-ram-in-windows/"><u>A Straightforward Approach to Discovering RAM in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-honor-magic-vs-2-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor Magic Vs 2 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oppo-find-x7-ultra-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo Find X7 Ultra Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oneplus-ace-2v-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your OnePlus Ace 2V? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-oppo-a1-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Oppo A1 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-memorable-content-explore-youtubes-top-10-creative-responses/"><u>Craft Memorable Content  Explore YouTube's Top 10 Creative Responses</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-realme-note-50-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme Note 50 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-c67-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme C67 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-v27-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo V27 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-magic-v2-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor Magic V2 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-presenter-prefix-planner/"><u>In 2024, Prime Presenter Prefix Planner</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-poco-c50-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Poco C50 Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/memetic-design-top-10-must-haves-for-2024/"><u>Memetic Design  Top 10 Must-Haves for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-11-proplus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme 11 Pro+ Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-smart-7-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix Smart 7 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-v30t-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme V30T Screen | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-12-pro-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-download-slow-motion-apps-that-can-edit-video-professionally-this-article-will-discuss-some-slomo-makers-for-both-ios-a/"><u>Updated 2024 Approved Do You Want to Download Slow-Motion Apps that Can Edit Video Professionally? This Article Will Discuss some Slomo Makers for Both iOS and Android</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/visionary-screen-supercharging-ultimate-hd-transformation-for-2024/"><u>Visionary Screen Supercharging  Ultimate HD Transformation for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-v30-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme V30 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-motorola-edge-40-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola Edge 40 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-s23plus-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy S23+ Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-infinix-note-30-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Note 30 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y100t-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y100t Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>

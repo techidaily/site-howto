@@ -1,7 +1,7 @@
 ---
 title: 7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi Note 12R | Dr.fone
-date: 2024-05-20T09:03:26.147Z
-updated: 2024-05-21T09:03:26.147Z
+date: 2024-07-30T07:57:41.021Z
+updated: 2024-07-31T07:57:41.021Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi Note 12R
 excerpt: This article describes 7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi Note 12R
 keywords: android tips,Xiaomi Redmi Note 12R android solutions,android issues,android repair,Xiaomi Redmi Note 12R android issues,Xiaomi Redmi Note 12R android troubleshooting,Xiaomi Redmi Note 12R fix android problems,Xiaomi Redmi Note 12R android help,android guide,Xiaomi Redmi Note 12R android fix
-thumbnail: https://www.lifewire.com/thmb/j6BDiuyaUokwtXDLEnyA5LApr9c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4062264-InCar6-1500-5b803f8ec9e77c0025d3f4de.jpg
+thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557e8c99c8c7fa75aee528315d.jpg
 ---
 
 ## 7 Fixes for "Unfortunately, Phone Has Stopped" on Xiaomi Redmi Note 12R
@@ -27,6 +27,10 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### 2.1 Open the Phone app in Safe Mode
 
 First and foremost, the thing that can let you get rid of this trouble is Safe Mode. It is a feature that will end any excessive background functioning of the Xiaomi Redmi Note 12R device. For instance, your device will be able to run sans any third-party apps when in Safe mode. Since the important functions and the naïve apps will be running on the Xiaomi Redmi Note 12R device, you will get to know if it’s really a software glitch or not by running the Phone app in Safe mode. And this is the first solution we would recommend you make use of when the Phone app has stopped. Here is how to enable Safe Mode.
@@ -36,6 +40,9 @@ First and foremost, the thing that can let you get rid of this trouble is Safe M
 3. Release the button and immediately press and hold the "Volume Down" key.
 4. Leave the key once the Xiaomi Redmi Note 12R device is in Safe mode. Now, the third-party apps will be disabled and you can check if the Phone app is still not responding or everything is fine.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2 Clear the cache of the Phone app
 
 The cache should be cleaned timely if you want any app to work properly. Due to the constant usage, the temporary files get collected and may corrupt if not cleared. Hence, the next solution you should try when the Phone app keeps stopping is to clear the cache. Here are the steps to be performed.
@@ -46,10 +53,16 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.3 Update Google Play services
 
 Since Android is created by Google, there must be some Google Play services that are crucial to run several system functions. And if attempting the previous methods isn’t of any use, try updating Google Play services when you find the Phone app stopped. For doing this, you need to make sure that automatic updates are turned on in Google settings. If not, enable it and get the apps including Google Play services updated for smoother functions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.4 Update the Xiaomi Redmi Note 12R firmware
 
 When the firmware is not updated, it may conflict with some apps and maybe that’s why your Phone app falls prey. Therefore, updating Xiaomi Redmi Note 12R firmware will be a sane step that should be taken when the Phone app has stopped. Follow the below-mentioned steps and then check if the Phone app is opening or not.
@@ -73,6 +86,9 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 
 ![Phone app crashing - cache partition clearance](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.6 Get the Xiaomi Redmi Note 12R system repaired in one click
 
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
@@ -81,6 +97,9 @@ If still, the Phone app keeps stopping after trying everything, here is the most
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix "Unfortunately, Phone Has Stopped" on Xiaomi Redmi Note 12R devices.
@@ -111,6 +130,9 @@ Take your original USB cord and then connect your Xiaomi Redmi Note 12R to the c
 
 As the next step, enter some important details on the next screen. Be sure to enter the right name, brand, and model of the Xiaomi Redmi Note 12R device. When done everything, verify once and click on "Next".
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Phone app crashing - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step 4: Downloading Firmware**
@@ -127,6 +149,9 @@ When you see the firmware has been downloaded, the issue will begin to get resol
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### 2.7 Factory reset
 
 If none of the above methods worked for you, the last resort you are left with is a factory reset. This method will wipe everything from your device and make it function like normal. We also suggest you [make a backup of your data](https://drfone.wondershare.com/backup/android-backup-software.html) if it is important so as to prevent the loss. Here is how to do this to fix the crashing Phone app.
@@ -135,10 +160,19 @@ If none of the above methods worked for you, the last resort you are left with i
 2. Look for "Factory data reset" and then tap on "Reset phone".
 3. Within a while, your device will go through resetting and boot up to normalcy.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Revive Your Bricked Xiaomi Redmi Note 12R in Minutes
 
 Xiaomi Redmi Note 12R has established a notable presence within the custom development arena. This trait holds for Xiaomi Redmi Note 12R. Today, it's still one of the most popular budget smartphones available. The popular smartphone offers the freedom to flash custom ROMs, attain administrative privileges, access countless customization options, and much more.
@@ -163,10 +197,16 @@ When faced with a **bricked Xiaomi Redmi Note 12R**, below are various technique
 
 ![unbrick redmi note 9 techniques](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Discharge the Battery
 
 A particular suggestion involves allowing the Xiaomi Redmi Note 12R device's battery to discharge fully, enabling proper functionality of the Flash Tool software. This process typically spans a few days and is recommended by some specialists.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Perform a Factory Reset
 
 Accessing the Xiaomi Redmi Note 12R device settings is impossible if your **Xiaomi Redmi Note 12R bricks**. For this reason, it is recommended to enter **Recovery Mode**. Here's how.
@@ -183,32 +223,54 @@ Xiaomi Redmi Note 12R offers its official software tools, such as the Xiaomi Red
 
 - **Step 1**: Download and install the [Xiaomi Redmi Note 12RFlash Tool](https://xiaomiflashtool.com/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![mi flash tool main window](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-04.jpg)
 
 - **Step 2**: Download the [Stock Firmware](https://xiaomistockrom.com/category/stock-rom) of Xiaomi Redmi Note 12R and extract it on your computer. Press and Hold the Power and Volume Down buttons for at least 5-10 seconds to enter Fastboot Mode.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![mi flash fastboot mode](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-05.jpg)
 
 - **Step 3**: Connect your Xiaomi Redmi Note 12R to the computer using a USB cable. Launch Xiaomi Redmi Note 12RFlash Tool and locate the Firmware you have downloaded on the computer. Click the **refresh** > **flash** to begin the flashing process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![mi flash tool firmware](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-06.jpg)
 
 - **Step 4:** The **SUCCESS** result should appear in the Xiaomi Redmi Note 12RFlash Tool once the flashing process is done.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mi flash tool success](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-07.jpg)
 
 However, if the Xiaomi Redmi Note 12RFlash Tool did not unbrick your Xiaomi Redmi Note 12R, consider using [Wondershare Dr.Fone - System Repair (Android).](https://tools.techidaily.com/wondershare/drfone/android-repair/) The platform allows you to **unbrick your Xiaomi Redmi Note 12R** with a few clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3. Reviving Your Xiaomi Redmi Note 12R Using Wondershare Dr.Fone - System Repair (Android)
 
 Dr.Fone - System Repair (Android) equips Xiaomi Redmi Note 12R users with the ability to tackle soft brick and hard brick issues. This specialized Android repair tool enables you to restore your Xiaomi Redmi Note 12R through a streamlined process, requiring just a few simple clicks.
 
 ![dr.fone system repair main window](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,227,773** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### Key Features
 
 Dr.Fone - System Repair (Android) offers several benefits to **unbrick your Xiaomi Redmi Note 12R** easily. Below are its key features.
@@ -217,6 +279,9 @@ Dr.Fone - System Repair (Android) offers several benefits to **unbrick your Xiao
 - **Compatibility with Over 1000 Android Models**. This app fixes glitches across modern Android devices. The software is compatible with an extensive range of models. Whether your Xiaomi Redmi Note 12R is unlocked or carrier-bound, restoration is not a problem.
 - **Unparalleled Software Flexibility**. Dr.Fone - System Repair (Android) also boasts an added capacity to mend iOS devices. This versatile tool is your all-inclusive solution for mobile devices, ensuring convenience whether you own an iOS or Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### Advantage of Dr.Fone - System Repair (Android) for Unbricking Xiaomi Redmi Note 12R
 
 Here are three benefits to choosing Dr.Fone - System Repair (Android) for **unbricking a Xiaomi Redmi Note 12R**. You'll further believe Dr.Fone is a reliable assistant when reviving your **bricked Xiaomi Redmi Note 12R**.
@@ -239,6 +304,9 @@ Dr. Fone's features are perfect for unbricking Xiaomi Redmi Note 12R devices. Be
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Repair Android System Errors without Any Trouble.
@@ -257,14 +325,23 @@ Repair Android System Errors without Any Trouble.
 
 - **Step 2**: Select the appropriate device information corresponding to your Xiaomi Redmi Note 12R. Choose **Brand**, **Name**, **Model**, **Country**, and **Carrier**. Confirm by checking the **I agree** button, then proceed to the next step by clicking **Next**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![set up device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 3:** Given that the Xiaomi Redmi Note 12R lacks a **Home** button, click the **Phone without Home button** option. Follow the prompts displayed on-screen and proceed by clicking **Next** to initiate the process of restoring your bricked phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![follow on screen prompts](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - **Step 4**: As your Xiaomi Redmi Note 12R enters Download Mode, the firmware download will start automatically. Follow the on-screen instructions. Wait for the system to initiate the repair procedure automatically. Upon completion, a message will pop up on the main window. Click **Done** to exit the tool. You can click **Try again** to repeat the process if needed.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![redmi note 9 finished unbricking](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 **You May Also like:**
@@ -272,6 +349,9 @@ Repair Android System Errors without Any Trouble.
 [How To Fix iPhone Bricked After iOS 17/iOS 16/iOS 15 Update](https://drfone.wondershare.com/iphone-problems/iphone-bricked-after-update.html)  
 [How to Fix It If Your Xiaomi Redmi Note 12R Phone Got Bricked?](https://drfone.wondershare.com/android-issue/samsung-brick.html)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Don't let a **bricked Xiaomi Redmi Note 12R** stand in your way. Use the array of techniques from basic troubleshooting to advanced software tools to breathe life back into your device. **Unbrick your Xiaomi Redmi Note 12R** to its full functionality using the methods provided or Dr.Fone's adept assistance.
@@ -280,6 +360,10 @@ Lastly, you can still refer to Xiaomi Redmi Note 12R for repairs. It remains the
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Xiaomi Redmi Note 12R Camera Not Working Unexpected Error? Fix It Now
 
 For all its glory and goodness, the Android OS often has its users pulling their hair in frustration at just how buggy the OS can be at times. So, if you’re having one of those days today, we are here to help. Camera app is one of the most used apps on smartphones today. People only launch the app when they want to take a photo, for everything else there’s a dedicated photo gallery app. What happens when you launch the camera app only to realize it threw an error and you missed your photo moment? Don’t throw the phone, not yet. Let us help you out.
@@ -306,6 +390,9 @@ OS bugs and general glitches within the OS and the camera app can cause camera n
 
 In the rarest cases, there might have developed an actual hardware issue with the camera system on your Xiaomi Redmi Note 12R. The likely culprit is misuse and abuse, such as a dropped phone or maybe the phone was too hot for extended periods of time, causing hardware issues.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part II: How To Fix Android Camera Not Working Issue?
 
 So, how to get the Android camera not working problem solved? There are a few ways you can try fixing the camera not working issue on your Xiaomi Redmi Note 12R right where you are, without needing to take the Xiaomi Redmi Note 12R device to the manufacturer’s service center.
@@ -314,6 +401,9 @@ So, how to get the Android camera not working problem solved? There are a few wa
 
 One of the first things to do any time an app or your phone or tablet does not work like it should, restarting the Xiaomi Redmi Note 12R device refreshes everything just enough to resolve most commonly occurring issues.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
 
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
@@ -324,6 +414,9 @@ If the camera app (or any app for that matter) has been in the background for a 
 
 Step 1: Launch the app switcher on your specific Android device the way your device manufacturer suggests you to. Usually, it is a swipe up and hold gesture to get into the app switcher.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![closing apps in app switcher](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-3.jpg)
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
@@ -352,8 +445,14 @@ Step 1: Go to Settings > Apps > Camera and tap Storage Usage.
 
 Step 2: Tap Clear Cache.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### II.V: Clear The Photo Gallery App Cache
 
 The camera app is closely tied to the photo gallery app that comes baked in into Android OS. That is because photos that the camera app takes are stored in the photo gallery app. Consequently, if there were any issues in the photo gallery app, that could lead to the camera app not working on Android problem. Here’s how to clear the photo gallery app cache:
@@ -378,6 +477,9 @@ Step 2: Tap Manage Apps and Device.
 
 Step 3: If there are updates available, Tap Update All to update all apps.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### II.VII: Cool The Phone Down
 
 We do not realize the immense power that is packed into the thin smartphone form factor these days. If you have been using the phone to video chat for a while now, you might not realize that the phone has become hot, especially if you are using a desk stand. Same for shooting high-resolution videos; the phone does get quite hot shooting high-resolution videos.
@@ -406,6 +508,9 @@ Step 1: Launch Dr.Fone app on your PC or Mac.
 
 Step 2: Click System Repair module and then Android.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 Step 3: For now, don’t bother with the scenarios given and click Start to go to the next screen.
@@ -422,6 +527,9 @@ Step 5: Your phone needs to be put into Download mode before it can be repaired.
 
 Step 6: Dr.Fone automatically downloads the most recent firmware for your device and when it is ready, waits for your input. Click Fix Now to start the repair process.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![fix android camera not working](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000) to confirm and begin the repair process.
@@ -432,8 +540,15 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
@@ -455,3 +570,50 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-elevate-your-gaming-yt-presence-a-hashtag-focused-manual/"><u>[New] 2024 Approved  Elevate Your Gaming YT Presence  A Hashtag-Focused Manual</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-mastering-the-darkened-skies-with-iphones/"><u>[New] Mastering the Darkened Skies with iPhones</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-a-deeper-dive-into-documenting-gaming-sessions-on-the-ps3/"><u>[Updated] A Deeper Dive Into Documenting Gaming Sessions on the PS3</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-accelerate-video-processing-for-youtube-uploads/"><u>[Updated] In 2024, Accelerate Video Processing for YouTube Uploads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-channels-optimal-use-of-templated-content-in-yt-descs/"><u>[Updated] In 2024, Elevate Your Channels  Optimal Use of Templated Content in YT Descs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-definitive-guide-to-removing-persistent-youtube-channels-on-all-screens/"><u>[Updated] The Definitive Guide to Removing Persistent Youtube Channels on All Screens</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-virtual-reality-capture-heres-the-best-software/"><u>[Updated] Virtual Reality Capture? Here's the Best Software</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-lava-storm-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Lava Storm 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-magic-vs-2-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Magic Vs 2</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-htc-u23-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your HTC U23 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-nokia-c12-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Nokia C12 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oneplus-12-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix OnePlus 12 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-tecno-pova-5-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Pova 5 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-itel-a05s-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Itel A05s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-tecno-camon-20-pro-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-x-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone X when Phone is Broken?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-itel-s23plus-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Itel S23+ FRP In 3 Different Ways</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ios-leading-ps2-simulators-top-picks/"><u>In 2024, IOS Leading PS2 Simulators  Top Picks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-laugh-labyrits-undead-sarcasm-spawners/"><u>In 2024, Laugh Labyrits  Undead Sarcasm Spawners</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-outstanding-5-streamer-gadgets-online/"><u>In 2024, Outstanding 5 Streamer Gadgets Online</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-overcoming-virtual-negativity-a-content-makers-guide/"><u>In 2024, Overcoming Virtual Negativity  A Content Maker's Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-best-of-the-rest-10-adobe-premiere-elements-alternatives-for-video-production/"><u>New In 2024, The Best of the Rest 10 Adobe Premiere Elements Alternatives for Video Production</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstating-wi-fi-capability-across-various-windows/"><u>Reinstating Wi-Fi Capability Across Various Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-a79-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo A79 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlocking-latest-features-of-your-computers-primary-input-device/"><u>Unlocking Latest Features of Your Computer's Primary Input Device</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y36i-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y36i Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-find-n3-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Find N3 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-gt-5-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme GT 5 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-note-30-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Note 30 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-v30-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo V30 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-pro-4g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 Pro 4G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>

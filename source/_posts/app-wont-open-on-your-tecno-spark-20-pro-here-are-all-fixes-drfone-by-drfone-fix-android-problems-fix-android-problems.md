@@ -1,7 +1,7 @@
 ---
 title: App Wont Open on Your Tecno Spark 20 Pro? Here Are All Fixes | Dr.fone
-date: 2024-03-20 10:25:21
-updated: 2024-03-21 10:45:56
+date: 2024-07-30T09:26:01.938Z
+updated: 2024-07-31T09:26:01.938Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes App Wont Open on Your Tecno Spark 20 Pro? Here Are All Fixes
 excerpt: This article describes App Wont Open on Your Tecno Spark 20 Pro? Here Are All Fixes
 keywords: android fix,Tecno Spark 20 Pro android tips,android problems,Tecno Spark 20 Pro android issues,Tecno Spark 20 Pro android repair,android troubleshooting,android repair,Tecno Spark 20 Pro android support,android issues
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## App Won't Open on Your Tecno Spark 20 Pro? Here Are All Fixes
@@ -22,6 +22,9 @@ Many people are also interested in knowing about the causes behind why an App wo
 
 Here are all the fixes you need if an App won’t open on your Tecno Spark 20 Pro. Read on to find out all about why Apps won't open on your Tecno Spark 20 Pro and solutions to overcome such a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Possible reasons for Apps won't open
 
 If you are an Android phone user and face a problem while trying to open an App on your device, you will ask yourself “Why won't my App open?”. To answer your question and explain to you why an App won't open on your phone, here are some probable and simple reasons to make you understand the real problem.
@@ -30,6 +33,9 @@ It is appropriate to tag our generation as smartphone addicts because we use sma
 
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984182929893.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Settings](https://images.wondershare.com/drfone/article/2017/06/14984583143306.jpg)
 
 Another possible reason for Apps to crash or why an App won't open is a possible data crash. This may occur due to **an unstable internet connection** or **various other background software interruptions**.
@@ -64,6 +70,9 @@ Why won't my app open? The quick fix is here!
 
 Step 1: Post-installation and launch of Dr.Fone on your computer, you got to press the ‘System Repair’ tab. Connect the Android device later.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix App won't open by repairing android system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Hit the ‘Android Repair’ located on the left panel followed by tapping the ‘Start’ button.
@@ -88,12 +97,18 @@ Step 1: You got to boot the Android device under Download mode, as it’s import
 
 Step 2: Hitting the ‘Next’ button starts downloading the Android firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix App won't open in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Once Dr.Fone - System Repair (Android) verifies the downloaded firmware, it begins fixing the app won't open the issue asap.
 
 ![fixing App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: 3 Common fixes if a particular App won’t open
 
 In this segment, we will discuss the three best ways to help you fix the problem if only a particular App won't open/launch/ run and takes an indefinite time to load.
@@ -106,6 +121,9 @@ Follow the steps given below to update the app which won't open on your phone:
 
 • Visit Google Play Store on your Tecno Spark 20 Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Visit Google Play Store](https://images.wondershare.com/drfone/article/2017/06/14984583996008.jpg)
 
 • Now select “My Apps & Games” from the main menu.
@@ -132,6 +150,9 @@ Closing the App completely which won't open on your phone is a good idea. To mak
 
 • Now click on “Force Stop” as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click on “Force Stop”](https://images.wondershare.com/drfone/article/2017/06/14984184186018.jpg)
 
 3\. Clear App Cache and Data
@@ -148,6 +169,9 @@ Carefully follow the step-by-step instructions given below to clear all App cach
 
 ![Clear data](https://images.wondershare.com/drfone/article/2017/06/14984585184488.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Part 4: 3 Common fix if all Apps won’t open on Android
 
 In this segment, we will discuss solutions to the problem if all your Apps won't open. They are simple and easy to follow and solve the error in no time.
@@ -164,6 +188,9 @@ To update your software:
 
 • From the options available on the screen, tap on “System Updates"
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on “System Updates](https://images.wondershare.com/drfone/article/2017/06/14984184697337.jpg)
 
 • In this step, if you are prompted for an update, follow the instruction given and do so.
@@ -178,6 +205,9 @@ Restarting your Tecno Spark 20 Pro to fix an error might sound old school but it
 
 • Now click on “Restart”.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![click on “Restart”](https://images.wondershare.com/drfone/article/2017/06/14984184913200.jpg)
 
 Your phone will automatically restart and once it does, you can try to launch the App. You may also restart your Tecno Spark 20 Pro by pressing the power button for about 15-20 seconds.
@@ -194,6 +224,9 @@ To Factory Reset your Tecno Spark 20 Pro, carefully follow the guidelines given 
 
 • Now click on “Factory Data Reset”>“Reset Device”>“Erase Everything”
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Erase Everything](https://images.wondershare.com/drfone/article/2017/06/14984185334400.jpg)
 
 Your phone will now reboot and will be required to set up from scratch.
@@ -202,8 +235,19 @@ Your phone will now reboot and will be required to set up from scratch.
 
 So go ahead and try them out now!
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## How To Unbrick a Dead Tecno Spark 20 Pro
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
 
 Discovering your phone died, especially among Tecno Spark 20 Pro models, can be disheartening. Looking online for ways to **unbrick your Oneplus 8T** can take up so much of your time. The unavailability of your device can disrupt your routine and connectivity. However, unbricking is the crucial solution to regain the functionality of your Tecno Spark 20 Pro device.
@@ -243,18 +287,31 @@ Installing unofficial custom software, such as custom recoveries or third-party 
 
 The presence of malicious software can cause significant disruptions to the Tecno Spark 20 Pro device's functioning. It can lead to bricking if left unchecked.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![oneplus 8t out the box](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-oneplus-device-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Part 2. How To Unbrick One Plus Device Using Various Methods
 
 The solutions below to unbrick your Oneplus are helpful methods to revive your device. Here's an overview of these methods.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1. Restore With Recovery Mode
 
 Restoring using Recovery Mode can solve most problems that cannot be solved with a normal phone restart. Here's how.
 
 - **Step 1**: Turn off your Tecno Spark 20 Pro device. Press and hold the Power button and Volume Down until the Tecno Spark 20 Pro logo is displayed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![oneplus recovery mode access](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-oneplus-device-03.jpg)
 
 - **Step 2**: Move through the menu using the Volume Up and Volume Down buttons until you reach **Recovery Mode**. Press the Power button to choose it.
@@ -266,10 +323,16 @@ Restoring using Recovery Mode can solve most problems that cannot be solved with
 
 Engaging Tecno Spark 20 Pro's official support can provide insights and potential solutions. This is advantageous if your device is under warranty.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3. Professional Repair Shops
 
 Certified repair shops have the expertise to diagnose and address bricking issues, offering tailored solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4. Software Tools
 
 Leveraging specialized software tools like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair (Android) simplifies the process, even for non-technical users.
@@ -289,12 +352,18 @@ Maintaining the longevity of your Tecno Spark 20 Pro device requires adopting pr
 
 ![taking care of your oneplus](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-oneplus-device-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips: Unlock Your One Plus 6, 8T, or 10 Pro With Dr.Fone - Screen Unlock (Android)
 
 Dr.Fone - Screen Unlock (Android) is powerful software designed to unlock Tecno Spark 20 Pro devices quickly. This tool is compatible with various Tecno Spark 20 Pro models, including the Tecno Spark 20 Pro 6, Tecno Spark 20 Pro, and Tecno Spark 20 Pro 10 Pro, ensuring a wide support reach.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Unlock Tecno Spark 20 Pro Without Password
@@ -306,6 +375,9 @@ Unlock Tecno Spark 20 Pro Without Password
 
 **3,016,652** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Unlock Your One Plus With Dr.Fone - Screen Unlock (Android)
 
 Below is a guide on unbricking the Tecno Spark 20 Pro models using Dr.Fone - Screen Unlock (Android).
@@ -328,6 +400,9 @@ Allow the unlock process to run its course. If unsuccessful, click 'Try Again' f
 
 ![android screen unlocked](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/QWpE8NykOWc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -352,20 +427,33 @@ For those who find themselves locked out of their Tecno Spark 20 Pro devices, th
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## Fixes for Apps Keep Crashing on Tecno Spark 20 Pro
 
 The rapid evolution of technology has transformed our smartphones into powerful devices. Presently, with just a few taps, they possess the ability to accomplish a diverse array of tasks. It has been possible due to the extensive availability of mobile applications. However, it can be incredibly frustrating when your favorite apps keep crashing repeatedly.
 
 You're not alone if you're an Android user who encounters app crashes. This article will explore ten practical ways to fix apps that keep crashing on Android devices. We will also discuss the causes behind app crashes and how to prevent them.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What Are the Causes Behind Apps Keep Crashing on Android?
 
 There are many reasons for ****the app crashing**** on Android devices. These reasons range from insufficient storage space to bugs and glitches in the apps. Finding out the root cause of an app crashing is important so that you can find the appropriate solution. Discussed below are some of the reasons why your Android apps keep crashing:
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Insufficient Memory
 
 When a device is low on memory, it may struggle to run multiple apps simultaneously. Each app requires memory to store its data and execute its processes. If the available memory is limited, it can cause apps to crash. That happens because they don't have enough resources to operate properly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### Software Compatibility
 
 Android devices come in various models and run different operating system versions. That's why it is essential to use apps compatible with your device. Since there are a lot of Android variants, it is hard to optimize apps for all devices. An app not optimized for an Android version or device leads to crashes or malfunctions.
@@ -398,6 +486,10 @@ If your ****apps keep crashing****, you should try force-closing the targeted ap
 
 - ****Step 1:**** On your Tecno Spark 20 Pro, move the app icon and press it to select “App Info.” On the App Info screen, tap the “Force Stop” button to force close the app. The button can be either on the down left or down right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on force stop](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-2.jpg)
 
 - ****Step 2:**** After force closing the app, relaunch it and see if the app crashing issue is resolved.
@@ -410,6 +502,9 @@ In case restarting the app hasn’t worked, you should try restarting your Tecno
 
 ![proceed with the restart option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Update the Android OS
 
 Not updating your Android OS for a long while can cause many performance issues in your device. One of these issues is the incompatibility with the latest apps. That's why make sure that your Tecno Spark 20 Pro is running the latest available version of the operating system. You can check and update the Android OS of your device using these steps:
@@ -420,6 +515,13 @@ Not updating your Android OS for a long while can cause many performance issues 
 
 - ****Step 2:**** During the update process, ensure you have a stable internet connection. Moreover, your device should be fully charged to avoid any complications.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Fix 5: Clear the App Cache
 
 Have you tried clearing the cache of the app that keeps crashing? The app cache consists of temporary files and data that are stored to enhance app performance. However, if the app cache becomes corrupted, it can cause crashes. In such a situation, clearing the app cache can help resolve the ****app crashing**** issue. To clear the app cache on your Tecno Spark 20 Pro, follow these steps:
@@ -438,6 +540,9 @@ Bugs in the app can prove a nightmare and hard to remove from the app. If your *
 
 - ****Step 1:**** Go to the problematic app on your device and press the app icon for a while. Select “Uninstall” and remove the app by pressing “OK.”
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![choose the uninstall option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-7.jpg)
 
 - ****Step 2:**** After removing the app, go to Google Play Store and find the targeted app. Here, tap “Install” to reinstall the app on your device.
@@ -450,10 +555,16 @@ Sometimes, app crashes can occur due to improper or conflicting permissions. Whe
 
 - ****Step 1:**** You will need to launch Settings on your Tecno Spark 20 Pro and tap “Apps.” Here find and select the targeted app to open App Info.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on the apps option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-9.jpg)
 
 - ****Step 2:**** On the App Info screen, press “Permissions” to access all permission settings. Here, ensure that your app has the required permissions.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![access the app permissions](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-10.jpg)
 
 ### Fix 8: Check and Clear the Phone Storage
@@ -462,6 +573,9 @@ Insufficient storage space on your device can also lead to app crashes. Check th
 
 - ****Step 1:**** Open Settings on your Tecno Spark 20 Pro and scroll down to find and select “Battery and Device Care.” Here, tap “Storage” to view the Tecno Spark 20 Pro device storage.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![choose the storage option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-11.jpg)
 
 - ****Step 2:**** Here, you will see detailed information about everything stored on your device. If the storage space is full, remove the unnecessary data.
@@ -478,6 +592,9 @@ It can be hard to find the ****app crashing**** root cause if it happens due to
 
 - ****Step 2:**** Press the “Power Off” button until “Restart in Safe Mode” appears on the screen. Now reboot the Tecno Spark 20 Pro device into Safe Mode. To exit Safe Mode, you will need to restart the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![enable the safe mode](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-14.jpg)
 
 ### Fix 10: 100% Working Solution to Fix the Android Apps Keep Crashing – Wondershare Dr.Fone
@@ -506,16 +623,28 @@ Open Wondershare Dr.Fone on your system after installation and select “System 
 
 Click "Start" to initiate the repair process and provide your device information. You will need to provide device details like Brand, Name, Model, Country, and Carrier. Now, check the “I agree with the warning, and I am ready to proceed” box and tap “Next.”
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the start button](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - ****Step 3: Repair the Apps Keeps Crashing on Android****
 
 Follow the on-screen instruction to activate Download Mode on your device. Wondershare Dr.Fone will download the related firmware once you have enabled Download Mode. Afterward, click "Fix Now" and confirm your action by inserting the "000000" code. Now, wait for the repair process to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on the fix now button](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 To sum up, if your ****apps keep crashing on Android****, you can resolve it in many ways. Using the fixes given in this article, you can improve apps' performance and reduce crashes. However, if you're looking for a reliable and convenient solution, we highly recommend Wondershare Dr.Fone.
@@ -537,3 +666,39 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-advanced-methods-for-effortless-recording-of-your-google-classes/"><u>[New] 2024 Approved  Advanced Methods for Effortless Recording of Your Google Classes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-gamers-pot-review-a-deep-dive/"><u>[New] GAMER'S POT REVIEW  A Deep Dive</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flash-frame-filmmaking-script/"><u>[Updated] Flash Frame Filmmaking Script</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-mastering-obs-and-zoom-integration-tips/"><u>[Updated] In 2024, Mastering OBS & Zoom  Integration Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-videopie-interpretation-platform/"><u>[Updated] In 2024, VideoPie Interpretation Platform</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-innovation-in-action-sonys-s6500-player-redefined-for-2024/"><u>[Updated] Innovation in Action  Sony's S6500 Player Redefined for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-s18-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo S18 FRP</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-motorola-moto-g34-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Motorola Moto G34 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-motorola-razr-40-ultra-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Motorola Razr 40 Ultra Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-redmi-k70e-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi Redmi K70E Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-honor-100-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor 100 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-s17-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo S17 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-reno-10-proplus-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo Reno 10 Pro+ 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-z-flip-5-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy Z Flip 5 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-vivo-t2x-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo T2x 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-13-ultra-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi 13 Ultra to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-picks-the-leading-18-webcam-capture-apps/"><u>In 2024, Expert Picks  The Leading 18 Webcam Capture Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-lava-blaze-2-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Lava Blaze 2 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-bokeh-effects-unleashed-top-ios-and-android-apps-for-photography/"><u>New In 2024, Bokeh Effects Unleashed Top iOS and Android Apps for Photography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-guide-to-free-youtube-downloads-without-apps-for-2024/"><u>Step-by-Step Guide to Free YouTube Downloads Without Apps for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10c-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10C Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-complete-roadmap-to-online-tiktok-streaming-from-desktop-for-2024/"><u>The Complete Roadmap to Online TikTok Streaming From Desktop for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-v27e-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo V27e? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-infinix-note-30-vip-racing-edition-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Note 30 VIP Racing Edition Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oppo-a1x-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo A1x 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: 6 Solutions to Fix Error 505 in Google Play Store on Vivo X90S | Dr.fone
-date: 2024-05-20T09:03:25.182Z
-updated: 2024-05-21T09:03:25.182Z
+date: 2024-07-30T07:49:19.738Z
+updated: 2024-07-31T07:49:19.738Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 6 Solutions to Fix Error 505 in Google Play Store on Vivo X90S
 excerpt: This article describes 6 Solutions to Fix Error 505 in Google Play Store on Vivo X90S
 keywords: android support,fix android problems,Vivo X90S android solutions,android solutions,Vivo X90S android issues,android repair,Vivo X90S android problems,Vivo X90S android tips,Vivo X90S android troubleshooting
-thumbnail: https://www.lifewire.com/thmb/UCCJI6MO1FwbR0mTqx5aB-FS3_0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-add-tiktok-filters-and-effects-f3c195b2fe1449cb8b2906eea3305b22.jpg
+thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2f2b7f6dd74a2f0921700773.jpg
 ---
 
 ## 6 Solutions to Fix Error 505 in Google Play Store on Vivo X90S
@@ -37,6 +37,9 @@ To have the right idea about the problem, we have listed all the reasons of it o
 
 Now that we know the reasons, let us also learn about the solutions that will guide you to resolve the error code 505.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: 6 Solutions to fix error code 505
 
 Any error that occurs during downloading or installation process not only hinders with the new app but also takes a large amount of our time to solve the issue. To check that, let us go through the 6 solutions one by one.
@@ -47,6 +50,9 @@ The most common cause for error code 505 pop-up is that Android system files tha
 
 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One click to repair Android system and make error code 505 disappear
@@ -68,14 +74,23 @@ Step1: Download [the Dr.Fone - System Repair (Android) program](https://tools.te
 
 Step2: Select the "Android Repair" among the 3 tabs, connect your Android to PC, and click "Start".
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step3: Choose the correct device details from each field, confirm them and continue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select correct device details to fix error code 505](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step4: Boot your Android in download mode, then start downloading the firmware of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix error code 505 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Step5: After the Vivo X90S device firmware is downloaded, the tool will start repairing your Android.
@@ -84,6 +99,9 @@ Step5: After the Vivo X90S device firmware is downloaded, the tool will start re
 
 Step6: When your Android is repaired, the error code 505 will disappear.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![error code 505 fixed successfully](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 #### **Solution 2: Check whether Download Manger is ON or not**
@@ -100,6 +118,9 @@ At the top, an option will appear
 
 \>Then Select Enable
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Application Manger](https://images.wondershare.com/drfone/article/2017/06/14976274734570.jpg)
 
 Enabling download manager to give permission to the Vivo X90S device to start the download or installation process.
@@ -178,6 +199,9 @@ Note: If still, you are in the state of trouble to solve the issue of error code
 
 Or call them at their call center number regarding the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![call center number](https://images.wondershare.com/drfone/article/2017/06/14976278809798.jpg)
 
 ## Bonus FAQ about Google Play error
@@ -210,6 +234,9 @@ Not being able to download or install the app is very frustrating and time-consu
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## Vivo X90S Bootloop Problem, How to Fix it Without Data Loss
 
 Have you, like many other users, faced the bootloop Android problem and wondered what exactly is Android boot loop. Well, Android boot loop is nothing but an error that makes your phone switch on itself every time you manually turn it off. To be precise, when your Vivo X90S does not remain switched off or powered off and starts to boot up automatically after a few seconds, it might be stuck in the boot loop Android.
@@ -220,6 +247,9 @@ We understand the inconvenience caused, therefore, here are ways to tell you how
 
 However, before moving on, let us learn a little about the causes for the Android boot loop error.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Part 1: What might cause the bootloop issue on Android?
 
 Android boot loop error might seem weird and unexplainable but it occurs because of some specific reasons.
@@ -267,6 +297,18 @@ One click to fix boot loop of Android
 
 Open the software and select the System Repair option from the main menu to fix the Android bootloop error.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix android boot loop](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step #2** Connect your Vivo X90S to your computer using the official cable and select the "Android" option from the three menu items. Click "Start" to confirm.
@@ -275,6 +317,9 @@ Open the software and select the System Repair option from the main menu to fix 
 
 You’ll then need to input the Vivo X90S device information, such as your carrier info, device name, model, and country/region in order to ensure you’re downloading and repairing the correct firmware to your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select info to fix android boot loop](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step #3** Now you’ll need to put your phone into Download Mode to remove the Android bootloop.
@@ -285,6 +330,9 @@ For this, you can simply follow the onscreen instructions for both phones with a
 
 Click "Next", and the software will begin downloading the firmware repair files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![firmware downloading to android](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 **Step #4** Now you can sit back and watch the magic happen!
@@ -315,6 +363,9 @@ In case the Vivo X90S device does not turn on normally and is still stuck in the
 
 ## Part 4: Boot into Safe Mode to fix Android boot loop
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![boot into safe mode](https://images.wondershare.com/drfone/article/2023/08/boot-loop-android.jpg)
 
 Booting your Vivo X90S into Safe Mode is a useful troubleshooting step to fix boot loop issues caused by third-party apps. When in Safe Mode, the Vivo X90S device will start up with only essential system apps, and any downloaded apps that might be causing conflicts won't run. Here's how you can boot your Vivo X90S into Safe Mode to address the boot loop problem:
@@ -344,6 +395,9 @@ Once you've identified and uninstalled the problematic app, restart your device 
 
 By following these steps and using Safe Mode to isolate problematic apps, you can effectively troubleshoot and resolve boot loop issues on your Vivo X90S.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Factory reset to fix Android bootloop issue
 
 Factory reset, also known as Hard Reset, is a one-stop solution for all your software resulting in issues. Android boot loop being such problem, can be easily overcome by performing a factory reset.
@@ -360,12 +414,19 @@ Press the volume down button and power button together until you see a screen wi
 
 When you are at the Recovery Mode screen, scroll down using the volume down key, and from the options given, select “Factory Reset” using the power key.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Factory Reset](https://images.wondershare.com/drfone/article/2017/07/14994538843981.jpg)
 
 Wait for your device to perform the task and then:
 
 Reboot the phone in Recovery Mode by selecting the first option.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reboot the phone](https://images.wondershare.com/drfone/article/2017/07/14996671856305.jpg)
 
 This solution is known to fix the boot loop error 9 out of 10 times, but if you still can't start your Vivo X90S normally, consider using a CWM Recovery to resolve the Android boot loop issue.
@@ -400,6 +461,9 @@ So the bottom line is that boot loop Android issue may seem like an irreparable 
 
 An Android boot loop is a common phenomenon with all Android devices because we tend to tamper with our device’s internal settings. Once the ROM, firmware, kernel, etc are damaged or rendered incompatible with the Vivo X90S device’s software, you cannot expect it to function smoothly, hence, the boot loop error occurs. Since you are not the only one suffering from the Android boot loop problem, be rest assured that the ways, given above, to combat it are recommended by users facing similar troubles. So, don't hesitate and go ahead to try them on.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## 11 Ways to Fix it When My Vivo X90S Won't Charge
@@ -412,6 +476,9 @@ A charging problem can occur due to a temporary software crash. It is also possi
 
 So if you're still thinking about why won't My Vivo X90S charge, read on to find out solutions to fix My Vivo X90S won't charge problem.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. One-click solution to fix Android phone won’t charge
 
 While you are upset over ‘why My Vivo X90S won't charge?’, would you mind us helping you around?
@@ -438,14 +505,24 @@ Easy-to-operate program to fix Android phone won’t charge
 
 Step 1: Install and then run Dr.Fone - System Repair (Android), the ultimate Android repair software on your PC. Hit the ‘System Repair’ tab, followed by connecting your Vivo X90S.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![fix Android phone won’t charge by android repairing tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Tap on the ‘Android Repair’ option and then click ‘Start’ for moving ahead.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![start to fix](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Mention the detailed information about your Vivo X90S under the Vivo X90S device information section. Press ‘Next’ then on.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![enter android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Get to ‘Download’ mode for repairing the Vivo X90S device**
@@ -462,10 +539,17 @@ Step 1: It’s essential that you put the Android device under ‘Download’ mo
 
 Step 2: Click ‘Next’ to start downloading the Android firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![download android firmware to fix](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Now, Dr.Fone - System Repair (Android) would verify the firmware and then start repairing the Android system on its own. It will ultimately fix your ‘why won't My Vivo X90S charge’ trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Android phone won’t charge issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Part 2. 10 common ways to fix Android won't charge
@@ -482,16 +566,29 @@ It is also very commonly observed that the charging end of the cable which gets 
 
 The charging port in your device is a small opening where the charging end of the cabbie is inserted for the current to flow to the phone/tablet. Very often, we notice that the charging port gets blocked with tiny particles of dirt. The charging port might also get clogged if dirt and dust get accumulated in it, preventing the sensors from receiving and forwarding the current to the Vivo X90S device.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![check charging port](https://images.wondershare.com/drfone/article/2017/06/14985459938188.jpg)
 
 The best way to take this problem is to clean the port with a blunt pin or a soft bristle unused toothbrush. Make sure you clean the port gently and do not damage it or its sensors.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![clean charging port](https://images.wondershare.com/drfone/article/2017/06/14985460097930.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Check/replace charging adapter
 
 This method is fairly simple, and all you need to do is check whether or not the charging adapter is working properly as sometimes, the adapter itself is to be blamed for the charge. To make sure that you are not using a defective adapter, connect your charging cable/USB to another adapter. If your device charges normally, it means there is a problem is with your adapter, and you must replace it at the earliest to solve My Vivo X90S won't charge the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![check charging adapter](https://images.wondershare.com/drfone/article/2017/06/14985010302112.jpg)
 
 ### 4\. Try another power source
@@ -506,16 +603,25 @@ Follow the steps given below to clear your device’s cache:
 
 • Visit “Settings” and find “Storage”
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![phone storage](https://images.wondershare.com/drfone/article/2017/06/14985460357571.jpg)
 
 • Now tap on “Cached Data”.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cached data](https://images.wondershare.com/drfone/article/2017/06/14985010715377.jpg)
 
 • Click “OK” to clear all unwanted cache from your device as shown above.
 
 Try charging your phone after clearing the cache. If your phone doesn't charge even now, do not worry. There are more ways to help you combat My Vivo X90S won't charge problem.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### 6\. Re-start/reboot your phone/tablet
 
 Restarting your device to fix why won't My Vivo X90S charge error is a very effective remedy. This method of rebooting your device not only fixes software glitches but other but also tackles other factors/operations that might be running in the background preventing your device from charging.
@@ -530,14 +636,23 @@ Restarting a device is simple and can be done by following the steps given below
 
 To restart your device, you may also press the power button for about 20-25 seconds for the phone/tablet to automatically reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. Download and install the Ampere App
 
 The Ampere app can be downloaded from the Google Play Store. It is very helpful to fix the why won't my charge error as it gives you real-time information about your device’s battery consumption, charging status, and other essential data.
 
 If the App gives information in green color, it means all is wetland your device is charging normally, however, if the information before you is in orange, you need to take steps to fix the charging problem.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![charging status](https://images.wondershare.com/drfone/article/2017/06/14985011165678.jpg) ![full charged](https://images.wondershare.com/drfone/article/2017/06/14985011377424.jpg) ![discharging](https://images.wondershare.com/drfone/article/2017/06/14985011663339.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 8\. Install software updates
 
 Installing your Android version updates is a good idea as the software is the interface that receives charge from the charging port sensors and gives a command for the phone/tablet to charge. People often continue to use older OS versions, which cause trouble and prevent the Vivo X90S device from charging.
@@ -556,6 +671,9 @@ Follow the steps given below to factory reset your device:
 
 • Visit “Settings” by clicking the settings icon as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![phone settings](https://images.wondershare.com/drfone/article/2017/06/14985012104018.jpg)
 
 • Now select “Backup and Reset” and move on.
@@ -595,3 +713,58 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-crafting-captivating-captions-elevate-your-pages-popularity-for-2024/"><u>[New] Crafting Captivating Captions  Elevate Your Page's Popularity for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-decoding-the-mystery-of-facebook-data-a-novices-handbook/"><u>[New] Decoding the Mystery of Facebook Data  A Novice’s Handbook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-dissecting-viral-trends-for-immersive-fb-ad-content/"><u>[New] In 2024, Dissecting Viral Trends for Immersive FB Ad Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-scope-on-splitcam-highest-quality-camera/"><u>[New] In 2024, The Scope on SplitCam  Highest Quality Camera?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-best-practices-for-choosing-background-scores-for-vlogs/"><u>[Updated] 2024 Approved  Best Practices for Choosing Background Scores for Vlogs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-elevating-visual-clarity-uncovering-iphone-xs-precision-camera/"><u>[Updated] 2024 Approved  Elevating Visual Clarity  Uncovering iPhone X’s Precision Camera</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-prime-voice-capture-apps-for-mac-users-feature-spotlight/"><u>[Updated] 2024 Approved  Prime Voice Capture Apps for Mac Users  Feature Spotlight</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content/"><u>[Updated] Become a Freelance Transcriber  Tips and Tricks for YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ideal-subscription-list-10-youtube-analysts-picks/"><u>[Updated] Ideal Subscription List  10 YouTube Analysts' Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-your-hand-on-the-latest-50-youtube-promo-banners/"><u>[Updated] In 2024, Get Your Hand on the Latest 50 YouTube Promo Banners</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-streamlining-post-editing-the-art-of-vimeos-final-screens/"><u>[Updated] In 2024, Streamlining Post-Editing  The Art of Vimeo's Final Screens</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-your-photos-a-comprehensive-guide-to-facetune/"><u>2024 Approved  Mastering Your Photos  A Comprehensive Guide to Facetune</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nokia-c12-plus-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nokia C12 Plus? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/asus-rog-phone-7-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 7 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-motorola-defy-2-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Defy 2 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elevate-your-video-game-with-fb-upload-on-pc-and-android/"><u>Elevate Your Video Game with FB Upload on PC and Android</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-motorola-moto-g14-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Moto G14 Safely | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-y200-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y200 Safely | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-vivo-s18-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo S18 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-scouting-the-superior-18-video-recorders-for-seamless-streams/"><u>In 2024, Scouting the Superior 18 Video Recorders for Seamless Streams</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://howto.techidaily.com/infinix-smart-8-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-infinix-hot-40-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Infinix Hot 40 Pro FRP Without Computer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/looms-lens-sharpen-your-recording-skills-for-2024/"><u>Loom's Lens  Sharpen Your Recording Skills for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-tecno-spark-20c-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Spark 20C? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-infinix-note-30-vip-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Note 30 VIP Black and White | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-honor-play-40c-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Play 40C Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-infinix-hot-30i-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Hot 30i Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-go-2023-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark Go (2023) Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-x50-gt-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor X50 GT FRP Bypass</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncovering-key-differences-in-panoramic-and-vr-filmmaking-for-2024/"><u>Uncovering Key Differences in Panoramic & VR Filmmaking for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-narzo-60-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme Narzo 60 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-k11x-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo K11x Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>

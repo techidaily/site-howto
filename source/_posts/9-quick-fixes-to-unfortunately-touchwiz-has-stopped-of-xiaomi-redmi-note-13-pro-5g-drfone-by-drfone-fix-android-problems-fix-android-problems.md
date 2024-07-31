@@ -1,7 +1,7 @@
 ---
 title: 9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi Redmi Note 13 Pro 5G | Dr.fone
-date: 2024-05-20T09:03:32.109Z
-updated: 2024-05-21T09:03:32.109Z
+date: 2024-07-30T08:50:03.279Z
+updated: 2024-07-31T08:50:03.279Z
 tags: 
   - problems
 categories:
@@ -9,13 +9,17 @@ categories:
 description: This article describes 9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi Redmi Note 13 Pro 5G
 excerpt: This article describes 9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi Redmi Note 13 Pro 5G
 keywords: Xiaomi Redmi Note 13 Pro 5G android help,android support,android problems,android troubleshooting,android issues,Xiaomi Redmi Note 13 Pro 5G android solutions,Xiaomi Redmi Note 13 Pro 5G android problems,Xiaomi Redmi Note 13 Pro 5G android support
-thumbnail: https://www.lifewire.com/thmb/WOQtH1Yeu3Y77xTI-f6-N4Xb6Kc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SetaLiveWallpaperinWindows11-b8ca3913592d4a5790808131bf8f34e1.jpg
+thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f1455915fe3cbbbf65ceba836d3f9e.jpg
 ---
 
 ## 9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi Redmi Note 13 Pro 5G
 
 “Unfortunately TouchWiz home has stopped” is the talk of the town due to annoying TouchWiz UI, a front-end user interface developed by Xiaomi Redmi Note 13 Pro 5G. Not to mention, the Xiaomi Redmi Note 13 Pro 5G has borne a whole lot of heat from its agitated users over the years and the reason is pretty much obvious due to the pre-installed bloatware apps and the theme launch “TouchWiz home”. That not just brutally annoys users and eats up a heck of internal storage space but lags up too often due to low speed and stability. As a result users end up with “Unfortunately TouchWiz home has stopped” and “Unfortunately, TouchWiz has stopped”. Apparently, there are several flaws in the design and functioning of this launcher and hence, Touchwiz keeps stopping or becomes unresponsive.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 1: Common scenarios when TouchWiz keeps stopping
 
 Here in this section, we will introduce some scenarios that can be blamed for why **_TouchWiz is not working_**. Check out the following points:
@@ -24,8 +28,14 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 - When you **<u>disable some built-in apps</u>**, you might get in trouble with TouchWiz. Doing this sometimes can hamper the TouchWiz operation and raise the “**_unfortunately TouchWiz home has stopped_**” error message.
 - Many times **<u>installing some third-party apps and widgets</u>** can cause this problem. The apps like launchers can be conflicting with TouchWiz home launcher and therefore cease it to work. Also, a glitched widget is responsible for the same i.e. forces stop the TouchWiz.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: 9 Fixes to “Unfortunately TouchWiz has stopped”
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
@@ -52,6 +62,9 @@ The one-click repairing process begins with downloading Dr.Fone from its officia
 
 After you open the software, hit on the “System Repair” button from the main interface. With the help of a genuine USB cable, get your Xiaomi Redmi Note 13 Pro 5G phone and connect it with the computer.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 3: Choose the Tab**
@@ -64,6 +77,10 @@ Now, from the next screen, you are supposed to choose “Android Repair” tab. 
 
 Please keep your mobile details handy as you will need them in the next window. You will need to enter the correct brand, model, and country name etc. for better detection of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![enter device info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step 5: Confirm Actions**
@@ -76,6 +93,9 @@ Tip: You can use [Dr.Fone – Phone Backup (Android)](https://tools.techidaily.c
 
 You will get some instructions on your screen to keep your device in Download mode. Follow them according to the Xiaomi Redmi Note 13 Pro 5G device you own and hit “Next”. When you do this, the program will detect your device and let you download the latest firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -86,6 +106,9 @@ Now, when the firmware is downloaded, the program will itself begin to repair yo
 
 ![get android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Clear the cache data the TouchWiz
 
 Maximum Android devices are designed to deleted cache data upon getting updated to the newest Android system. However, Xiaomi Redmi Note 13 Pro 5G stands as an exception in such case. And therefore, many times **_TouchWiz starts stopping_** right after upgrading. Thus, due to the collection of cache data, TouchWiz can display error. This calls for removing the cache from TouchWiz and run things smoothly. Here is how to do this:
@@ -102,6 +125,10 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 
 Please note that this will delete all your Home screens post this method.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Disable Motion & gesture settings
 
 The functions regarding Motions and Gestures can be responsible for why **_TouchWiz home has stopped_** in your device. Usually the Xiaomi Redmi Note 13 Pro 5G devices running on Android version less than Marshmallow are prone to encountering this issue. Or the Xiaomi Redmi Note 13 Pro 5G devices having modest specs often fall prey to the issue. When you disable these settings, you might get out of the problem.
@@ -110,6 +137,9 @@ The functions regarding Motions and Gestures can be responsible for why **_Touch
 
 When you use TouchWiz, it may consume higher memory usage for high amount of graphic maintenance. As a result, the “**_unfortunately TouchWiz home has stopped_**” error might crop up. Taking this into consideration, you should try reconfiguring the animation scale and get rid of the error. Here’s how:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Clear Cache Partition
 
 In case the above steps didn’t figure out the problem, here is the next tip. This method can be counted as one of the most effective one. Because it is able to fix minor issues in Android devices, we recommend you for “**_TouchWiz home has stopped_**” issue too. Let us know how you can do it:
@@ -123,6 +153,9 @@ In case the above steps didn’t figure out the problem, here is the next tip. T
 
 Check now if the error is eliminated. If unfortunately not, please try the following solution.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Enable the easy mode
 
 For some users, enabling Easy Mode has been of great assistance. This feature aims to make the user experience more efficient by simply eliminating complex features. The Easy Mode removes those features that confuse the users by messing up the screen. Hence, we suggest you to switch to this mode in order to remove “**_TouchWiz not working_**” problem. The steps are:
@@ -130,6 +163,9 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 - Open “Settings” and go to “Personalization”.
 - Hit on “Easy Mode” now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![easy mode to fix TouchWiz stopping](https://images.wondershare.com/drfone/article/2019/02/easy-mode.jpg)
 
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
@@ -144,6 +180,9 @@ Here is the next solution to be followed when TouchWiz keeps stopping. As we alr
 - Keep holding until rebooting finishes.
 - You will now witness “Safe mode” on the bottom screen. You can now release the button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![safe mode](https://images.wondershare.com/drfone/article/2019/02/enable-safe-mode.jpg)
 
 ### Reset Factory settings
@@ -166,6 +205,9 @@ We believe that you will find the above methods helpful. However, if still in ca
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## [8 Quick Fixes] Unfortunately, Snapchat has Stopped on Xiaomi Redmi Note 13 Pro 5G
 
 Have you ever been deep in conversation with a loved one or friend, taking advantage of all the funny filters and games Snapchat has to offer when you’ve suddenly been presented with the ‘Unfortunately, Snapchat has Stopped’ error code? This is usually followed by the app crashing back to the main menu.
@@ -188,6 +230,14 @@ During these processes, bugs can occur, and if they can’t sort themselves out,
 
 **Step 3:** The app will automatically install itself once downloaded. Open the app, sign in to your account using your log-in details, and you should be able to use the app like normal.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. Check for new Snapchat Updates
 
 ![snapchat not responding - check for new updates](https://images.wondershare.com/drfone/article/2019/04/update-snapchat-app.jpg)
@@ -208,6 +258,9 @@ Here’s how to fix it.
 
 1. Open the Snapchat app and tap the Profile icon on the top left-hand side of your screen
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![wipe cahce of snapchat crashing - step 1](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-one.png)
 
 2. Tap the Settings gear icon on the top right
@@ -216,16 +269,25 @@ Here’s how to fix it.
 
 3. Scroll down the Settings menu and tap the Clear Cache option
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
     ![wipe cahce of snapchat crashing - step 3](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-three.png)
 
 4. Here, you can choose to Clear All, but you can select individual areas if you prefer
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
     ![wipe cahce of snapchat crashing - step 4](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-four.png)
 
 5. Tap the Confirm option to clear your cache preference completely
 
     ![wipe cahce of snapchat crashing - step 5](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-five.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Part 4. Fix the system issues that caused Snapchat stopping
 
 If you’re experiencing the Snapchat crashing on Android often, or you’re experiencing similar errors with other apps, this can be an indication that there’s something wrong with your Android operating system.
@@ -234,6 +296,9 @@ The best way to fix this is to repair your device using the software known as Dr
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Dedicated repair tool to fix Snapchat crashing on Android.
@@ -262,12 +327,19 @@ Once completed, open the software, so you’re on the main menu.
 
 On the next screen, use the drop-down menus to confirm the model, brand, operating system, and carrier of your device. Click Next to confirm the details are correct.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![snapchat crashing - select details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step 4:** You’ll now need to put your phone into Download Mode, sometimes referred to as Recovery Mode. For this, you can follow the onscreen instructions. Make sure your device stays connected to your computer throughout this process.
 
 The method will slightly differ depending on whether your device has a home button, so make sure you follow the right instructions for your individual device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![snapchat crashing - recovery mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **Step 5:** Once in Download Mode, the software will now download and install a fresh version of your Xiaomi Redmi Note 13 Pro 5G’s operating system. This can take some time, so make sure your device stays connected, and your computer stays on and doesn’t shut down.
@@ -276,10 +348,19 @@ The method will slightly differ depending on whether your device has a home butt
 
 **Step 6:** That’s it! Once you see the screen saying your device has been repaired, you’ll be able to close the Dr.Fone - System Repair (Android) software, disconnect your phone, and can start using Snapchat as normal without the Snapchat not responding error coming up!
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![snapchat crashing - fixed issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5. Check for the Android update
 
 ![snapchat stopping - check for android update](https://images.wondershare.com/drfone/article/2019/04/android-update-firmware.png)
@@ -292,6 +373,9 @@ Fortunately, it’s easy to check to make sure you’re running the latest versi
 
 **Step 2:** Tap the ‘Check for Updates’ option. If an update is available, you’ll then have the option to Install Now or Install Overnight. If no update is available, you’ll see a notification stating your device is up to date and no action is needed.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 6. Connect to another Wi-Fi
 
 In some cases, you may be trying to connect to a Wi-Fi network that’s not very stable. This may keep cutting the connection to your device, which in turn is causing Snapchat to crash on Android.
@@ -300,6 +384,9 @@ To resolve this, you can simply try connecting to another Wi-Fi network or a dat
 
 **Step 1:** Open the Settings menu on your Xiaomi Redmi Note 13 Pro 5G, followed by the Wi-Fi option.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![snapchat stopping - connect to wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change1.png)
 
 **Step 2:** Tap the new Wi-Fi network you’re currently connected to, and then tap the ‘Forget’ option, to stop your phone connecting to it.
@@ -330,6 +417,9 @@ However, this reflashing process is simple thanks to the Dr.Fone - System Repair
 
 ## Part 8. Reset the factory settings of your Android
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![snapchat stopping - factory resetting](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
 
 One of the last resorts you can take is factory resetting your Xiaomi Redmi Note 13 Pro 5G back to its original settings. From the day you first started using your device, you’ve been using the system and downloading files and apps, and over time this increases the chances of creating a bug.
@@ -342,6 +432,10 @@ Make sure you back up your personal files from your device first like your photo
 
 **Step 2:** Click the Reset Phone option. That’s it! The phone will take several minutes to complete the process, after which your phone will be reset to its original state.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Super Easy Ways To Deal with Xiaomi Redmi Note 13 Pro 5G Unresponsive Screen
 
 The evolution of smartphones signifies the development of mobile communication technology. Different from the initial years, they are not just used for messaging and calling but have many other applications. Xiaomi Redmi Note 13 Pro 5G cell phones are presently utilized for perusing the Internet and exploring through maps, photography, videography, and numerous other used cases. A development in arranged availability goes hand-in-hand with the development of cell phones.
@@ -361,10 +455,16 @@ The following are some potential reasons for an unresponsive screen on a Xiaomi 
 
 A touch screen not working on Xiaomi Redmi Note 13 Pro 5G smartphones indicates a soft brick (recoverable by firmware update), often caused by a defective or undercharged battery. System file corruption, old firmware, or failed upgrades are all possible causes. Several customers have complained that after installing a software update, their Xiaomi Redmi Note 13 Pro 5G 4 or 5 device's screen became unresponsive and remained at the boot logo.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **There might be issues with the Xiaomi Redmi Note 13 Pro 5G device itself**
 
 Screens on Xiaomi Redmi Note 13 Pro 5G devices may become unresponsive for a variety of hardware-related reasons. A broken LCD panel, faulty touch sensor, or loosened ribbon wires are all possible causes. Every Xiaomi Redmi Note 13 Pro 5G device, including the Note 4 and 5, is susceptible to these problems.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **There might be errors in the updated software**
 
 The Android operating system is adjustable. Some of our technological advancements may backfire on us. The phone won't power on or become stuck in a boot loop where the logo will only show intermittently. For example, some Xiaomi Redmi Note 13 Pro 5G 4 and 5 users have reported their screens are unresponsive after a software update, rendering the Xiaomi Redmi Note 13 Pro 5G device unusable.
@@ -377,6 +477,9 @@ Before taking the item in for repairs, see if you can figure out the problem ind
 
 ### **Solution 1: Try to restart your device**
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![restart your phone](https://images.wondershare.com/drfone/article/2023/03/reset-button-android-1.jpg)
 
 Giving your Xiaomi Redmi Note 13 Pro 5G a restart is one of the most common solutions if you encounter an unresponsive screen on your phone. Here’s how.
@@ -398,6 +501,9 @@ If the battery of your Xiaomi Redmi Note 13 Pro 5G is empty, your screen is expe
 
 ### **Solution 3: Contact Customer Service**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![xiaomi contact customer service](https://images.wondershare.com/drfone/article/2023/03/xiaomi-customer-service-1.jpg)
 
 Let's assume you've applied every possible course of action. For example, your Xiaomi Redmi Note 13 Pro 5G 4 touchscreen is still unresponsive. You may contact the brand's customer support department if you need assistance. When the time comes, they'll always know what to do.
@@ -418,6 +524,9 @@ Steps to activate full screen gestures
 
 This may include gestures to get used to but it will also fix when your touchscreen sometimes stops responding.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Solution 5: Backup and Factory Reset is always a choice**
 
 ![factory reset on android](https://images.wondershare.com/drfone/article/2023/03/android-factory-reset-fix.jpg)
@@ -437,6 +546,9 @@ Doing a factory reset may be your last remaining choice if the preceding solutio
 
 If you want to fix issues like this, most simply, Dr. Fone offers that. It is made to provide you with a complete mobile solution. You may have your phone fixed without losing any information. Dr. Fone's many handy tools will quickly get your phone back in working order.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### **How to avoid a Xiaomi Redmi Note 13 Pro 5G screen unresponsive?**
 
 Users may take several precautions to avoid the Xiaomi Redmi Note 13 Pro 5G screen unresponsive problem. Stop using any app stores or other unofficial app providers. There is a risk that doing so may damage your device or introduce viruses that will force your phone to restart. There's also a risk of losing important information like photos and files.
@@ -470,3 +582,62 @@ When following the directions, the user may require more research into some trou
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-alives-low-residue-sound-technique/"><u>[New] 2024 Approved  Alive's Low-Residue Sound Technique</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-rhythmic-resonance-how-to-choose-music-for-online-fame/"><u>[New] 2024 Approved  Rhythmic Resonance  How to Choose Music for Online Fame</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-empower-your-digital-tales-with-complimentary-upgrades-for-2024/"><u>[New] Empower Your Digital Tales with Complimentary Upgrades for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-no-cost-camera-screenshot-tool-reviews-and-selections/"><u>[New] In 2024, No-Cost Camera Screenshot Tool Reviews & Selections</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-cloud-capacity-options-reviewed/"><u>[New] Leading Cloud Capacity Options Reviewed</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-complete-tiktok-siri-interaction-manual-for-2024/"><u>[New] The Complete TikTok Siri Interaction Manual for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-vanishing-on-tiktok-heres-how-to-comeback-for-2024/"><u>[New] Vanishing on TikTok? Here’s How to Comeback for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-laughter-league-social-medias-best-jokes/"><u>[Updated] 2024 Approved  Laughter League  Social Media's Best Jokes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-seeding-strategies-for-valheim-prosperity/"><u>[Updated] 2024 Approved  Seeding Strategies for Valheim Prosperity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ignite-fitness-goals-with-the-ultimate-music-mix/"><u>[Updated] Ignite Fitness Goals with the Ultimate Music Mix</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-a-guide-to-navigating-vimeos-free-premium-and-pro-membership-levels/"><u>[Updated] In 2024, A Guide to Navigating Vimeo’s Free, Premium & Pro Membership Levels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-innovative-igtv-editor-apps-for-creative-vertical-content/"><u>[Updated] In 2024, Innovative IGTV Editor Apps for Creative Vertical Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-launching-into-content-creation-account-setup-on-youtube/"><u>[Updated] In 2024, Launching Into Content Creation  Account Setup on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-to-improve-zooms-facebook-live-functionality/"><u>[Updated] Tips to Improve Zoom's Facebook Live Functionality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-refinement-of-zoom-visual-clarity-techniques-and-strategies/"><u>2024 Approved  Refinement of Zoom Visual Clarity  Techniques and Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/asus-rog-phone-8-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 8 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-itel-a60-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Itel A60? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-mix-fold-3-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Mix Fold 3 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-your-video-impact-expert-tips-on-using-wm-maker/"><u>Boost Your Video Impact  Expert Tips on Using WM Maker</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/boosting-streams-switching-to-av1-in-youtubes-settings-for-2024/"><u>Boosting Streams  Switching to AV1 in YouTube's Settings for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/conquer-snapchats-boomerang-challenges-easily/"><u>Conquer Snapchat's Boomerang Challenges Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-dynamic-evolution-in-mmo-worlds/"><u>Exploring the Dynamic Evolution in MMO Worlds</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-phantom-v-fold-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Phantom V Fold Pattern Lock Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-s17e-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo S17e 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-zte-nubia-flip-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset ZTE Nubia Flip 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-dynamic-dimensions-adobes-approach-to-photo-motion-effects/"><u>In 2024, Dynamic Dimensions  Adobe's Approach to Photo Motion Effects</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-y36i-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo Y36i Device SIM</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-top-12-tycoon-games-where-strategies-thrive-and-profits-peak/"><u>In 2024, The Top 12 Tycoon Games - Where Strategies Thrive and Profits Peak</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-motorola-edge-40-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola Edge 40 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-tecno-camon-20-premier-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Tecno Camon 20 Premier 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10-4g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10 4G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ate-guide-top-online-tools-for-ytvideo-to-text-translation/"><u>Ultimate Guide  Top Online Tools for YTVideo to Text Translation</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-t2-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo T2 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-m54-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy M54 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-motorola-edge-2023-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola Edge 2023 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oneplus-nord-3-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My OnePlus Nord 3 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-v29-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo V29 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>

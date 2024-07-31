@@ -1,7 +1,7 @@
 ---
 title: Android Screen Stuck General Realme 12+ 5G Partly Screen Unresponsive | Dr.fone
-date: 2024-05-20T09:03:35.174Z
-updated: 2024-05-21T09:03:35.174Z
+date: 2024-07-30T09:16:59.930Z
+updated: 2024-07-31T09:16:59.930Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Android Screen Stuck General Realme 12+ 5G Partly Screen Unresponsive
 excerpt: This article describes Android Screen Stuck General Realme 12+ 5G Partly Screen Unresponsive
 keywords: android help,Realme 12+ 5G android problems,Realme 12+ 5G android troubleshooting,android issues,Realme 12+ 5G android repair,Realme 12+ 5G android fix,android support,Realme 12+ 5G android guide
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## Android Screen Stuck: General Realme 12+ 5G Partly Screen Unresponsive
@@ -21,6 +21,9 @@ Fortunately, there are ways to overcome this, and one of the best is Dr.Fone. In
 ![hand holding a phone](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-01.jpg)
 
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Understanding Stuck and Dead Realme 12+ 5Gs on Phone Screens
 
 While dead and ****stuck pixels on the phone**** may seem similar, there are important distinctions between the two. Read on to discover the differences and what causes them.
@@ -29,12 +32,18 @@ While dead and ****stuck pixels on the phone**** may seem similar, there are im
 
 A ****stuck pixel phone**** is always on, so it shows up on a touchscreen as a bright, persistent dot of red, green, blue, or white. Combinations are also possible, and although it is usually stationary, this dot occasionally flickers.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Dead Realme 12+ 5Gs on Smartphones
 
 In contrast to the stuck pixel, the dead pixel subpixels are all left unpowered, turning them off. A ****dead pixel on the phone**** is a tiny, persistent rectangle of black or white color on the part of the phone screen not working.
 
 ![stuck white pixel and dead pixel](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Some Differences Between Stuck and Dead Realme 12+ 5Gs on Phone
 
 Stuck pixels may have less effect on the user experience than ****dead pixels on the phone**** **screen** since they still display color. But dead pixels may be more disturbing because they are either black or white.
@@ -66,6 +75,9 @@ Before attempting to fix a ****dead pixel on a smartphone**** screen, it is nec
 
 ****Step 1:**** Check for chips, cracks, or any other signs of damage on the screen if your ****phone touch screen is not working in some areas****. If you find any damage, you may need to take your phone to a professional repair shop or consider getting a replacement.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![phone with damaged screen from dropping](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-04.jpg)
 
 ****Step 2:**** If you have a screen protector or case, remove them because they can interfere with the process. This step will allow you to get a clear view of the screen and accurately assess the ****dead pixel on the phone****.
@@ -76,8 +88,14 @@ Before attempting to fix a ****dead pixel on a smartphone**** screen, it is nec
 
 ****Step 4:**** Finally, ensure that your screen is clean and free from any smudges or dirt that could affect the accuracy of fixing ****dead pixels on the phone****. You can use a microfiber cloth to clean your screen gently, making sure not to apply too much pressure or use any harsh chemicals that could damage the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wiping phone screen with clean cloth](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-06.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 2: Restart Your Realme 12+ 5G
 
 This method may seem simple, but it can be the most effective solution to your problem. Here is how you restart most smartphones available in the market.
@@ -102,6 +120,9 @@ If the previous method did not work, check if the ****stuck pixels on the phone*
 
 Visit the help page for your device's manufacturer to learn how to activate and deactivate safe mode. Safe mode disables all downloaded programs momentarily.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![safe mode on the android screen](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-08.jpg)
 
 ****Step 2:**** Try touching the screen while your phone is in safe mode. If the display functions as intended, a specific app is likely causing the issue with the ****stuck pixel phone**** display. Next, turn off ****Safe Mode****.
@@ -122,6 +143,9 @@ Consider a factory data reset if the previous options did not resolve your issue
 
 It is crucial to wait for the system to finish deleting all data during the factory data reset. For instructions tailored to your device, see your manufacturer's help page.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### Option 5: Use [<u>Wondershare Dr.Fone </u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)  – Complete Mobile Solution
 
 Dealing with the ****stuck pixels on the phone**** can be a challenging issue to tackle. Although Dr.Fone may not be able to fix this issue directly, it can still provide support with other problems you might face during the process. This includes content backup and recovery, as well as system repair for other system issues such as a black screen, being stuck in a boot loop, forced termination, and more. In this section, you'll learn how to use Dr.Fone's System Repair feature.
@@ -132,6 +156,9 @@ Dealing with the ****stuck pixels on the phone**** can be a challenging issue t
 
 ****Step 2:**** Choose either ****Android**** or ****iPhone,**** depending on the type of device you have.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Wondershare Dr.Fone  device type](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 ****Note:****
@@ -146,6 +173,9 @@ Wondershare Dr.Fone provides support for Realme 12+ 5G S22 as well as other popu
 
 ****Step 5:**** Connect your device to your computer and follow the in-app instructions to enter the ****Download mode****, then click ****Next****.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wondershare Dr.Fone  device information](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 ****Step 6:**** Your device will need to have the new Android firmware flashed onto it, which Wondershare Dr.Fone will take care of. Simply wait while the process completes.
@@ -173,10 +203,17 @@ No, a ****dead pixel on the phone**** is permanent. There is a much lower chanc
 
 Dead pixels cannot spread because each pixel functions independently of the others. Thus, a ****dead pixel on the phone**** does not affect surrounding pixels. However, it can be a nuisance for users, especially if it appears in prominent parts of the screen. Call an expert if you see that it is spreading so they can diagnose the issue and assess whether a repair is possible.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### 3\. Why Are Dead Realme 12+ 5Gs Spreading on My Realme 12+ 5G?
 
 It simply signifies that this specific area of your screen had poor manufacturing quality or is physically damaged if you have a patch of closely spaced ****dead pixels on your phone****. When a group of dead pixels is close together, it indicates localized damage or defect to that specific area. So, the pixels in that region no longer produce light or color.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. How Many Stuck Realme 12+ 5Gs Are Acceptable?
 
 It frequently happens throughout the LCD manufacturing process when one or more subpixels enter an unchanging state, leading to a bright or lifeless pixel. Generally speaking, an acceptable display has 1 to 5 fixed subpixels.
@@ -185,6 +222,9 @@ In addition, the essential factor in comparing dead pixel policies is whether or
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 You have learned the difference between a stuck and ****dead pixel on the phone****. With this knowledge, you can apply the different tools and techniques for removing ****stuck pixels on phone**** screens and how to work around dead pixels on the phone screen. Whether using software like Dr.Fone or employing manual methods such as rebooting or cleaning your device, there are various options you can try.
@@ -193,12 +233,18 @@ Remember to back up your data before attempting any fixes and to seek profession
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Ways to Unbrick Your Android Device: Various Ways for Recovery
 
 When your Realme 12+ 5G becomes unresponsive or frozen after mistakenly flashing a ROM or rooting, you are informed that the phone has been bricked. The most terrifying aspect will not just be gadget loss, but also data erasure. However, what exactly is a bricked phone, and, more importantly, how do you fix a bricked Android phone?
 
 This article will explain what a **bricked android phone** is, why an Android phone becomes bricked, how to unbrick an Android phone without losing data and a third-party application you can use.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1. Causes of Bricked Phones
 
 In everyday settings, our mobile devices have become our greatest friends, therefore breaking your phone is the last thing you want to do. There are different reasons why devices brick, and we must be familiar with them in order to comprehend the various techniques to repair bricked devices.
@@ -220,16 +266,27 @@ To repair bricked Android phones and tablets, you must first thoroughly examine 
 
 [Recover Now](https://download.wondershare.com/drfone_recover_full3366.exe)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
 Here are some simple methods for repairing bricked Android devices:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Method 1. Reboot the Phone in Safe Mode
 
 Trying to reboot your android device in safe mode is the first and easiest thing you should try if your phone is bricked. Here's how to do it:
 
 - **Step 1:** Turn off your smartphone and press the **Volume Up** + **Power** button to enter recovery mode. Then, using the volume controls, navigate the menu and select Reboot system now.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![android safe mode](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-1.jpg)
 
 - **Step 2:** Select the highlighted option by pressing the **Power button**. After that, wait for your device to reset normally.
@@ -248,6 +305,9 @@ This issue, however, may be resolved by wiping the data and cache partitions in 
 
 - **Step 3:** Finally, on your smartphone, choose the Reboot system immediately.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Method 3. Perform a Factory Reset
 
 A factory reset can undo the alterations made to your device that resulted in the brick phone, but you will lose everything you have downloaded and installed in the process. Here's how to restore a bricked Android phone to factory settings:
@@ -256,6 +316,9 @@ A factory reset can undo the alterations made to your device that resulted in th
 - **Step 2:** Select “**Wipe Data/“Factory Reset”** then confirm the action. When the process is done, you'll be returned to the recovery mode menu.
 - **Step 3:** Select **“Reboot System Now”** to restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reboot system now](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-3.jpg)
 
 ### Method 4. Flash a Custom ROM
@@ -267,6 +330,9 @@ If you boot your phone directly into recovery mode, there's a problem with the R
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 5. Using [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) to Fix bricked Android Devices
 
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Data Recovery is the first data recovery solution for any damaged Android smartphone in the globe. It offers one of the greatest recovery rates and can recover a variety of information like images, videos, contacts, messages, and call logs. The program is most effective with Realme 12+ 5G smartphones.
@@ -291,6 +357,9 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Part 3. How to Prevent Bricking Your Phone
 
 How to prevent a device from “bricking” itself and how to repair it if it does The delay is set by the MCU, but it should be long enough to allow the debug adapter to connect to the Realme 12+ 5G device and halt it before the Realme 12+ 5G device disables itself.
@@ -303,10 +372,16 @@ Here are some things to remember to prevent your device from bricking:
 - **Backup your phone data regularly:** Backing up your phone safeguards your data in the event that you lose it, it is stolen, or it no longer works. When it comes time to replace your phone, having a backup makes it simple to restore your data to the new device. Furthermore, backing up your phone allows you to organize your data so that it is easier to access.
 - **Avoid installing apps from untrusted sources:** Apps installed from unauthorized sources make your device and personal data more exposed to dangers such as Ransomware. So you should be wary of where you download applications.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 It is certainly upsetting when your gadget bricks, but you may attempt the solutions listed above to resolve the issue. Meanwhile, if you want to solve the problem quickly and easily, you can try Wondershare Dr.Fone. It can not only help you repair your Android smartphone, but it can also help you extract data from a bricked device, recover data, and many more Android device solutions!
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 ## Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme 12+ 5G
@@ -315,14 +390,23 @@ Nowadays, smartphones are integral to life. They serve as your communication lif
 
 This beginner's guide is here to help you understand the causes of this problem. It will also provide you with practical "unfortunately the phone has stopped solutions."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Learn Why Unfortunately the process.com.android.phone Has Stopped
 
 The error message "****Unfortunately,**** ****the process com.android.phone has stopped****" typically appears on Android devices when there is an issue with the Phone app. Issues with underlying processes responsible for handling phone-related functions are also a cause.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![process com.android.phone has stopped error](https://images.wondershare.com/drfone/article/2023/06/process-com-android-1.jpg)
 
 It can prevent you from making or receiving phone calls, accessing contacts, or using other phone-related features. Following are some of the possible reasons why you may encounter this error:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### App or System Update
 
 When you update your device's OS or the Phone app itself, it is possible to encounter bugs or compatibility issues. These issues can lead to the Phone app crashing and displaying this error message. Sometimes, the updated software may not work with the existing configurations of the Phone app. It results in instability which causes this error.
@@ -331,6 +415,9 @@ When you update your device's OS or the Phone app itself, it is possible to enco
 
 The Phone app relies on cached data and stored settings to function properly. If the cache or data of the app becomes corrupted, it can cause the Phone app to malfunction. The reasons include interrupted app installations or updates, improper shutdowns, or software conflicts. As a result, you may see the error message indicating that the process com.android.phone has stopped.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Insufficient System Resources
 
 Android devices need sufficient memory (RAM) and processing power to run apps smoothly. If your device is running low on memory or processing capacity, it may struggle to handle the Phone app and its processes. It can lead to crashes and the error message. Running many resource-intensive apps at the same time also causes this issue. Other reasons include too many background processes that contribute to this error.
@@ -339,10 +426,16 @@ Android devices need sufficient memory (RAM) and processing power to run apps sm
 
 Third-party apps installed on your device can sometimes conflict with the Phone app. These conflicts can occur for various reasons, such as incompatible app versions. The software bugs within the third-party apps or configurations can also clash with the Phone app. Such conflicts can disrupt the normal operation of the Phone app. The result of all this trigger the error message.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Software or Firmware Glitches
 
 Software glitches or firmware issues can occasionally occur in Android devices. These glitches can affect the functioning of system processes, including the Phone app. They may arise from programming errors and system inconsistencies. Sometimes unexpected interactions between different OS components can also lead to this error.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 2: 100% Working Fixes To Fix Unfortunately the process.com.android.phone Has Stopped
 
 Having been denied access to your Phone can cause a lot of issues. Luckily, many simple fixes to the "****process.com.android.phone has stopped****" error exist. These solutions have worked for many users, and by following them, you may be able to resolve the issue too. Given below are the top 8 fixes to resolve this error and restore your device's phone functions:
@@ -363,8 +456,14 @@ There is also a chance that the reason you are seeing this error message relates
 
 To fix this error, you can remove the SIM card and then re-insert it. If the issue is actually related to a SIM card, the issue will get resolved after you resolve the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![reinsert the sim card](https://images.wondershare.com/drfone/article/2023/06/process-com-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Fix 3: Clear the Cache and Data of the Phone App
 
 The "****Unfortunately, the process com.android.phone has stopped****" error is connected to the Phone app. In this situation, clearing the cache and data of the Phone app itself can often resolve the issue. This fix focuses on removing any corrupted or conflicting data within the app.
@@ -373,6 +472,9 @@ Once the corrupted data is gone, it will restore the Phone app to proper functio
 
 - ****Step 1:**** Find the Phone app on your Realme 12+ 5G and long-press its icon. A small menu will pop up where you need to select "App Info."
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![access phone app settings](https://images.wondershare.com/drfone/article/2023/06/process-com-android-4.jpg)
 
 - ****Step 2:**** It will lead you to detailed information about the Phone app. Here, press "Storage," and following that, you will see the "Clear Cache" and "Clear Data" options. Use them in the same order to clear the cache and data of the Phone app.
@@ -387,6 +489,9 @@ As a result, you will be able to use the Phone app without interruptions. To dis
 
 - ****Step 1:**** Navigate to the Google Play Store app on your Realme 12+ 5G and launch it. Next, tap on the profile icon in the screen's top right corner. From the options presented, select "Settings."
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![open the play store settings](https://images.wondershare.com/drfone/article/2023/06/process-com-android-6.jpg)
 
 - ****Step 2:**** In Settings, press "Network Preferences" to expand the option. Now, open the "Auto-update apps" settings and enable the "Don't auto-update apps" option.
@@ -405,6 +510,9 @@ It intends to ensure a clean slate and potentially resolve the error. Use the fo
 
 - ****Step 2:**** On the app info screen, scroll down and press "Storage." Now use "Clear Cache" to clean the app's cache and "Clear Data" to erase the app's data. Repeat the same process for all the apps installed on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on storage option](https://images.wondershare.com/drfone/article/2023/06/process-com-android-9.jpg)
 
 ### Fix 6: Clear SIM Toolkit Cache and Data
@@ -417,8 +525,14 @@ It is worth considering the SIM Toolkit is a potential source of the problem. Th
 
 - ****Step 2:**** Now, you need to tap "Storage" to proceed. On the next screen, first, tap "Clear Cache" to clean the cache, and later press "Clear Data."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use clear cache and data](https://images.wondershare.com/drfone/article/2023/06/process-com-android-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7: Perform Factory Reset
 
 If all previous fixes have been unsuccessful, performing a factory reset is also an option to resolve this issue. It is a drastic measure that can potentially address underlying software issues. However, it's important to note that a factory reset will erase the entire data and settings of your device.
@@ -427,6 +541,9 @@ So, it's crucial to back up your important files before proceeding with this fix
 
 - ****Step 1:**** Start by launching the Settings app and selecting "General Management." Here, choose "Reset," and following that on the next screen, tap "Factory data reset."
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![tap on factory data reset](https://images.wondershare.com/drfone/article/2023/06/process-com-android-12.jpg)
 
 - ****Step 2:**** After tapping "Factory data reset," hit the "Reset" option. Next, enter your Realme 12+ 5G PIN to confirm the process, and use "Delete All" to start the factory reset process.
@@ -459,12 +576,18 @@ To start, connect your Realme 12+ 5G to your computer. Launch [Wondershare Dr.Fo
 
 Click on "Start" to initiate the process, and following that, you will be prompted to provide specific details about your Realme 12+ 5G. These details include the "Brand," "Name," "Model," "Country," and "Carrier.” Afterward, tick the box that says, "I agree with the warning, and I am ready to proceed," and click "Next."
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the start button](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - ****Step 3: Resolve The process.com.android.phone Has Stopped Issue****
 
 The subsequent step involves entering Download Mode on your device, following the on-screen instructions provided by the software. Once your device is in Download Mode, this Android repair toolkit will proceed to download and install the relevant firmware. Now, select "Fix Now" and confirm the repair of your Realme 12+ 5G by entering the code "000000."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![start the fix process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -494,3 +617,49 @@ While there are many options to fix this error, only one is an excellent choice:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enjoy-your-favorite-songs-anytime-convert-youtube-to-mp3-now/"><u>[New] 2024 Approved  Enjoy Your Favorite Songs Anytime  Convert YouTube to MP3 Now</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-easy-guide-initiating-a-call-or-chat-on-snapchat/"><u>[New] 2024 Approved  The Easy Guide  Initiating a Call or Chat on Snapchat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-list-7-mac-focused-vids/"><u>[New] Ultimate List  7 Mac-Focused Vids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pioneering-tools-top-5-cloud-based-videography-platforms/"><u>[Updated] 2024 Approved  Pioneering Tools  Top 5 Cloud-Based Videography Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-still-to-moving-adding-animated-effects-to-your-text-ig-stories/"><u>[Updated] From Still to Moving  Adding Animated Effects to Your Text IG Stories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-av1-your-initial-journey/"><u>[Updated] Navigating AV1  Your Initial Journey</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlining-video-conferencing-with-efficient-use-of-snap-features-on-google-meet-for-2024/"><u>[Updated] Streamlining Video Conferencing with Efficient Use of Snap Features on Google Meet for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-most-innovative-and-easy-to-use-mobile-photo-layers-top-10/"><u>[Updated] The Most Innovative & Easy-to-Use Mobile Photo Layers (Top 10)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unleashing-potential-in-virtual-collaboration-platforms-for-2024/"><u>[Updated] Unleashing Potential in Virtual Collaboration Platforms for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-exploring-the-depths-of-adobe-cloud-storages-plus-top-non-adobe-choices/"><u>2024 Approved  Exploring the Depths of Adobe Cloud Storages, Plus Top Non-Adobe Choices</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-itel-a60s-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Itel A60s? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-poco-c55-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Poco C55? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-infinix-hot-30-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Hot 30 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-nokia-105-classic-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia 105 Classic Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-redmi-k70-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi Redmi K70 Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-freeze-frame-sequence-in-video/"><u>In 2024, How to Create A Freeze Frame Sequence in Video</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-photo-expertise-at-your-fingertips-with-these-tips/"><u>In 2024, Pro Photo Expertise at Your Fingertips with These Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-driver-upgrade-for-w11w8w7/"><u>MF4770n Driver Upgrade for W11/W8/W7</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-nuances-of-color-management-in-windows/"><u>Navigating the Nuances of Color Management in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-a78-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo A78 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-defy-2-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Defy 2 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-poco-c50-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Poco C50 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-a38-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo A38 Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-y56-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo Y56 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-honor-magic-5-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Honor Magic 5 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-lava-blaze-2-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Lava Blaze 2 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Itel P40 | Dr.fone</u></a></li>
+</ul></div>

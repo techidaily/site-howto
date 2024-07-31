@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide How to Fix an Unresponsive ZTE Nubia Z60 Ultra Screen | Dr.fone
-date: 2024-03-19 23:30:57
-updated: 2024-03-21 22:19:13
+date: 2024-07-30T12:02:44.361Z
+updated: 2024-07-31T12:02:44.361Z
 tags: 
   - problems
 categories:
@@ -9,11 +9,14 @@ categories:
 description: This article describes Troubleshooting Guide How to Fix an Unresponsive ZTE Nubia Z60 Ultra Screen
 excerpt: This article describes Troubleshooting Guide How to Fix an Unresponsive ZTE Nubia Z60 Ultra Screen
 keywords: android problems,ZTE Nubia Z60 Ultra android solutions,ZTE Nubia Z60 Ultra android tips,android support,ZTE Nubia Z60 Ultra android fix,android guide,ZTE Nubia Z60 Ultra android troubleshooting
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## Troubleshooting Guide: How to Fix an Unresponsive ZTE Nubia Z60 Ultra Screen
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
 
 Smart devices have become an integral part of our lives, and ZTE Nubia Z60 Ultra phones are increasingly popular due to their advanced features and affordable prices. These phones offer numerous benefits, including high-quality cameras, fast processors, long-lasting batteries, and sleek designs.
@@ -22,6 +25,9 @@ However, like any other electronic device, ZTE Nubia Z60 Ultra phones can someti
 
 This article will discuss some valuable solutions for dealing with ZTE Nubia Z60 Ultra phone screen unresponsiveness. We will provide step-by-step instructions for troubleshooting and getting your phone back in working order. Whether you're a novice or an experienced user, these tips and tricks will help you navigate this problem and get back to using your phone without any issues. So, let's dive in and explore how to fix a ZTE Nubia Z60 Ultra phone with an unresponsive screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What causes the ZTE Nubia Z60 Ultra Screen unresponsive?
 
 The ZTE Nubia Z60 Ultra screen may become unresponsive due to various reasons. Here are some common situations and their possible causes:
@@ -44,8 +50,14 @@ Here are the three most common solutions to deal with phone screens being unresp
 
 Restarting the ZTE Nubia Z60 Ultra device is a simple and quick solution to an unresponsive phone screen. To restart the phone, press and hold the **power button** until the screen **turns off**, then press and hold the **power button** again to t**urn the phone back on**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Check the Charging Port and Battery
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![charging realme phone](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-2.jpg)
 
 Sometimes, an unresponsive screen can be caused by a dead battery or a faulty charging port. To check for these issues:
@@ -72,6 +84,18 @@ Sometimes, a ZTE Nubia Z60 Ultra phone's screen, specifically ZTE Nubia Z60 Ultr
 
 **Step 2:** If the phone is overheating, let it cool down before using it again.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Reset to Factory Settings
 
 ![realme reset factory settings](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-5.jpg)
@@ -82,6 +106,9 @@ A factory reset may help fix the problem if none of the above solutions work. No
 
 **Step 2:** Follow the on-screen instructions to reset the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Replace a New Screen
 
 ![realme new screen](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-6.jpg)
@@ -102,18 +129,31 @@ Make sure to regularly check for and install software updates on your ZTE Nubia 
 
 Regularly inspect your phone's hardware components such as charging ports, battery, and screen for any signs of damage or wear and tear. If you notice any issues, get them fixed promptly to prevent them from causing further damage.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Avoid extreme temperatures
 
 Keep your ZTE Nubia Z60 Ultra device in a temperature-controlled environment. High temperatures can cause the screen to become unresponsive, and low temperatures can cause it to freeze.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Keep the screen clean
 
 Dirt and debris on the screen can cause it to become unresponsive. Use a microfiber cloth to clean the screen regularly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Reduce the number of running apps
 
 Running too many apps at once can overload the system and cause the screen to become unresponsive. Close any apps you're not using to free up system resources.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Use Wondershare Dr.Fone to Repair or Manage Your Data
 
 Wondershare Dr.Fone is a helpful tool that can help manage and repair your phone's data. It can be used to back up your data, transfer files between devices, and even fix issues like an unresponsive screen. Dr.Fone has the DF13 version to be launched, which includes more features to help manage your phone's data effectively.
@@ -122,20 +162,34 @@ By following these suggestions, you can help prevent screen unresponsiveness on 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 ZTE Nubia Z60 Ultra phones offer numerous benefits, including high-quality cameras, fast processors, long-lasting batteries, and sleek designs. However, like any other electronic device, ZTE Nubia Z60 Ultra phones can sometimes encounter issues, such as an unresponsive screen. The causes of an unresponsive screen may include overheating, physical damage, and manufacturing defects.
 
 To deal with an unresponsive screen, users can try restarting the ZTE Nubia Z60 Ultra device, checking the charging port and battery, or contacting a professional. Additional solutions for specific ZTE Nubia Z60 Ultra models include checking the phone's temperature, resetting to factory settings, or replacing a new screen. To avoid an unresponsive screen, users can check software updates on time, inspect the phone's hardware, avoid extreme temperatures, keep the screen clean, and reduce the number of running apps. Dr.Fone is a helpful tool that can help manage and repair your phone's data.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Home Button Not Working on ZTE Nubia Z60 Ultra? Here Are Real Fixes
 
 There is no doubt that it is quite frustrating when your device buttons, such as home and back don’t work properly. The reasons can be software as well as hardware issues. If you are wondering whether there is any solution to fix this problem, then you’ve come to the right place. Firstly, yes some methods can probably help you to come out of this issue. Here, in this guide, we have covered various solutions you can try to resolve the “home button not working Android” problem no matter whether it is due to software or hardware reason.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Part 1: 4 Common Measures to Fix Home Button Not Working Android
 
 Here, we are going to mention four common methods that you can try to resolve the home button problem on your ZTE Nubia Z60 Ultra with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1.1 One click to fix Android Home Button Not Working
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>[Try It Free](https://download.wondershare.com/drfone_repair_full3371.exe)
@@ -158,10 +212,16 @@ To learn how to fix home button not working problem, download and install the Dr
 
 Step 1: To begin with the process, launch the software on your computer and select the “System Repair” option from the software main window.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix home button not working android](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Thereafter, connect your ZTE Nubia Z60 Ultra to the computer using a USB cable and select the “Android Repair” tab from the left menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![home button not working android - connect device](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Next, you will navigate to a device information page where you have to provide your device information.
@@ -170,6 +230,18 @@ Step 3: Next, you will navigate to a device information page where you have to p
 
 Step 4: After that, the software will download the appropriate firmware to repair your Android system.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![home button not working android - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 5: After downloading the firmware, the software will start the repair process. Wait for a few seconds, the problem should get fixed and your phone will get back to its normal state.
@@ -188,6 +260,11 @@ Step 2: Next, press the power button for a few moments to force restart your dev
 
 ![home button not working android - force restart](https://images.wondershare.com/drfone/article/2019/02/force-restart.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### 1.3 Restore Factory Settings
 
 If force restarting won’t help you to fix the problem you are facing, it’s time to reset your ZTE Nubia Z60 Ultra to factory settings. The factory reset on an Android device will erase all of your phone settings, third-party apps, user data, and other app data to restore your device to its original manufacturer condition or settings. It means that this can bring back your device to its normal state.
@@ -200,6 +277,9 @@ Step 2: Next, tap on “Erase all data”>” Reset phone” to factory reset on
 
 Once you are done with the above steps, restart your phone and restore your data and this might be fixed the problem for you. If not, then try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![home button not working android - factory reset](https://images.wondershare.com/drfone/article/2019/02/factory-reset-phone.jpg)
 
 ### 1.4 Update Android Firmware
@@ -212,6 +292,9 @@ Step 2: After that, click “Check for updates” and if updates are available, 
 
 ![home button not working android - update android](https://images.wondershare.com/drfone/article/2019/02/update-firmware.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Part 2: What if the Home Button fails due to hardware reasons?
 
 When your Android home and back button not working because of hardware reasons, you can’t get the problem resolved by simply rebooting your device. In such cases, you have to use alternative apps to replace the home button.
@@ -233,6 +316,9 @@ Cons:
 
 URL: [https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en\_US](https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en_US)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2 Button Savior app
 
 Button Savior app is one of the ultimate apps that can help you to fix the Android home button not working problem with ease. For this app, root and no root versions are available on the Google Play store. To fix the Home button not working issue, no root version is the right one. But, if you want to fix the Back button or other buttons, then you need to go for the root version.
@@ -255,6 +341,9 @@ URL: [https://play.google.com/store/apps/details?id=com.smart.swkey" target="\_b
 
 Navigation Bar app is another great solution to fix the home button not responding problem. It can replace broken and failed button for users who are facing difficulty using navigation bar panel or buttons not working properly. The app offers numerous features, and it is easy to use.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vavigation bar](https://images.wondershare.com/drfone/article/2019/02/navigation-bar-app.jpg)
 
 Pros:
@@ -293,6 +382,9 @@ URL: [https://play.google.com/store/apps/details?id=nu.home.button](https://play
 
 Is your Android physical home button is broken or dead? If yes, then the Multi-action Home Button app can help you to fix it with ease. With the help of it, you can create a button in centre-bottom of your device screen, and you can also add numerous actions to that button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![home button not working android - Multi-action Home Button app](https://images.wondershare.com/drfone/article/2019/02/multi-action-home-button.jpg)
 
 Pros:
@@ -306,6 +398,9 @@ Cons:
 
 URL: [https://play.google.com/store/apps/details?id=com.home.button.bottom](https://play.google.com/store/apps/details?id=com.home.button.bottom)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 Hopefully, the methods covered in this post helps you to fix Android home and back button not working problem for you. If it is a system issue, then the best thing you can do is to take advantage of Dr.Fone - System Repair (Android) software. It can surely help you to fix your Android system to normal within a few minutes.
@@ -318,12 +413,21 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 
 If you're asking **why is my Android phone in black and white**, then you're in luck. Dive into the article below to unravel the causes behind your phone's black-and-white display. Discover insights on addressing this unexpected issue, enhancing your overall mobile experience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![girl pointing at phone with problem](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Part 1. Phone Screen in Black and White? Easy Fixes for Android Devices
 
 Discovering your ZTE Nubia Z60 Ultra going monochrome can be annoying. The section below answers the question: **why did my ZTE Nubia Z60 Ultra phone go black and white?** It involves a combination of software adjustments and careful troubleshooting. Follow the practical solutions below to restore vibrant colors to your device.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![phone display in black and white](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-02.jpg)
 
 ### Accessibility Settings
@@ -336,6 +440,9 @@ Accidental activation of accessibility settings may turn your display monochroma
 
 - **Step 2:** Disable the **Grayscale** or **Color** **Inversion** option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### App Conflicts
 
 Certain third-party apps can cause conflicts, leading to a [black-and-white display](https://drfone.wondershare.com/iphone-problems/iphone-13-black-screen.html). Newly installed apps might be the culprit, affecting your device's color settings. Some apps also have grayscale modes that can impact the overall display. Here's how to fix it:
@@ -343,6 +450,9 @@ Certain third-party apps can cause conflicts, leading to a [black-and-white disp
 - **Step 1**: Identify and uninstall recently installed apps.
 - **Step 2:** Check individual app settings for grayscale modes.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### System Glitches
 
 System glitches or software bugs can trigger display issues. It can result in a black-and-white screen. Outdated software versions may contain bugs affecting color output as well. Regularly checking for software updates can prevent or resolve such glitches. Here's how.
@@ -363,12 +473,18 @@ Battery-saving modes can also alter display settings to conserve energy. It can 
 
 - **Step 2:** Check and adjust battery-saving settings, including toggling power-saving modes on or off.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### Hardware Issues
 
 In rare cases, [hardware issues](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html) may cause a black-and-white display. Physical damage, loose connectors, or problems with the display hardware can impact color reproduction. Identifying and addressing these hardware issues may be crucial for resolving the problem. Here's what you should do.
 
 - **Step 1:** Check for physical damage, loose connectors, or display hardware issues.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![broken android screen](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-06.jpg)
 
 - **Step 2:** Seek professional assistance or contact the ZTE Nubia Z60 Ultra device manufacturer if hardware problems are suspected.
@@ -379,6 +495,9 @@ Consider a reliable third-party tool if your phone persists in black and white d
 
 Dr.Fone is a reliable solution for addressing black-and-white display issues on Android devices. For a stress-free repair experience, follow these simple steps using Dr.Fone - System Repair (Android).
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
@@ -397,6 +516,9 @@ Repair Android System Errors without Any Trouble.
 
 ![dr.fone android repair window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,601,336** people have downloaded it
@@ -407,10 +529,16 @@ Repair Android System Errors without Any Trouble.
 
 - **Step 3:** Follow the on-screen instructions and wait for the program to download the firmware. Once downloaded and verified, Dr.Fone automatically initiates the repair process on your ZTE Nubia Z60 Ultra.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![dr.fone downloading firmware window](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 4:** After a while, your ZTE Nubia Z60 Ultra will have all system issues fixed. Click **Done** to complete the process or choose **Try** **again** if the problem persists, allowing you to repeat the steps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone done repairing window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 **Note**
@@ -514,3 +642,61 @@ The guide provided solutions for display issues and showcased the versatility of
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-story-viewers-uncharted-territory-explored/"><u>[New] 2024 Approved  Instagram Story Viewers  Uncharted Territory Explored</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-premium-editing-platform-tailored-to-vimeo/"><u>[New] 2024 Approved  Premium Editing Platform Tailored to Vimeo</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-surveying-with-style-instagrams-polling-protocols-explained/"><u>[New] 2024 Approved  Surveying with Style  Instagram's Polling Protocols Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-whats-buzzing-the-social-sphere-tiktok-and-twitter-hits/"><u>[New] 2024 Approved  What's Buzzing the Social Sphere? TikTok & Twitter Hits</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-engage-audiences-flawlessly-with-live-screenshares/"><u>[New] Engage Audiences Flawlessly with Live Screenshares</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/everaging-youtube-top-5-digital-strategies-for-brand-success-for-2024/"><u>[New] Leveraging YouTube  Top 5 Digital Strategies for Brand Success for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-free-art-online-a-guide-and-top-sites/"><u>[New] Navigating Free Art Online  A Guide & Top Sites</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-step-by-step-breakdown-hassle-free-ios-device-recordings-for-2024/"><u>[New] Step-by-Step Breakdown  Hassle-Free iOS Device Recordings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-static-text-into-dynamic-elements-on-a-budget/"><u>[Updated] Transforming Static Text Into Dynamic Elements on a Budget</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-v27e-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo V27e Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-y100-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo Y100 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-collection-for-collage-crafting/"><u>2024 Approved  Comprehensive Collection for Collage Crafting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-thumbnails-with-ease/"><u>2024 Approved  Mastering YouTube Thumbnails with Ease</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-storm-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Storm 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-y100a-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo Y100A? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-y100i-power-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo Y100i Power 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-xcover-6-pro-tactical-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy XCover 6 Pro Tactical Edition Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-y100a-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y100A Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-zte-nubia-flip-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix ZTE Nubia Flip 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/from-novice-to-pro-a-guide-for-using-snapchat-for-businesses-for-2024/"><u>From Novice to Pro  A Guide for Using Snapchat for Businesses for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-a18-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo A18 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-poco-m6-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Poco M6 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-pop-7-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Pop 7 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-a-filmmakers-choice-the-top-five-free-audio-jokes-for-creative-videos/"><u>In 2024, A Filmmakers Choice The Top Five Free Audio Jokes for Creative Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-tech-leaders-the-most-advanced-video-capture-software/"><u>In 2024, Tech Leaders  The Most Advanced Video Capture Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-lava-blaze-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Lava Blaze Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-audio-on-windows-best-8-podcast-applications-unveiled/"><u>Mastering Audio on Windows  Best 8 Podcast Applications Unveiled</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-a1x-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A1x 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/poco-m6-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-infinix-gt-10-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix GT 10 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-gt-5-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme GT 5 Pro Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-companion-for-your-vlogging-journey-top-12-cameras-for-2024/"><u>The Ultimate Companion for Your Vlogging Journey - Top 12 Cameras for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-poco-c50-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Poco C50 Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-smart-8-plus-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Smart 8 Plus Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-infinix-smart-7-hd-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Smart 7 HD Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-civi-3-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Civi 3 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>

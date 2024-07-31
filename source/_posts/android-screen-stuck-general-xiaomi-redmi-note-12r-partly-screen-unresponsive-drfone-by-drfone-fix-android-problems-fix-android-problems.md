@@ -1,7 +1,7 @@
 ---
 title: Android Screen Stuck General Xiaomi Redmi Note 12R Partly Screen Unresponsive | Dr.fone
-date: 2024-03-18 16:40:46
-updated: 2024-03-21 23:26:19
+date: 2024-07-30T09:20:09.006Z
+updated: 2024-07-31T09:20:09.006Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Android Screen Stuck General Xiaomi Redmi Note 12R Partly Screen Unresponsive
 excerpt: This article describes Android Screen Stuck General Xiaomi Redmi Note 12R Partly Screen Unresponsive
 keywords: Xiaomi Redmi Note 12R android issues,android guide,Xiaomi Redmi Note 12R fix android problems,Xiaomi Redmi Note 12R android support,Xiaomi Redmi Note 12R android tips,Xiaomi Redmi Note 12R android troubleshooting,Xiaomi Redmi Note 12R android fix,Xiaomi Redmi Note 12R android solutions
-thumbnail: https://www.lifewire.com/thmb/ifJDA6ScbZuUR7Omss65zhVMxok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
 ## Android Screen Stuck: General Xiaomi Redmi Note 12R Partly Screen Unresponsive
@@ -21,6 +21,9 @@ Fortunately, there are ways to overcome this, and one of the best is Dr.Fone. In
 ![hand holding a phone](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-01.jpg)
 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Understanding Stuck and Dead Xiaomi Redmi Note 12Rs on Phone Screens
 
 While dead and ****stuck pixels on the phone**** may seem similar, there are important distinctions between the two. Read on to discover the differences and what causes them.
@@ -29,6 +32,10 @@ While dead and ****stuck pixels on the phone**** may seem similar, there are im
 
 A ****stuck pixel phone**** is always on, so it shows up on a touchscreen as a bright, persistent dot of red, green, blue, or white. Combinations are also possible, and although it is usually stationary, this dot occasionally flickers.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### Dead Xiaomi Redmi Note 12Rs on Smartphones
 
 In contrast to the stuck pixel, the dead pixel subpixels are all left unpowered, turning them off. A ****dead pixel on the phone**** is a tiny, persistent rectangle of black or white color on the part of the phone screen not working.
@@ -45,6 +52,9 @@ It is easy to mistake stuck and ****dead pixels on the phone**** for one other,
 - ****Possibility of repair****. You can quickly fix ****stuck pixels on the phone,****while some may even disappear on their own. However, dead pixels are more challenging to repair.
 - ****Occurrence****. The stuck pixel is a common issue that often affects older or less-used displays, while dead pixels rarely appear on digital cameras and sensors.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Factors That Contribute to Stuck and Dead Xiaomi Redmi Note 12Rs on Mobile Devices
 
 Stuck and ****dead pixels on phone screen****s can happen for various reasons, including manufacturing defects, physical damage, and age-related wear and tear. These ****broken pixels on the phone**** can hurt the user experience, and it is essential to know the root causes to prevent them from occurring in the first place.
@@ -56,6 +66,9 @@ Stuck and ****dead pixels on phone screen****s can happen for various reasons, i
 
 - ****Age-related wear and tear****. Over time, the display on your phone may start to wear out, resulting in the appearance of dead or stuck pixels on the phone. It is more common in older devices and those with high usage rates. Factors such as exposure to sunlight or excessive phone use can also contribute to the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Part 2: How To Fix Dead Xiaomi Redmi Note 12Rs on Phone Screens on Android Devices
 
 It is essential to have the right tools and knowledge to ****fix dead pixels on your phone**** screen. Fortunately, you can use several effective techniques to address the issue. In this section, you will discover step-by-step instructions on how to ****fix dead pixels on phone**** screens on Android devices.
@@ -76,8 +89,14 @@ Before attempting to fix a ****dead pixel on a smartphone**** screen, it is nec
 
 ****Step 4:**** Finally, ensure that your screen is clean and free from any smudges or dirt that could affect the accuracy of fixing ****dead pixels on the phone****. You can use a microfiber cloth to clean your screen gently, making sure not to apply too much pressure or use any harsh chemicals that could damage the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![wiping phone screen with clean cloth](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-06.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 2: Restart Your Xiaomi Redmi Note 12R
 
 This method may seem simple, but it can be the most effective solution to your problem. Here is how you restart most smartphones available in the market.
@@ -108,6 +127,9 @@ Visit the help page for your device's manufacturer to learn how to activate and 
 
 ****Step 3:**** To resolve issues related to a problematic app on your phone, remove the most recent downloads one at a time, and restart your phone after each uninstallation. Check if uninstalling the app resolves the issue. Once you know the problematic app, you may install the other applications you deleted again.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 4: Perform Factory Data Reset
 
 Consider a factory data reset if the previous options did not resolve your issue with stuck or dead pixels on the phone screen. This process will erase all data from your device, so remember to back up any important information before proceeding.
@@ -116,22 +138,35 @@ Consider a factory data reset if the previous options did not resolve your issue
 
 **Step 2:** Choose ****System > Reset > Erase all data (factory reset) > Erase all data****.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smartphone reset settings](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-09.jpg)
 
 **Note:**
 
 It is crucial to wait for the system to finish deleting all data during the factory data reset. For instructions tailored to your device, see your manufacturer's help page.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 5: Use [<u>Wondershare Dr.Fone </u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)  – Complete Mobile Solution
 
 Dealing with the ****stuck pixels on the phone**** can be a challenging issue to tackle. Although Dr.Fone may not be able to fix this issue directly, it can still provide support with other problems you might face during the process. This includes content backup and recovery, as well as system repair for other system issues such as a black screen, being stuck in a boot loop, forced termination, and more. In this section, you'll learn how to use Dr.Fone's System Repair feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ****Step 1:**** Install and launch [<u>Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/), then click ****System Repair****.
 
 ****Step 2:**** Choose either ****Android**** or ****iPhone,**** depending on the type of device you have.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wondershare Dr.Fone  device type](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 ****Note:****
@@ -142,6 +177,10 @@ Wondershare Dr.Fone provides support for Xiaomi Redmi Note 12R S22 as well as ot
 
 ****Step 4****: Choose the corresponding ****Brand****, ****Name****, ****Model****, ****Country****, and ****Carrier**** from each drop-down menu and click ****Next****.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Wondershare Dr.Fone  device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 ****Step 5:**** Connect your device to your computer and follow the in-app instructions to enter the ****Download mode****, then click ****Next****.
@@ -161,6 +200,9 @@ The good thing is Dr.Fone can help you with these issues, making the process eas
 - ****Ease of use****. The software is user-friendly and easy to navigate, making it accessible to anyone without advanced technical knowledge.
 - ****Safety****. The software is safe and secure, ensuring that your data is not compromised during the process. This feature is for users concerned about the confidentiality of their data and wants to ensure that their personal information is not shared or stored on the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Frequently Asked Questions
 
 Aside from the methods and tools discussed for fixing ****dead pixels on phone screen****s and ****stuck pixels on the phone****, you may still have some questions regarding the issues. Whether you are dealing with a single stuck pixel or a cluster of dead pixels, this section aims to provide you with helpful insights.
@@ -177,14 +219,24 @@ Dead pixels cannot spread because each pixel functions independently of the othe
 
 It simply signifies that this specific area of your screen had poor manufacturing quality or is physically damaged if you have a patch of closely spaced ****dead pixels on your phone****. When a group of dead pixels is close together, it indicates localized damage or defect to that specific area. So, the pixels in that region no longer produce light or color.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. How Many Stuck Xiaomi Redmi Note 12Rs Are Acceptable?
 
 It frequently happens throughout the LCD manufacturing process when one or more subpixels enter an unchanging state, leading to a bright or lifeless pixel. Generally speaking, an acceptable display has 1 to 5 fixed subpixels.
 
 In addition, the essential factor in comparing dead pixel policies is whether or not the policy permits the Xiaomi Redmi Note 12R devices to be returned, swapped, or repaired when this frequent issue arises.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 You have learned the difference between a stuck and ****dead pixel on the phone****. With this knowledge, you can apply the different tools and techniques for removing ****stuck pixels on phone**** screens and how to work around dead pixels on the phone screen. Whether using software like Dr.Fone or employing manual methods such as rebooting or cleaning your device, there are various options you can try.
@@ -196,6 +248,9 @@ Remember to back up your data before attempting any fixes and to seek profession
 SIM cards are small chips that act as a connecting medium between your cell phone and your carrier. It is programmed to help your carrier identify your cell phone account with certain information. And eventually, you are enabled to make calls and to make use of mobile internet. Now, if your device is showing “SIM not provisioned” on Android then it signifies that the connection to carrier network cannot be established or perhaps, your carrier isn’t able to identify your cell phone account.
 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Part 1. Why does the error “SIM not provisioned MM#2” pop up?
 
 There can be numerous reasons behind the pop up that reads “SIM not provisioned” on Android. But basically, it most probably affects the users who have registered a new SIM card. If you get to experience this issue in other situations or if the SIM is not working in Android, then the problem is with the SIM card and needs to be replaced. Anyways, here is a list of situations when the “SIM not provisioned” error may bother you.
@@ -219,6 +274,9 @@ Without talking any further, let’s straightly get to the first and the easiest
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix "SIM not provisioned MM#2" error
@@ -237,6 +295,9 @@ Step 1. Connect your Xiaomi Redmi Note 12R
 
 Download and launch the Dr.Fone toolkit on your computer and then opt for the "System Repair" option from the main interface. Meanwhile, get your Xiaomi Redmi Note 12R connected with the computer using a genuine cable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fix sim not provisioned on android - install the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2. Opt for Android Repair and key in important information
@@ -255,6 +316,9 @@ Step 4. Initiate Repairing
 
 As soon as the download completes, the software verifies the firmware and automatically initiates repairing your Xiaomi Redmi Note 12R. Within a short period, you’ll notice that your Xiaomi Redmi Note 12R has been successfully repaired.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix sim not provisioned on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
@@ -288,6 +352,9 @@ Note: The aforementioned options are straightforward and are quick ways to enabl
 
 Even if your SIM isn’t activated, grab another working device to make a phone call to your carrier or network. Ensure, to explain the entire situation and the error message to them. Be patient while they investigate the issue. It may eat up a heck load of time or may get resolved in a few minutes that completely depend upon the complexity of the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![fix SIM not working in android - contact carrier](https://images.wondershare.com/drfone/article/2019/05/contact-carrier.jpg)
 
 ### 2.6 Try the other SIM card slot
@@ -296,6 +363,9 @@ A yet another reason why SIM not working in Android can be because of the SIM ca
 
 ![fix SIM not responding - try another slot](https://images.wondershare.com/drfone/article/2019/05/insert-sim-properly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.7 Try the SIM card in other phones
 
 Or just in case, you’ve still no joy and the SIM not provisioned on Android message is bothering you. Try making use of another Android device. Eject the SIM card from the Xiaomi Redmi Note 12R device which is creating problems and try plugging it into other Xiaomi Redmi Note 12R] and other smartphones. Perhaps, this will let you know whether the issue is with your device only or with the SIM card itself.
@@ -310,8 +380,15 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Resolve Xiaomi Redmi Note 12R Screen Not Working
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 [![](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 Nothing is more frustrating than your phone's touch screen becoming unresponsive. Given the importance of smartphones in daily work, a phone with a touch screen not working can badly affect your routine. It is an issue found in most smartphone brands, even among Xiaomi Redmi Note 12R phones, known for their efficient performance. If your ****Xiaomi Redmi Note 12R screen is not working****, it can be an exhausting experience.
@@ -322,6 +399,9 @@ Luckily for your, multiple ways are available to resolve this issue. This articl
 
 Answering what causes Xiaomi Redmi Note 12R screen unresponsiveness is difficult. Many reasons, ranging from minor bugs to serious hardware issues, can cause it. To find out the exact or near exact reason, you will have to review your device's activity before this issue occurs. You can use the following common reasons behind the ****Xiaomi Redmi Note 12R 6T touch screen not working**** as the basis of your investigation:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### 1\. Touchscreen Calibration
 
 Excessive smartphone use can cause the touchscreen to go out of the required settings. It means until the touch screen is not recalibrated properly, the touch not working issues will continue to pop up.
@@ -334,10 +414,16 @@ If your device's battery is damaged or is at the end of its lifespan, it can cau
 
 The presence of corrupted system files is also a significant cause of such issues. These corrupted files can also lead to serious performance issues on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Conflicting Settings
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: The Common Solutions to Solve a Xiaomi Redmi Note 12R Screen Unresponsive
 
 Fixing the ****Xiaomi Redmi Note 12Rscreen not working**** is easy as long as it is not a serious hardware issue. While there are multiple ways to solve this problem, we have chosen the 6 most common and easy solutions. Listed below are the 6 common solutions to solve a Xiaomi Redmi Note 12R screen unresponsive:
@@ -348,8 +434,14 @@ As with any other issue or device, the first fix you should always try first is 
 
 ****Instruction:**** Press and hold the “Power” button for a couple of seconds until it turns off. Wait a few moments and then use the “Power” button to turn on the Xiaomi Redmi Note 12R device. In some of the Xiaomi Redmi Note 12R devices, you also have to use the “Volume Down” button along with the “Power” button to restart the Xiaomi Redmi Note 12R device.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ### Solution 2. Check the Charging Port and Battery
 
 The issues with the battery of your Xiaomi Redmi Note 12R 5 can also lead to ****Xiaomi Redmi Note 12R not working****. It can be due to your device's low or near-empty battery. While in some cases, serious issues with the battery can also be behind this problem. Similarly, the reason behind your phone's touch not working can be charging port issues.
@@ -364,20 +456,32 @@ It is an excellent option if your Xiaomi Redmi Note 12R device's touch is not wo
 
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### Solution 4. Wipe the Cache of Your Xiaomi Redmi Note 12R Device
 
 A common reason for ****Xiaomi Redmi Note 12R Nord being stuck on the loading screen**** is the filled cache partition. If you do not clean out the cache partition of your Xiaomi Redmi Note 12R device, its performance will degrade. As a result, your device will experience issues like the touch screen not working or getting stuck at the loading screen. Here is how you can clear the cache of your Xiaomi Redmi Note 12R device:
 
 ****Step 1:**** Turn off your device by pressing and holding the “Power” button. Once it is turned off, press and hold the “Power” and “Volume Down” buttons until you see the Xiaomi Redmi Note 12R logo.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![wait for oneplus logo](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-3.jpg)
 
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
 
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
 ### Solution 5. Reset to Factory Settings
@@ -392,6 +496,9 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 6. Replace the Old Screen with A New Screen
 
 If none of the above-mentioned fixes have worked so far, you should replace the touch screen. Replacing the touch screen is recommended in case of hardware and severe software issues. However, it can be quite an expensive fix as new touch screens aren't cheap. The prices for new touchscreens differ depending on the model. These prices start from $20 and go up to hundreds of dollars.
@@ -407,6 +514,9 @@ Protecting your Xiaomi Redmi Note 12R device against system issues like touch no
 
 A new version of Dr.Fone is expected to release in the latter half of this month. The new version will include many improvements, advanced features, and increased device support. Furthermore, it will also have a better and more user-friendly interface.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone phone toolbox](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-8.jpg)
 
 ## Conclusion
@@ -430,3 +540,56 @@ To sum up this article, it can be said that issues like ****Xiaomi Redmi Note 12
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-add-music-to-instagram-reels/"><u>[New] 2024 Approved  How to Add Music to Instagram Reels?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spiritual-slow-motion-videoworkshop/"><u>[New] Spiritual Slow-Motion Videoworkshop</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-essential-8-platforms-for-private-screenings/"><u>[Updated] Essential 8 Platforms for Private Screenings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-free-range-humor-development-unleash-your-wit/"><u>[Updated] Free-Range Humor Development  Unleash Your Wit</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-echoes-of-everyday-events/"><u>[Updated] In 2024, Echoes of Everyday Events</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-tecno-camon-20-premier-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Tecno Camon 20 Premier 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-y100a-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo Y100A Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-nokia-c32-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Nokia C32 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-honor-play-7t-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Honor Play 7T Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-gt-neo-5-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme GT Neo 5? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-redmi-13c-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi Redmi 13C 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oneplus-ace-3-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for OnePlus Ace 3 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oppo-reno-9a-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo Reno 9A Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-google-pixel-7a-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Google Pixel 7a? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-zero-5g-2023-turbo-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Zero 5G 2023 Turbo Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-tecno-spark-20-proplus-device-sim-by-drfone-android/"><u>Easily Unlock Your Tecno Spark 20 Pro+ Device SIM</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y02t-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y02T Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-lava-blaze-2-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Lava Blaze 2 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2000-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2000 by digital signature</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-hot-40i-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Hot 40i Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-prevent-freezing-of-streamed-videos-in-chrome/"><u>In 2024, Prevent Freezing of Streamed Videos in Chrome</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-speedy-sound-solutions-for-smartphone-users/"><u>In 2024, Speedy Sound Solutions for Smartphone Users</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-pop-8-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pop 8 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-c55-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme C55 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/transform-ppt-content-into-digital-filmstrip-for-2024/"><u>Transform PPT Content Into Digital Filmstrip for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-y100i-power-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo Y100i Power 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-correcting-the-issue-seeing-phone-numbers-instead-of-names-on-callsmessages/"><u>Understanding and Correcting the Issue: Seeing Phone Numbers Instead of Names on Calls/Messages</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-s18-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo S18 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-itel-a60-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Itel A60 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-y78-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y78 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-reno-8t-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo Reno 8T 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-v29e-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo V29e Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/zte-nubia-flip-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Nubia Flip 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+</ul></div>

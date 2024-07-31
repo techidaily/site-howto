@@ -1,7 +1,7 @@
 ---
 title: 9 Solutions to Fix Process System Isnt Responding Error on Oppo Find N3 | Dr.fone
-date: 2024-05-20T09:03:32.926Z
-updated: 2024-05-21T09:03:32.926Z
+date: 2024-07-30T08:57:34.214Z
+updated: 2024-07-31T08:57:34.214Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 9 Solutions to Fix Process System Isnt Responding Error on Oppo Find N3
 excerpt: This article describes 9 Solutions to Fix Process System Isnt Responding Error on Oppo Find N3
 keywords: android guide,Oppo Find N3 android tips,fix android problems,Oppo Find N3 android support,android fix,Oppo Find N3 android guide,android solutions
-thumbnail: https://www.lifewire.com/thmb/FN7XGTj25e9fUSdywINjYYIsMCI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545864051-5c29cf6346e0fb0001d25712.jpg
+thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea3bc2d6cdbbe36e4703b4b56.jpg
 ---
 
 ## 9 Solutions to Fix Process System Isn't Responding Error on Oppo Find N3
@@ -41,6 +41,9 @@ No matter what the cause is, there are plenty of ways to overcome this issue. We
 
 When this error occurs, it can disrupt the normal operation of the Oppo Find N3 device, causing apps to freeze or crash. Fortunately, there are several effective methods to address this problem.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### Fix 1: Restart your device
 
 This is one of the easiest ways to resolve the **process system not responding** error. If you are getting this error on your phone, then try to manually restart your device. The way to restart your phone might differ from one device to another. Mostly, it can be done by long-pressing the power button. This will provide different power options. Tap on the “Reboot” one to restart your phone.
@@ -49,6 +52,10 @@ This is one of the easiest ways to resolve the **process system not responding**
 
 If it won’t work, then long press the Power and Volume up buttons at the same time until the screen goes off. Afterward, use the power button again to turn it on.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![force restart android](https://images.wondershare.com/drfone/article/2023/07/process-system-isnt-responding.jpg)
 
 ### Fix 2: Reset App Preferences
@@ -57,6 +64,9 @@ Sometimes the apps interfere with the Oppo Find N3 device's settings because the
 
 Proceed to the “Apps and Notifications” settings from the Settings app. Next, tap the “See All Apps” option and access the “Three Dots” menu. Here select the “Reset App Preferences” option and confirm the process from the confirmation pop-up.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset the app preferences](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-1.jpg)
 
 ### Fix 3: Free Up Space to Make Sure Android Have Enough Internal Memory
@@ -71,6 +81,18 @@ In case the Android internal memory is completely filled, it will slow down the 
 
 ![press the free up button](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Enter Safe Mode to Uninstall Suspicious Apps
 
 This issue can also occur if you have installed an app from the Google Play Store with a very low rating or an APK. Unlike Apple App Store, anyone can easily upload their mobile apps on Play Store, so it is important to check the app's credibility before installing it. Following are the simplified instructions to enter the safe mode and delete all suspicious applications:
@@ -85,18 +107,36 @@ Updating the apps is crucial for any Android device to work with high efficiency
 
 **Step 1:** Locate the Play Store from the Android home screen and access it. Then, tap the “Profile” icon from the top right corner and proceed to the “Manage apps and devices” option. Afterward, you can check how many app updates are available from the “Updates available” option. To update the apps, you will have to go inside this option.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the updates available](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-5.jpg)
 
 **Step 2:** You can tap on the “Update All” button if you want to update all the apps one by one. Otherwise, you can press the “Update” option adjacent to each app name to update the frequently used ones.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![update the pending updates](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### Fix 6: Check the SD card
 
 If you are still getting the **process system isn’t responding** to Android error, then chances are that there could be an issue with your SD card. Firstly, check if your SD card is working fine or not. If it is corrupted, then get another memory card for your phone. Also, it should have a prominent amount of free storage. You might be facing this issue if the SD card has limited free space.
 
 Also, if you are storing apps on the SD card, then your phone might encounter the process isn’t responding issue whenever you run a respective app. Therefore, you should move apps from your SD card to the phone’s internal memory. To do this, go to your phone’s Settings > Application Manager and select any app. If the app is stored on the SD card, then you will get an option of “Move to devise storage”. Just tap on it and manually move every app to your device storage.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![move to device storage](https://images.wondershare.com/drfone/article/2017/06/14980670154176.jpg)
 
 ### Fix 7: One click to fix the process system isn't responding error
@@ -107,6 +147,9 @@ If all the above tricks don't get your device out of the process system not resp
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix all Android system issues in one click
@@ -122,6 +165,9 @@ Android repair tool to fix all Android system issues in one click
 
 - 1\. Download and install the Dr.Fone tool. Then select "System Repair" from the main window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![android repair to fix process system not responding](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - 2\. Connect your Oppo Find N3 to the PC. After the Oppo Find N3 device is detected, select the "Android" tab.
@@ -134,6 +180,9 @@ Android repair tool to fix all Android system issues in one click
 
 - 4\. Download the firmware and click "Fix Now".
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix process system not responding by confirming device details](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - 5\. After a while, your Android will be repaired with the "process system isn't responding" error fixed.
@@ -161,6 +210,9 @@ Flexibly Back up and Restore Android Data
 
 If your phone is functioning, then you can easily factory reset it by visiting Settings > General > Backup & Restore and selecting the option of “Factory Data Reset”. Your device will display a warning regarding all the data files that would be lost or un-synced. Just tap on the “Reset” button to factory reset your device.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset phone](https://images.wondershare.com/drfone/article/2017/06/14980670512565.jpg)
 
 If your device is not functioning or locked, then you can perform the factory reset operation by putting your phone into Recovery mode. Most of the time, it can be done by pressing the Power and Volume up button simultaneously for at least 10 seconds. Though, the key combinations might change from one device to another.
@@ -175,10 +227,17 @@ It has been further discovered that the process system isn’t responding error 
 
 You can always download either SuperSU or SuperSU Pro app from its website [here](https://supersuroot.org/). Simply install it on our device and launch it whenever you wish to unroot it. Visit its “Settings” tab and select the option of “Full unroot”.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![full unroot](https://images.wondershare.com/drfone/article/2017/06/14980671048148.jpg)
 
 This will generate a warning message regarding all the repercussions of the unrooting process. Just tap on “Continue” to initiate the process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![continue unroot](https://images.wondershare.com/drfone/article/2017/06/14980671247132.jpg)
 
 If you are using an older version of Android, then you might get another pop-up to restore boot images. Simply make the desired selection and start the process. After a while, your device would be restarted the usual way, and it would be unrooted. Most probably, this will resolve the process system isn’t responding error as well.
@@ -193,6 +252,9 @@ Now that you know different ways to fix the **process system not responding** er
 
 “Unfortunately TouchWiz home has stopped” is the talk of the town due to annoying TouchWiz UI, a front-end user interface developed by Oppo Find N3. Not to mention, the Oppo Find N3 has borne a whole lot of heat from its agitated users over the years and the reason is pretty much obvious due to the pre-installed bloatware apps and the theme launch “TouchWiz home”. That not just brutally annoys users and eats up a heck of internal storage space but lags up too often due to low speed and stability. As a result users end up with “Unfortunately TouchWiz home has stopped” and “Unfortunately, TouchWiz has stopped”. Apparently, there are several flaws in the design and functioning of this launcher and hence, Touchwiz keeps stopping or becomes unresponsive.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Common scenarios when TouchWiz keeps stopping
 
 Here in this section, we will introduce some scenarios that can be blamed for why **_TouchWiz is not working_**. Check out the following points:
@@ -235,12 +297,18 @@ After you open the software, hit on the “System Repair” button from the main
 
 Now, from the next screen, you are supposed to choose “Android Repair” tab. It is given on the left panel.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![repair android to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step 4: Enter Right Information**
 
 Please keep your mobile details handy as you will need them in the next window. You will need to enter the correct brand, model, and country name etc. for better detection of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter device info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step 5: Confirm Actions**
@@ -261,6 +329,9 @@ You will get some instructions on your screen to keep your device in Download mo
 
 Now, when the firmware is downloaded, the program will itself begin to repair your device. Wait and keep the Oppo Find N3 device connected until you get the notification for process completion.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![get android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ### Clear the cache data the TouchWiz
@@ -275,10 +346,16 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 - Now, tap “Clear Data” followed by “OK”.
 - Now restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![clear cache to fix touchwiz home stopping](https://images.wondershare.com/drfone/article/2019/02/clear-cache-touchwiz.jpg)
 
 Please note that this will delete all your Home screens post this method.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disable Motion & gesture settings
 
 The functions regarding Motions and Gestures can be responsible for why **_TouchWiz home has stopped_** in your device. Usually the Oppo Find N3 devices running on Android version less than Marshmallow are prone to encountering this issue. Or the Oppo Find N3 devices having modest specs often fall prey to the issue. When you disable these settings, you might get out of the problem.
@@ -307,10 +384,16 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 - Open “Settings” and go to “Personalization”.
 - Hit on “Easy Mode” now.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![easy mode to fix TouchWiz stopping](https://images.wondershare.com/drfone/article/2019/02/easy-mode.jpg)
 
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Boot your phone to safe mode
 
 Here is the next solution to be followed when TouchWiz keeps stopping. As we already said, third-party apps can cause this issue, booting your device in the Safe mode will disable those apps temporarily. Hence you need to boot your Oppo Find N3 device to Safe mode and check if the reason is any third-party app.
@@ -323,6 +406,9 @@ Here is the next solution to be followed when TouchWiz keeps stopping. As we alr
 
 ![safe mode](https://images.wondershare.com/drfone/article/2019/02/enable-safe-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Reset Factory settings
 
 If the above method went futile and you’re still at the same place, then factory reset is the next logical step to be taken. We suggest this method because it will take your device to its factory state. As a result, TouchWiz will probably get normal and work perfectly.
@@ -333,6 +419,9 @@ Along with this, we would also suggest you go take backup of your data so that y
 - Notice if “Back up my data” is enabled or not. If not, turn it on and create backup.
 - Now, scroll for “Factory Data reset” option and confirm it by clicking “Reset Phone”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reset factory settings](https://images.wondershare.com/drfone/article/2019/02/reset-factory-settings.jpg)
 
 - Wait a few minutes and your device will reboot.
@@ -341,6 +430,9 @@ Along with this, we would also suggest you go take backup of your data so that y
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What To Do When Oppo Find N3 Has Black Screen of Death?
 
 Have you ever got the error of freezing the Android device home screen? Or the notification light keeps blinking without anything shown on display? Then you are facing Android black screen of death.
@@ -368,12 +460,18 @@ Similar to the "[Blue Screen of Death](https://drfone.wondershare.com/android-is
 
 If you face the situations mentioned above, this is clearly a case of the Android screen black. But don't worry about that. You can follow the article below to get rid of this situation on your own.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to rescue data when Android gets black screen of death?
 
 This annoying Android black screen of death is making it impossible to access your internal data. So, the possibility is that you might lose all the data. We have a solution for all of your data recovery problems from a damaged Android device.
 
 The solution for recovery data is the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html) toolkit by Wondershare. This tool is highly appreciated worldwide and very popular for its feature-rich user interface. This tool can perform a lot of functions that can successfully recover the data from a damaged device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Dr.Fone - Data Recovery (Android)](https://images.wondershare.com/drfone/guide/recover-data-from-android-device-3.png)
 
 Use this revolutionary toolkit to get the data back from the black tablet screen of death. Connect the Oppo Find N3 device with the PC after installing this tool and follow the on-screen instruction, and all of your data will be transferred to your PC. Unfortunately, the tool is supported on selected Oppo Find N3 Android devices as of now.
@@ -403,6 +501,9 @@ A Dedicated Tool to Retrieve Data from [Broken Android Devices](https://www.wond
 - [3.8 Reboot to safe mode](https://drfone.wondershare.com/android-issue/android-black-screen-of-death.html#part3.8)
 - [3.9 Factory reset to fix Android black screen of death](https://drfone.wondershare.com/android-issue/android-black-screen-of-death.html#part3.9)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### 3.1 One click to fix the black screen of death
 
 Facing an Android device with a black screen of death, I believe, is one of the gloomiest moments of one's life, especially for those who know little about the technical part of Android. But here is the truth we have to admit: most cases of the black screen of death arise due to system glitches in Android.
@@ -434,24 +535,41 @@ Fix Black Screen of Death for Android In One Click
 
 3. Click "Start" to commence the Android system repair. In the next screen, select and confirm your Android model details like name, model, country, etc. and go on.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
     ![choose android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 4. Boot your Android into Download mode by following the on-screen demonstrations.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
     ![boot to download mode to fix android black screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 5. Then the tool will download the Android firmware and flash the new firmware to your Oppo Find N3.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
     ![fixing android black screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 6. A moment later, your Oppo Find N3 will be repaired completely, and the black screen of death will be fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
     ![android brought out of black screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 **Video guide: How to fix the Android black screen of death step by step**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/06HDyPDOBqM?ecver=1"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### 3.2 Force restart your Oppo Find N3
@@ -464,6 +582,9 @@ Step 1: Press and hold the power button for about 10-15 seconds. Keep holding it
 
 Step 1: For Oppo Find N3 devices, press and hold down the Power and Volume Down buttons for about 7 seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![force restart android](https://images.wondershare.com/drfone/article/2023/08/android-black-screen-of-death.jpg)
 
 ### 3.3 Check and clean your phone
@@ -478,6 +599,9 @@ Step 3: If the phone isn’t charging normally, ensure the charging port isn’t
 
 Step 4: After you’re done with the cleaning, it’s best to charge the phone for at least 10 minutes. Just give it a quick charge and then try to restart it.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wa stickers](https://images.wondershare.com/drfone/article/2023/08/android-black-screen-of-death-1.jpg)
 
 ### 3.4 Remove the battery
@@ -526,6 +650,9 @@ Step 7: Use the Volume Down button to navigate to the "Reboot system now" option
 
 After rebooting, you can see that you have successfully got rid of the annoying Android black screen of death. For most of the cases, this method solves the problem. If not, you have to move to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.7 Uninstall incompatible apps
 
 Android screen black can be a result of installing a bug or incompatible apps. If you have recently installed an app that crashes frequently, that may be the reason for the issue. Uninstalling the app from the Oppo Find N3 device may solve the problem with ease. For doing this, you need to boot your device in Safe mode. Follow the below steps.
@@ -540,12 +667,18 @@ Step 4: After selecting Settings, head to the Apps section.
 
 Step 5: Select the app by clicking on it; the App Info window should appear. To uninstall the app, tap the Uninstall option from the menu below the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![uninstall app on android phone](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-a-black-screen-on-android-phones-05.jpg)
 
 Step 6: Now restart the Oppo Find N3 device by pressing the power button and let it boot up in normal mode.
 
 If the app is the reason for Android black screen of death, then after uninstalling, you can get rid of this issue. If not, now you have to factory reset your device to solve the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### 3.8 Reboot to safe mode
 
 Even after multiple attempts to launch them, certain applications act suspiciously and cause the Oppo Find N3 device to crash. When an Android phone suddenly goes black, you can often isolate the problem to a specific app by booting into Safe mode.
@@ -560,6 +693,9 @@ Step 3: Activate Safe mode by clicking the “Safe Mode” icon.
 
 Step 4: To return to Normal mode, turn off your device and then turn it back on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### 3.9 Factory reset to fix Android black screen of death
 
 The factory reset is the option that enables the factory state of your device by erasing all data, settings, bugs, and apps. Your device will be fresh like factory condition after this reset. Worth mentioning here, you’ll lose all the internal data and installed apps after this reset. So, to overcome the Android tablet black screen of death, you must perform this action as the last option. Follow the below steps carefully.
@@ -568,12 +704,18 @@ Step 1: Turn off the Oppo Find N3 device. Then press the Volume Up + Power butto
 
 Step 2: After booting up in recovery mode, you can find the "Factory data reset" option. Navigate to that option with the volume up and down arrow and select it with the power button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Factory data reset](https://drfone.wondershare.com/images/article/2017/06/14987030401463.jpg)
 
 Step 3: In this step, you need to confirm your action by tapping on the “Yes” option. After this, your device will start erasing. This may take a while to complete the whole process.
 
 Now, your device will reboot automatically and you can see the Android black screen of death problem is solved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Part 4: How to avoid Android black screen of death?
 
 These are the general methods to overcome the situation of Android screen black. But to avoid this situation, here are a few tips to follow –
@@ -596,6 +738,9 @@ There could be a lot of reasons why an Android black screen issue occurs, but th
 
 But among the methods discussed above, Dr.Fone – System Repair just stood out as this program does not only help you with a black screen of death problem, but it covers many other Android system issues too. It’s also a highly intuitive program that requires no skills to operate.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 
@@ -615,3 +760,39 @@ But among the methods discussed above, Dr.Fone – System Repair just stood out 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-streamers-checklist-secure-video-ad-revenue/"><u>[New] 2024 Approved  Streamer's Checklist  Secure Video Ad Revenue</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-dissecting-the-digital-language-meanings-of-fb-messengers-blue-emoji/"><u>[New] In 2024, Dissecting the Digital Language  Meanings of FB Messenger’s Blue Emoji</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quickstart-to-flawless-nft-artistry-for-beginners/"><u>[New] Quickstart to Flawless NFT Artistry for Beginners</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-reels-a-prodigys-blueprint/"><u>[Updated] 2024 Approved  Instagram Reels  A Prodigy’s Blueprint</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>[Updated] Grandview Media  Mastering the Art of Selecting a CMS</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-prime-anglers-selection-leading-fishing-cameras-ranked/"><u>2024 Approved  Prime Anglers' Selection  Leading Fishing Cameras Ranked</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-itel-p40plus-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Itel P40+ Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-poco-f5-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Poco F5 Pro 5G?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-htc-u23-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from HTC U23 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/infinix-hot-30i-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 30i Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/joke-jamboree-on-tiktok-the-best-hilarious-video-threads-for-a-laugh-for-2024/"><u>Joke Jamboree on TikTok  The Best Hilarious Video Threads for a Laugh for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/nubia-red-magic-8s-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Red Magic 8S Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-edge-40-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Edge 40 Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-google-pixel-8-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Google Pixel 8 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/skip-past-fb-video-ads-effectively/"><u>Skip Past FB Video Ads Effectively</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-redmi-12-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi Redmi 12 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y100t-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100t Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>

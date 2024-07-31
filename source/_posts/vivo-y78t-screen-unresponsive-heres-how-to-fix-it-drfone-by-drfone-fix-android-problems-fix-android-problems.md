@@ -1,7 +1,7 @@
 ---
 title: Vivo Y78t Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-03-20 17:15:36
-updated: 2024-03-21 17:55:54
+date: 2024-07-30T12:08:43.526Z
+updated: 2024-07-31T12:08:43.526Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Vivo Y78t Screen Unresponsive? Heres How to Fix It
 excerpt: This article describes Vivo Y78t Screen Unresponsive? Heres How to Fix It
 keywords: Vivo Y78t android troubleshooting,android problems,Vivo Y78t android issues,Vivo Y78t android help,fix android problems,android support,Vivo Y78t fix android problems,android help,Vivo Y78t android fix,android issues,android fix,Vivo Y78t android solutions
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## Vivo Y78t Screen Unresponsive? Here's How to Fix It
@@ -18,6 +18,9 @@ Vivo Y78t phones have become increasingly popular due to their advanced features
 
 This article aims to provide solutions for Vivo Y78t phone users experiencing screen unresponsiveness. We will explore various reasons this issue may occur and discuss step-by-step instructions for fixing the problem. So, if your **Vivo Y78t touchscreen is not working**, don't worry – we've got you covered!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Causes A Vivo Y78t Screen Unresponsive?
 
 There are several reasons why a Vivo Y78t phone's screen may become unresponsive. Some common causes include software issues, hardware problems, or issues with the touchscreen itself. It's essential to identify the root cause of the problem to fix it properly.
@@ -48,6 +51,9 @@ It is the most commonly used method to fix Vivo Y78t's touch screen and power bu
 
 Sometimes, the tablet screen may become unresponsive due to a software issue preventing the Vivo Y78t device from functioning correctly. Leaving the Vivo Y78t device unused and draining the battery helps resolve these issues. After fully discharging the battery, the Vivo Y78t device can be recharged and turned back on, potentially resolving the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3. Contact Custom Service
 
 ![xiaomi contact customer service](https://images.wondershare.com/drfone/article/2023/03/xiaomi-customer-service-1.jpg)
@@ -56,6 +62,9 @@ If restarting the Vivo Y78t device or allowing the battery to drain doesn't reso
 
 In addition to the common solutions we discussed earlier, some model-specific solutions can help resolve the screen unresponsiveness issue on Vivo Y78t Y2 and Vivo Y78t 5A.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4. Optimize Device Performance
 
 One solution is to optimize the Vivo Y78t device performance by clearing the cache, removing unwanted apps, and disabling unnecessary features. This method can help free up memory and resolve the issue.
@@ -101,8 +110,16 @@ Here's how to fix repair screen unresponsiveness or any software-related issues 
 
 To avoid facing a Vivo Y78t screen unresponsive issue, users can take several preventative measures. One important step is to update the Vivo Y78t phone regularly to ensure the software is up to date and all bugs and glitches are fixed. Users can also use tools like Dr. Fone to regularly manage and repair data, including clearing cache and removing unwanted apps. It is also important to use quality charging cables and avoid exposing the Vivo Y78t device to extreme temperatures or humidity, which can damage the internal components and potentially cause screen unresponsiveness. Finally, users can avoid dropping or mishandling the Vivo Y78t device, leading to physical damage and causing the screen to become unresponsive. Users can help prevent screen unresponsiveness by taking these steps and ensuring their Vivo Y78t device runs smoothly and reliably.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Encountering a Vivo Y78t screen unresponsive issue can be a common problem for some Vivo Y78t phone users. However, with the solutions we have provided in this article, you can effectively solve the problem and get your phone back up and running in no time. It's important to remember to regularly back up your data and take preventative measures, such as avoiding harmful malware and keeping your phone updated, to avoid experiencing this issue in the future.
@@ -111,12 +128,18 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Vivo Y
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## 8 Ultimate Fixes for Google Play Your Vivo Y78t Isn't Compatible
 
 Nowadays, keeping yourself informed about the newest apps and features is essential. Have you encountered the error message "**Google Play your device isn’t compatible with this version**?” When attempting to download or update an application, this problem can pose a significant obstacle. The good news is that you can now alleviate those concerns.
 
 In this article, we delve into how to resolve the "**your device isn’t compatible with this version Google Play**” error. It will discuss the top 8 ultimate fixes for this vexing issue that many Android users face. From practical tips to advanced solutions, this article aims to empower you with the knowledge to overcome this challenge.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Reasons Behind Your Device Isn’t Compatible With This Version Play Store
 
 Encountering the frustrating "**your device isn’t compatible with this version Google Play**" error can be disruptive. That's why it is essential to go through the underlying reasons causing this compatibility issue:
@@ -125,6 +148,9 @@ Encountering the frustrating "**your device isn’t compatible with this version
 
 One of the primary culprits behind the compatibility error is [<u>outdated OS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html). App developers release updates to keep up with the latest features and security patches. That's why an obsolete OS version on your device may render it incompatible with the newer app versions available on the Google Play Store.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Insufficient Hardware Requirements
 
 Each application has specific hardware prerequisites that your device needs to fulfill. In case your smartphone does not meet the required specifications, you won't be able to utilize the app. Thus, Google Play Store may restrict access to certain applications, citing compatibility issues.
@@ -133,6 +159,9 @@ Each application has specific hardware prerequisites that your device needs to f
 
 Cache files are designed to enhance the speed and efficiency of app loading. Yet, they can sometimes become corrupt. When this occurs, it disrupts the app's normal operation. Clearing these corrupted cache files is often a crucial step.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Geographic Restrictions
 
 In certain cases, app developers or Google Play itself may impose geographic restrictions. This could lead to compatibility issues if your device is located in an area where the app is restricted. Understanding the geographical availability of an app is vital in finding the root cause.
@@ -151,68 +180,119 @@ Force quitting the Google Play Store is a simple yet effective first step in res
 
 - **Step 1.** On your Vivo Y78t, find the Google Play Store and long-press its icon. Press "App info" from the pop-up menu to access the app information screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![play store app info](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-1.jpg)
 
 - **Step 2.** Here, tap the "Force Stop" option to force close the Google Play Store. After a while, relaunch the app to see if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![force stop play store](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Clear Google Play Store Cache
 
 Clearing the cache of the Google Play Store is a targeted solution. It addresses potential compatibility issues arising from corrupted or outdated temporary files. The cache stores data that helps the app load faster. Yet, when these files become corrupted, it can lead to performance issues. Follow these steps to clear the Google Play Store cache and the "**device not compatible Google Play”** issue:
 
 - **Step 1.** After finding the Google Play Store on your device, press and hold the icon until a pop-up menu appears. Here, touch the “App info” option to reach the screen displaying information about the app.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![access app info](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-3.jpg)
 
 - **Step 2.** Here, press "Storage and Cache," and on the following screen, tap "Clear cache." Confirm your action to wipe the cache data. Afterward, access the targeted app again to check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![clear play store cache](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Fix 3: Remove the Google Services Framework’s Cache and Data
 
 The Google Services Framework plays a crucial role in your Vivo Y78t. It is essential in the functioning of various Google services, including the Google Play Store. Clearing its cache and data can be an effective method to tackle compatibility issues. Here's a step-by-step guide on how to remove the Google Services Framework's cache and data:
 
 - **Step 1.** Open your device's Settings and scroll down to tap "Apps." There, press the "All Apps" options, and on the following screen, choose "Show System" from the top right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![access system apps](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-5.jpg)
 
 - **Step 2.** Now, find and tap the "Google Services Framework" app and go on to press "Storage and Cache." Here, use "Clear Cache" and "Clear Storage" to clear its cache and data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![clear storage and cache](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### Fix 4: Update the Android OS Version
 
 An outdated operating system is a common factor behind compatibility issues. This case is often used with Google Play Store and other important apps. Maintaining your Vivo Y78t's compatibility with the latest app releases is essential. To ensure your Android operating system is up-to-date, please proceed with the following steps:
 
 **Instructions.** You will need to start by accessing the Vivo Y78t device's “Settings.” Scroll down to find and press the "System" option. On the following screen, tap "Software Update" to check if an update is available. If there is one, follow the on-screen prompts to update your device's OS.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![checking system update](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Uninstall the Google Play Store Updates
 
 In certain cases, issues with the [<u>Google Play Store</u>](https://drfone.wondershare.com/android-stopped/google-play-services-wont-update.html) itself may be contributing to compatibility errors. Uninstalling recent updates can revert the app to its default state. It can potentially resolve the problem. Follow these steps to uninstall updates for the Google Play Store and resolve “**device not compatible Play Store”** issues:
 
 - **Step 1.** Using your Vivo Y78t's Settings, access the Google Play Store app in the "Apps" tab. Once on its info page, tap the three dots icon from the top right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![navigate app settings](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-8.jpg)
 
 - **Step 2.** From the available options, choose "Uninstall updates." Then confirm your decision when prompted to delete the Google Play Store updates.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![uninstall play store updates](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Fix 6: Sideload the Incompatible Android App
 
 If all else fails and the compatibility issue persists, sideloading the app can be a workaround. It means installing the app manually without using the Google Play Store. This approach proves especially valuable for users with a strong determination to access a specific application. Below is a comprehensive, step-by-step tutorial on how to sideload an app:
 
 - **Step 1.** Long-press the Google Chrome icon to open the app info menu. Navigate to the "Install unknown apps" section. Here, toggle the switch to enable "Allow from this source."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![allow apps to download via chrome](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-10.jpg)
 
 - **Step 2.** Afterward, access a reliable, trusted website where the APK for the targeted app is available. Download and install the app to resolve the compatibility issues.
 
 ![try installing apk](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### Fix 7: Install a Custom ROM
 
 Have you exhausted other options and are still grappling with compatibility issues? Installing a custom ROM could be a more advanced but effective solution. Custom ROMs are modified versions of Android operating systems developed by the Android community. Engaging in this procedure entails large modifications to your device's software. It is crucial to comprehend the potential consequences and proceed with caution.
@@ -227,8 +307,14 @@ The final solution to avoid compatibility issues on the Google Play Store is to 
 
 You can explore reputable third-party app stores such as Aptoide, Amazon Appstore, GetJar, or SlideME. Ensure the chosen app store is reputable and widely used, minimizing potential security risks. Exercise caution and ensure the legitimacy of the app store to avoid security risks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![use other third-party app](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Is Your Play Store Not Working Properly? Fix It Now With Wondershare Dr.Fone
 
 If you are unable to download any application on your Vivo Y78t, it might be because of your Play Store issue. Play Store is the crucial element in your device, providing your facility with many features and functions. Get it fixed by trying [<u>Wondershare Dr.Fone – System Repair (Android)</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool within a few clicks.
@@ -282,6 +368,9 @@ In the last step, you will have to put in the code and proceed with the “Confi
 
 **3,120,524** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 To conclude, encountering compatibility issues like “**Google Play your device isn’t compatible with this version**,” can be a frustrating roadblock. However, this article has armed you with the knowledge through exploring various fixes. You now possess a toolkit of solutions to overcome the notorious issue. From forced quitting the Google Play Store to exploring the realm of custom ROMs, each fix has been crafted to cater to different user preferences.
@@ -318,10 +407,16 @@ To learn how to fix home button not working problem, download and install the Dr
 
 Step 1: To begin with the process, launch the software on your computer and select the “System Repair” option from the software main window.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix home button not working android](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Thereafter, connect your Vivo Y78t to the computer using a USB cable and select the “Android Repair” tab from the left menu.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![home button not working android - connect device](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Next, you will navigate to a device information page where you have to provide your device information.
@@ -334,8 +429,14 @@ Step 4: After that, the software will download the appropriate firmware to repai
 
 Step 5: After downloading the firmware, the software will start the repair process. Wait for a few seconds, the problem should get fixed and your phone will get back to its normal state.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![home button not working android - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1.2 Force Restart your Android
 
 Whenever you encounter with Android virtual soft keys, not working problem, the first thing you should try is to force [restart your phone](https://www.wondershare.com/reset-android/restart-android-without-power-button.html). If the problem is due to a software issue, then it can be probably fixed by simply force restarting your Android.
@@ -360,8 +461,14 @@ Step 2: Next, tap on “Erase all data”>” Reset phone” to factory reset on
 
 Once you are done with the above steps, restart your phone and restore your data and this might be fixed the problem for you. If not, then try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![home button not working android - factory reset](https://images.wondershare.com/drfone/article/2019/02/factory-reset-phone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1.4 Update Android Firmware
 
 It might be the case that your Android firmware is not updated and that’s why you are experiencing the home button not working Android problem. Sometimes, not updating your Android firmware can cause various issues and problems while using your device. So, you should update it, and here are steps on how to do it:
@@ -372,10 +479,16 @@ Step 2: After that, click “Check for updates” and if updates are available, 
 
 ![home button not working android - update android](https://images.wondershare.com/drfone/article/2019/02/update-firmware.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: What if the Home Button fails due to hardware reasons?
 
 When your Android home and back button not working because of hardware reasons, you can’t get the problem resolved by simply rebooting your device. In such cases, you have to use alternative apps to replace the home button.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1 Simple Control app
 
 The Simple Control app is the first and foremost solution to fix the Android home button not working issue. With the help of this app, you can fix many soft keys of your device. It is specially designed for Android users facing trouble using home, volume, back, and camera buttons. Plus, the app utilizes Accessibility service, but it doesn’t get access to your sensitive and personal information.
@@ -411,6 +524,10 @@ Cons:
 
 URL: [https://play.google.com/store/apps/details?id=com.smart.swkey" target="\_blank" rel="nofollow](https://play.google.com/store/apps/details?id=com.smart.swkey)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### 2.3 Navigation Bar (Back, Home, Recent Button) app
 
 Navigation Bar app is another great solution to fix the home button not responding problem. It can replace broken and failed button for users who are facing difficulty using navigation bar panel or buttons not working properly. The app offers numerous features, and it is easy to use.
@@ -434,6 +551,9 @@ URL: [https://play.google.com/store/apps/details?id=nu.nav.bar](https://play.goo
 
 Home button app is another remarkable solution to replace broken and failed home buttons for users having trouble while using buttons. With this app, it is quite easy to press or even long press on the home button as assistive touch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![home button app](https://images.wondershare.com/drfone/article/2019/02/home-button-app.jpg)
 
 Pros:
@@ -485,3 +605,52 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unique-stories-crafting-powerful-yt-narratives/"><u>[New] 2024 Approved  Unique Stories  Crafting Powerful YT Narratives</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-recommendations-to-overcome-live-breakdowns-fb/"><u>[New] Recommendations to Overcome Live Breakdowns (FB)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-beyond-ustream-an-examination-of-video-streaming/"><u>[Updated] In 2024, Beyond Ustream  An Examination of Video Streaming</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-efficient-techniques-for-accessing-and-saving-vimeo-videos/"><u>[Updated] In 2024, Efficient Techniques for Accessing and Saving Vimeo Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-s24plus-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy S24+ Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-s17-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo S17 Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revenue-breakdown-a-deep-dive-into-podcast-finances/"><u>2024 Approved  Revenue Breakdown  A Deep Dive Into Podcast Finances</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-gt-5-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme GT 5 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-pop-8-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Pop 8 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-spark-20c-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Spark 20C Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-infinix-zero-5g-2023-turbo-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Infinix Zero 5G 2023 Turbo? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-v27-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo V27 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oppo-k11-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo K11 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-create-360-degree-photosimages-with-fisheye-lens/"><u>How to Create 360 Degree Photos/Images with Fisheye Lens</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-y27-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo Y27 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-complete-tutorial-for-professional-gopro-vlogs/"><u>In 2024, A Complete Tutorial for Professional GoPro Vlogs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-brand-integration-with-youtube-content-creators/"><u>In 2024, Brand Integration with YouTube Content Creators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-picture-perfection-ranking-of-photo-grid-tools/"><u>In 2024, Picture Perfection  Ranking of Photo Grid Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/iphone-android-which-has-the-better-youtube-experience-in-2024/"><u>IPhone, Android  Which Has the Better YouTube Experience, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/restore-natural-tones-reviving-overexposed-iphone-hdr-videos-in-premiere-pro/"><u>Restore Natural Tones  Reviving Overexposed iPhone HDR Videos in Premiere Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/simple-steps-to-enable-windows-11s-search-feature-in-task-manager/"><u>Simple Steps to Enable Windows 11'S Search Feature in Task Manager</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-htc-u23-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with HTC U23 Pro Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-k11-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo K11 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/5-science-youtube-channels-to-expand-knowledge-for-2024/"><u>Top 15 Science YouTube Channels to Expand Knowledge for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-moto-g73-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Moto G73 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-gt-3-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme GT 3 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-reno-11-pro-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo Reno 11 Pro 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70e-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70E Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+</ul></div>

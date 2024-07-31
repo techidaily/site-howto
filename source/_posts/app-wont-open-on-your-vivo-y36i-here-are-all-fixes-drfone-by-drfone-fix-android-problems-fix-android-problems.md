@@ -1,7 +1,7 @@
 ---
 title: App Wont Open on Your Vivo Y36i? Here Are All Fixes | Dr.fone
-date: 2024-03-19 22:55:18
-updated: 2024-03-21 19:35:54
+date: 2024-07-30T09:26:58.470Z
+updated: 2024-07-31T09:26:58.470Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes App Wont Open on Your Vivo Y36i? Here Are All Fixes
 excerpt: This article describes App Wont Open on Your Vivo Y36i? Here Are All Fixes
 keywords: Vivo Y36i android problems,Vivo Y36i android fix,Vivo Y36i android solutions,android troubleshooting,Vivo Y36i fix android problems,android tips,Vivo Y36i android tips,android repair,android support,android fix
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## App Won't Open on Your Vivo Y36i? Here Are All Fixes
@@ -22,14 +22,23 @@ Many people are also interested in knowing about the causes behind why an App wo
 
 Here are all the fixes you need if an App won’t open on your Vivo Y36i. Read on to find out all about why Apps won't open on your Vivo Y36i and solutions to overcome such a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Possible reasons for Apps won't open
 
 If you are an Android phone user and face a problem while trying to open an App on your device, you will ask yourself “Why won't my App open?”. To answer your question and explain to you why an App won't open on your phone, here are some probable and simple reasons to make you understand the real problem.
 
 It is appropriate to tag our generation as smartphone addicts because we use smartphones for anything and everything. All our important information, such as photos, videos, audio files, documents, notes, calendars, emails, etc, are stored on our phones. This causes a major storage/space problem in our phones and **a shortage of storage space** is one of the main reasons why an App won’t open or why all Apps won't open on your Vivo Y36i. To see how much of your storage space is occupied by Apps, go to “Settings” and select “Application Manager”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984182929893.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Settings](https://images.wondershare.com/drfone/article/2017/06/14984583143306.jpg)
 
 Another possible reason for Apps to crash or why an App won't open is a possible data crash. This may occur due to **an unstable internet connection** or **various other background software interruptions**.
@@ -64,6 +73,9 @@ Why won't my app open? The quick fix is here!
 
 Step 1: Post-installation and launch of Dr.Fone on your computer, you got to press the ‘System Repair’ tab. Connect the Android device later.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![fix App won't open by repairing android system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Hit the ‘Android Repair’ located on the left panel followed by tapping the ‘Start’ button.
@@ -80,6 +92,13 @@ Step 1: You got to boot the Android device under Download mode, as it’s import
 
 - Android devise with a ‘Home’ button – Press together ‘Volume Down’, ‘Home’, and ‘Power’ buttons together for 5 to 10 seconds after turning off the Vivo Y36i device. Release them afterward and click the ‘Volume Up’ button to get into the ‘Download’ mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![boot android in download mode with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - When there is no ‘Home’ button – Turn off the Vivo Y36i device and then for 5 to 10 seconds, keep the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons pressed. Tap the ‘Volume Up’ button after releasing all the buttons to enter the ‘Download’ mode.
@@ -92,6 +111,9 @@ Step 2: Hitting the ‘Next’ button starts downloading the Android firmware.
 
 Step 3: Once Dr.Fone - System Repair (Android) verifies the downloaded firmware, it begins fixing the app won't open the issue asap.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fixing App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Part 3: 3 Common fixes if a particular App won’t open
@@ -114,6 +136,9 @@ Follow the steps given below to update the app which won't open on your phone:
 
 • In this step, you may click on “Update All” to update all Apps for which an update is available or manually select the Apps which you wish to Update.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Update All](https://images.wondershare.com/drfone/article/2017/06/14984183782889.jpg)
 
 Once the App is updated, close all Apps and tabs running in the background. Now try to launch the app once again. If it opens, your problem is solved. If not, DO NOT worry as there are more ways to help you.
@@ -146,6 +171,9 @@ Carefully follow the step-by-step instructions given below to clear all App cach
 
 • Now tap on “Clear Cache” and “Clear data” directly or under “Storage”.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Clear data](https://images.wondershare.com/drfone/article/2017/06/14984585184488.jpg)
 
 ## Part 4: 3 Common fix if all Apps won’t open on Android
@@ -178,6 +206,9 @@ Restarting your Vivo Y36i to fix an error might sound old school but it gives go
 
 • Now click on “Restart”.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click on “Restart”](https://images.wondershare.com/drfone/article/2017/06/14984184913200.jpg)
 
 Your phone will automatically restart and once it does, you can try to launch the App. You may also restart your Vivo Y36i by pressing the power button for about 15-20 seconds.
@@ -230,6 +261,9 @@ Tried several methods to make the error 495 disappear, but nothing works? Well, 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Best tool for fundamental Android repair in one click
@@ -245,10 +279,16 @@ With [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershar
 
 1. Download, install, and launch _Dr.Fone - System Repair (Android)_. Connect your Android to your computer with a USB cable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![fix error 495 with Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 3. Select the option "Repair" > "Android Repair", and click "Start".
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![start the android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 5. Select the Vivo Y36i device information like brand, name, model, etc., and confirm your selection by typing in "000000".
@@ -257,10 +297,16 @@ With [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershar
 
 7. Press the stated keys to boot your Android in download mode to download the firmware as instructed.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![fix error 495 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 9. After the firmware is downloaded, the program will automatically start to repair your Android.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix error 495 automatically](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 ## Solution 2: Clear the Google Service Framework cache to Fix error 495
@@ -281,6 +327,9 @@ Open “App Details” and the screen shown in the image should come up on your 
 
 Following the above steps should solve your problem of Google Play Error 495. And you can enjoy back to using the apps which you couldn’t download or update due to the Error 495.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 3: Reset App Preference in Google play Store to Fix error 495
 
 STEP 1:
@@ -293,6 +342,9 @@ STEP 2:
 
 Once the Settings section is open. A lot of further sections will pop up. No find the section named “Application Manager” or “Apps”. After locating it, tap on that section.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix error 495-application](https://images.wondershare.com/drfone/article/2017/05/14953043162812.jpg)
 
 STEP 3:
@@ -305,6 +357,9 @@ After reaching the “ALL” section tap the touch button to open menu/propertie
 
 There’s no need to be alarmed because on clicking the reset option, the apps won’t be deleted but it is only going to re-set them. And hence solving the Error 495 created in the Google Play.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix error 495-application manager](https://images.wondershare.com/drfone/article/2017/05/14952139272011.jpg)
 
 ## Solution 4: Fix Error Code 495 by installing a VPN app
@@ -325,6 +380,9 @@ Open Google Play Store and Download any app without the Error Code 495 coming in
 
 This fix will work for most of the Google Play Errors and not just only The Error Code 495.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 5: Remove your Google Account & Reconfigure it to fix error 495
 
 Removing the Google account and re-configuring it is a very common method adopted to get rid of the Error 495. Adopt the following steps to complete this method.
@@ -349,6 +407,9 @@ STEP 4:
 
 Inside The Google section, there’ll be an option called “Remove Account”. Tap on that section, to remove your google account.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![fix error 495-remove account](https://images.wondershare.com/drfone/article/2017/05/14953038588742.jpg)
 
 STEP 5:
@@ -399,10 +460,16 @@ You're not alone if you're an Android user who encounters app crashes. This arti
 
 There are many reasons for ****the app crashing**** on Android devices. These reasons range from insufficient storage space to bugs and glitches in the apps. Finding out the root cause of an app crashing is important so that you can find the appropriate solution. Discussed below are some of the reasons why your Android apps keep crashing:
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### Insufficient Memory
 
 When a device is low on memory, it may struggle to run multiple apps simultaneously. Each app requires memory to store its data and execute its processes. If the available memory is limited, it can cause apps to crash. That happens because they don't have enough resources to operate properly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### Software Compatibility
 
 Android devices come in various models and run different operating system versions. That's why it is essential to use apps compatible with your device. Since there are a lot of Android variants, it is hard to optimize apps for all devices. An app not optimized for an Android version or device leads to crashes or malfunctions.
@@ -411,6 +478,9 @@ Android devices come in various models and run different operating system versio
 
 Apps are regularly updated to introduce new features, fix bugs, and enhance performance. Using an outdated version of an app may cause instability or compatibility problems. Since the app is not optimized for the current version of Android, it can keep crashing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Network Problems
 
 Some apps rely heavily on network connectivity to function properly. They need a stable and strong internet connection to perform all the functions. These apps can crash if there are network connectivity issues, such as a weak Wi-Fi or network outage. Unstable connections can disrupt data transmission, making the app's function challenging.
@@ -419,6 +489,9 @@ Some apps rely heavily on network connectivity to function properly. They need a
 
 Despite rigorous testing, apps can still have bugs or coding errors that lead to crashes. Bugs in apps can occur due to various reasons. It mostly relates to incorrect implementation of features or unexpected user interactions. App developers work to identify and fix these bugs, often releasing updates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Fix the Apps Keep Crashing on Android?
 
 Once you discover why your Android apps keep crashing, fixing them becomes a lot easier. However, there is no need to worry even if you cannot locate the problem source. Below we have listed 10 general and specialized solutions to ****fix app crashing****:
@@ -427,14 +500,25 @@ Once you discover why your Android apps keep crashing, fixing them becomes a lot
 
 As mentioned before, some apps rely on the internet to function. If you don’t have an active internet connection, they will not work. To avoid ****the app crashing****, you need to ensure that the internet connection on your device is working. If you use Wi-Fi, check the router and turn Wi-Fi off and on again. In the case of mobile data, try enabling Airplane mode and then disabling it.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![check the internet connection](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### Fix 2: Force Stop the Apps Keep Crashing
 
 If your ****apps keep crashing****, you should try force-closing the targeted app and re-opening it. Doing this will flush out minor bugs and glitches from the app. These temporary bugs and glitches can occur due to various reasons and hamper the app's working. Use the following steps to force stop the app that keeps crashing and re-open it:
 
 - ****Step 1:**** On your Vivo Y36i, move the app icon and press it to select “App Info.” On the App Info screen, tap the “Force Stop” button to force close the app. The button can be either on the down left or down right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on force stop](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-2.jpg)
 
 - ****Step 2:**** After force closing the app, relaunch it and see if the app crashing issue is resolved.
@@ -445,14 +529,23 @@ In case restarting the app hasn’t worked, you should try restarting your Vivo 
 
 - ****Step:**** Press and hold the “Power” key until you see the power menu on the screen. Here, tap the “Restart/Reboot” button to restart your Vivo Y36i.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![proceed with the restart option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Update the Android OS
 
 Not updating your Android OS for a long while can cause many performance issues in your device. One of these issues is the incompatibility with the latest apps. That's why make sure that your Vivo Y36i is running the latest available version of the operating system. You can check and update the Android OS of your device using these steps:
 
 - ****Step 1:**** Launch the Settings app on your Vivo Y36i and scroll down to select “Software Update.” On the next screen, tap “Download and Install” to look for new updates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![tap on download and install](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-4.jpg)
 
 - ****Step 2:**** During the update process, ensure you have a stable internet connection. Moreover, your device should be fully charged to avoid any complications.
@@ -467,6 +560,9 @@ Have you tried clearing the cache of the app that keeps crashing? The app cache 
 
 - ****Step 2:**** Following this, press "Storage," and on the following screen, hit “Clear Cache.” It will clean the cache for the targeted app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on clear cache button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-6.jpg)
 
 ### Fix 6: Reinstall the Buggy App
@@ -479,6 +575,9 @@ Bugs in the app can prove a nightmare and hard to remove from the app. If your *
 
 - ****Step 2:**** After removing the app, go to Google Play Store and find the targeted app. Here, tap “Install” to reinstall the app on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![press the install button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-8.jpg)
 
 ### Fix 7: Check the App Permissions
@@ -491,20 +590,36 @@ Sometimes, app crashes can occur due to improper or conflicting permissions. Whe
 
 - ****Step 2:**** On the App Info screen, press “Permissions” to access all permission settings. Here, ensure that your app has the required permissions.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![access the app permissions](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 8: Check and Clear the Phone Storage
 
 Insufficient storage space on your device can also lead to app crashes. Check the available storage space on your Vivo Y36i and ensure it has enough free space. If the storage is full, consider deleting unnecessary files or apps to create more space. Explained below is the process to check and free up storage on Android devices:
 
 - ****Step 1:**** Open Settings on your Vivo Y36i and scroll down to find and select “Battery and Device Care.” Here, tap “Storage” to view the Vivo Y36i device storage.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the storage option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-11.jpg)
 
 - ****Step 2:**** Here, you will see detailed information about everything stored on your device. If the storage space is full, remove the unnecessary data.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![check the android storage](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Fix 9: Reboot Into Safe Mode
 
 It can be hard to find the ****app crashing**** root cause if it happens due to conflicts between different apps. In such scenarios, the best way to find the problematic apps is to use Safe Mode on your device. Safe Mode disables all third-party apps, allowing you to determine if the crashes are caused by a specific app. Follow the process given below to reboot your device into Safe Mode:
@@ -515,6 +630,9 @@ It can be hard to find the ****app crashing**** root cause if it happens due to
 
 - ****Step 2:**** Press the “Power Off” button until “Restart in Safe Mode” appears on the screen. Now reboot the Vivo Y36i device into Safe Mode. To exit Safe Mode, you will need to restart the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable the safe mode](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-14.jpg)
 
 ### Fix 10: 100% Working Solution to Fix the Android Apps Keep Crashing – Wondershare Dr.Fone
@@ -549,10 +667,17 @@ Click "Start" to initiate the repair process and provide your device information
 
 Follow the on-screen instruction to activate Download Mode on your device. Wondershare Dr.Fone will download the related firmware once you have enabled Download Mode. Afterward, click "Fix Now" and confirm your action by inserting the "000000" code. Now, wait for the repair process to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on the fix now button](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 To sum up, if your ****apps keep crashing on Android****, you can resolve it in many ways. Using the fixes given in this article, you can improve apps' performance and reduce crashes. However, if you're looking for a reliable and convenient solution, we highly recommend Wondershare Dr.Fone.
@@ -574,3 +699,45 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamline-your-iphoneipad-screenshots-with-2023-tricks/"><u>[New] 2024 Approved  Streamline Your iPhone/iPad Screenshots with 2023 Tricks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-elite-callers-on-windows-top-8-sorted/"><u>[New] In 2024, Elite Callers on Windows  Top 8 Sorted</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-from-novice-to-pro-your-journey-with-the-io-screener/"><u>[Updated] 2024 Approved  From Novice to Pro  Your Journey with the IO Screener</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-shorts-fix-completed-no-more-anxiety/"><u>[Updated] Shorts Fix Completed – No More Anxiety</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-exploring-lgs-ultra-clear-4k-screen-capabilities/"><u>2024 Approved  Exploring LG's Ultra-Clear 4K Screen Capabilities</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-list-of-video-recording-apps-for-iphone/"><u>2024 Approved  Top List of Video Recording Apps for iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-c33-2023-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme C33 2023 PC | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-meizu-21-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Meizu 21? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-f34-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy F34 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-poco-x5-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Poco X5.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-20-proplus-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nubia-z50s-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nubia Z50S Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-online-repositories-12-sites-with-free-photography-samples/"><u>Essential Online Repositories - 12 Sites with Free Photography Samples</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-moto-g23-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Moto G23 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-itel-a05s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Itel A05s Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-oneplus-11r-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It OnePlus 11R Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-oneplus-nord-ce-3-lite-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked OnePlus Nord CE 3 Lite 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-a25-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy A25 5G Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-15-pro-max-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 15 Pro Max Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-realme-c33-2023-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Realme C33 2023? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-x-fold-2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo X Fold 2 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-13-mini-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 13 mini without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/increase-snapshot-size-no-quality-compromise/"><u>Increase Snapshot Size - No Quality Compromise</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-oppo-a59-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo A59 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-vivo-y28-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y28 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-7-best-stardew-valley-mods/"><u>The 7 Best Stardew Valley Mods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unifiedvision-mixer-hub-for-2024/"><u>UnifiedVision Mixer Hub for 2024</u></a></li>
+</ul></div>

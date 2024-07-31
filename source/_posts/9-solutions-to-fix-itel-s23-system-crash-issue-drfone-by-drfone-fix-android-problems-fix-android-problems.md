@@ -1,7 +1,7 @@
 ---
 title: 9 Solutions to Fix Itel S23 System Crash Issue | Dr.fone
-date: 2024-05-20T09:03:32.273Z
-updated: 2024-05-21T09:03:32.273Z
+date: 2024-07-30T08:51:45.644Z
+updated: 2024-07-31T08:51:45.644Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 9 Solutions to Fix Itel S23 System Crash Issue
 excerpt: This article describes 9 Solutions to Fix Itel S23 System Crash Issue
 keywords: android troubleshooting,android guide,android help,android issues,Itel S23 android solutions,Itel S23 android fix,Itel S23 android tips,Itel S23 android support,Itel S23 android troubleshooting,Itel S23 android problems,Itel S23 android help,android repair
-thumbnail: https://www.lifewire.com/thmb/jkTzGxTQj6GZdoRByOnef64Ubf0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows_search-56aa11bd3df78cf772ac3ea5.jpg
+thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa085c1775706e382ffb2952424.jpg
 ---
 
 ## 9 Solutions to Fix Itel S23 System Crash Issue
@@ -26,6 +26,9 @@ When you encounter an Android system crash, before looking for solutions to fix 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html)
 
 World's 1st data retrieval software for broken Android devices.
@@ -45,14 +48,23 @@ You may follow the steps given below to rescue your data from crashed Android de
 
 2\. Select "Android" > "Recover from Broken Phone" in the lower right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select data type](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-3.png)
 
 3\. Choose the "Touch screen not responsive or cannot access the phone" to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select device model](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
 4\. You will now see device options before you. Select yours and move on to feed in your device name and model details.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select device model](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
 
 5\. Now press the volume down, power, and home button on your device together to boot the phone in Download mode.
@@ -65,12 +77,22 @@ You may follow the steps given below to rescue your data from crashed Android de
 
 7\. Finally, the process will take a few minutes to scan and display your phone data. Select “Recover to Computer” to retrieve all data on your PC as a backup.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recover data to computer](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
 Using Dr.Fone Damage Extraction software is intuitive and very safe. It prevents data loss and allows you to adopt various ways to recover your device from the Android system crash issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## Part 2: Why does my Android phone system keep crashing?
 
 Encountering a persistent issue like the Android phone system constantly crashing can be highly frustrating and disruptive. This part delves into the underlying causes of this problem. By understanding these reasons, you can take informed steps to troubleshoot and rectify the issue, ensuring a smoother and more enjoyable smartphone experience.
@@ -91,8 +113,14 @@ Once you have successfully retrieved your data, consider solving the Android cra
 
 **Instructions:** Hold your Itel S23's "Power" button on the side of the phone. As the following window appears on the screen, select the "Reboot" option to restart the Android device successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![restart the android device](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: Shut down unnecessary running apps
 
 Another quick solution to avoid Android devices crashing is to shut down unnecessary apps running in the Itel S23 device's background. To cater to that, you need to try out the following steps as a remedy to shutting down unwanted applications:
@@ -103,8 +131,14 @@ Another quick solution to avoid Android devices crashing is to shut down unneces
 
 **Step 2:** As you progress further, you need to select the “Clean now” button to shut down all unnecessary background applications running on the Android.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the clean now button](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Uninstall incompatible Apps to fix Android crash issue
 
 If your Android system crash takes place frequently but the Itel S23 device turns on normally after that, there is a chance that some Apps may be causing the problem. Unnecessary and large App files burden the Itel S23 device system and force it to crash every now and then. Make sure you download, install and store only those Apps which are fully compatible with your Android system. DO NOT download Apps from other unknown sources and use only Google Play store for the purpose. All other incompatible Apps must be deleted to prevent them from tweaking your software.
@@ -117,16 +151,26 @@ To uninstall unwanted and incompatible Apps, please follow the steps below.
 
 Select the App you wish to uninstall. From the options that appear before you, click on “Uninstall” to delete the App from your device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14988991704356.jpg)
 
 You may also uninstall an App directly from the Home Screen (only possible in certain devices) or from the Google Play Store.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 6: Check Android storage and free up space
 
 If you are constantly facing issues of your Itel S23 crashing, there is a possibility that your device's storage is full. The need to free up space arouses the need to know about the potential steps for checking storage and cleaning up space, which is discussed as follows:
 
 **Step 1:** You need to navigate into "Settings" and look for the "Battery and device care" section. As you lead next, select the "Storage" option to check the Android storage and see how it is segregated.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![open the storage settings](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-4.jpg)
 
 **Step 2:** As you navigate to the next screen, you can free up space by removing the applications from your Android. For that, tap on "Apps" to open a section containing the list of applications installed on the Android.
@@ -145,10 +189,16 @@ In case the Android system crash issue is temporary, follow the steps given belo
 
 1\. On your Itel S23, visit “Settings” and find “Storage”
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android settings](https://images.wondershare.com/drfone/article/2017/07/14989068987919.jpg)
 
 2\. Now tap on “Cached Data”, and then click “OK” to clear all unwanted cache from your device as shown above.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/drfone/article/2017/07/14988992219452.jpg)
 
 However, if the Android crash problem is such that your phone has frozen, becomes unresponsive, and does not turn on, you must first boot into the Recovery Mode screen.
@@ -165,6 +215,9 @@ However, if the Android crash problem is such that your phone has frozen, become
 
 This method will help you erase all the clogged-up and unwanted files and resolve the Android system crash issue. If clearing cache doesn't help, try formatting your SD Card.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 8: Remove the SD card to fix the Android crash issue
 
 Removing and formatting your SD Card to fix the Android System crash issue is helpful when a corrupted SD Card disturbs the Android software forcing it to shut down suddenly.
@@ -187,8 +240,14 @@ Updating the Android device will cast out all glitches that prevent it from oper
 
 **Step 2:** On leading to the next screen, select the “Download and Install” option to continue updating your Android to the latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![choose download and install option](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 10: Use Wondershare Dr.Fone – System Repair To Fix Android System Crash
 
 If you are not getting any specific solution to the problem, you can try fixing the Android system crash problems using specific tools. These third-party tools can be an excellent option for resolving system errors in Android devices. [Wondershare Dr.Fone – System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) is a great tool designed to resolve all system issues in Itel S23] and other smartphones.
@@ -197,8 +256,15 @@ It features a great system providing a one-click Android repair option for fixin
 
 ### Key Features of Wondershare Dr.Fone – System Repair (Android)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Repair Android System Errors without Any Trouble.
@@ -243,6 +309,10 @@ You will be redirected to a new window where you need to define and verify some 
 
 Whatsoever Android you own, you need to put it in Download Mode, depending on the buttons that the Itel S23 device has. The repairing process initiates as you enter the Download Mode, and new firmware is downloaded on the platform.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![download the android os firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 **Step 5: Fix the Firmware of Android**
@@ -263,6 +333,9 @@ Follow the steps given below to factory reset your device while it is switched o
 
 Now select “Backup and Reset”.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![backup reset](https://images.wondershare.com/drfone/article/2017/07/14988993192107.jpg)
 
 In this step, select “Factory data reset” and then “Reset Device” to confirm Factory Reset.
@@ -273,6 +346,9 @@ You may also follow the instructions given below to Master set your device in Re
 
 When you are at the Recovery Mode screen, scroll down using volume down key, and from the options given, select “Factory Reset” using the power key.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![factory reset](https://images.wondershare.com/drfone/article/2017/07/14988993508337.jpeg)
 
 Wait for your device to perform the task and then:
@@ -357,6 +433,9 @@ Step 1 – Enter in the recovery mode by following the steps mentioned earlier.
 
 Step 2 – Now select “Factory data reset” from the given options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![select “Factory data reset”](https://images.wondershare.com/drfone/article/2017/06/14986726765597.jpg)
 
 Step 3 – Now, follow the on-screen instructions and your device will be factory reset.
@@ -375,6 +454,9 @@ Before this, remember to take a backup of your Itel S23. We recommend you to use
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Backup (Android)\_](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexibly Backup and Restore Android Data
@@ -390,16 +472,25 @@ To enter the safe mode, follow the instructions below.
 
 Step  1 – First of all, long press the power button and let the Power options appear.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Power options](https://images.wondershare.com/drfone/article/2017/06/14986727492182.jpg)
 
 Step 2 – Now, long press on the "Power off” option. This will instantly ask you if you want to reboot into safe mode. Select the option and your device will reboot in safe mode.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![‘Power off” ](https://images.wondershare.com/drfone/article/2017/06/14986728022827.jpg)
 
 If you are using Android version 4.2 or earlier, turn off the Itel S23 device and turn it on the back by tapping the power button. When the logo appears, tap and hold the volume down button. This will allow the Itel S23 device to boot in safe mode.
 
 Follow these steps carefully and now you can see a “Safe Mode” written at the corner of your device. This will confirm that you have successfully entered in Safe mode on Android.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Safe mode on Android FAQs
 
 In this section, we’ll discuss some frequently asked questions about the safe mode. Some users have many questions regarding the safe mode. Here we’ll try to cover some of them.
@@ -416,6 +507,9 @@ The safe mode is a very useful program for any Android device. But it limits the
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Itel S23 Not Connecting to Wi-Fi? 12 Quick Ways to Fix
 
 Nowadays, it’s pretty much essential to have your Itel S23 or smartphone connected to the internet. Whether you’re watching videos, looking something up, or using any kind of app, you need the internet for these applications to function correctly.
@@ -430,12 +524,19 @@ Luckily, despite there being so many problems out there, there are also many sol
 
 Begin by powering off your Itel S23 and unplugging your router. Wait for about a minute before plugging in the router and turning on your device. This simple reset can often restore stable connections and fix Android wifi not working.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restart android](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android.jpg)
 
 ## Part 2: Turn on Airplane mode and turn off
 
 Turn on Airplane Mode for a few seconds, then turn it off. This maneuver refreshes your device's network connections and might rectify the Android not connecting to wifi issue.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![turn on airplane mode](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android-1.jpg)
 
 ## Part 3. Check Wi-Fi Router settings
@@ -450,8 +551,14 @@ However, if you’ve got a problem with Wi-Fi not working on your Android and ot
 4. Call up your internet provider to see if there’s an internet connection issue in your area
 5. Open your web browser and log into your router settings to ensure your Itel S23 is connected to the Wi-Fi network and is allowed to send and receive data
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. Boot your Android in safe mode
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![wifi not working on android - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-safe-mode.jpg)
 
 If you’re unable to connect to the internet, but other devices have no issues, you may find the issues is coming from within your Itel S23 itself. Fortunately, there are ways you can see whether this is the problem.
@@ -467,6 +574,9 @@ If your device connects to the internet while in Safe Mode, you’ll know you ha
 
 ## Part 5. Check the Android Wi-Fi adapter
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![wifi not working on android - check adapter](https://images.wondershare.com/drfone/article/2019/04/android-wifi-adapter.jpeg)
 
 If you’re using a Wi-Fi adapter on your device to connect to the internet, you’ll need to make sure this is working. This could be an adapter on your Itel S23 itself, especially if you’re using an older device, or if you’re using an adapter to boost the ranger of your router network.
@@ -498,6 +608,10 @@ You can do this easily using powerful Android recovery software known as [Dr.Fon
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 A one-click tool to fix Wi-Fi not working on Android
@@ -524,6 +638,13 @@ Once installed, connect your Itel S23 to your computer using a USB cable, and op
 
 **Step Three** On the next screen, go through the options and use the drop-down menus to make sure the information is correct for your individual device. Accept the terms and conditions of the software, and then click the "Next" button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![wifi slow on android - select info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step Four** Confirm you want the software to carry out the repair process by typing the ‘000000’ code into the pop-up box and pressing Confirm. Make sure you read everything displayed in this box beforehand to know what’s happening.
@@ -540,6 +661,9 @@ Once installed, connect your Itel S23 to your computer using a USB cable, and op
 
 The whole process is automatic, so you won’t need to do anything until it’s finished. Once completed, you can disconnect your phone and start connecting it to the internet as normal!
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wifi not working on android - wifi issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -573,6 +697,9 @@ Each Wi-Fi network router will give the opportunity to choose and change the pas
 
 ## Part 10. Reset network settings on Android
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![android phone not connecting to wifi - reset network](https://images.wondershare.com/drfone/article/2019/04/android-reset-network.jpg)
 
 Just like the method above where you’ll be effectively resetting the network settings on your router, if this hasn’t worked, you’ll be able to reset the network settings on your Itel S23, hopefully removing the bugs and allowing you to connect.
@@ -588,6 +715,9 @@ Here’s how you can do this easily on your Itel S23;
 
 ## Part 11. Clear partition cache in recovery mode
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wifi not working on android - clear partition](https://images.wondershare.com/drfone/article/2019/04/android-reset-partitioncache.jpg)
 
 As you continue to use your Itel S23, the partition cache will fill up with data your device needs and doesn’t need. However, by clearing your device’s partition cache, you can make clear up some space which should help your device have enough memory to connect to the internet.
@@ -599,6 +729,9 @@ As you continue to use your Itel S23, the partition cache will fill up with data
 5. Select the Android System Recovery option, followed by Wipe Cache Partition
 6. Restart your device and connect to the internet
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 12. Reset factory settings
 
 ![wifi not working on android - factory settings](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
@@ -633,3 +766,44 @@ However, by factory resetting your device, you can start again from the factory 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-list-of-androids-gb-compatible-simulators/"><u>[New] Ultimate List of Android's GB-Compatible Simulators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-clarity-the-ultimate-video-enhancer-22-techniques/"><u>[New] Unleashing Clarity  The Ultimate Video Enhancer 2.2 Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-securing-your-snapchat-footage-a-step-by-step-process-for-2024/"><u>[Updated] Securing Your Snapchat Footage  A Step-by-Step Process for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-rated-zero-price-after-effects-samples/"><u>[Updated] Top-Rated, Zero-Price After Effects Samples</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-understanding-and-managing-video-layouts-in-zoom-for-windows-11-users/"><u>[Updated] Understanding and Managing Video Layouts in Zoom for Windows 11 Users</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-your-chromebooks-zoom-capabilities/"><u>2024 Approved  Optimizing Your Chromebook's Zoom Capabilities</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-mix-fold-3-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Mix Fold 3 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-honor-magic-6-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Honor Magic 6 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-a18-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo A18? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-humor-for-giphy-network-for-2024/"><u>Craft Humor for Giphy Network for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-error-messages-in-epson-units/"><u>Fixing Error Messages in Epson Units</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-google-pixel-7a-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Google Pixel 7a Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>In 2024, The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-crack-open-the-savings-wondershare-filmora-easter-discount-code-inside/"><u>New Crack Open the Savings Wondershare Filmora Easter Discount Code Inside</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-f23-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo F23 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-k70e-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi K70E ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-8-enhanced-peripherals-for-a-richer-metaverse-experience-for-2024/"><u>Top 8 Enhanced Peripherals for a Richer Metaverse Experience for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-a78-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo A78 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-poco-m6-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Poco M6 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-gt-5-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme GT 5 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-v29e-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo V29e Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-motorola-edge-2023-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Motorola Edge 2023 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>

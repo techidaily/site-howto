@@ -1,7 +1,7 @@
 ---
 title: Cellular Network Not Available for Voice Calls On Samsung Galaxy A14 4G | Dr.fone
-date: 2024-03-19 15:19:31
-updated: 2024-03-21 20:34:35
+date: 2024-07-30T10:02:52.411Z
+updated: 2024-07-31T10:02:52.411Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Cellular Network Not Available for Voice Calls On Samsung Galaxy A14 4G
 excerpt: This article describes Cellular Network Not Available for Voice Calls On Samsung Galaxy A14 4G
 keywords: Samsung Galaxy A14 4G android solutions,Samsung Galaxy A14 4G android fix,android fix,android issues,Samsung Galaxy A14 4G android repair,android solutions
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## Cellular Network Not Available for Voice Calls On Samsung Galaxy A14 4G
@@ -18,8 +18,14 @@ The "**Cellular Network Not Available for Voice Calls**" error is a common exper
 
 This article serves as your guide for troubleshooting and overcoming this frustrating dilemma. It has compiled expert perspectives, valuable tips, and detailed, systematic solutions. The article will go through the underlying causes behind this issue and explore potential fixes. By the conclusion of this article, you'll be armed with the necessary knowledge to tackle this problem.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![cellular network not available calls error](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Preliminary Reasons For Cellular Network Not Available For Voice Calls
 
 Facing the "**Cellular Network Not Available for Voice Calls Android**" error can be overwhelming. Thus, it becomes evident that specific reasons underlie this issue. Solutions indeed exist to tackle this problem. Yet, comprehending the underlying reasons is equally crucial to resolve the issue:
@@ -32,14 +38,23 @@ One primary reason behind cellular network unavailability glitches lies in unsta
 
 Another contributing factor is the geographical terrain. In remote or sparsely populated areas, cellular tower coverage might be limited. It causes a signal disturbance or complete loss of the network.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Network Congestion
 
 During peak usage hours or in densely populated areas, network congestion can also be a cause. It leads to temporary unavailability of the cellular network for voice calls. When the network is overloaded with traffic, it might struggle to accommodate more voice calls. That results in connectivity issues.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Technical Glitches
 
 Furthermore, technical glitches within the Samsung Galaxy A14 4G device or network infrastructure can cause this issue. These glitches could range from software bugs to hardware malfunctions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Battery or Power Issues
 
 In some instances, [<u>insufficient battery power</u>](https://drfone.wondershare.com/device-diagnostics/check-your-phone-battery-health.html) or power-saving modes on devices can cause this issue. They affect the Samsung Galaxy A14 4G device's capacity to sustain a consistent connection with the cellular network. This consequently causes voice call unavailability.
@@ -76,18 +91,37 @@ Another crucial step in resolving this error involves ensuring that the Airplane
 
 ![toggle airplane mode](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution 3. Selecting the Network Operator of the Samsung Galaxy A14 4G device
 
 In certain instances, manually selecting your network operator can help. It effectively resolves the "**Cellular Network Not Available for Voice Calls Android**" error on your Samsung Galaxy A14 4G. By choosing the network operator manually, you ensure a deliberate connection to a specific carrier. This potentially bypasses issues related to automatic network selection. Follow these steps to select your network operator manually:
 
 - **Step 1.** Access "Settings" on your Samsung Galaxy A14 4G, then tap on "Connections." From there, navigate to "Mobile Networks" and proceed by selecting "Network Operators."
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![open mobile network carriers](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-4.jpg)
 
 - **Step 2.** Look for the "Automatically Select" toggle, which will be turned on. Toggle it off to see available networks and choose the one best suited to your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![select mobile carrier](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Solution 4. Restart Your Device
 
 Sometimes, resolving the "**Cellular Network Not Available for Voice Calls**" error on your Samsung Galaxy A14 4G can be as simple as performing a restart. This basic troubleshooting step helps refresh the Samsung Galaxy A14 4G device's software. It clears temporary glitches and reestablishes essential connections, potentially resolving network-related issues. Follow these straightforward steps to restart your Samsung Galaxy A14 4G:
@@ -96,6 +130,9 @@ Sometimes, resolving the "**Cellular Network Not Available for Voice Calls**" er
 
 ![restart android device](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 5. Enable Roaming Settings
 
 There are situations where you're in an area with weak or no coverage from your primary network provider. In such a case, enabling roaming settings on your Samsung Galaxy A14 4G can sometimes resolve the issue at hand. Enabling roaming allows your device to connect to partner networks. This extends your coverage beyond your home network's reach. Follow these steps to enable roaming settings on your Samsung Galaxy A14 4G:
@@ -136,6 +173,9 @@ Performing a factory reset is a drastic but effective measure. It can resolve pe
 
 If you've exhausted all options and the issue persists, reaching out to your carrier provider for assistance is a viable solution. Carrier providers can offer specific insights and guidance regarding network-related issues. When connected to customer service, explain the issue you're experiencing in detail. Contacting your carrier provider enables you to tap into their expertise and resources.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![contact provider for solution](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-13.jpg)
 
 **You May Also Like:**
@@ -180,18 +220,27 @@ The following are the steps to resolve the **Tracfone cellular network not avail
 
 Launch the software. Then, navigate to the "Toolbox" section located in the left panel. Connect your Samsung Galaxy A14 4G and proceed by choosing "System Repair." Then, opt for "Android" to specify the Samsung Galaxy A14 4G device type. On the subsequent screen, click “Start” to commence the repair procedure.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - Step 2. Provide Details of Your Android Device
 
 The system automatically identifies the brand of the Android device undergoing repair. Afterward, choose the “Name,” “Model,” “Country,” and “Carrier” from the provided list options. If the Samsung Galaxy A14 4G device is already unlocked, you can choose OPEN in the Carrier section. Then, confirm by checking the warning box indicating agreement and readiness to proceed. Click on “Next” to initiate the repair process for your Samsung Galaxy A14 4G.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![define details of android](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - Step 3. Complete the Android Repair Process Successfully
 
 Follow the guidance displayed on your device's screen to access Download Mode. Once in, the firmware download begins automatically. During this process, the platform verifies and presents the firmware details. Select "Fix Now" to proceed with the installation of the firmware onto your Samsung Galaxy A14 4G. Since Android repair will result in the deletion of all data, input "000000" to confirm. This action initiates the system repair process.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![perform android repair successfully](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -206,10 +255,16 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 
 ![drfone](https://images.wondershare.com/drfone/activity/icon-que.svg)Why isn't My Samsung Galaxy A14 4G establishing a connection with the cellular network?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![drfone](https://images.wondershare.com/drfone/activity/icon-que.svg)What steps can I take when the mobile network isn't available?
 
 ![drfone](https://images.wondershare.com/drfone/activity/icon-que.svg)What might be causing my SIM card to not display a network?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Restore Missing App Icon on Samsung Galaxy A14 4G: Step-by-Step Solutions
 
 The growing conversation around the **missing app icons on Android** issue has caught our attention. While it seems confusing, it's a problem that some Android users have encountered.
@@ -231,12 +286,23 @@ Before proceeding with troubleshooting the **missing app icon on your Android** 
 
 Now, see whether you can find the **app icon that disappeared on your Android.** If you can’t find it, it means the app has been accidentally deleted, and you can install it back on your device. However, if it’s confirmed to be installed on your Android but remains missing from your home screen, you can continue the following practice.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How To Find the Missing App Icon on Android
 
 _“_**_All my apps disappeared from my home Android screen._** _What should I do?”_
 
 If you've confirmed that the missing app is installed, but its icon is nowhere to be found on your home screen, don't fret—there are several solutions you can take to locate and restore the **missing app icon on Android**.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### 1\. Check hidden apps
 
 How could the **Android phone icon be missing**? Well, app icons can disappear from your home screen for different reasons. One of the common reasons is you might have accidentally hidden it in your phone. To find and check whether the app is hidden, the steps can be different depending on the phone model you are using.
@@ -247,6 +313,9 @@ However, as a general guide, you can follow these steps:
 - **Step 2.** Use the search bar to look for "Hidden app."
 - **Step 3.** Once you find the "Hidden app" settings, watch the list to see if the missing app is there. If it is, you can toggle off the switch to unhide it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
 
 ### 2\. Move the app to the home screen from the App Drawer
@@ -258,6 +327,9 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 - **Step 3.** Long-press the Icon of the missing app and move it to the desired location on your home screen. You can drag it to an empty space or a specific folder.
 - **Step 4.** Release to drop the app icon onto the home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
 
 ### 3\. Re-enable disabled app
@@ -270,6 +342,9 @@ To re-enable the disabled app, you can follow the steps here:
 - **Step 2.** Select the app which icon is missing on your home screen. For example, tap the phone app if the **phone icon disappears on your Android.**
 - **Step 3:** In the App Info, tap Enable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Reset Android to factory settings
 
 If the previous methods don't work, you might need to do a [<u>factory reset on your Samsung Galaxy A14 4G</u>](https://drfone.wondershare.com/factory-reset-protection/bypass-factory-reset-on-android.html). But before doing that, it's important to back up your data first because a factory reset will clear all your data and cache when you press the reset button.
@@ -281,6 +356,10 @@ How to reset Android to factory setting:
 
 Please be mindful that performing a factory reset on Android will reset your Android completely to its initial state.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Perform a factory reset on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-4.jpg)
 
 ## Part 3: How to Fix System Error on Android Easily with Reliable Software
@@ -295,6 +374,9 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,136,839** people have downloaded it
@@ -315,12 +397,18 @@ The platform will detect your Samsung Galaxy A14 4G's brand. Confirm the Name, M
 
 Follow the instructions to put your Samsung Galaxy A14 4G into Download Mode. Once you are in Download Mode, the firmware will be downloaded automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![Activate Download mode to download the firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 5.** Confirm Installation
 
 Remember, the repair may erase data. It’s advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar. Once finished, click Done and see if your phone has returned to normal.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **More Articles About Android System:**
@@ -345,22 +433,41 @@ If you're asking **why is my Android phone in black and white**, then you're in 
 
 ![girl pointing at phone with problem](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Phone Screen in Black and White? Easy Fixes for Android Devices
 
 Discovering your Samsung Galaxy A14 4G going monochrome can be annoying. The section below answers the question: **why did my Samsung Galaxy A14 4G phone go black and white?** It involves a combination of software adjustments and careful troubleshooting. Follow the practical solutions below to restore vibrant colors to your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![phone display in black and white](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Accessibility Settings
 
 Accidental activation of accessibility settings may turn your display monochromatic. The "**Grayscale**" or "**Color Inversion**" option in the **Accessibility** or **Vision** section of your phone's settings might be enabled. It can cause a black-and-white display. Here's the solution:
 
 - **Step 1:** Open your phone's settings. Navigate to the **Accessibility** or **Vision** section.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![color inversion option turned on](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-03.jpg)
 
 - **Step 2:** Disable the **Grayscale** or **Color** **Inversion** option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### App Conflicts
 
 Certain third-party apps can cause conflicts, leading to a [black-and-white display](https://drfone.wondershare.com/iphone-problems/iphone-13-black-screen.html). Newly installed apps might be the culprit, affecting your device's color settings. Some apps also have grayscale modes that can impact the overall display. Here's how to fix it:
@@ -368,6 +475,9 @@ Certain third-party apps can cause conflicts, leading to a [black-and-white disp
 - **Step 1**: Identify and uninstall recently installed apps.
 - **Step 2:** Check individual app settings for grayscale modes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### System Glitches
 
 System glitches or software bugs can trigger display issues. It can result in a black-and-white screen. Outdated software versions may contain bugs affecting color output as well. Regularly checking for software updates can prevent or resolve such glitches. Here's how.
@@ -378,12 +488,18 @@ System glitches or software bugs can trigger display issues. It can result in a 
 
 - **Step 2:** Update your device if there is a software update available. Ensure your device is running the latest software version.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Battery Saving Modes
 
 Battery-saving modes can also alter display settings to conserve energy. It can sometimes result in a black-and-white screen. These modes limit power consumption by reducing color output. Reviewing and adjusting these settings can restore the normal color display. Follow the steps below.
 
 - **Step 1**: Open your Samsung Galaxy A14 4G's **Settings**. Navigate to the **Battery** or **Battery** **&** **Performance** section.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![checking battery settings on android](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-05.jpg)
 
 - **Step 2:** Check and adjust battery-saving settings, including toggling power-saving modes on or off.
@@ -394,6 +510,9 @@ In rare cases, [hardware issues](https://drfone.wondershare.com/device-diagnosti
 
 - **Step 1:** Check for physical damage, loose connectors, or display hardware issues.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![broken android screen](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-06.jpg)
 
 - **Step 2:** Seek professional assistance or contact the Samsung Galaxy A14 4G device manufacturer if hardware problems are suspected.
@@ -420,14 +539,23 @@ Repair Android System Errors without Any Trouble.
 
 - **Step 1:** Download and install Dr.Fone. Launch the program and click on **System** **Repair** on the main window. Connect your Samsung Galaxy A14 4G to the computer using the correct cable. Choose **Android** among the options.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone android repair window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,601,336** people have downloaded it
 
 - **Step 2:** Provide accurate device information, including brand, name, model, country/region, and carrier details. Confirm the warning and click **Next**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![dr.fone device details window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 3:** Follow the on-screen instructions and wait for the program to download the firmware. Once downloaded and verified, Dr.Fone automatically initiates the repair process on your Samsung Galaxy A14 4G.
@@ -442,10 +570,16 @@ Repair Android System Errors without Any Trouble.
 
 It's highly recommended to [back up your Android data](https://drfone.wondershare.com/backup/android-backup-software.html) before using Dr.Fone for repair.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How Dr.Fone Can Help You Beyond Display Issues
 
 Beyond resolving black-and-white display problems, Dr.Fone serves as a comprehensive tool for all Android issues. The platform can enhance your device functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone main user interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 #### Key Features
@@ -541,3 +675,56 @@ The guide provided solutions for display issues and showcased the versatility of
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-amplify-iphone-imagery-with-lighting-hacks/"><u>[New] 2024 Approved  Amplify iPhone Imagery with Lighting Hacks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-picks-5-superior-video-call-recording-tools-for-2024/"><u>[New] Expert Picks  5 Superior Video Call Recording Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-checklist-for-selecting-the-best-hdr-cameras/"><u>[New] The Essential Checklist for Selecting the Best HDR Cameras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-in-class-8-webcams-perfect-for-streaming-professionals/"><u>[Updated] Best-in-Class 8 Webcams Perfect For Streaming Professionals</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-farmers-fields-the-essential-10-agriculture-titles-for-playmates/"><u>[Updated] In 2024, Farmers' Fields  The Essential 10 Agriculture Titles for Playmates</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-legal-framework-of-instagram-tunes/"><u>[Updated] In 2024, Legal Framework of Instagram Tunes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-silly-suggestions-10-hilarious-concepts-for-quick-quirky-videos-for-2024/"><u>[Updated] Silly Suggestions  10 Hilarious Concepts for Quick, Quirky Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-windows-audio-suite/"><u>[Updated] Ultimate Windows Audio Suite</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-detailed-walkthrough-implementing-microsoft-azure-speech-services/"><u>2024 Approved  Detailed Walkthrough  Implementing Microsoft Azure Speech Services</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-close-up-views-in-minecraft/"><u>2024 Approved  Mastering Close-Up Views in Minecraft</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-video-wizardry-your-guide-to-the-top-10-editing-hacks/"><u>2024 Approved  Video Wizardry  Your Guide to the Top 10 Editing Hacks</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amend-acer-visuals-with-latest-win11-drivers/"><u>Amend Acer Visuals with Latest Win11 Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-tecno-spark-20-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Tecno Spark 20 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nokia-c300-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nokia C300? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-note-30-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Note 30 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-nokia-c12-plus-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Nokia C12 Plus Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169877451-embrace-free-football-fun-old-championship-manager-windows-edition/"><u>Embrace Free Football Fun: Old Championship Manager, Windows Edition!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-by-drfone-ios/"><u>How to Unlock Apple iPhone 12?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-se-2022-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone SE (2022) to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-boost-your-instagram-vids-visibility/"><u>In 2024, How to Boost Your Instagram Vids' Visibility</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-insightful-analysis-the-phenomenon-of-mixed-reality/"><u>In 2024, Insightful Analysis  The Phenomenon of Mixed Reality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-workflow-for-embedding-subtitle-track-in-mp4s/"><u>In 2024, Ultimate Workflow for Embedding Subtitle Track in MP4s</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-whatsapps-voice-transmission-techniques/"><u>In 2024, Unraveling WhatsApp's Voice Transmission Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insights-into-instagrams-selfie-verification-for-2024/"><u>Insights Into Instagram's Selfie Verification for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/productivity-boosters-while-binge-listening-to-podcasts-for-2024/"><u>Productivity Boosters While Binge-Listening to Podcasts for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-13-ultra-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi 13 Ultra ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-note-30-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Note 30 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-12-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 12 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-note-12-4g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi Note 12 4G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-civi-3-disney-100th-anniversary-edition-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Civi 3 Disney 100th Anniversary Edition Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-infinix-note-30-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Infinix Note 30 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-itel-p40-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Itel P40 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+</ul></div>
