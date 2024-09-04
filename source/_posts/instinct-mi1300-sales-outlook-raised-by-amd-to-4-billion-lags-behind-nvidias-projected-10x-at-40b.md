@@ -1,7 +1,7 @@
 ---
 title: Instinct MI1300 Sales Outlook Raised by AMD to $4 Billion, Lags Behind Nvidia's Projected 10X at $40B
-date: 2024-08-17T23:42:26.802Z
-updated: 2024-08-18T23:42:26.802Z
+date: 2024-09-03T18:56:41.619Z
+updated: 2024-09-04T18:56:41.619Z
 tags:
   - desktop
 categories:
@@ -103,5 +103,8 @@ If you're looking to purchase a computer for a family member, or don't know much
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
