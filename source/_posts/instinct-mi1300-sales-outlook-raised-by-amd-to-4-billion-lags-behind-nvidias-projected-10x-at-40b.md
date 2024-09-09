@@ -1,7 +1,7 @@
 ---
 title: Instinct MI1300 Sales Outlook Raised by AMD to $4 Billion, Lags Behind Nvidia's Projected 10X at $40B
-date: 2024-09-08T07:30:34.578Z
-updated: 2024-09-09T07:30:34.578Z
+date: 2024-09-08T22:12:27.533Z
+updated: 2024-09-09T22:12:27.533Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/7XBjFmFA8fhphdKWGXAY37-320-80.jpg
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Cut Costs by $500: Shop for The Ultimate Gaming PC - Alienware Aurora R16 Featuring RTX 4080 and Intel I9 Chip
 
