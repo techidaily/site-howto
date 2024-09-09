@@ -1,7 +1,7 @@
 ---
 title: AMD Claims EPYC CPU Outperforms NVIDIA's ARM-Based Grace Superchip by Double in Various Tests
-date: 2024-09-03T18:56:33.046Z
-updated: 2024-09-04T18:56:33.046Z
+date: 2024-09-08T07:30:26.309Z
+updated: 2024-09-09T07:30:26.309Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/n6m2p6KFQiKqKTDkeg3cBf-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Epic Showdown: AMD's EPYC Processors Vs. Nvidia's ARM-Powered Grace - Who Wins on Performance? Double the Speed Revealed
 
 When it comes to data center CPUs, Nvidia is a new kid on the block that has to prove that it can develop competitive processors for servers. AMD, an established player, apparently considers Nvidia's 72-core Arm-powered Grace Hopper Superchip a competitor, which is why it decided to publish a[blog](https://community.amd.com/t5/epyc-processors/amd-epyc-processors-lead-vs-arm-options-on-performance-and/ba-p/696480) that compared the performance of its EPYC processor to Nvidia's Grace platform in a series of[benchmarks](https://www.tomshardware.com/tag/benchmark) , claiming up to a 2x performance advantage. AMD also points out x86's compatibility advantages over chips based on the Arm architecture. While, of course, such a comparison has to be taken with a grain of salt, it gives us some idea about the performance of Nvidia's Grace CPU.
@@ -19,6 +25,18 @@ When it comes to data center CPUs, Nvidia is a new kid on the block that has to 
 
 ![AMD](https://cdn.mos.cms.futurecdn.net/769jAFkkEjwFVXCtuqbJCg-320-80.png)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 (Image credit: AMD)
 
  AMD says its EPYC processors hold over 300 world records for performance and efficiency across various benchmarks, including business applications, technical computing, data management, data analytics, digital services, media and entertainment, and infrastructure solutions. Still, considering the fact that the main purpose of Nvidia's Grace Hopper project is to run AI training and inference workloads, not exactly general-purpose server workloads, the results aren't shocking. However, Nvidia's Hopper is renowned for its prowess in AI applications.
@@ -27,6 +45,12 @@ When it comes to data center CPUs, Nvidia is a new kid on the block that has to 
 
 ![AMD](https://cdn.mos.cms.futurecdn.net/LMNBNWukZp6JztKfGogQGg-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 (Image credit: AMD)
 
  AMD's EPYC Zen 4 processors are built on the x86-64 architecture, ensuring compatibility with a wide array of software written for x86 architecture. By contrast, Nvidia's Grace is based on the Arm architecture, and while Arm is catching up with x86 in terms of data center software support, x86 is still ahead in terms of compatibility.
@@ -35,6 +59,18 @@ When it comes to data center CPUs, Nvidia is a new kid on the block that has to 
 
  AMD's own tests show that its EPYC processors outperform Nvidia's Grace CPU Superchip across various key workloads, provide extensive compatibility due to their x86-64 architecture, and offer a proven, future-proof solution for diverse data center needs, which is why the company claims they are a better choice for general data center workloads. However, when it comes to AI training and inference, Nvidia's Grace Hopper platform can offer significant advantages over AMD's Instinct. After all, AI is what Nvidia's Grace Hopper platform was developed to address from the start.
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -135,10 +171,3 @@ When it comes to data center CPUs, Nvidia is a new kid on the block that has to 
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Sony Xperia 10 V | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-13-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 13? Fixed | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

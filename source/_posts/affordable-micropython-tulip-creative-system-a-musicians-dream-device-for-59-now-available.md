@@ -1,7 +1,7 @@
 ---
 title: "Affordable MicroPython Tulip Creative System: A Musician's Dream Device for $59 - Now Available!"
-date: 2024-09-03T18:56:36.082Z
-updated: 2024-09-04T18:56:36.082Z
+date: 2024-09-08T07:30:29.221Z
+updated: 2024-09-09T07:30:29.221Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec64675cc9c86f982f27e5ed1c09.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unleash Musical Innovations on a MicroPython Platform – Discover Tulip, the Affordable Musicians' Computer at $59
 
 For just $59, musicians now have a new option for a purpose-built musical computer with a touchscreen and music synthesizer— meet the[Tulip Creative Computer](https://tulip.computer/) , a FOSS (Free and Open Source) project available as a pre-made purchase in free software form for existing PCs and Macs, or even fully buildable at home to those with the resources and know-how to get it done.
@@ -19,6 +25,12 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  Tulip, a musical computer based on Micropython - YouTube ![Tulip, a musical computer based on Micropython - YouTube](https://img.youtube.com/vi/1lYFjQp7Xrw/maxresdefault.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Watch On](https://youtu.be/1lYFjQp7Xrw)
 
  The synthesizer at the heart of Tulip is the AMY (Addictive Music synthesizer librarY), another FOSS project made to be integrated across "almost any program, architecture, or microcontroller" and usable as an FM synthesizer, analog-type synthesizer, drum machine, or even a breakpoint synthesizer. AMY is also used by the FOSS mesh synthesizer project Alles (think FOSS wireless speaker mesh solution), which Tulip Creative Computers also supports.
@@ -29,6 +41,12 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -97,10 +115,3 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 <li><a href="https://desktop-recording.techidaily.com/unlocking-full-screen-recording-features-in-mi-11-for-2024/"><u>Unlocking Full-Screen Recording Features in Mi 11 for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-no-experience-needed-top-free-video-editing-software/"><u>Updated No Experience Needed Top Free Video Editing Software</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
