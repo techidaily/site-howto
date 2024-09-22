@@ -1,7 +1,7 @@
 ---
 title: Intel Elevates Processing Power with New Optical Connectivity Standard, Delivering Up to 4Tbps Data Transfer Rate for Chiplets
-date: 2024-09-08T07:30:39.376Z
-updated: 2024-09-09T07:30:39.376Z
+date: 2024-09-15T20:58:42.629Z
+updated: 2024-09-21T22:53:59.006Z
 tags:
   - desktop
 categories:
@@ -9,24 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/oPMXJGetzuURdNctz3AxRm-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Launching Soon: The Budget-Friendly Qualcomm Mini Desktop PC with Snapdragon X Processor Available for Preorder
 
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
 * **SoC** : Qualcomm Snapdragon X Elite X-1E-00-1DE, specs divided between CPU, GPU, and NPU below
@@ -48,12 +36,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -68,8 +50,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -79,37 +59,23 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-essential-shortcuts-for-efficient-mac-screen-recording/"><u>[New] 2024 Approved  Essential Shortcuts for Efficient Mac Screen Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-masterclass-in-live-streaming-integrating-dslr-into-your-digital-space-for-2024/"><u>[Updated] Masterclass in Live Streaming  Integrating DSLR Into Your Digital Space for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-enhancing-visual-content-consumption-via-edges-pip/"><u>2024 Approved  Enhancing Visual Content Consumption via Edge’s PIP</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-telegram-web-a-beginners-walkthrough/"><u>2024 Approved  Mastering Telegram Web  A Beginner's Walkthrough</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-note-30-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Note 30 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-tecno-camon-20-premier-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Tecno Camon 20 Premier 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-redmi-12-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi Redmi 12 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-honor-90-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor 90? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-realme-narzo-n53-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme Narzo N53? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/enhance-video-quality-for-free-top-10-online-tools/"><u>Enhance Video Quality for Free Top 10 Online Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/expert-strategies-for-video-enhancement-vce-22-deep-dive-for-2024/"><u>Expert Strategies for Video Enhancement - VCE 2.2 Deep Dive for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-s24plus-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy S24+ Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-magic-5-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Magic 5 Quickly | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-play-8t-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor Play 8T 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-realme-narzo-60x-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Realme Narzo 60x 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/improved-version-of-football-manager-2020-say-goodbye-to-game-crashes/"><u>Improved Version of Football Manager 2020: Say Goodbye to Game Crashes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-8-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 8</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-c51-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme C51 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/sync-video-elements-to-captivate-instagram-audiences/"><u>Sync Video Elements to Captivate Instagram Audiences</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-comprehensive-guide-to-editing-tiktok-account-numbers/"><u>The Comprehensive Guide to Editing TikTok Account Numbers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlocking-remote-access-configuring-wake-on-lan-in-the-latest-windows-versions/"><u>Unlocking Remote Access: Configuring Wake-on-LAN in the Latest Windows Versions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unmanned-vehicles-classified/"><u>Unmanned Vehicles - Classified</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y100i-power-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y100i Power 5G Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-vivo-v29e-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo V29e Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-itel-p55plus-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Itel P55+ Offline? Troubleshooting Guide | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-7-optimized-support-lenovo-ideapad-y470/"><u>Windows 7 Optimized Support: Lenovo IdeaPad Y470</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-value-asmr-gear-premium-sound-affordably-priced/"><u>[New] Top Value ASMR Gear Premium Sound Affordably Priced</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fb-streams-save-as-mp3-beat-for-easy-playback/"><u>[Updated] 2024 Approved FB Streams Save as MP3 Beat for Easy Playback</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-precision-gameplay-savings-made-easy-with-fbx-filming/"><u>[Updated] 2024 Approved Precision Gameplay Savings Made Easy with FBX Filming</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-aac-dynamic-range-controllers-for-websites-and-pcs-the-ultimate-selection-of-three/"><u>Best AAC Dynamic Range Controllers for Websites & PCs: The Ultimate Selection of Three</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-poco-x6-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Poco X6 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-plus-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 14 Plus without Losing Data? | Stellar</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/reigning-typefaces-for-triumph-best-tiktok-font-generator-list-of-23-for-2024/"><u>Reigning Typefaces for Triumph Best TikTok Font Generator List of '23 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-oppo-k11-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo K11 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-realme-c67-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme C67 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/share-the-load-collective-effort-in-an-online-community/"><u>Share the Load: Collective Effort in an Online Community</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
