@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy S24+ Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-09-15T04:08:03.836Z
-updated: 2024-09-21T16:32:03.712Z
+date: 2024-09-24T03:41:03.408Z
+updated: 2024-09-29T20:11:34.980Z
 tags: 
   - problems
 categories:
@@ -47,6 +47,13 @@ So, how to get the Android camera not working problem solved? There are a few wa
 One of the first things to do any time an app or your phone or tablet does not work like it should, restarting the Samsung Galaxy S24+ device refreshes everything just enough to resolve most commonly occurring issues.
 
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
 
@@ -164,18 +171,18 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy S24+
 
@@ -286,6 +293,13 @@ Step 2 – Upon opening the option, select “Google”. Now you can see your Gm
 
 ![select “Google”](https://images.wondershare.com/drfone/article/2017/06/14985033604000.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3 – Now click on the top right side three dots or “more” option. Here you can find the “Remove account” option. Select it to remove the Google Account from your Mobile.
 
 ![“more”](https://images.wondershare.com/drfone/article/2017/06/14985033797108.jpg)
@@ -305,6 +319,19 @@ Step 2 – Upon clicking on this option, you can find “Android device manager�
 Step 3 – Now you can be able to uninstall Google play service by going into application manager.
 
 ![uninstall Google play service](https://images.wondershare.com/drfone/article/2017/06/14985034252357.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4 – After that, try to open any app that requires Google Play store to open, and that will automatically guide you to install the Google Play service. Now install the updated version of the Google Play service.
 
@@ -349,13 +376,6 @@ Step 2 – Now find “Google Play Store” and click on it.
 Step 3 – Here click on “Force Stop”. This allows the Google Play Store to stop.
 
 ![click on “Force Stop”](https://images.wondershare.com/drfone/article/2017/06/14985037034838.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now, try to open Google Play store again and this time the service is being restarted and might work properly. If not, try the next solution.
 
@@ -428,10 +448,10 @@ As mentioned before, some apps rely on the internet to function. If you don’t 
 ![check the internet connection](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Force Stop the Apps Keep Crashing
@@ -452,13 +472,6 @@ In case restarting the app hasn’t worked, you should try restarting your Samsu
 
 ![proceed with the restart option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Update the Android OS
 
 Not updating your Android OS for a long while can cause many performance issues in your device. One of these issues is the incompatibility with the latest apps. That's why make sure that your Samsung Galaxy S24+ is running the latest available version of the operating system. You can check and update the Android OS of your device using these steps:
@@ -477,9 +490,23 @@ Have you tried clearing the cache of the app that keeps crashing? The app cache 
 
 ![choose app info option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - ****Step 2:**** Following this, press "Storage," and on the following screen, hit “Clear Cache.” It will clean the cache for the targeted app.
 
 ![tap on clear cache button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall the Buggy App
 
@@ -492,6 +519,13 @@ Bugs in the app can prove a nightmare and hard to remove from the app. If your *
 - ****Step 2:**** After removing the app, go to Google Play Store and find the targeted app. Here, tap “Install” to reinstall the app on your device.
 
 ![press the install button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Check the App Permissions
 
@@ -524,13 +558,6 @@ It can be hard to find the ****app crashing**** root cause if it happens due to
 - ****Step 1:**** Press and hold the “Volume Down” and “Power” buttons together for 3 seconds to access the power menu. Here, long-press the “Power Off” option.
 
 ![hold the power off option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - ****Step 2:**** Press the “Power Off” button until “Restart in Safe Mode” appears on the screen. Now reboot the Samsung Galaxy S24+ device into Safe Mode. To exit Safe Mode, you will need to restart the phone.
 
@@ -590,5 +617,18 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-ultimate-starters-guide-to-understanding-and-using-green-screens/"><u>[New] 2024 Approved The Ultimate Starter’s Guide to Understanding and Using Green Screens</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlock-hd-potential-for-your-social-media-platform-fb/"><u>[New] Unlock HD Potential for Your Social Media Platform (FB)</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-discover-the-highest-rated-mp3-recorders-for-both-pc-and-mac-environments/"><u>2024 Approved Discover the Highest-Rated MP3 Recorders for Both PC and Mac Environments</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-12-mini-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 12 mini? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-12-pro-max-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-14-pro-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone 14 Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-and-simple-methods-integrating-clownfish-sounds-into-pc-speech-for-2024/"><u>Quick & Simple Methods Integrating Clownfish Sounds Into PC Speech for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-a38-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo A38 Screen | Dr.fone</u></a></li>
+</ul></div>
 

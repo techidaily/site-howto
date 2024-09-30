@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on OnePlus 12R | Dr.fone
-date: 2024-09-18T04:17:10.281Z
-updated: 2024-09-21T18:45:22.449Z
+date: 2024-09-29T05:40:05.379Z
+updated: 2024-09-29T17:01:29.155Z
 tags: 
   - problems
 categories:
@@ -75,13 +75,6 @@ One-click solution to fix camera failed on OnePlus 12R devices
 
 When the software is done repairing the system, you will be notified. Thus, the Camera failed OnePlus 12R error in your phone will be fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to fix Camera Failed error by clearing camera data?
 
 Has anyone ever informed you that it is absolutely necessary to keep clearing camera data every once in a while? Yes, since it deletes all unnecessary data stored in respect of the App and no, it does not mean that all your photos and videos will get deleted. Just follow the steps given below to clear camera data:
@@ -93,13 +86,6 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 2\. Now a list of all Apps will appear before you. Keep scrolling down until your find “Camera”.
 
 ![camera app](https://images.wondershare.com/drfone/article/2017/07/14997065904511.jpg "camera app")
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
@@ -187,13 +173,6 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/07/14997070554687.jpg "erase everything")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Note: You will have to set up your OnePlus 12R device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your OnePlus 12R devices.
@@ -208,6 +187,19 @@ In this article we are going to look at how you can fix your device if you are s
 
 Before we can learn how to fix a bricked device, it is important that you are able to save the data that is on the OnePlus 12R device. Having the data saved somewhere else will be the added insurance you need in case anything goes wrong during the process. There are very few software solutions in the market to help you get back data from a bricked device. One of these and the most reliable is [Wondershare Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html).
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html)
 
 World's 1st Android smartphone and tablet recovery software.
@@ -220,6 +212,13 @@ World's 1st Android smartphone and tablet recovery software.
 - 100% safe to use.
 
 **4,771,974** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Use Dr.Fone - Data Recovery (Android) to Rescue Data from a Bricked Android
 
@@ -266,10 +265,10 @@ Step 2: Once you are in, navigate to the “Reboot system now.” If you are usi
 ![bricked android phone data recovery-Reboot system now.](https://images.wondershare.com/drfone/others/fix-bricked-android-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When the OnePlus 12R device won’t stop rebooting
@@ -313,6 +312,13 @@ If you are planning on installing custom ROM you need to install Custom Recovery
 7. Ensure the Custom ROM you choose can actually be used on your device model.
 
 While installing Custom ROM can actually be a great way to customize your device, it is also the leading reason for bricked devices. Therefore ensure that you understand what you are doing when you decide to customize your device. Learn as much as you can about the process before attempting everything.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 Solutions to Fix Error Code 963 on Google Play Of OnePlus 12R
 
@@ -391,6 +397,13 @@ If the OnePlus 12R device contains no Home button:
 
 ![fix google play error 963 on android without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2 – Press the ‘Next’ button and then the program will commence the firmware downloading.
 
 ![firmware downloaded](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -406,6 +419,13 @@ Step 4 – Within a while, the Google play error 963 will be vanished.
 ## Part 3: 6 Common Solutions to fix Error Code 963
 
 ![fix Error Code 963](https://images.wondershare.com/drfone/article/2017/06/14984132296365.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Since there is no specific reason for Error Code 963 to occur, similarly there is no one solution to the problem. You may use any one of them below or try them all to never see Error Code 963 on your device.
 
@@ -435,26 +455,33 @@ Visit “Settings” and select “Application Manager”.
 
 ![select “Application Manager”](https://images.wondershare.com/drfone/article/2017/06/14984135382889.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now select “Google Play Store” from “All” Apps.
 
 ![select “Google Play Store”](https://images.wondershare.com/drfone/article/2017/06/14984135667390.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In this step, click on “Uninstall Updates” as shown below.
 
 ![Uninstall Updates](https://images.wondershare.com/drfone/article/2017/06/14984137166252.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **3\. Shift the App from SD Card to device’s memory**
 
@@ -538,5 +565,24 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-simple-tips-for-capturing-google-voice-conversations-for-2024/"><u>[New] Simple Tips for Capturing Google Voice Conversations for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chorus-to-creation-finding-10-prime-tunes-for-podcast-intros/"><u>[Updated] Chorus to Creation Finding 10 Prime Tunes for Podcast Intros</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-tier-steadicam-options-for-drone-video-production/"><u>[Updated] Top-Tier Steadicam Options for Drone Video Production</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-meizu-21-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Meizu 21 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-redmi-note-13-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Redmi Note 13 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-camon-20-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Camon 20 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discounted-deal-get-a-50-refund-with-alienwares-elite-wireless-gaming-board/"><u>Discounted Deal: Get a $50 Refund with Alienware's Elite Wireless Gaming Board</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-lava-yuva-2-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Lava Yuva 2 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-14-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Xiaomi 14 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-x-flip-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo X Flip Data? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-navigate-a-2023-hack-steps-to-regain-fb-access/"><u>In 2024, Navigate a 2023 Hack Steps to Regain FB Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-secret-pathway-to-premium-pristine-pictures-for-2024/"><u>The Secret Pathway to Premium, Pristine Pictures for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y36-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y36 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-reno-8t-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Reno 8T 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-y100t-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y100t Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

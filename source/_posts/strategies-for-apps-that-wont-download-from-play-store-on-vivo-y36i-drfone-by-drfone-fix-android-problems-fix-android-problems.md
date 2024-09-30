@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Vivo Y36i | Dr.fone
-date: 2024-09-18T17:41:09.744Z
-updated: 2024-09-21T20:35:04.631Z
+date: 2024-09-22T17:21:41.040Z
+updated: 2024-09-29T19:18:52.295Z
 tags: 
   - problems
 categories:
@@ -50,18 +50,18 @@ Device settings or parental controls may impose restrictions on certain app down
 
 Inaccurate date and time settings on the Vivo Y36i device can disrupt the Play Store's functionality. You'll face obstacles in downloading apps due to authentication errors or syncing issues. It can have a negative impact on the overall user experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Play Store Bugs and Glitches
 
 Technical issues within the Play Store, such as bugs or glitches, can lead to failed downloads. You may encounter unexpected errors, causing uncertainty and potential distrust in the reliability of the app platform.
 
 If you encounter any of these issues, having a reliable tool to fix them is essential. [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair offers a solution if you **cannot download from the Play Store**. The platform ensures you can download apps again with a high success rate in minutes.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part II. Having a Third-Party Tool Is Essential To Safeguard Your Apps
 
@@ -100,6 +100,13 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 - **Step 1:** Download and install Dr.Fone - System Repair on your computer. Launch the program and select **System** **Repair** from the available options.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3,143,540** people have downloaded it
 
@@ -140,6 +147,13 @@ An outdated Play Store version may lead to compatibility issues. Open the Google
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Clear Play Store Cache and Data
 
 Cached data in the Play Store can sometimes cause download problems. Head to the Vivo Y36i device settings and open **Apps** or **Application Manager**. Locate Google Play Store, and tap **Storage**. Clear both the cache and data to refresh the app.
@@ -178,19 +192,6 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 
 There is no doubt that it is quite frustrating when your device buttons, such as home and back don’t work properly. The reasons can be software as well as hardware issues. If you are wondering whether there is any solution to fix this problem, then you’ve come to the right place. Firstly, yes some methods can probably help you to come out of this issue. Here, in this guide, we have covered various solutions you can try to resolve the “home button not working Android” problem no matter whether it is due to software or hardware reason.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: 4 Common Measures to Fix Home Button Not Working Android
 
 Here, we are going to mention four common methods that you can try to resolve the home button problem on your Vivo Y36i with ease.
@@ -223,13 +224,6 @@ Step 2: Thereafter, connect your Vivo Y36i to the computer using a USB cable and
 
 ![home button not working android - connect device](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Next, you will navigate to a device information page where you have to provide your device information.
 
 ![home button not working android  - check device info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -253,13 +247,6 @@ Step 1: To begin with, press and hold the power button and either volume up or d
 Step 2: Next, press the power button for a few moments to force restart your device.
 
 ![home button not working android - force restart](https://images.wondershare.com/drfone/article/2019/02/force-restart.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1.3 Restore Factory Settings
 
@@ -285,6 +272,13 @@ Step 2: After that, click “Check for updates” and if updates are available, 
 
 ![home button not working android - update android](https://images.wondershare.com/drfone/article/2019/02/update-firmware.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: What if the Home Button fails due to hardware reasons?
 
 When your Android home and back button not working because of hardware reasons, you can’t get the problem resolved by simply rebooting your device. In such cases, you have to use alternative apps to replace the home button.
@@ -294,6 +288,19 @@ When your Android home and back button not working because of hardware reasons, 
 The Simple Control app is the first and foremost solution to fix the Android home button not working issue. With the help of this app, you can fix many soft keys of your device. It is specially designed for Android users facing trouble using home, volume, back, and camera buttons. Plus, the app utilizes Accessibility service, but it doesn’t get access to your sensitive and personal information.
 
 ![simple control app](https://images.wondershare.com/drfone/article/2019/02/simple-control-app.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Pros:
 
@@ -348,13 +355,6 @@ URL: [https://play.google.com/store/apps/details?id=nu.nav.bar](https://play.goo
 Home button app is another remarkable solution to replace broken and failed home buttons for users having trouble while using buttons. With this app, it is quite easy to press or even long press on the home button as assistive touch.
 
 ![home button app](https://images.wondershare.com/drfone/article/2019/02/home-button-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Pros:
 
@@ -439,6 +439,20 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Re-enable disabled app
 
 **App icons can also disappear on the Android** home screen if you unintentionally or intentionally disable them. Certain phone models even offer a functionality known as 'Freezer,' allowing users to temporarily halt the apps. While in a frozen state, the app remains inactive and doesn't appear on the home screen until you unfrozen it.
@@ -473,6 +487,13 @@ How to fix the Android system using Dr.Fone’s system repair tool:
 Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox section and connect your Vivo Y36i. Choose System Repair and pick Android as your device type.
 
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
@@ -528,5 +549,26 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-prime-selection-of-streaming-services-explored/"><u>[New] Prime Selection of Streaming Services Explored</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-vloggers-guide-to-choosing-camgear-the-top-9-innovations-for-2024/"><u>[New] The Vlogger's Guide To Choosing CamGear - The Top 9 Innovations for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nokia-g42-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nokia G42 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-google-pixel-fold-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Google Pixel Fold System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-hd-7870-drivers-download-and-updates-on-windows-11/"><u>AMD Radeon HD 7870 Drivers Download & Updates on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-how-to-fine-tune-game-audio-on-ps-console/"><u>Discover How to Fine-Tune Game Audio on PS Console</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/harmonic-hues-infusing-your-social-media-content-with-tunes-for-2024/"><u>Harmonic Hues Infusing Your Social Media Content with Tunes for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-laughlens-lab-jestjokester-co/"><u>In 2024, LaughLens Lab JestJokester Co</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/master-your-run-with-the-garmin-forerunner-45-a-complete-review-of-a-runners-essential-gps-watch/"><u>Master Your Run with the Garmin Forerunner 45 - A Complete Review of a Runner's Essential GPS Watch</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-connection-problems-here-are-proven-fixes-for-a-smooth-gameplay-experience/"><u>Minecraft Connection Problems? Here Are Proven Fixes for a Smooth Gameplay Experience!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-the-mic-in-fortnite-heres-how-to-get-crystal-clear-audio-again/"><u>Trouble with the Mic in Fortnite? Here's How to Get Crystal Clear Audio Again!</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-the-beast-boosting-fps-in-cs-go/"><u>Unleash the Beast - Boosting FPS in CS Go</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-12-pro-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme 12 Pro 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-a1x-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo A1x 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

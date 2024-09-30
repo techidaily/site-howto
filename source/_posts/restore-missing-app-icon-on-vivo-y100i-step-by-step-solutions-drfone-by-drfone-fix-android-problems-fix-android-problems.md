@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Vivo Y100i Step-by-Step Solutions | Dr.fone
-date: 2024-09-16T08:59:12.636Z
-updated: 2024-09-21T17:06:48.010Z
+date: 2024-09-22T21:08:13.091Z
+updated: 2024-09-30T00:23:26.592Z
 tags: 
   - problems
 categories:
@@ -50,6 +50,19 @@ However, as a general guide, you can follow these steps:
 
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Move the app to the home screen from the App Drawer
 
 If your **app icon disappeared on your Android**, you can also easily restore it by adding the app to the home screen from the app drawer. Follow the step-by-step guide below:
@@ -95,13 +108,6 @@ How to fix the Android system using Dr.Fone’s system repair tool:
 Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox section and connect your Vivo Y100i. Choose System Repair and pick Android as your device type.
 
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
@@ -163,6 +169,13 @@ The following are some potential reasons for an unresponsive screen on a Vivo Y1
 
 A touch screen not working on Vivo Y100i smartphones indicates a soft brick (recoverable by firmware update), often caused by a defective or undercharged battery. System file corruption, old firmware, or failed upgrades are all possible causes. Several customers have complained that after installing a software update, their Vivo Y100i 4 or 5 device's screen became unresponsive and remained at the boot logo.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **There might be issues with the Vivo Y100i device itself**
 
 Screens on Vivo Y100i devices may become unresponsive for a variety of hardware-related reasons. A broken LCD panel, faulty touch sensor, or loosened ribbon wires are all possible causes. Every Vivo Y100i device, including the Note 4 and 5, is susceptible to these problems.
@@ -176,6 +189,13 @@ The Android operating system is adjustable. Some of our technological advancemen
 Could anything be more annoying than a broken touchscreen on your Vivo Y100i phone? If this happens, the gadget is useless, and you won't be able to do even the simplest tasks. Even so, it's common for the screen to cease responding to touches.
 
 Before taking the item in for repairs, see if you can figure out the problem independently. Do you want to learn the method? If the touch screens on your Vivo Y100i stop working, don’t panic; we'll teach you exactly what to do.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Solution 1: Try to restart your device**
 
@@ -197,6 +217,13 @@ If the battery of your Vivo Y100i is empty, your screen is expected to be unresp
 2. Leave it for about an hour.
 3. Come back to check. Turn your phone on.
 4. Test if the touchscreen is now working.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Solution 3: Contact Customer Service**
 
@@ -237,14 +264,14 @@ Doing a factory reset may be your last remaining choice if the preceding solutio
 
 ![dr fone system repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to fix issues like this, most simply, Dr. Fone offers that. It is made to provide you with a complete mobile solution. You may have your phone fixed without losing any information. Dr. Fone's many handy tools will quickly get your phone back in working order.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to avoid a Vivo Y100i screen unresponsive?**
 
@@ -268,13 +295,6 @@ In this article, you will learn what is Android system recovery, and how to fix 
 
 You know your Vivo Y100i is stuck in recovery mode when you cannot turn on the Vivo Y100i device. If you try to turn it on, it shows a message that says, "Android System Recover." This situation can be quite debilitating for most Android users. Most of the time, you don't know whether you have lost all of your important Android data. It is even more worrying because of the fact that you cannot turn on your device at all, especially when you don't know how to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1. What is Android System Recovery?
 
 Despite all the worry that surrounds an unwanted Android system recovery screen, it is actually a feature that can be quite helpful to your Vivo Y100i when it's needed. It can be useful when you want to hard reset the Android device without having to access the settings. This can be very useful if your device is not working very well or if your touch screen is experiencing problems. It can also be very helpful when you are having a problem accessing the settings on your device.
@@ -288,6 +308,13 @@ Now that you know how useful the Android System can be, you may want to know how
 Step 1: Hold down the power key and then select "Power Off" from the options on the screen. If, however, your screen is unresponsive, keep holding the power key for several seconds until the Vivo Y100i device is completely turned off.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
@@ -350,27 +377,20 @@ Ensure your device, and your computer stays connected the entire time, and make 
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
@@ -387,6 +407,13 @@ Step 4: Press the Volume down key to select the "Wipe Data/ Factory Reset option
 Step 5: Next, you need to press the Volume down button to highlight "Delete All User Data" and then press the Power button to select it. The device will reset and present the "Reboot System Now" option.
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5. Backup and Restore Android System
 
@@ -422,5 +449,21 @@ Android system recovery mode can be quite useful, especially when your system is
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-chronicles-unveiled-an-array-of-more-than-a-hundred-inspiring-title-concepts-for-2024/"><u>[New] Snapchat Chronicles Unveiled An Array of More Than a Hundred Inspiring Title Concepts for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-snickerspace-build-memes-that-make-people-smile/"><u>[Updated] 2024 Approved SnickerSpace Build Memes That Make People Smile</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-instructors-roadmap-to-youtube-success-10-crucial-steps/"><u>[Updated] In 2024, The Instructor's Roadmap to YouTube Success – 10 Crucial Steps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-monitor-matters-how-to-opt-for-the-best-visual-experience-with-4k-displays/"><u>[Updated] Monitor Matters How to Opt for the Best Visual Experience with 4K Displays</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-a23-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy A23 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-12-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast OnePlus 12 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-y27-4g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo Y27 4G Phone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-leveraging-technology-for-efficient-team-discussions-slack-filmora-strategy/"><u>In 2024, Leveraging Technology for Efficient Team Discussions Slack-Filmora Strategy</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-video-to-live-photo-expert-recommended-apps-and-guides-for-2024/"><u>Updated From Video to Live Photo Expert-Recommended Apps and Guides for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-civi-3-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Civi 3 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+</ul></div>
 

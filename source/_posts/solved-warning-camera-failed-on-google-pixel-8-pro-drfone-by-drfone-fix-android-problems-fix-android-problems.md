@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Google Pixel 8 Pro | Dr.fone
-date: 2024-09-19T21:54:23.592Z
-updated: 2024-09-21T16:41:22.988Z
+date: 2024-09-29T01:16:11.758Z
+updated: 2024-09-29T22:06:00.388Z
 tags: 
   - problems
 categories:
@@ -65,6 +65,13 @@ One-click solution to fix camera failed on Google Pixel 8 Pro devices
 
 ![select the details of samsung device](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3**. Now put your device in the download mode. The software will provide you with a guide to put the phone in download mode to begin the downloading process.
 
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
@@ -109,13 +116,6 @@ Simply, follow the instructions given below to remove Apps from Google Pixel 8 P
 
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14997067161727.jpg "uninstall app")
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
 
 ## Part 5: How to fix Camera Failed error by wiping Cache Partition?
@@ -133,13 +133,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 3\. Once the Recovery Screen appears, leave all buttons and use the volume down key till you reach “Wipe Cache Partition”.
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
@@ -165,6 +158,13 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 Once done, go back to the Home Screen and start the camera App again to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 7: How to fix Camera Failed error by Factory Reset?
 
 Lastly, if the above-mentioned techniques do not help you in fixing the camera failed error, you can consider performing a Factory Reset. Note: This method will delete all your saved data so it is advised to backup before you start the process.
@@ -179,16 +179,16 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/07/14997069833129.jpg "backup and reset")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Now you must first select “Factory data reset” and then tap on “Reset Device” as shown in the screenshot below.
 
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Finally, you have to click on “Erase Everything” and wait for the Google Pixel 8 Pro device to reboot itself.
 
@@ -250,6 +250,19 @@ Please keep your mobile details handy as you will need them in the next window. 
 
 ![enter device info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5: Confirm Actions**
 
 This process may result in removing your data hence we strongly recommend you to keep a backup of your data.
@@ -283,6 +296,13 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 - Now restart your device.
 
 ![clear cache to fix touchwiz home stopping](https://images.wondershare.com/drfone/article/2019/02/clear-cache-touchwiz.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Please note that this will delete all your Home screens post this method.
 
@@ -330,6 +350,13 @@ Here is the next solution to be followed when TouchWiz keeps stopping. As we alr
 
 ![safe mode](https://images.wondershare.com/drfone/article/2019/02/enable-safe-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reset Factory settings
 
 If the above method went futile and you’re still at the same place, then factory reset is the next logical step to be taken. We suggest this method because it will take your device to its factory state. As a result, TouchWiz will probably get normal and work perfectly.
@@ -357,13 +384,6 @@ It is very common that the Android messaging app is not working on many devices 
 You might find lots of people online stating I can't receive text messages on Android. And usually, people don’t find a legit solution for this issue. If you are also experiencing this sort of issue on your Google Pixel 8 Pros, then don’t panic. We have a series of methods that can supposedly fix the problem. But at first, we will learn what the main reasons this problem arises are and how do you know that it is consistent not some random error.
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
@@ -419,6 +439,13 @@ Step 3: Agree with the conditions and hit the Next button. The software will dow
 
 ![android not receiving texts - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It won’t take long, and your Google Pixel 8 Pro will be repaired. Now you will be able to receive and send text messages without any hassle.
 
 ## Part 2: Remove and Insert the SIM
@@ -449,13 +476,6 @@ Step 1: Open the Settings and go to Apps. Find the Messages app from the list an
 
 ![android not receiving texts clear cache](https://images.wondershare.com/drfone/article/2019/02/clear-message-cache.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Click on the Clear Cache button and wait as the Google Pixel 8 Pro device free up the memory of your device.
 
 Once the cache is cleared, you can also clear the data if you want to and you’ll instantly receive the text messages on your phone.
@@ -469,6 +489,19 @@ Step 1: Open the messages app and open settings. Look for an option that says �
 ![android not receiving texts - free up space](https://images.wondershare.com/drfone/article/2019/02/manage-SIM-card-messages.jpg)
 
 Step 2: There, you will see the existing messages on the SIM. You can either delete all the messages or perform a selective deletion to free up space.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 8: Try a Third-party Messaging App
 
@@ -510,5 +543,22 @@ Now you know several methods that can work if the Android messaging app is not w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-4-ways-to-set-up-your-talking-head-shots-for-youtube-for-2024/"><u>[Updated] 4 Ways To Set Up Your Talking-Head Shots For YouTube for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-highlighting-top-facebook-video-tools/"><u>[Updated] In 2024, Highlighting Top Facebook Video Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-metaverse-marvels-top-10-sci-fi-films-unveiling-extraordinary-worlds-for-2024/"><u>[Updated] Metaverse Marvels Top 10 Sci-Fi Films Unveiling Extraordinary Worlds for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-essential-fluid-dynamics-gaming-experiences/"><u>2024 Approved Top Essential Fluid Dynamics Gaming Experiences</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/abbyy-redefines-organizational-layout-for-worldwide-expansion-official-updates-from-abbyy/"><u>ABBYY Redefines Organizational Layout for Worldwide Expansion: Official Updates From ABBYY</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-infinix-note-30-vip-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Note 30 VIP? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-fixes-to-launch-problems-in-farming-simulator-22/"><u>Effective Fixes to Launch Problems in Farming Simulator 22</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-samsung-revolution-diving-deep-into-the-ue590-monitor-review/"><u>In 2024, The Samsung Revolution - Diving Deep Into the UE590 Monitor Review</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-is-avs-video-editor-the-best-choice-for-you/"><u>New In 2024, Is AVS Video Editor the Best Choice for You ?</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-moto-g24-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Moto G24 Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

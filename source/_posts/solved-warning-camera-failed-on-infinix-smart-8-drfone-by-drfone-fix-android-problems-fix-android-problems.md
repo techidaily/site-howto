@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Infinix Smart 8 | Dr.fone
-date: 2024-09-15T08:08:42.252Z
-updated: 2024-09-22T12:01:44.961Z
+date: 2024-09-24T21:32:47.704Z
+updated: 2024-09-30T00:03:11.124Z
 tags: 
   - problems
 categories:
@@ -105,6 +105,13 @@ Simply, follow the instructions given below to remove Apps from Infinix Smart 8 
 
 ![installed apps](https://images.wondershare.com/drfone/article/2017/07/14997066916915.jpg "installed apps")
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Now, once you select the App you want to uninstall, the App Info screen will appear. Tap on “Uninstall” option and then tap on “Uninstall” again on the pop-up message.
 
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14997067161727.jpg "uninstall app")
@@ -126,6 +133,13 @@ This method might seem tedious and time-consuming and you may also lose your dat
 3\. Once the Recovery Screen appears, leave all buttons and use the volume down key till you reach “Wipe Cache Partition”.
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
@@ -150,13 +164,6 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 ![reset settings](https://images.wondershare.com/drfone/article/2017/07/14997069347307.jpg "reset settings")
 
 Once done, go back to the Home Screen and start the camera App again to use it.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 7: How to fix Camera Failed error by Factory Reset?
 
@@ -210,6 +217,19 @@ OS bugs and general glitches within the OS and the camera app can cause camera n
 
 In the rarest cases, there might have developed an actual hardware issue with the camera system on your Infinix Smart 8. The likely culprit is misuse and abuse, such as a dropped phone or maybe the phone was too hot for extended periods of time, causing hardware issues.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part II: How To Fix Android Camera Not Working Issue?
 
 So, how to get the Android camera not working problem solved? There are a few ways you can try fixing the camera not working issue on your Infinix Smart 8 right where you are, without needing to take the Infinix Smart 8 device to the manufacturer’s service center.
@@ -231,13 +251,6 @@ Step 1: Launch the app switcher on your specific Android device the way your dev
 ![closing apps in app switcher](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-3.jpg)
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### II.III: Check App Permissions
 
@@ -264,6 +277,13 @@ Step 1: Go to Settings > Apps > Camera and tap Storage Usage.
 Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### II.V: Clear The Photo Gallery App Cache
 
@@ -294,6 +314,13 @@ Step 3: If there are updates available, Tap Update All to update all apps.
 We do not realize the immense power that is packed into the thin smartphone form factor these days. If you have been using the phone to video chat for a while now, you might not realize that the phone has become hot, especially if you are using a desk stand. Same for shooting high-resolution videos; the phone does get quite hot shooting high-resolution videos.
 
 If this is the case, close all apps and let the phone cool down. You might even want to shut the phone off to help cool it faster.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### II.VIII: Nudge The Camera System
 
@@ -331,6 +358,13 @@ Step 5: Your phone needs to be put into Download mode before it can be repaired.
 
 ![set phone in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 6: Dr.Fone automatically downloads the most recent firmware for your device and when it is ready, waits for your input. Click Fix Now to start the repair process.
 
 ![fix android camera not working](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
@@ -344,6 +378,13 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -433,6 +474,13 @@ When Bluetooth is on, it can interfere with your device’s ability to receive c
 
 ![turn off bluetooth on settings app](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It should help ensure that calls come through to your phone instead of going to voicemail.
 
 7. Check Airplane Mode
@@ -521,23 +569,9 @@ Dr.Fone supports over 1000 Android models, including unlocked Infinix Smart 8 mo
 
 ![android devices to enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 7:** Wait while the app downloads the firmware; once done, click **Fix Now**.
 
 ![firmware downloaded ready to use](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 8:** Enter the code in the input box to verify the Infinix Smart 8 device information in the dialogue box, then click **Confirm**.
 
@@ -563,13 +597,6 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4,215,287** people have downloaded it
 
 <ins class="adsbygoogle"
@@ -584,5 +611,22 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-empathic-3ds-players-android-edition/"><u>[New] 2024 Approved Best Empathic 3DS Players Android Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-metaverse-vs-multimetaverse-distinguishing-characteristics-comprehensive-insights/"><u>[New] Metaverse Vs. Multimetaverse Distinguishing Characteristics (Comprehensive Insights)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-reviving-the-disappearing-video-icon-on-fb-watch-platform-for-2024/"><u>[New] Reviving the Disappearing Video Icon on FB Watch Platform for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-how-to-create-metaverse-avatar-with-ease-an-ultimate-guide-for-2024/"><u>[Updated] How to Create Metaverse Avatar with Ease An Ultimate Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-knowledge-of-asmr-media/"><u>[Updated] Mastering the Knowledge of ASMR Media</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oppo-a1-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo A1 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-c12-plus-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia C12 Plus 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/synergy-of-storyteller-and-system-6-ways-gpt-elevates-dm-craftsmanship/"><u>Synergy of Storyteller and System: 6 Ways GPT Elevates DM Craftsmanship</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-k11-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo K11 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-ipad-gadgets-and-enhancements/"><u>Top Rated iPad Gadgets and Enhancements</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-s24-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy S24 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Nokia C12 Pro ? Fix It Easily | Dr.fone
-date: 2024-09-15T01:22:29.151Z
-updated: 2024-09-22T12:52:26.249Z
+date: 2024-09-23T03:30:20.783Z
+updated: 2024-09-29T18:38:40.256Z
 tags: 
   - problems
 categories:
@@ -44,6 +44,13 @@ Step 4: The white Google logo will appear immediately followed by the Android lo
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-05.jpg)
@@ -77,13 +84,6 @@ Once installed on your computer, open onto the main menu and connect your Nokia 
 
 ![get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Insert your device information, including the brand, carrier details, model and country and region you're in to ensure you're downloading the correct firmware.
 
 ![select items to correctly fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -107,6 +107,13 @@ After downloading, the software will automatically start to repair your device b
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
@@ -162,10 +169,10 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.1 Open the Phone app in Safe Mode
@@ -276,6 +283,13 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Why Is My Nokia C12 Pro Offline? Troubleshooting Guide
@@ -326,6 +340,13 @@ Switching to mobile data can be a quick fix if your Wi-Fi is acting up. It ensur
 
 ![Change connection to mobile data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 2: On and off Airplane mode
 
 [<u>Airplane Mode</u>](https://drfone.wondershare.com/fake-location/airplane-mode-turn-off-gps-location.html) can sometimes cause connectivity confusion. Turning it off and on essentially resets your phone's wireless connections, which might resolve the offline issue.
@@ -337,13 +358,6 @@ How to on and off Airplane mode on Android:
 - **Step 3:** Wait a few seconds, then tap it again to turn off the Airplane Mode. Now, check if your phone is now online.
 
 ![On and off the Airplane mode](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 3: Reset network settings
 
@@ -358,13 +372,6 @@ To reset your network settings, the steps may differ depending on the phone mode
 
 ![Reset the network settings on Android](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 4: Restart your Wi-Fi router
 
 Sometimes, the problem might not be with your phone but rather with the [<u>Wi-Fi router</u>](https://drfone.wondershare.com/root/wifi-hacker-without-root.html). Restarting it can refresh the connection and potentially resolve the connectivity problem.
@@ -377,6 +384,19 @@ How to restart your Wi-Fi router:
 - **Step 4:** Allow the router to restart and establish a connection. Then, check if your phone still shows the "Phone Offline" message.
 
 These solutions should cover the most common connectivity issues. If the problem persists, we'll explore further steps in the following sections.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How To Fix “Phone Offline” Despite Having an Internet Connection
 
@@ -399,13 +419,6 @@ Now, restart Google Chrome and check if the offline error persists.
 
 ![Clear Google Chrome’s cache and data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 2: Re-install Google Chrome
 
 If [<u>clearing the cache and data</u>](https://drfone.wondershare.com/erase-iphone/clear-iphone-cache.html) didn't solve the offline issue, reinstalling Google Chrome can be the next step. A fresh installation can eliminate any underlying glitches or corrupted files that might be causing the persistent offline status.
@@ -418,6 +431,13 @@ How to re-install Google Chrome:
 - **Step 4:** Once the installation is complete, open Google Chrome and check if the offline error persists while browsing.
 
 ![Re-install Google Chrome on Google Play Store](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3: Repair the system to fix the phone showing offline
 
@@ -448,6 +468,13 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 Click Start on the new screen to kick off the repair. Since you're dealing with an offline connection issue on Android, select System Damage.
 
 ![Select the problem and begin the repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Confirm your device details
 
@@ -485,5 +512,26 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unfollower-detection-on-instagram/"><u>[New] 2024 Approved Unfollower Detection on Instagram</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-amplify-video-impact-leading-trackers-for-youtube-ranks/"><u>[Updated] In 2024, Amplify Video Impact Leading Trackers for YouTube Ranks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evolving-narratives-in-virtual-cinema-landscapes/"><u>2024 Approved Evolving Narratives in Virtual Cinema Landscapes</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/an-adagio-pastorale-movement-typically-features-tranquil-melodies-that-evoke-imagery-of-nature-or-idyllic-scenes/"><u>An Adagio Pastorale Movement Typically Features Tranquil Melodies that Evoke Imagery of Nature or Idyllic Scenes.</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-tecno-spark-20-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Spark 20 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-13t-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi 13T? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-14-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 14 screen turns black? | Stellar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-tips-for-audio-gradual-decline-in-premiere-pro/"><u>Essential Tips for Audio Gradual Decline in Premiere Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-enhanced-rules-accelerate-the-2-trill-cuartos-de-dolares-in-aseans-digital-economy-by-2030-analysis-on-zdnet/"><u>How Enhanced Rules Accelerate the $2 Trill Cuartos De Dólares in ASEAN's Digital Economy By 2030, Analysis on ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-gt-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor 90 GT Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-hits-and-misses-the-photographers-account/"><u>In 2024, Hits and Misses The Photographer's Account</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-reno-9a-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo Reno 9A Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-phantom-v-fold-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Phantom V Fold Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x-flip-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X Flip Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-honor-x50iplus-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor X50i+ Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-tecno-spark-go-2023-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Spark Go (2023) Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/bes-revenue-per-million-views-an-insight-for-2024/"><u>YouTube's Revenue Per Million Views An Insight for 2024</u></a></li>
+</ul></div>
 

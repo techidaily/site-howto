@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Vivo Y78+ Step-by-Step Solutions | Dr.fone
-date: 2024-09-17T01:54:12.859Z
-updated: 2024-09-22T07:31:46.333Z
+date: 2024-09-23T03:26:45.557Z
+updated: 2024-09-29T22:31:00.300Z
 tags: 
   - problems
 categories:
@@ -50,6 +50,13 @@ However, as a general guide, you can follow these steps:
 
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Move the app to the home screen from the App Drawer
 
 If your **app icon disappeared on your Android**, you can also easily restore it by adding the app to the home screen from the app drawer. Follow the step-by-step guide below:
@@ -85,10 +92,10 @@ Please be mindful that performing a factory reset on Android will reset your And
 ![Perform a factory reset on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Fix System Error on Android Easily with Reliable Software
@@ -130,6 +137,19 @@ Follow the instructions to put your Vivo Y78+ into Download Mode. Once you are i
 Remember, the repair may erase data. It’s advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar. Once finished, click Done and see if your phone has returned to normal.
 
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **More Articles About Android System:**
 
@@ -181,14 +201,14 @@ One of the first things to do any time an app or your phone or tablet does not w
 
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### II.II: Close And Relaunch The Camera App
 
@@ -212,13 +232,6 @@ Step 2: Tap Camera.
 
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
 
 ### II.IV: Clear The Camera App Cache
@@ -240,6 +253,13 @@ The camera app is closely tied to the photo gallery app that comes baked in into
 Step 1: Go to Settings > Apps > Photos > Storage Usage.
 
 ![clear photo gallery app cache](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Tap Clear Cache.
 
@@ -317,6 +337,13 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7 Solutions to Fix Chrome Crashes or Won’t Open on Vivo Y78+
 
 Google Chrome is one of the most popular web browsers in the world. It is fast, secure, and easy to use. However, like any other app, it is not free from errors. Many users have reported that Chrome crashes or won’t open on their Vivo Y78+. If you are also facing this issue, then you have come to the right place. In this article, we will discuss the reasons behind this problem and provide you with 7 solutions to fix Chrome crashes or won’t open on Vivo Y78+.
@@ -354,13 +381,6 @@ While using any app for long, the temporary files for those gets collected in th
 ## Part 4: Exclude the issue of website itself
 
 Most probably Chrome is not able to support the website you are trying to access. We doubt if the particular website you are making use of is the culprit and making Chrome keeps stopping. In such case, we would like to recommend you to make use of another browser and try to access the website from there. See if this works or not. If now, please follow the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: Android firmware corruption
 
@@ -419,6 +439,13 @@ While you were trying to download from internet, the file didn’t download prop
 
 - Now, you need to re-install it from Play Store. From the “My Apps” section, tap on Chrome and update it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 7: Clashes between Chrome and system
 
 Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it might be because of the incompatibility between the Chrome and system. Maybe your device is not updated and therefore is at odds with the Chrome app. So, the last tip that we would like give you is to update your Vivo Y78+. Following are the steps for it. Follow them and stop the Chrome crashing on Android issue.
@@ -429,16 +456,10 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 ![fix Chrome crashing by updating android](https://images.wondershare.com/drfone/article/2019/05/update-android.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -453,5 +474,24 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-flash-frame-filmmaking-script/"><u>[New] 2024 Approved Flash Frame Filmmaking Script</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-digital-painting-prowess-picart-backdrop-exclusion-method/"><u>[Updated] 2024 Approved Digital Painting Prowess PicArt Backdrop Exclusion Method</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-android-music-integration-a-guide-to-social-media-playlists/"><u>[Updated] Android Music Integration A Guide to Social Media Playlists</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-lava-agni-2-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Lava Agni 2 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-visual-treasury-select-10-sites-included/"><u>2024 Approved Free Visual Treasury – Select 10 Sites Included</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-m54-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy M54 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-redmi-a2plus-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi Redmi A2+? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-c65-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco C65 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-ace-3-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change OnePlus Ace 3 Lock Screen Password?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-12-mini-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 12 mini when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unseen-content-exposure-a-video-sharing-roadmap/"><u>Unseen Content Exposure A Video-Sharing Roadmap</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-lenovo-tab-p11-pro-a-great-tablet-experience-with-small-trade-offs/"><u>Unveiling the Lenovo Tab P11 Pro: A Great Tablet Experience with Small Trade-Offs</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-narzo-n55-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme Narzo N55 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-zte-nubia-flip-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My ZTE Nubia Flip 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

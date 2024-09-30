@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Xiaomi Redmi Note 12 Pro 4G | Dr.fone
-date: 2024-09-15T19:52:01.192Z
-updated: 2024-09-22T02:31:31.177Z
+date: 2024-09-24T18:09:16.369Z
+updated: 2024-09-29T18:14:49.788Z
 tags: 
   - problems
 categories:
@@ -37,6 +37,19 @@ We are all aware that no device runs smoothly, without any glitches. We also kno
 5. Finally, if you tamper a lot with the camera settings and do not update the App whenever it is available, Xiaomi Redmi Note 12 Pro 4G Camera App will not be efficient.
 
 There might be much more reasons for the camera failed error, but these are the most obvious ones. Now let us now move on to troubleshooting the problem.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to fix Xiaomi Redmi Note 12 Pro 4G Camera Failed in One Click?
 
@@ -83,13 +96,6 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 
 ![application manager](https://images.wondershare.com/drfone/article/2017/07/14997063797708.jpg "application manager")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Now a list of all Apps will appear before you. Keep scrolling down until your find “Camera”.
 
 ![camera app](https://images.wondershare.com/drfone/article/2017/07/14997065904511.jpg "camera app")
@@ -115,6 +121,19 @@ Simply, follow the instructions given below to remove Apps from Xiaomi Redmi Not
 3\. Now, once you select the App you want to uninstall, the App Info screen will appear. Tap on “Uninstall” option and then tap on “Uninstall” again on the pop-up message.
 
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14997067161727.jpg "uninstall app")
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
 
@@ -148,6 +167,13 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 ![tap on camera](https://images.wondershare.com/drfone/article/2017/07/14997068859206.jpg "tap on camera")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Then go to Camera “Settings” by tapping on the circular gear like icon.
 
 ![camera settings](https://images.wondershare.com/drfone/article/2017/07/14997069036741.jpeg "camera settings")
@@ -155,6 +181,13 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 3\. Now look for “Reset Settings” options and click on it.
 
 ![reset settings](https://images.wondershare.com/drfone/article/2017/07/14997069347307.jpg "reset settings")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once done, go back to the Home Screen and start the camera App again to use it.
 
@@ -213,13 +246,6 @@ Remember, these bugs can cause a lot of trouble, but staying careful while using
 
 If your phone’s caught a virus, it’s time to remove those bugs. You might wonder about **how you get a virus off your phone**. Well, this section has you covered with 4 different methods you can use.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Wondershare Dr. Fone’s System Repair
 
 If you need a quick, professional, and safe solution, Wondershare Dr.Fone is here to save the day. Its System Repair feature is like a superhero—it swoops in and fixes the problem in a snap. This magic tool does the heavy lifting to remove viruses from your phone.
@@ -231,6 +257,13 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 ![dr.fone homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3,391,426** people have downloaded it
 
@@ -299,16 +332,16 @@ Generally, the Factory Reset option should be in **Settings > General & Backup a
 
 ![miui factory reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 IOS devices should be under **Settings > General > Transfer or Reset iPhone**.
 
 ![ios transfer or reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Remember, each method has its strengths and weaknesses. Dr.Fone is quick and effective, Safe Mode is limited but useful, anti-virus apps can protect, and a Factory Reset gives a clean slate. Try these methods to zap those viruses away!
 
@@ -354,13 +387,6 @@ To have the right idea about the problem, we have listed all the reasons of it o
 
 Now that we know the reasons, let us also learn about the solutions that will guide you to resolve the error code 505.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: 6 Solutions to fix error code 505
 
 Any error that occurs during downloading or installation process not only hinders with the new app but also takes a large amount of our time to solve the issue. To check that, let us go through the 6 solutions one by one.
@@ -368,13 +394,6 @@ Any error that occurs during downloading or installation process not only hinder
 #### **Solution 1: One click to make error code 505 disappear**
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -411,6 +430,13 @@ Step5: After the Xiaomi Redmi Note 12 Pro 4G device firmware is downloaded, the 
 
 ![fix error code 505 when firmware is downloaded](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step6: When your Android is repaired, the error code 505 will disappear.
 
 ![error code 505 fixed successfully](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -445,6 +471,13 @@ Working with an old operating system is ok, but many times old version also crea
 - \>Need to click on Install (if any update is available)
 
 ![update](https://images.wondershare.com/drfone/article/2017/06/14976276197089.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **Solution 4: Clearing the cache memory from Google services Framework and Google play store**
 
@@ -549,5 +582,26 @@ Not being able to download or install the app is very frustrating and time-consu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-100-safe-audio-download-techniques-from-youtube/"><u>[Updated] 2024 Approved 100% Safe Audio Download Techniques From YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlisting-youtube-videos-a-guide-to-non-indexable-content/"><u>[Updated] 2024 Approved Unlisting YouTube Videos A Guide to Non-Indexable Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-latest-in-video-compression-technology-with-these-46-new-tools/"><u>[Updated] Explore the Latest in Video Compression Technology with These 46 New Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-leading-tools-for-extracting-fb-videos-top-5/"><u>[Updated] In 2024, Leading Tools for Extracting FB Videos - TOP 5</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-record-pc-sounds-effortlessly-with-x-recorder/"><u>[Updated] Record PC Sounds Effortlessly with X-Recorder</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-nokia-g22-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia G22 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-a78mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo A78Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-approach-to-understanding-and-using-telegram-online/"><u>In 2024, Step-By-Step Approach to Understanding and Using Telegram Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-approaches-to-custom-workouts-with-the-help-of-chatgpt-technology/"><u>Innovative Approaches to Custom Workouts with the Help of ChatGPT Technology</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-the-mindset-of-a-photographer-polarrs-editing-techniques-for-2024/"><u>Inside the Mindset of a Photographer Polarr’s Editing Techniques for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-v27-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo V27 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oneplus-nord-ce-3-lite-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with OnePlus Nord CE 3 Lite 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-insiders-guide-to-instagrams-chroma-key-effect-for-2024/"><u>The Insider's Guide to Instagram’s Chroma Key Effect for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-note-30-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Note 30 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-m34-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy M34 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

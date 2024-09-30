@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Vivo Y17s | Dr.fone
-date: 2024-09-18T18:11:34.395Z
-updated: 2024-09-22T12:55:55.941Z
+date: 2024-09-27T04:52:20.413Z
+updated: 2024-09-30T04:34:05.049Z
 tags: 
   - problems
 categories:
@@ -61,6 +61,13 @@ One-click solution to fix camera failed on Vivo Y17s devices
 
 ![fix samsung camera failed by repairing samsung system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** You will have to provide the Vivo Y17s device details accurately to ensure that the software provides a precise firmware package to be downloaded. Enter brand, name, model, country, and carrier of your device and agree to the terms and condition.
 
 ![select the details of samsung device](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -104,13 +111,6 @@ Simply, follow the instructions given below to remove Apps from Vivo Y17s Device
 2\. You will see that a list of downloaded and built-in Apps will open up before you as follows.
 
 ![installed apps](https://images.wondershare.com/drfone/article/2017/07/14997066916915.jpg "installed apps")
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Now, once you select the App you want to uninstall, the App Info screen will appear. Tap on “Uninstall” option and then tap on “Uninstall” again on the pop-up message.
 
@@ -172,6 +172,13 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/07/14997069833129.jpg "backup and reset")
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Now you must first select “Factory data reset” and then tap on “Reset Device” as shown in the screenshot below.
 
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
@@ -179,13 +186,6 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 4\. Finally, you have to click on “Erase Everything” and wait for the Vivo Y17s device to reboot itself.
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/07/14997070554687.jpg "erase everything")
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Note: You will have to set up your Vivo Y17s device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
@@ -210,13 +210,6 @@ If your Vivo Y17s screen is unresponsive, the first thing to try is a force rest
 **Step 2.** When the power options appear, **tap** "**Restart**."
 
 **Step 3**. **Hold** the power button if the screen is completely unresponsive until the Vivo Y17s device shuts down. Then, **press** and **hold** the power button to turn the Vivo Y17s device back on.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Drain the Battery Completely
 
@@ -264,6 +257,19 @@ Dr. Fone Repair is a professional tool that can help fix a wide range of softwar
 
 **Step 8. Follow** the on-screen instructions to complete the repair process for your Vivo Y17s phone's touchscreen.
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Contact Customer Service
 
 ![oppo device customer service support](https://images.wondershare.com/drfone/article/2023/03/oppo-a3s-touch-not-working-4.jpg)
@@ -302,20 +308,6 @@ Vivo Y17s Screen unresponsiveness can be a frustrating issue to deal with, but t
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Is My Vivo Y17s Offline? Troubleshooting Guide
 
 Ever had your Vivo Y17s claim it's offline, leaving you scratching your head about where it went wrong? We get it; it's confusing. That's why this article is here to untangle the mystery.
@@ -347,6 +339,13 @@ In some cases, a firewall on your Vivo Y17s might be overly restrictive, prevent
 Now, you have understood the potential causes as the first step toward resolving the issue. Next, we'll guide you through the process of troubleshooting and getting your Vivo Y17s back online.
 
 ![Phone offline on Android](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How To Fix “Phone Offline” With Internet Connection Problem
 
@@ -423,6 +422,13 @@ Now, restart Google Chrome and check if the offline error persists.
 
 ![Clear Google Chrome’s cache and data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 2: Re-install Google Chrome
 
 If [<u>clearing the cache and data</u>](https://drfone.wondershare.com/erase-iphone/clear-iphone-cache.html) didn't solve the offline issue, reinstalling Google Chrome can be the next step. A fresh installation can eliminate any underlying glitches or corrupted files that might be causing the persistent offline status.
@@ -435,6 +441,13 @@ How to re-install Google Chrome:
 - **Step 4:** Once the installation is complete, open Google Chrome and check if the offline error persists while browsing.
 
 ![Re-install Google Chrome on Google Play Store](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3: Repair the system to fix the phone showing offline
 
@@ -466,6 +479,13 @@ Click Start on the new screen to kick off the repair. Since you're dealing with 
 
 ![Select the problem and begin the repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Confirm your device details
 
 The platform will detect your Vivo Y17s's brand. Confirm the Name, Model, Country, and Carrier. If your device is unlocked, choose OPEN in the Carrier section. Agree to the warning, click Next, and proceed with the repair.
@@ -483,6 +503,13 @@ Follow the instructions to put your Vivo Y17s into Download Mode. Once in Downlo
 Remember, the repair may erase data. It’s advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar. Click Done once it is completed and see if your Android is back online.
 
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -502,5 +529,22 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovation-unleashed-cutting-edge-ar-games/"><u>[Updated] Innovation Unleashed Cutting-Edge AR Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-how-to-search-for-cool-photos-on-pexelscom/"><u>2024 Approved How to Search for Cool Photos on Pexels.com?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028740553-android/"><u>Android上での動画形式変更・転送ガイド</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oppo-reno-9a-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo Reno 9A? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-poco-m6-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Poco M6 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-s23-fe-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy S23 FE Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-gpts-present-working-state/"><u>Discovering GPT's Present Working State</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-realme-narzo-60x-5g-by-drfone-android/"><u>How to Bypass FRP on Realme Narzo 60x 5G?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-honor-magic-6-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Honor Magic 6 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-your-hardware-drivers-with-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Reinstall your hardware drivers with Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tops-in-vocal-transformation-tech-featuring-magic/"><u>Tops in Vocal Transformation Tech, Featuring Magic</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-nokia-g22-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nokia G22 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-13-pro-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 13 Pro 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+</ul></div>
 

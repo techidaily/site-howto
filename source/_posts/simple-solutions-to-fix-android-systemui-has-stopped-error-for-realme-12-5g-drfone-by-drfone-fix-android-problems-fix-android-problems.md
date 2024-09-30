@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme 12 5G | Dr.fone
-date: 2024-09-14T22:58:13.186Z
-updated: 2024-09-22T04:53:23.097Z
+date: 2024-09-25T03:07:49.102Z
+updated: 2024-09-30T03:28:51.941Z
 tags: 
   - problems
 categories:
@@ -70,6 +70,13 @@ If your Android has a Home button:
 
 ![fix Android system UI stopping with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In case your Android has no Home button:
 
 - Turn off your device. Hold down “Volume Down + Bixby + Power” buttons altogether for about 10seconds. Let go of the buttons afterward and hit the Volume Up to boot in download mode.
@@ -119,13 +126,6 @@ Different Android devices have different ways to put it in recovery mode. Refer 
 
 ![android system ui-wipe data reset](https://images.wondershare.com/drfone/article/2017/06/14985470953716.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![android system ui-”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14985098383121.jpg)
@@ -163,19 +163,6 @@ The whole process of factory resetting your Realme 12 5G might sound tedious, ri
 
 Android SystemUI isn't responding or Android, unfortunately, the process com.android.systemui has stopped error is commonly seen by users on their devices. It is not a random error and is linked to either the software, Google App, cache partition, or data stored in the Realme 12 5G device. It is fairly simple to deal with this issue as all you need to do is install or roll back your Android OS update, uninstall Google App updates, clear cache partition, or factory reset your device to clear all data, files, and settings stored in it. The methods listed and explained above are the best ways to fight the problem and to prevent it from troubling you in the future. These methods have been adopted by affected users all over the world who recommend them because they are safe and involve minimum risks as compared to other tools to solve the Android SystemUI has stopped error. So go ahead and try them now!
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Does My Realme 12 5G Keep Turning Off By Itself? 6 Fixes Are Here
 
 Android users are usually very happy with their smartphones; however, sometimes they do complain about their phones switching off abruptly. This is a weird situation to be in because one moment you are using your phone, and the next moment it suddenly turns itself off, and when you happen to turn it back on, it functions smoothly, but only for a while.
@@ -185,6 +172,13 @@ Phones shutting off problem not only disrupts your work but also tests your pati
 We often hear Android users ask for solutions for this problem at different forums. If you are one of them and clueless about why My Realme 12 5G keeps shutting off, here are ways that can help you.
 
 So the next time you ask, “Why does My Realme 12 5G keep shutting off?”, refer to this article and follow the techniques given hereunder.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Possible reasons for phone turning off by itself
 
@@ -246,6 +240,13 @@ Step 1: On your computer, install and launch Dr.Fone. Now, click the ‘System R
 
 ![fix phone keeps turning off](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Here, you need to press the ‘Start’ button right after hitting the ‘Android’.
 
 ![choose repair to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -304,9 +305,23 @@ Long press the power button to see the following options on the screen.
 
 ![device options](https://images.wondershare.com/drfone/article/2017/07/14994529157169.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now tap on “Power Off” for about 10 seconds and click “OK” on the message that pops-up as shown below.
 
 ![safe mode](https://images.wondershare.com/drfone/article/2017/07/14994529389258.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once done, the phone will reboot and you will see “Safe Mode” on the main screen.
 
@@ -367,13 +382,6 @@ Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your devi
 
 ![tap on “ERASE EVERYTHING”](https://images.wondershare.com/drfone/article/2017/07/14994532028525.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Note: Once the factory reset process is complete, your device will automatically restart and you will have to set it up once again. You can restore the backup data on your Realme 12 5G once you factory reset it, again using the Dr.Fone toolkit.
 
 Now for all those of you who are wondering why does My Realme 12 5G keeps turning off by itself, please understand that the reasons behind the problem are simple, and so are its fixes. All you need to do is examine the problem carefully and move on to the fixes given in this article. Dr.Fone toolkit Android Data Backup & Restore feature provides an excellent platform for you to store all your data safely on your PC and retrieve it whenever you like so that you can go ahead to solve the error yourself without stressing about data loss.“Why does My Realme 12 5G keep shutting off?” might be common questions but can be dealt with ease if you follow the methods explained above.
@@ -409,10 +417,10 @@ It is possible that the corrupted cache files are responsible for this error. He
 ![settings crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
@@ -436,6 +444,13 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 3. Tap on “Uninstall Updates” and restart your device to check if the crashing Settings issue has been resolved.
 
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
@@ -487,6 +502,13 @@ Once the firmware is completely downloaded, your Realme 12 5G will automatically
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: Wipe cache partition to restore Settings
 
 Like RAM, wiping cache is also vital so as to make the Realme 12 5G device’s operation smoother. And when you are getting the “Unfortunately Settings has stopped” error, it might be due to the collected cache. To remove it, you will need to enter the recovery mode. And the steps for recovery mode range from device to device. For instance, [Realme 12 5G users](https://drfone.wondershare.com/samsung/samsung-recovery-mode.html) have to press the “Home”, “Power” and “Volume Up” buttons. Similarly, [HTC](https://drfone.wondershare.com/htc/htc-recovery-mode.html) and LG device users are supposed to press the “Volume Down” and “Power” buttons. For Nexus, it is “Volume Up, Down” and Power key combinations. Therefore, before going further, make sure what device you own and enter the recovery mode according to it. Now, follow the detailed guide below to wipe the cache partition in order to fix crashing Settings.
@@ -508,13 +530,6 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 3. Wait for the completion of the process and check if Settings is stopping or not after it gets rebooted.
 
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 7: Check and update Android OS
 
@@ -546,5 +561,26 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-optimize-instagram-posts-with-smart-hashtag-selection-tactics/"><u>[New] 2024 Approved Optimize Instagram Posts with Smart Hashtag Selection Tactics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-your-ears-10-pro-tips-for-excellent-sound-quality-for-2024/"><u>[New] Elevate Your Ears 10 Pro Tips for Excellent Sound Quality for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-simplifying-live-broadcasts-with-efficient-obs-tips/"><u>[Updated] 2024 Approved Simplifying Live Broadcasts with Efficient OBS Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-tech-tips-for-free-tv-show-recording-on-windows/"><u>[Updated] 2024 Approved Tech Tips for Free TV Show Recording on Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-compreehed-guide-to-online-identity-youtube-account-setup/"><u>[Updated] A Compreehed Guide to Online Identity YouTube Account Setup</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-narrowing-focus-mac-techniques-for-snapchat-videos/"><u>2024 Approved Narrowing Focus Mac Techniques for Snapchat Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/download-and-use-movavi-video-editor-comprehensive-guide-on-the-terms-of-service/"><u>Download and Use Movavi Video Editor: Comprehensive Guide on the Terms of Service</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-lava-blaze-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Lava Blaze Pro 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-for-fixing-internal-rdp-failures-on-windows-1111-pro/"><u>Quick Steps for Fixing Internal RDP Failures on Windows 11/11 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/revival-rituals-for-lost-windows-unlocking-off-screen-restoration-in-win-1011-6-essentials/"><u>Revival Rituals for Lost Windows: Unlocking Off-Screen Restoration in Win 10/11 (6 Essentials)</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-non-functional-microphone-issues-on-the-steelseries-arctis-7/"><u>Troubleshooting Tips: Resolving Non-Functional Microphone Issues on the SteelSeries Arctis 7</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y100-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>
 

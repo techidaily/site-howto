@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions to Fix Android SystemUI Has Stopped Error For Google Pixel 8 | Dr.fone
-date: 2024-09-17T21:07:25.302Z
-updated: 2024-09-21T17:21:55.078Z
+date: 2024-09-23T05:51:20.447Z
+updated: 2024-09-29T23:32:05.097Z
 tags: 
   - problems
 categories:
@@ -80,6 +80,13 @@ Step 2 – Once done, hit “Next” to initiate the downloading of the firmware
 
 ![firmware downloading](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3 – As soon as the download completes, the Android repair will automatically be started by the program.
 
 ![repair firmware to fix Android system UI stopping](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -120,10 +127,16 @@ Different Android devices have different ways to put it in recovery mode. Refer 
 ![android system ui-wipe data reset](https://images.wondershare.com/drfone/article/2017/06/14985470953716.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
@@ -167,6 +180,13 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 
 Google Play Store is a necessary and bundled service of any Android device. This app is required to download or even run any apps. So, getting an error like Play store not working or Play Store crashing is very unfortunate and a matter of a headache. Here we tried to put the best solution to overcome this issue. Keep reading this article for all the 11 best solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1. The recommended method to fix Google Play Store issues
 
 If you search on the internet, you may find various tricks dealing with Google Play Store not working issue. However, either to try each of them or choose several to follow would certainly cost a lot of time. What's more, we are not sure whether they will really work. Therefore, we would recommend you with a more effective and fast way, that is to use [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), a dedicated Android repair tool to fix Google Play Store, not working issues just in one click.
@@ -188,27 +208,20 @@ A most effective method to fix Google Play Store not working
 
 ![fix google play store not working using a dedicated tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Select the option "System Repair". In the new interface, click on the "Android Repair" tab.
 
 ![fix google play store not working by selecting the repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Start fixing Google Play Store not working by clicking "Start". Select and confirm the correct model details as instructed.
 
 ![fix google play store not working in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Activate the Download mode from your Google Pixel 8.
 
@@ -232,6 +245,13 @@ A most effective method to fix Google Play Store not working
 
 ## Part 2: Other 10 common methods to fix Google Play Store issues
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Fix Date and Time settings
 
 Sometimes Google creates a problem connecting with the Play Store or Play store crashing due to the wrong date and time. The first and most common thing is you have to check if the date and time are updated or not. If not, update it first by following the below step by step guide.
@@ -246,13 +266,6 @@ Step 2 – Now you can see several options. Select “Automatic date and time”
 
 Step 3 – Now, go to the Play store and try to connect again. This should be working without any problem now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Cleaning of Cache data of Play Store
 
 This may happen that sometimes Google Play Store stopped working due to excessive unnecessary data stored in the cache of the Google Pixel 8 device. So, clearing unnecessary data is very important to keep the application run smoothly. To do this, you need to follow the below steps.
@@ -266,6 +279,13 @@ Step 3 – Here you can find the “Google Play Store” app listed. Open it by 
 Step 4 – Now, you can find a screen like below. Tap on “Clear cache” to remove all the cache from the application.
 
 ![Tap on “Clear cache”](https://images.wondershare.com/drfone/article/2017/06/14985032967281.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now, again try to open Google Play Store and you may successfully overcome the Play Store not working issue. If not, check the next solution.
 
@@ -357,14 +377,14 @@ Step 3 – Here click on “Force Stop”. This allows the Google Play Store to 
 
 ![click on “Force Stop”](https://images.wondershare.com/drfone/article/2017/06/14985037034838.jpg)
 
-Now, try to open Google Play store again and this time the service is being restarted and might work properly. If not, try the next solution.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Now, try to open Google Play store again and this time the service is being restarted and might work properly. If not, try the next solution.
 
 ### 9\. Try a Soft Reset of your device
 
@@ -412,6 +432,19 @@ If you think that Google Play Service only provides a platform to download new a
 
 Furthermore, it might tamper with the overall functionality of your device as well. For instance, you could encounter network issues, messaging problems, app crashing, and more. Since the Play Service is closely associated with Android system, it might have a prominent effect on your phone. If you have a rooted device, then you can easily install custom ROM and resolve these issues. Though, for a non-rooted device, overcoming these problems could be a big hurdle.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to disable Google Play Service?
 
 By now, you already know all the repercussions of getting rid of Google Play Services permanently. Before you learn how to update Play Store after uninstalling updates, be sure whether you wish to uninstall Google Play Services or not. You can also choose to simply disable the services as well. If you face any severe issue afterward, then you can always enable the services manually.
@@ -434,5 +467,24 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-digital-doyens-guide-streaming-and-recording-mastery/"><u>[New] 2024 Approved Digital Doyen’s Guide Streaming and Recording Mastery</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-elevate-your-podcast-with-professional-scriptwriting-strategies/"><u>[Updated] 2024 Approved Elevate Your Podcast with Professional Scriptwriting Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-v30t-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme V30T Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/high-speed-replicas-best-racing-games/"><u>High-Speed Replicas Best Racing Games</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-xcover-7withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy XCover 7with/without a PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-quick-guide-adding-zoom-to-your-email-communications/"><u>In 2024, Quick Guide Adding Zoom to Your Email Communications</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-y36i-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo Y36i? Fixed | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezing-optimize-your-pc-for-a-smooth-witcher-n-experience/"><u>No More Freezing: Optimize Your PC for a Smooth 'Witcher N Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-challenges-of-an-uninitialized-vanguard-tips-and-tricks-for-valorant-players/"><u>Overcoming the Challenges of an Uninitialized Vanguard - Tips & Tricks for Valorant Players</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategies-for-effortless-insertion-of-videos-into-youtube-compilations/"><u>Strategies for Effortless Insertion of Videos Into YouTube Compilations</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-find-n3-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo Find N3 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-xcover-6-pro-tactical-edition-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy XCover 6 Pro Tactical Edition Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-realme-narzo-60-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme Narzo 60 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

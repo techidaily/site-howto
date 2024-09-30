@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy S23+ Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone
-date: 2024-09-17T16:37:42.541Z
-updated: 2024-09-22T07:55:27.432Z
+date: 2024-09-27T18:04:40.049Z
+updated: 2024-09-29T20:13:55.321Z
 tags: 
   - problems
 categories:
@@ -138,13 +138,6 @@ The whole process is automatic, so you won’t need to do anything until it’s 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 8. Check the Wi-Fi connectivity on another phone
 
 ![android phone not connecting to wifi - connectivity on another phone](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
@@ -176,6 +169,13 @@ Each Wi-Fi network router will give the opportunity to choose and change the pas
 
 ![android phone not connecting to wifi - reset network](https://images.wondershare.com/drfone/article/2019/04/android-reset-network.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Just like the method above where you’ll be effectively resetting the network settings on your router, if this hasn’t worked, you’ll be able to reset the network settings on your Samsung Galaxy S23+, hopefully removing the bugs and allowing you to connect.
 
 Here’s how you can do this easily on your Samsung Galaxy S23+;
@@ -186,13 +186,6 @@ Here’s how you can do this easily on your Samsung Galaxy S23+;
 4. Tap the Reset Network option
 5. If you need to, enter the PIN number or passcode for the Android device, and the Samsung Galaxy S23+ device will confirm the reset has taken place
 6. Reconnect your Samsung Galaxy S23+ to your Wi-Fi network for the changes to take effect
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 11. Clear partition cache in recovery mode
 
@@ -224,13 +217,6 @@ However, by factory resetting your device, you can start again from the factory 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Exit Android Factory Mode On Samsung Galaxy S23+?
 
 You’ve often heard that recovery mode will solve just about any problem your Samsung Galaxy S23+ is experiencing. This is mostly true and one of the components of Android’s recovery mode, factory mode or [factory reset](https://drfone.wondershare.com/reset-android/wipe-data-factory-reset.html) is one of the most efficient ways to solve various problems on your device. While factory mode is often a good thing, there are times when your device can enter factory mode on its own. Other times, you can safely enter factory mode but not know how to get out.
@@ -244,19 +230,6 @@ Factory mode or what is commonly known as factory reset is one of the options av
 If you have been using your Samsung Galaxy S23+ for a while now and its performance to be less than ideal, a factory reset might be a good solution. That is however not the only problem a factory reset or factory mode can solve. It will also work for a number or Android errors that you may experience, problems caused by faulty firmware updates and also tweaks made on your device that may not have worked as expected.
 
 It is however important to note that a factory reset or factory mode does often result in the loss of all your data. Therefore a backup is necessary to protect against this data loss risk.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. Backup your Android Device First
 
@@ -288,6 +261,13 @@ Run the software on your computer and you can see all features displayed in the 
 Then plug in with your device to the computer. When your devic is detected, click on Backup.
 
 ![connect android phone to computer](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3. Select the file types to backup
 
@@ -360,6 +340,13 @@ Step 2: Press ‘Next’ for initiating firmware downloading.
 Step 3: Dr.Fone –Repair (Android) starts Android repair as soon as download and verification of firmware is done. All Android issues along with Android stuck in factory mode will be fixed now.
 
 ![fixed Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4. Common Solutions to Exit Factory Mode on Android
 
@@ -477,6 +464,13 @@ Step 3: Agree with the conditions and hit the Next button. The software will dow
 
 It won’t take long, and your Samsung Galaxy S23+ will be repaired. Now you will be able to receive and send text messages without any hassle.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Remove and Insert the SIM
 
 The easiest thing that you can try if your Samsung Galaxy S23+ is not receiving any text messages is because the SIM is not inserted right. If your SIM card is inserted wrong, then it is obvious you can't receive text messages on Android. Simply take out the SIM card, see how it must be inserted, and do it correctly. Once the SIM is inserted in the right way, you will receive the pending text messages immediately unless there is another issue preventing it.
@@ -486,13 +480,6 @@ The easiest thing that you can try if your Samsung Galaxy S23+ is not receiving 
 Another simple method that you can try if you are not receiving text messages on Samsung Galaxy S23+ phone is to check your network connection. Usually, you can see the bar on the top of the screen. Maybe the problem exists because you have no signal strength at the moment.
 
 ![android not receiving texts - check connection](https://images.wondershare.com/drfone/article/2019/02/no-internet-connection.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Consult your Carrier about the Data Plan
 
@@ -504,6 +491,13 @@ Sometimes, people complain that Samsung Galaxy S23+ is not receiving texts from 
 
 When you are offline the message is saved on the server and just about when you get online, the text messages are delivered. If it is the SIM issue, then you will not get the message unless you contact your network operator.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 6: Clear the Cache of Messaging App
 
 In smartphones, the memory space often gets filled up with cache. And not everyone remembers that they have to clear the cache from time to time. The accumulated cache can also lead to this issue. So, if your Android messaging app is not working, you have to clear the cache memory.
@@ -511,6 +505,13 @@ In smartphones, the memory space often gets filled up with cache. And not everyo
 Step 1: Open the Settings and go to Apps. Find the Messages app from the list and tap to open it. There you will see the storage occupied by the app along with the cache.
 
 ![android not receiving texts clear cache](https://images.wondershare.com/drfone/article/2019/02/clear-message-cache.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Click on the Clear Cache button and wait as the Samsung Galaxy S23+ device free up the memory of your device.
 
@@ -546,9 +547,23 @@ Taking the iPhone in hand makes sure that you are connected to a network. Open s
 
 If the FaceTime option is also on, you might have to deactivate that too to send messages and calls as regular ones.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 11: [Update Your Android](https://drfone.wondershare.com/android-update/samsung-update.html)
 
 Updating the operating system to the latest Android version can fix some system errors which may cause the "Android not receiving texts" issue because the latest version always brings a better user experience and fix the know bugs.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -566,5 +581,19 @@ Now you know several methods that can work if the Android messaging app is not w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-maximize-views-with-these-top-rated-keyword-analysis-tools/"><u>[New] 2024 Approved Maximize Views with These Top-Rated Keyword Analysis Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-thriving-on-youtube-11-secrets-to-boosting-video-search-rankings/"><u>[New] In 2024, Thriving on YouTube 11 Secrets to Boosting Video Search Rankings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-quick-and-reliable-mp4-file-capture-tool/"><u>[New] Quick & Reliable MP4 File Capture Tool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-metaverse-memetic-guide-sparkle-with-satire-and-smiles/"><u>[New] The Metaverse Memetic Guide - Sparkle with Satire and Smiles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction/"><u>[Updated] 2024 Approved Getting the Most Out of Your Youtube Videos Thumbnails Extraction</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-video-quality-top-cameras-of-the-year-2024/"><u>Premium Video Quality Top Cameras of the Year 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/walking-dead-an-insiders-guide-to-best-zombie-experiences-for-2024/"><u>Walking Dead An Insider's Guide to Best Zombie Experiences for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-nokia-c32-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Nokia C32 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mxf-mov-movavi/"><u>영구 무료 MXF 태그를 MOV로 쉽게 전환: Movavi의 가장 훌륭한 도우미</u></a></li>
+</ul></div>
 

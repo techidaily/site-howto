@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Xiaomi Redmi Note 12R | Dr.fone
-date: 2024-09-15T23:10:38.361Z
-updated: 2024-09-22T10:50:33.983Z
+date: 2024-09-23T16:00:07.613Z
+updated: 2024-09-29T20:36:49.658Z
 tags: 
   - problems
 categories:
@@ -133,13 +133,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 You may try to use the camera app once the process completes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 6: How to fix Camera Failed error by Reset Settings?
 
 Resetting the camera settings solves the problem 9 out of 10 times and thus is worth a try.
@@ -167,6 +160,13 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 1\. Start by visiting “Settings” on your Xiaomi Redmi Note 12R device on which the camera has failed.
 
 ![phone settings](https://images.wondershare.com/drfone/article/2017/07/14997069645058.jpg "phone settings")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2\. Now from the list of options before you, select “Backup and reset” and move ahead.
 
@@ -216,6 +216,13 @@ The mobile applications installed on your smartphones are directly related to in
 
 It’s not really hard to tell why your Xiaomi Redmi Note 12R is slow because it’s apparently a common issue among users. But don’t worry. Most of the time, the problem is not a major concern. Here are some scenarios that may slow down your Xiaomi Redmi Note 12Rs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Overloading Background Processes
 
 It’s great to have an Android phone that can flawlessly multi-task. However, not all units can handle that well. As mentioned earlier, it depends on the CPU core count and the core’s clock speed. If your Xiaomi Redmi Note 12R is running slow and freezing, many processes may be happening at the same time. Your device’s cores and clock speed are potentially incapable of executing such demands.
@@ -235,13 +242,6 @@ If your Xiaomi Redmi Note 12R is running slow and freezing, the Xiaomi Redmi Not
 ### Your Phone is Experiencing Some System Issues
 
 Operating systems and device software serve as the main component of all smartphones. Sometimes, it runs into inevitable problems caused by computer bugs and other glitches. When it happens, the Xiaomi Redmi Note 12R device’s overall performance is affected. So that can be the reason why sometimes your Xiaomi Redmi Note 12R is running slow and freezing.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Your Internet Connection is Unstable
 
@@ -296,13 +296,6 @@ _Follow these steps to adjust the animation speed:_
 - **Step 4:** Under the **Drawing** section, you’ll find the following animation scale settings: **Window Animation Scale, Transition Animation Scale,** and **Animator Duration Scale.** Adjust the speed of these three options to **0.5x.**
 
 ![faster animation speed](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-4.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 4: Update Your Phone to the Latest Android Version
 
@@ -359,6 +352,13 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![android system repair starts](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** Wondershare Dr.Fone will ask you to confirm your device details. Review the listed details for Brand, Name, Model, Country, and Carrier. Amend them if necessary. Tick the checkbox beside the Note if you agree to the terms. Lastly, click **Next** to proceed.
 
 ![confirm device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -401,6 +401,13 @@ This comprehensive guide aims to the reasons behind Android phones becoming bric
 
 ![man holding a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1. What are Brick Phones: At a Glance
 
 The term "**bricked phone**" is used when a device becomes non-functional. This is typically due to a critical software or firmware error. There are two distinct scenarios for encountering a bricked phone: a soft brick and a hard brick.
@@ -438,16 +445,16 @@ Below are solutions that you can employ to fix various brick phone scenarios.
 
 ![rebooting a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Reverting Android Device to Factory Defaults (Soft Brick)
 
 A universal approach to trying to recover a **brick phone** exists for all Android phones. This is, consider restoring your device to its factory settings. You can find instructions specific to your phone model online. Although this procedure erases all your data, it's possible to regain the use of your brick phone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Get in Touch With the Manufacturer (Hard Brick and Soft Brick)
 
@@ -469,14 +476,14 @@ Dr.Fone - System Repair (Android) empowers you to resolve a range of prevalent A
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4,039,461** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -494,6 +501,13 @@ This software is designed to fix glitches including most modern Android devices.
 
 Dr.Fone - System Repair (Android) offers free access for you to test the initial steps and verify device compatibility. This cost-effective feature ensures value for money every step of the way.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Main Advantages of Using Dr.Fone – System Repair (Android)
 
 Dr. Fone – System Repair (Android) is a great solution with numerous tools to help you manage your Xiaomi Redmi Note 12R in various ways. Here are some of the advantages of using the app for fixing **bricked phones.**
@@ -501,6 +515,13 @@ Dr. Fone – System Repair (Android) is a great solution with numerous tools to 
 - Fone – System Repair (Android) comes with a clean UI making navigation and usage easy. The user-friendly design offers a seamless experience for beginners and professionals alike.
 - Utilizing the app for system repair is an effortless and speedy process. It doesn't take up much time to revive your **bricked phone**so you can use it right away.
 - The System Repair toolkit only needs you to click on a few buttons. Combined with its clean UI and speedy process, using the app is a breeze.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4. How To Revive a Bricked Phone Using Dr.Fone – System Repair (Android)
 
@@ -544,5 +565,18 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-conquering-cross-platform-content-sharing-youtubes-and-fbs/"><u>[Updated] 2024 Approved Conquering Cross-Platform Content Sharing YouTubes & FBs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-in-depth-review-screenflow-full-package-for-mac/"><u>[Updated] 2024 Approved In-Depth Review ScreenFlow Full Package for Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-m34-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy M34 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-dissecting-video-ranking-algorithms-on-youtube/"><u>2024 Approved Dissecting Video Ranking Algorithms on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-moto-g24-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Moto G24 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-x50i-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor X50i? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafted-clicks-guide-to-software-and-sites-for-superior-photo-framing-for-2024/"><u>Crafted Clicks Guide to Software & Sites for Superior Photo Framing for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-12-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi 12 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-7-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 7 | Dr.fone</u></a></li>
+</ul></div>
 

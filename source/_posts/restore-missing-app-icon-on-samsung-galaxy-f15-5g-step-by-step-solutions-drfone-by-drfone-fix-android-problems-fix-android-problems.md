@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Samsung Galaxy F15 5G Step-by-Step Solutions | Dr.fone
-date: 2024-09-17T03:37:22.873Z
-updated: 2024-09-21T21:32:52.175Z
+date: 2024-09-28T05:56:54.397Z
+updated: 2024-09-30T03:38:41.962Z
 tags: 
   - problems
 categories:
@@ -50,6 +50,19 @@ However, as a general guide, you can follow these steps:
 
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Move the app to the home screen from the App Drawer
 
 If your **app icon disappeared on your Android**, you can also easily restore it by adding the app to the home screen from the app drawer. Follow the step-by-step guide below:
@@ -60,13 +73,6 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 - **Step 4.** Release to drop the app icon onto the home screen.
 
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Re-enable disabled app
 
@@ -151,13 +157,6 @@ All of you, sooner or later, must have found the “Unfortunately Settings has s
 
 ![unfortunately settings has stopped](https://images.wondershare.com/drfone/article/2022/04/fix-unfortunately-settings-has-stopped.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Well! There can be a number of reasons why this thing happens. For instance, custom ROM installations, not enough space in the Samsung Galaxy F15 5G device or perhaps an outdated version of Android. If you are struggling with the same issue and want to know what to do when Android Settings is not responding, this post will help you. We have explained everything in detail along with the solutions. So, scroll down and get things sorted.
 
 - [Part 1: Clear the cache of Settings and Google Play Service](https://drfone.wondershare.com/android-stopped/unfortunately-settings-has-stopped.html#Part1)
@@ -177,13 +176,6 @@ It is possible that the corrupted cache files are responsible for this error. He
 3. Now, select “Storage” followed by “Clear Cache”.
 
 ![settings crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
 
@@ -206,6 +198,13 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 3. Tap on “Uninstall Updates” and restart your device to check if the crashing Settings issue has been resolved.
 
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
@@ -257,6 +256,13 @@ Once the firmware is completely downloaded, your Samsung Galaxy F15 5G will auto
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: Wipe cache partition to restore Settings
 
 Like RAM, wiping cache is also vital so as to make the Samsung Galaxy F15 5G device’s operation smoother. And when you are getting the “Unfortunately Settings has stopped” error, it might be due to the collected cache. To remove it, you will need to enter the recovery mode. And the steps for recovery mode range from device to device. For instance, [Samsung Galaxy F15 5G users](https://drfone.wondershare.com/samsung/samsung-recovery-mode.html) have to press the “Home”, “Power” and “Volume Up” buttons. Similarly, [HTC](https://drfone.wondershare.com/htc/htc-recovery-mode.html) and LG device users are supposed to press the “Volume Down” and “Power” buttons. For Nexus, it is “Volume Up, Down” and Power key combinations. Therefore, before going further, make sure what device you own and enter the recovery mode according to it. Now, follow the detailed guide below to wipe the cache partition in order to fix crashing Settings.
@@ -278,6 +284,13 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 3. Wait for the completion of the process and check if Settings is stopping or not after it gets rebooted.
 
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 7: Check and update Android OS
 
@@ -311,6 +324,13 @@ The issues like YouTube keeps crashing are often get disappeared by just quittin
 
 ![Youtube not working android - fix by restarting app](https://images.wondershare.com/drfone/article/2019/06/restart-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - You can now restart your device and then launch the app again. Check if this works or not.
 
 ## Restart the Android
@@ -321,6 +341,13 @@ Similar to the app, if you restart the Samsung Galaxy F15 5G device, it will sta
 - Press “Restart” and confirm.
 
 ![Youtube not working android - fix by restarting android](https://images.wondershare.com/drfone/article/2019/06/restart-device.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use a VPN
 
@@ -342,6 +369,13 @@ If YouTube keeps crashing, make sure to uninstall and reinstall it from Play Sto
 
 - Firstly, uninstall it by “Settings” > “Apps” > “YouTube” > “Uninstall”.
 - Now, go to the “Play Store” and search “YouTube”. Tap on “Install”.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Reset Network Settings
 
@@ -382,13 +416,6 @@ With the help of the USB cord, connect your Samsung Galaxy F15 5G to the compute
 
 ![Youtube not responding - connect device to pc](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Enter Information**
 
 Now, as the next step, you need to make sure of the details of your device. Please enter the name and brand of the phone. The country, region, and career are also to be added. Hit on “Next” once done.
@@ -407,6 +434,19 @@ Lastly, when the firmware is downloaded, the system will start getting repaired 
 
 ![Youtube crashing on Android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Reset Factory Settings of this Device
 
 When nothing works, the last resort you can go with is resetting the Samsung Galaxy F15 5G device to factory state. Doing this will remove any sort of conflicting bugs and other stuff. However, this will remove the data from your device. So make sure to backup everything before going with this method. The steps are:
@@ -415,13 +455,6 @@ When nothing works, the last resort you can go with is resetting the Samsung Gal
 - Go to “Factory data reset” and tap “Reset phone”
 
 ![Youtube crashing on Android - factory reset android](https://images.wondershare.com/drfone/article/2019/06/factory-reset.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -435,5 +468,20 @@ When nothing works, the last resort you can go with is resetting the Samsung Gal
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-yesteryears-visions-with-reverse-scans-in-social-media-world-facebook/"><u>[New] In 2024, Unlocking Yesteryear's Visions with Reverse Scans in Social Media World (Facebook)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-enhancing-your-iphones-screen-recording-skills/"><u>2024 Approved Enhancing Your Iphone's Screen Recording Skills</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-samsung-galaxy-s8-in-depth-4k-phone-analysis/"><u>2024 Approved Samsung Galaxy S8 In-Depth 4K Phone Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oppo-k11-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Oppo K11 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-gionee-f3-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Gionee F3 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-lava-yuva-2-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Lava Yuva 2 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y100i-power-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y100i Power 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-professional-screen-snapshot-tool-windows-10/"><u>In 2024, Professional Screen Snapshot Tool, Windows 10</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-ai-translation-online/"><u>New In 2024, AI Translation | Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-remedying-color-shift-and-image-warp-issues-on-your-pc-monitor/"><u>Ultimate Guide: Remedying Color Shift & Image Warp Issues on Your PC Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-best-led-lighting-advances/"><u>Unveiling the Best LED Lighting Advances</u></a></li>
+</ul></div>
 

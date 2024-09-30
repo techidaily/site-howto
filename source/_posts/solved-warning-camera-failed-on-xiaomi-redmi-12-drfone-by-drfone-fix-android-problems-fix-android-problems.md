@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Xiaomi Redmi 12 | Dr.fone
-date: 2024-09-20T05:22:59.220Z
-updated: 2024-09-22T06:34:34.838Z
+date: 2024-09-25T00:36:34.622Z
+updated: 2024-09-30T02:34:22.241Z
 tags: 
   - problems
 categories:
@@ -73,6 +73,19 @@ One-click solution to fix camera failed on Xiaomi Redmi 12 devices
 
 ![fixing samsung camera failed](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When the software is done repairing the system, you will be notified. Thus, the Camera failed Xiaomi Redmi 12 error in your phone will be fixed.
 
 ## Part 3: How to fix Camera Failed error by clearing camera data?
@@ -93,6 +106,13 @@ Tap on “Camera” to open the “Camera Info” screen and once you are there,
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: How to fix Camera Failed error by removing third-party Apps?
 
 Another tip to fix Xiaomi Redmi 12 camera failed error is by deleting a few unwanted third-party Apps (recently installed) to free some space in the Xiaomi Redmi 12 device’s internal storage. It is essential to create and keep storage space for the camera App to function smoothly and allow it to store its data as well. Also, if this issue only happens recently, it might be some newly installed Apps causing some glitches with the camera.
@@ -104,13 +124,6 @@ Simply, follow the instructions given below to remove Apps from Xiaomi Redmi 12 
 2\. You will see that a list of downloaded and built-in Apps will open up before you as follows.
 
 ![installed apps](https://images.wondershare.com/drfone/article/2017/07/14997066916915.jpg "installed apps")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Now, once you select the App you want to uninstall, the App Info screen will appear. Tap on “Uninstall” option and then tap on “Uninstall” again on the pop-up message.
 
@@ -168,6 +181,13 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![phone settings](https://images.wondershare.com/drfone/article/2017/07/14997069645058.jpg "phone settings")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Now from the list of options before you, select “Backup and reset” and move ahead.
 
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/07/14997069833129.jpg "backup and reset")
@@ -184,6 +204,13 @@ Note: You will have to set up your Xiaomi Redmi 12 device from scratch once it i
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Xiaomi Redmi 12 devices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Strategies for Apps That Won't Download From Play Store On Xiaomi Redmi 12
 
 The frustration of **apps not downloading in the Google Play Store** can annoy users. A seamless download experience is crucial for user satisfaction and app success. When you encounter such issues, they disrupt the interaction expected from your device.
@@ -197,6 +224,20 @@ The inconvenience can impact user trust and the overall perception of an app's r
 The reasons below collectively contribute to the frustration users experience when apps are **unable to download from the Play Store**:
 
 ![confused about apps not downloading](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Connectivity Issues
 
@@ -289,13 +330,6 @@ If you can't download Dr.Fone for some reason, you can try these common fixes to
 
 Here are 8 other methods to troubleshoot and resolve common app downloading problems:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Check Internet Connection
 
 A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u> <u> an Internet signal check</u>](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html) to ensure you are connected to a reliable Wi-Fi network or have a strong mobile data signal. If the connection is weak, consider switching to a more robust network.
@@ -318,6 +352,13 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Verify Google Account
 
 Authentication issues with your Google account can prevent app downloads. Confirm that your Google account is properly verified. Go to the Xiaomi Redmi 12 device settings, select **Accounts**, and ensure your Google account is active and synced.
@@ -335,13 +376,6 @@ Incorrect date and time settings may disrupt the authentication process. Verify 
 Device settings or parental controls might impose restrictions on certain app downloads. Examine the download restrictions in the Xiaomi Redmi 12 device settings and adjust them accordingly to allow for the installation of desired apps.
 
 ![download restrictions on android](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Restart the Xiaomi Redmi 12 device
 
@@ -383,18 +417,18 @@ Here are the three most common solutions to deal with phone screens being unresp
 
 ![restart realme smartphone](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Restarting the Xiaomi Redmi 12 device is a simple and quick solution to an unresponsive phone screen. To restart the phone, press and hold the **power button** until the screen **turns off**, then press and hold the **power button** again to t**urn the phone back on**.
 
 ### Check the Charging Port and Battery
 
 ![charging realme phone](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sometimes, an unresponsive screen can be caused by a dead battery or a faulty charging port. To check for these issues:
 
@@ -423,13 +457,6 @@ Sometimes, a Xiaomi Redmi 12 phone's screen, specifically Xiaomi Redmi 12 8 Pro,
 ### Reset to Factory Settings
 
 ![realme reset factory settings](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 A factory reset may help fix the problem if none of the above solutions work. Note that this will erase all data and settings on the phone, so be sure to back up your data before resetting. To reset the phone:
 
@@ -495,5 +522,24 @@ To deal with an unresponsive screen, users can try restarting the Xiaomi Redmi 1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-iconic-trailer-highlight-assortment/"><u>[New] Iconic Trailer Highlight Assortment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-venture-into-virtual-laughs-top-20plus-funny-metaverse-creations/"><u>2024 Approved Venture Into Virtual Laughs Top 20+ Funny Metaverse Creations</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/balancing-budget-and-functionality-in-the-logitech-c615-webcam-a-comprehensive-review/"><u>Balancing Budget and Functionality in the Logitech C615 Webcam - A Comprehensive Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/comical-calls-leading-platforms-for-laugh-rings/"><u>Comical Calls Leading Platforms for Laugh-Rings</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-y100t-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo Y100t Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-se-by-phone-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone SE by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-make-a-favorite-tiktok-sound-your-caller-id/"><u>In 2024, How to Make a Favorite TikTok Sound Your Caller ID</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-v30-lite-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo V30 Lite 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y56-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y56 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-ultimate-list-of-top-5-no-cost-wma-editor-programs-available-online-and-offline/"><u>The Ultimate List of Top 5 No-Cost WMA Editor Programs Available Online & Offline</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-mystery-of-ai-perception-errors-how-to-detect-them/"><u>Unveiling the Mystery of AI Perception Errors – How to Detect Them?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/zing-free-royalty-free-audio-tracks-in-video-media/"><u>Utilizing Free, Royalty-Free Audio Tracks in Video Media</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-mix-fold-3-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Mix Fold 3 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+</ul></div>
 
