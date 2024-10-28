@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Realme 11 Pro+ | Dr.fone
-date: 2024-07-30T13:17:42.323Z
-updated: 2024-07-31T13:17:42.323Z
+date: 2024-10-26T19:08:04.524Z
+updated: 2024-10-28T18:45:47.451Z
 tags: 
   - problems
 categories:
@@ -21,8 +21,6 @@ It can occur while you launch the app or while you’re in the app already findi
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -50,6 +48,13 @@ You’ll be directed to the “System Repair” screen where you have to opt for
 
 ![contacts stopping on samsung - android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Key in device information
 
 From following screen, fill the fields of “Brand”, “Name”, “Model”, “Country” and several other parameters. Then, tap on “Next” option to proceed further.
@@ -66,19 +71,10 @@ Step 5: Repair Android phone
 
 Once the software downloads, the program will automatically repair any issues irking over your phone. Now, your phone is all free from contacts error.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Part 2: 9 Common ways to fix “Unfortunately, Contacts Has Stopped”
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1 Restart Android system
 
 Our response to any minuscule issue is straightaway restarting phone. This helps in clearing out any problem that might have disrupt the functioning of phone. So, to fix the problem of “Contacts app won’t open”, you too can try out your hand in this method.
@@ -90,9 +86,6 @@ Our response to any minuscule issue is straightaway restarting phone. This helps
 
 Now, your device will quickly reboot the Realme 11 Pro+ device. Once, the Realme 11 Pro+ device regains its normal state, check whether the issue is coming again or not.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.2 Clear cache and data of Contacts app
 
 The cache memory basically stashes the copies of the concerned application. It is indeed a streak of copies of the desired app storing information and incurring additional space on the storage. This might be the reason why the contact app crashes rapidly on your Realme 11 Pro+. Hence, it can prove to be a good remedy for this problem. Just follow down the steps mentioned below-
@@ -114,16 +107,10 @@ As we know the cache memories are the temporary files build by the firmware. The
 4. Over the options available, just opt for “wipe cache partition” by tapping the “Volume down” button until the desired option is highlighted.
 5. Finally, push the “Power” key to give consent to the selection.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
 
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the Realme 11 Pro+ device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.4 Disable Google+ app
 
 The root cause for detecting any problem is not very easy. You never know the overloading of Google + application might have directly impacted contacts app crashes. To resolve it, disabling it may prove to be a helpful solution. Here is the quick reference for disabling Google+ application.
@@ -137,9 +124,6 @@ The root cause for detecting any problem is not very easy. You never know the ov
 
 There will be a prompt stating that the application may misbehave. However, you must disable the feature and check whether it worked out for you or not.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
 
 ### 2.5 Update your device software
@@ -149,12 +133,16 @@ Many a times, we skip updating our device software thinking it is of less import
 1. First and foremost, head on to “Settings” menu. Over there, click on “About Device”.
 2. There, you need to tap over “Software Update”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.6 Reset App Preferences
 
@@ -174,9 +162,6 @@ Do you happen to exchange voicemails quite often? It can trigger to be the reaso
 2. From there, duly opt for “Voicemail”.
 3. Just click on the press menu option and at last select “Delete” option.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.8 Uninstall the downloaded apps
 
 Some applications contain some unwanted advertisements and some elements of malware. This can be enough for disrupting the functionality of the built-in contact app won’t open. It is crucial for your phone to be detoxed from such elements. You need to manually scrap off such applications. Do, ensure to download the application from the genuine source for future use.
@@ -200,12 +185,7 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 - You need to toggle on the option for performing the backup on your Google account.
 - Then, tap on “Reset” button and then tick mark the option for resetting your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
-
-
 
 ## How to Fix It: Realme 11 Pro+ Won't Turn On
 
@@ -213,9 +193,6 @@ Did your Realme 11 Pro+ decide to go on vacation and refuses to turn on? If your
 
 Here, we hope we are able to give you a checklist of reasons behind this issue and the possible steps you can take to rectify it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Common Reasons That Your Realme 11 Pro+ Won't Turn On
 
 If you cannot find any reason why your Realme 11 Pro+ will not switch on, here are some possible reasons:
@@ -232,11 +209,6 @@ If you need some help rescuing data from an Android phone that will not turn on,
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html)
 
 World's 1st data retrieval software for broken Android devices.
@@ -262,13 +234,17 @@ On the next window, you will need to check the boxes corresponding to the type o
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Select the problem with your phone**
 
 Opt for "Touch screen not responsive or cannot access the phone" or "Black/broken screen". Click Next to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
 Look up for your device – pick the Realme 11 Pro+ device Name and Device Model. Advance by clicking on the Next button.
@@ -301,11 +277,6 @@ After repeated attempts, when your Android mobile/tablet stops buzzing, what opt
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 The real fix to issues like "Android phone will not switch on"
@@ -328,16 +299,10 @@ Step 1: Run Dr.Fone on your computer once the installation is complete and tap t
 
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![star to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Now, over the Realme 11 Pro+ device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![go to SMS to export text messages](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Enter ‘Download’ mode for fixing your Realme 11 Pro+**
@@ -346,16 +311,10 @@ Step 1: You need to put your Realme 11 Pro+ in Download mode for resolving the A
 
 - For the Realme 11 Pro+ device having ‘Home’ button, you got to switch it off and press ‘Volume Down’, ‘Home’, and ‘Power’ keys for 5-10 seconds at once. Let them go and click on the ‘Volume Up’ button to put your phone in ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Android Phone not turn on with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - For ‘Home’ button-less device, turn the phone/tablet down first. For 5 – 10 seconds, hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons. Tap on the ‘Volume Up’ button to get into the ‘Download’ mode, after releasing the 3 buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Android Phone not turn on without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2: Hitting the ‘Next’ key will allow you to download firmware and proceed with the next step.
@@ -366,9 +325,6 @@ Step 3: Dr.Fone - System Repair (Android) would verify your firmware download an
 
 ![fixed Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Part 4: Android Phone Won't Turn On: **Common Fix**
 
 To try fixing an Android Phone that won’t turn on, follow these steps:
@@ -399,25 +355,21 @@ There are several reasons as to why your Realme 11 Pro+ won’t turn on. The pro
 
 It is important to note that your phone contains some important data. Therefore, when your Realme 11 Pro+ won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme 11 Pro+
 
 The revolutionized world is about the internet, online life, and social media. You can get all the information you need from the internet. You are a click away from booking tickets, buying groceries, calling your loved ones, or even you can handle office meetings with the internet.
 
 ![fix wifi keep disconnecting android](https://images.wondershare.com/drfone/article/2023/08/why-does-my-phone-keep-disconnecting-from-wifi.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Since everything revolves around the internet, it's annoying if your WI-FI disconnects. You might question yourself **why does my Wi-Fi keep disconnecting from the phone**? To know the answer, read the article below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Part 1: Why Does Your Phone Keep Disconnecting from WiFi?
 
 Is your phone frequently getting disconnected from Wi-Fi? Or the internet service is lagging? We have a few options from which you can inspect your problem. Not all internet issues arise from the service provider, as some issues are because of the Realme 11 Pro+ devices that are using the internet. Some of these issues are discussed below for your assistance:
@@ -450,9 +402,6 @@ As we have mentioned earlier if your Wi-Fi is stable, but it keeps disconnecting
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/_eAyzfmK8Vs"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Restart Your Phone
 
 If the Wi-Fi keeps disconnecting from your Realme 11 Pro+, but the internet is stable, then you should try to fix the issue by restarting your phone. Sometimes, it's the phone that’s causing a problem, so to resolve it, you can follow the steps given below:
@@ -461,33 +410,42 @@ If the Wi-Fi keeps disconnecting from your Realme 11 Pro+, but the internet is s
 
 **Step 2**: Now, select the 'Reboot' option to resolve the issue from the options on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![select reboot option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check Router Settings
 
 If your Android keeps disconnecting from Wi-Fi, you can also fix the problem by checking the router settings. This is because your phone might be blocked from connecting to the network, and if this is the scenario, your phone will never maintain the connection. You should check the Router’s admin panel or app to remove your phone from the blocklist.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![check router settings](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Reconnect to Network
 
 To fix the annoying problem that your Wi-Fi keeps disconnecting, you should try forgetting the network and then reconnecting to it. This could be done easily by following the steps below:
 
 **Step 1**: First, you need to open the Wi-Fi settings menu. This could be done by pressing and holding the Wi-Fi option from the drop-down menu of your phone until the settings open up.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![tap on your wifi option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2**: A list of all the Wi-Fi networks will appear on the screen. Select the network that is causing trouble from that list and hit the 'Forget Network' option.
 
@@ -495,9 +453,6 @@ To fix the annoying problem that your Wi-Fi keeps disconnecting, you should try 
 
 **Step 3**: After that, you should reconnect to this Wi-Fi network by selecting it from the Wi-Fi list and entering its password.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter wifi password](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-5.jpg)
 
 ### Fix 4: Restart Your Router
@@ -514,11 +469,15 @@ The problem that your Wi-Fi keeps disconnecting can also occur because of the li
 
 ![open wifi settings](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**: You will see a list of all the Wi-Fi networks you have connected to previously. One by one, select each network and hit the 'Forget Network' button to remove it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![forgot unnecessary wifi connections](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-8.jpg)
 
 ### Fix 6. Check Recently Installed Applications
@@ -527,9 +486,6 @@ Sometimes, different installed applications can also cause trouble. If your Wi-F
 
 **Step 1**: For uninstalling the problematic application, you have to select it and hold it. You will see a pop-up menu of multiple options; choose the option of ‘Uninstall' to remove the app from the phone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on uninstall button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-9.jpg)
 
 ### Fix 7: Reset Network Settings on your Phone
@@ -538,9 +494,6 @@ It’s annoying that your Wi-Fi keeps disconnecting while you are working or stu
 
 **Step 1**: For resetting the network, start by opening the ‘Settings’ menu on your phone. Then, scroll down, look for the 'Connection & Sharing' option, and select it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![access connect and sharing](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-10.jpg)
 
 **Step 2**: As you progress onto a new screen, you will find the option of “Reset Wi-Fi, Mobile Networks, and Bluetooth” in the menu. Select the option to lead to the next window.
@@ -549,27 +502,18 @@ It’s annoying that your Wi-Fi keeps disconnecting while you are working or stu
 
 **Step 3**: Click on the option of “Reset Settings” present on the bottom of the next screen that shows up. Provide confirmation of resetting these settings by inserting your device’s PIN, if any.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![click on reset settings button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-12.jpg)
 
 **Step 4**: After providing the appropriate clearances, you will be asked for another confirmation of resetting the Realme 11 Pro+ device’s networks to default. Click “OK” to execute.
 
 ![tap on ok button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Check Routers Range
 
 If your Wi-Fi automatically disconnects and connects again while you are roaming in the house, then it is because of the router's range; you should check it. For this, you can consider changing and modifying your AP (Access Point) band on your router.
 
 Although the 5GHz frequency band is recognized for providing better network speeds, this band has a shorter range as compared to the 2.4GHz band, which has a better coverage of area. You can easily shift your router’s range through its configuration page. It is considered optimal to utilize the 2.4GHz frequency band for better ranges.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change routers range](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-14.jpg)
 
 ### Fix 9: Stay Connected while Asleep
@@ -578,22 +522,12 @@ Most Android phones have a battery-saving feature. This feature disables the net
 
 **Step 1**: Start by opening the ‘Settings’ menu on your phone. Then scroll down until you find the 'Battery' option and open it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![open battery settings](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-15.jpg)
 
 **Step 2**: Then, from the battery screen, hit the 'More Battery Settings' options. Then, you will see the 'Stay Connected while Asleep' option; turn it on.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![enable connected while asleep](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 10: Upgrade Router Firmware
 
 If none of the above-shared fixes work, the last fix to resolve the problem is upgrading your router firmware. For this, you should contact any professional who knows network operations as upgrading router firmware takes time and requires knowledge.
@@ -601,7 +535,6 @@ If none of the above-shared fixes work, the last fix to resolve the problem is u
 ## Wi-Fi Stay Connected
 
 The article above has discussed 10 solutions that offer a comprehensive toolkit to tackle the persistent issue of Wi-Fi keeps turning off Android. By toggling Airplane Mode, restarting your device, adjusting settings, and updating firmware, among other steps, you can effectively address and resolve this connectivity problem. With these solutions at your disposal, you can regain a stable and uninterrupted Wi-Fi experience on your Realme 11 Pro+.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -615,9 +548,19 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spark-your-imagination-with-14-stunning-text-animations/"><u>2024 Approved Spark Your Imagination with 14 Stunning Text Animations</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-zte-blade-a73-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on ZTE Blade A73 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-narzo-60-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme Narzo 60 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-enhancing-your-viewing-experience-recording-overwatch-games/"><u>In 2024, Enhancing Your Viewing Experience Recording Overwatch Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterclass-in-mitigating-chrome-profiles-malfunctions/"><u>Masterclass in Mitigating Chrome Profiles Malfunctions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581601937-rapid-norwegian-understanding-10-daily-moments/"><u>Rapid Norwegian Understanding, 10 Daily Moments!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-intelligent-search-with-bing-quick-registration/"><u>Step Into Intelligent Search with Bing: Quick Registration</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-nubia-red-magic-9-proplus-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Nubia Red Magic 9 Pro+ Phones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015755755-windows-10-speaker-problems-heres-how-you-can-fix-them-easily/"><u>Windows 10 Speaker Problems? Here's How You Can Fix Them Easily</u></a></li>
+</ul></div>
 

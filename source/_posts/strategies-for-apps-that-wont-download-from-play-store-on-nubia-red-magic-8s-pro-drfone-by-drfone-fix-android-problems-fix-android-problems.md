@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Nubia Red Magic 8S Pro | Dr.fone
-date: 2024-10-21T16:31:06.109Z
-updated: 2024-10-23T00:47:33.682Z
+date: 2024-10-25T16:28:01.611Z
+updated: 2024-10-28T19:00:49.691Z
 tags: 
   - problems
 categories:
@@ -42,6 +42,13 @@ Running an outdated version of the Play Store can cause compatibility issues wit
 
 Issues with verifying Google accounts can restrict access to the Play Store. It prevents you from downloading or updating apps. Authentication problems pose a significant barrier, impacting your ability to stay current with app versions.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### App Download Restrictions
 
 Device settings or parental controls may impose restrictions on certain app downloads. You may encounter limitations in accessing specific apps. It can affect the Nubia Red Magic 8S Pro device's versatility.
@@ -62,9 +69,29 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 
 ![dr.fone main window interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,307,222** people have downloaded it
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -133,6 +160,13 @@ An outdated Play Store version may lead to compatibility issues. Open the Google
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Clear Play Store Cache and Data
 
 Cached data in the Play Store can sometimes cause download problems. Head to the Nubia Red Magic 8S Pro device settings and open **Apps** or **Application Manager**. Locate Google Play Store, and tap **Storage**. Clear both the cache and data to refresh the app.
@@ -144,13 +178,6 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 Authentication issues with your Google account can prevent app downloads. Confirm that your Google account is properly verified. Go to the Nubia Red Magic 8S Pro device settings, select **Accounts**, and ensure your Google account is active and synced.
 
 ![syncing google account on device](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Check Date and Time Settings
 
@@ -206,10 +233,10 @@ A stable internet connection is pivotal for seamless app functionality. Crashes 
 ![wi-fi page android](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Corrupted/Broken Devices
@@ -223,13 +250,6 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 - **Step 1:** Launch Dr.Fone on your computer. Access **System Repair**.
 
 ![wondershare dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
@@ -260,10 +280,10 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cache Buildup
@@ -302,13 +322,6 @@ When persistent issues arise, especially if other apps are affected similarly, W
 
 “Unfortunately TouchWiz home has stopped” is the talk of the town due to annoying TouchWiz UI, a front-end user interface developed by Nubia Red Magic 8S Pro. Not to mention, the Nubia Red Magic 8S Pro has borne a whole lot of heat from its agitated users over the years and the reason is pretty much obvious due to the pre-installed bloatware apps and the theme launch “TouchWiz home”. That not just brutally annoys users and eats up a heck of internal storage space but lags up too often due to low speed and stability. As a result users end up with “Unfortunately TouchWiz home has stopped” and “Unfortunately, TouchWiz has stopped”. Apparently, there are several flaws in the design and functioning of this launcher and hence, Touchwiz keeps stopping or becomes unresponsive.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Common scenarios when TouchWiz keeps stopping
 
 Here in this section, we will introduce some scenarios that can be blamed for why **_TouchWiz is not working_**. Check out the following points:
@@ -318,6 +331,13 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 - Many times **<u>installing some third-party apps and widgets</u>** can cause this problem. The apps like launchers can be conflicting with TouchWiz home launcher and therefore cease it to work. Also, a glitched widget is responsible for the same i.e. forces stop the TouchWiz.
 
 ## Part 2: 9 Fixes to “Unfortunately TouchWiz has stopped”
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
@@ -393,6 +413,13 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 
 Please note that this will delete all your Home screens post this method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Disable Motion & gesture settings
 
 The functions regarding Motions and Gestures can be responsible for why **_TouchWiz home has stopped_** in your device. Usually the Nubia Red Magic 8S Pro devices running on Android version less than Marshmallow are prone to encountering this issue. Or the Nubia Red Magic 8S Pro devices having modest specs often fall prey to the issue. When you disable these settings, you might get out of the problem.
@@ -400,13 +427,6 @@ The functions regarding Motions and Gestures can be responsible for why **_Touch
 ### Change the Animation Scale
 
 When you use TouchWiz, it may consume higher memory usage for high amount of graphic maintenance. As a result, the “**_unfortunately TouchWiz home has stopped_**” error might crop up. Taking this into consideration, you should try reconfiguring the animation scale and get rid of the error. Here’s how:
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Clear Cache Partition
 
@@ -430,21 +450,7 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 
 ![easy mode to fix TouchWiz stopping](https://images.wondershare.com/drfone/article/2019/02/easy-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Boot your phone to safe mode
 
@@ -490,16 +496,22 @@ We believe that you will find the above methods helpful. However, if still in ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovative-approaches-to-recording-and-editing-video-vo/"><u>[Updated] 2024 Approved Innovative Approaches to Recording and Editing Video VO</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-advanced-video-quality-with-apple-music/"><u>[Updated] Explore Advanced Video Quality with Apple Music</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-streamlining-gaming-experience-how-to-record-games-obs/"><u>[Updated] Streamlining Gaming Experience How to Record Games OBS</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/in-depth-tutorial-efficiently-deploying-applications-via-advanced-installer-techniques/"><u>In-Depth Tutorial: Efficiently Deploying Applications via Advanced Installer Techniques</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-video-navigation-with-vlcs-custom-bookmark-feature/"><u>Mastering Video Navigation with VLC's Custom Bookmark Feature</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/next-gen-options-to-record-high-quality-gaming-footage-for-2024/"><u>Next Gen Options to Record High-Quality Gaming Footage for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-a15-4g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy A15 4G Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-a14-4g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy A14 4G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/winxdvd-end-user-licensing-terms-by-digiarty-software-comprehensive-overview-of-user-responsibilities/"><u>WinXDVD End-User Licensing Terms by Digiarty Software – Comprehensive Overview of User Responsibilities</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-best-undersea-gopro-enhancements/"><u>[New] Best Undersea Gopro Enhancements</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-captivate-viewers-create-success-a-strategy-for-gamers-channels-for-2024/"><u>[New] Captivate Viewers, Create Success A Strategy for Gamers' Channels for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-unleashing-the-power-of-secret-siri-commands-a-comprehensive-guide-for-optimizing-your-iphone/"><u>1. Unleashing the Power of Secret Siri Commands: A Comprehensive Guide for Optimizing Your iPhone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-audiovisual-transition-mastery-in-adobe-premiere/"><u>2024 Approved Audiovisual Transition Mastery in Adobe Premiere</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-tutorial-how-to-shut-off-apples-latest-iphones-15-pro-and-pro-max/"><u>Complete Tutorial: How To Shut Off Apple's Latest iPhones - 15 Pro & Pro Max</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-itel-a60s-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Itel A60s to Roku | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-nuances-of-video-sound-design-for-2024/"><u>Mastering the Nuances of Video Sound Design for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oneplus-nord-ce-3-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of OnePlus Nord CE 3 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-incredible-visual-experience-awaiting-you-with-the-sony-xbr49x900f-an-expert-review/"><u>The Incredible Visual Experience Awaiting You with the Sony XBR49X900F - An Expert Review</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oneplus-nord-ce-3-lite-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from OnePlus Nord CE 3 Lite 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-s23-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel S23 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-a14-4g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy A14 4G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Lava Blaze 2 ? Fix It Easily | Dr.fone
-date: 2024-10-20T00:44:08.646Z
-updated: 2024-10-22T21:46:35.027Z
+date: 2024-10-26T17:23:39.641Z
+updated: 2024-10-28T18:19:13.870Z
 tags: 
   - problems
 categories:
@@ -36,13 +36,6 @@ Step 2: Next, you need to hold down the Power and the Volume Key. You should abl
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-03.jpg)
@@ -52,10 +45,10 @@ Step 4: The white Google logo will appear immediately followed by the Android lo
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
@@ -161,13 +154,6 @@ Ever since Android is introduced, it has almost eliminated the need of computers
 
 First and foremost, the most common situation people meet with is when there Gmail keeps crashing. Or simply, it doesn’t respond at all. When you open it, it stuck for a few seconds and then you have to close it. It seriously is an annoying issue. If your Gmail is also not responding or crashing and you aren’t able to work properly, following are the solution you can follow.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Clear Cache
 
 The first thing you can do to fix Gmail not responding issue is to clear the cache of Gmail. This has higher chance to get the issue resolved. To do this:
@@ -183,13 +169,6 @@ The first thing you can do to fix Gmail not responding issue is to clear the cac
 3. Go to “Storage” followed by “Clear Cache”.
 
 ![gmail not working android - clear cache in storage](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Restart the Lava Blaze 2 device
 
@@ -209,20 +188,27 @@ If unfortunately the above solutions don’t work, there is a requirement to fla
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Problem 2: Gmail won’t sync between all ends
 
 The next most common problem where people get stuck with is when there Gmail won’t sync. Here are the solutions to this particular problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Make Space in the Phone
 
 When Gmail stops syncing, one of the things that can save you is clearing the storage. It is the space that maybe the culprit and therefore the syncing don’t work at all. We would like to suggest you removing the unwanted apps to clear the storage or deleting the downloaded files. You can also transfer the important files to your computer and make the space vacant.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Check Gmail Sync Settings
 
@@ -236,13 +222,6 @@ When still the Gmail not working issue persists and you can’t sync, make sure 
 3. Check the box next to “Sync Gmail” if it’s not checked.
 
 ![Gmail crashing on Android - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Restart the Lava Blaze 2 device
 
@@ -286,6 +265,19 @@ If still Gmail keeps stopping you to go ahead, make sure to once sign out from i
 
     ![Gmail crashing on Android - open gmail](https://images.wondershare.com/drfone/article/2019/04/remove-account-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Now, tap on the account you are working with. Tap on “REMOVE ACCOUNT” thereafter. After this, you can again sign in and then check if the problem is gone or not.
 
 ![Gmail crashing on Android - remove account](https://images.wondershare.com/drfone/article/2019/04/remove-account-2.jpg)
@@ -293,13 +285,6 @@ If still Gmail keeps stopping you to go ahead, make sure to once sign out from i
 ## Problem 5: Stuck in sending
 
 Now, here is another annoying problem that doesn’t let Gmail working on Android properly. This problem addresses the situation where users send a mail but it gets stuck on sending. If this is the problem that you are going through, the following solutions will help you.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Try Alternative Gmail Address
 
@@ -340,6 +325,13 @@ As another solution, check Gmail sync settings to get the issue fixed.
 
 ![Gmail not responding - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Restart the Lava Blaze 2 device
 
 If the above method went futile, simply restart your device. Take help of the Power button on your device. Long press it and from the options, restart it. This will hopefully work for you.
@@ -355,6 +347,13 @@ It is a universal method to fix minor Android system issues. And here too, we wo
 ### Clear Storage of Device
 
 Usually all the apps start running slow when the Lava Blaze 2 device is not having sufficient space. As the apps need space to function quickly and appropriately, having the Lava Blaze 2 device on low storage can prove to be a bad luck for Gmail. So, make sure you wipe out the items you no longer needed on your device and create some room so that the Gmail responds nicely and won’t be running slow anymore.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Update Gmail App
 
@@ -379,6 +378,13 @@ Fix all Gmail issues caused by Android system:
 Ever had your Lava Blaze 2 claim it's offline, leaving you scratching your head about where it went wrong? We get it; it's confusing. That's why this article is here to untangle the mystery.
 
 In the following sections, we're diving into the **"why is My Lava Blaze 2 offline"** dilemma that many Android users face. We'll break down the possible reasons behind this common issue and guide you through simple steps on how to fix it. By the end of the article, you’ll be able to get back to smooth internet surfing on your Lava Blaze 2. Let’s get started.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Why Does My Lava Blaze 2 Say Offline?
 
@@ -482,10 +488,10 @@ Now, restart Google Chrome and check if the offline error persists.
 ![Clear Google Chrome’s cache and data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 2: Re-install Google Chrome
@@ -569,17 +575,18 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-secrets-of-the-trade-in-sourcing-professional-filmmakers/"><u>[New] Secrets of the Trade in Sourcing Professional Filmmakers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-skyward-haven-of-the-pennywise-clouds/"><u>[New] Skyward Haven of the Pennywise Clouds</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-in-depth-review-of-razers-high-res-cam/"><u>[Updated] 2024 Approved In-Depth Review of Razer's High-Res Cam</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-focus-on-subjects-only-efficient-backdrop-elimination-techniques/"><u>2024 Approved Focus on Subjects Only Efficient Backdrop Elimination Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-realme-11-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme 11 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/essential-blueprint-for-using-adobe-cloud-and-identifying-suitable-alternatives/"><u>Essential Blueprint for Using Adobe Cloud & Identifying Suitable Alternatives</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-why-apples-201e-ipad-pro-11-inch-is-still-top-of-its-class/"><u>Ultimate Guide: Why Apple's 201E iPad Pro 11-Inch Is Still Top of Its Class</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/unveiling-key-distinctions-a-comparison-of-containers-and-vms/"><u>Unveiling Key Distinctions: A Comparison of Containers and VMs</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-s23-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy S23? Here is How | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-digital-recorder-hits-the-ultimate-list/"><u>[New] In 2024, Digital Recorder Hits The Ultimate List</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elite-narratives-from-cinemas-broad-spectrum/"><u>[Updated] 2024 Approved Elite Narratives From Cinema's Broad Spectrum</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-uniform-iptv-system-utilization/"><u>[Updated] Uniform IPTV System Utilization</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1pc/"><u>1本のソフトウェアだけで、初心者が上手にPCゲームライブ配信を行える方法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-choices-animation-friendly-3d-model-tools/"><u>2024 Approved Top Choices Animation-Friendly 3D Model Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-70-lite-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor 70 Lite 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-14-pro-max-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 14 Pro Max to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-15-plus-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-infinix-hot-40i-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Infinix Hot 40i Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

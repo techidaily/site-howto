@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Poco X6 Pro | Dr.fone
-date: 2024-10-17T17:31:36.411Z
-updated: 2024-10-22T17:58:32.065Z
+date: 2024-10-27T16:01:55.392Z
+updated: 2024-10-28T19:20:52.894Z
 tags: 
   - problems
 categories:
@@ -69,6 +69,13 @@ One-click solution to fix camera failed on Poco X6 Pro devices
 
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4.** As soon as the firmware is downloaded, the software will automatically initiate the repair process. You will be able to see the ongoing repair.
 
 ![fixing samsung camera failed](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -105,23 +112,9 @@ Simply, follow the instructions given below to remove Apps from Poco X6 Pro Devi
 
 ![installed apps](https://images.wondershare.com/drfone/article/2017/07/14997066916915.jpg "installed apps")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Now, once you select the App you want to uninstall, the App Info screen will appear. Tap on “Uninstall” option and then tap on “Uninstall” again on the pop-up message.
 
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14997067161727.jpg "uninstall app")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
 
@@ -159,11 +152,31 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 ![camera settings](https://images.wondershare.com/drfone/article/2017/07/14997069036741.jpeg "camera settings")
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Now look for “Reset Settings” options and click on it.
 
 ![reset settings](https://images.wondershare.com/drfone/article/2017/07/14997069347307.jpg "reset settings")
 
 Once done, go back to the Home Screen and start the camera App again to use it.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 7: How to fix Camera Failed error by Factory Reset?
 
@@ -174,19 +187,6 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 1\. Start by visiting “Settings” on your Poco X6 Pro device on which the camera has failed.
 
 ![phone settings](https://images.wondershare.com/drfone/article/2017/07/14997069645058.jpg "phone settings")
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2\. Now from the list of options before you, select “Backup and reset” and move ahead.
 
@@ -212,13 +212,6 @@ In this guide, you’ll delve into the common problems users face when **Android
 
 ![android and car logo](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1. A Briefer on Android Auto
 
 Android Auto is a revolutionary application designed to enhance the in-car experience by seamlessly connecting Android smartphones to compatible vehicles. It serves as a co-pilot, offering hands-free navigation, communication, and entertainment options, minimizing distractions while driving.
@@ -237,11 +230,25 @@ By integrating familiar smartphone functionalities into your car, Android Auto a
 
 Even if it is such a great technology, sometimes **Android Auto won’t connect.** It also deals with common issues that can affect its performance. In this section, you’ll delve into these challenges and equip you with practical troubleshooting solutions to fix your Android Auto experience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Connection Issues
 
 [<u>Connection glitches through B</u><u>lue</u><u>tooth </u>](https://drfone.wondershare.com/android-stopped/bluetooth-not-working-on-android.html) or USB can cause **Android Auto issues**. USB connection problems often come from subpar cables.
 
 The solution here is straightforward – invest in a high-quality USB cable. This ensures a stable link between your smartphone and the car’s infotainment system. Meanwhile, Bluetooth pairing problems may require a bit of digital maneuvering. Try restarting your phone, rebooting the car’s infotainment system, or resetting Bluetooth settings to establish a smooth connection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### App-Specific Problems (Certain Apps Not Working)
 
@@ -266,10 +273,10 @@ Begin by scrutinizing your internet connection, as voice commands rely on a stab
 Understanding that these issues are inherent to any technology, Android Auto users can confidently navigate and troubleshoot these problems with the provided solutions. By addressing these commonplace concerns, users empower themselves to swiftly overcome hurdles, ensuring a seamless and gratifying driving experience with Android Auto.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3. A Quicker Solution: [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) – System Repair
@@ -320,13 +327,6 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4,276,578** people have downloaded it
 
 ## Conclusion
@@ -340,13 +340,6 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 Poco X6 Pro phones have become increasingly popular due to their advanced features, sleek designs, and affordable prices. These phones offer many benefits, including high-quality cameras, long battery life, and fast processing speeds. However, sometimes users may encounter problems such as a **Poco X6 Pro touch screen not working**, which can be frustrating and difficult.
 
 This article aims to provide solutions for Poco X6 Pro phone users experiencing screen unresponsiveness. We will explore various reasons this issue may occur and discuss step-by-step instructions for fixing the problem. So, if your **Poco X6 Pro touchscreen is not working**, don't worry – we've got you covered!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Causes A Poco X6 Pro Screen Unresponsive?
 
@@ -397,13 +390,6 @@ You can clear your cached data using the default settings.
 
 ![clear cached data on xiaomi 5a](https://images.wondershare.com/drfone/article/2023/03/clear-cached-data-on-xiaomi5a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5. Back Up And Factory Reset
 
 Another solution is to back up the Poco X6 Pro device and perform a factory reset, which can help reset the Poco X6 Pro device to its original state and remove any software glitches that may be causing the screen unresponsiveness. The factory settings on your phone will restore any data saved by third-party applications and some of the phone's settings when it was first built. Note that this method erases all data from the Poco X6 Pro device, so it should only be considered a last resort.
@@ -417,6 +403,13 @@ In the following steps, we will show you how to format the Poco X6 Pro Redmi 5A 
 - Select **All files on the phone**to make a complete format of the Poco X6 Pro Redmi 5A.
 
 ![factory reset on xiaomi 5a](https://images.wondershare.com/drfone/article/2023/03/factory-reset-on-xiaomi5a-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6. Using Dr. Fone Repair
 
@@ -433,6 +426,13 @@ Here's how to fix repair screen unresponsiveness or any software-related issues 
 - **Follow** the on-screen instructions carefully to repair your Poco X6 Pro.
 
 ![dr fone repair on xiaomi devices](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How To Avoid A Poco X6 Pro Screen Unresponsive?
 
@@ -460,21 +460,22 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Poco X
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-discover-unlimited-stories-free-extensions-and-mobile-marvels/"><u>[New] 2024 Approved Discover Unlimited Stories – FREE Extensions & Mobile Marvels</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-guide-to-the-best-video-editors-not-on-youtoo/"><u>[New] 2024 Approved The Ultimate Guide to the Best Video Editors Not on YouToo</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-leveraging-content-for-maximum-impact-growing-view-count-on-tiktok/"><u>[New] In 2024, Leveraging Content for Maximum Impact Growing View Count on TikTok</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-media-analysis-evaluating-your-vs-opponents-youtube-content/"><u>[Updated] Mastering Media Analysis Evaluating Your Vs. Opponents' YouTube Content</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-quick-stitching-together-synchronizing-obs-and-zoom/"><u>[Updated] Quick Stitching Together Synchronizing OBS and Zoom</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-jest-journeys-charting-7-comedic-paths-to-viral-videos/"><u>2024 Approved Jest Journeys Charting 7 Comedic Paths to Viral Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y100-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y100 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-razr-40-ultra-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola Razr 40 Ultra? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-shockwave-flash-problem-that-plagues-chrome-users/"><u>How to Fix the Shockwave Flash Problem That Plagues Chrome Users</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-optimized-orchestration-top-5-chrome-vids-from-fb/"><u>In 2024, Optimized Orchestration Top 5 Chrome Vids From FB</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719577139271-unleash-your-communication-skills-mondly-unveiled/"><u>Unleash Your Communication Skills – Mondly Unveiled!</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nubia-z50-ultra-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nubia Z50 Ultra? Here is How | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-itel-s23-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Itel S23 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-historys-heaviest-battles-rts-review-of-7-epic-games/"><u>[New] In 2024, History's Heaviest Battles RTS Review of 7 Epic Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-step-by-step-guide-for-vintage-photo-conversion-and-storage/"><u>[New] In 2024, The Step-by-Step Guide for Vintage Photo Conversion & Storage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-phantom-3-vs-phantom-4-for-2024/"><u>[Updated] Phantom 3 Vs Phantom 4 for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-uncover-the-secret-correcting-mobile-video-sharing-on-fb-messenger/"><u>2024 Approved Uncover the Secret Correcting Mobile Video Sharing on FB Messenger</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-tecno-camon-20-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Tecno Camon 20? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/download-free-hdd-data-retrieval-tools-compatible-with-windows-systems/"><u>Download Free HDD Data Retrieval Tools Compatible with Windows Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/focussnap-recorder-for-screen-masters-for-2024/"><u>FocusSnap Recorder for Screen Masters for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-f23-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo F23 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-overcoming-video-blank-screen-the-ultimate-chromesafari-guide/"><u>In 2024, Overcoming Video Blank Screen The Ultimate Chrome/Safari Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/list-of-different-video-camera-types/"><u>List of Different Video Camera Types</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y17s-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y17s Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-google-pixel-8-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Google Pixel 8 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/webdvd/"><u>デジアーティー製品の最新動向：オフィシャルWebログとDVDクランキングガイド</u></a></li>
 </ul></div>
 

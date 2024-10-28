@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Xiaomi 14 Pro Step-by-Step Solutions | Dr.fone
-date: 2024-10-18T22:01:02.146Z
-updated: 2024-10-23T00:24:28.654Z
+date: 2024-10-26T16:24:51.323Z
+updated: 2024-10-28T17:32:04.323Z
 tags: 
   - problems
 categories:
@@ -50,6 +50,13 @@ However, as a general guide, you can follow these steps:
 
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Move the app to the home screen from the App Drawer
 
 If your **app icon disappeared on your Android**, you can also easily restore it by adding the app to the home screen from the app drawer. Follow the step-by-step guide below:
@@ -60,13 +67,6 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 - **Step 4.** Release to drop the app icon onto the home screen.
 
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Re-enable disabled app
 
@@ -113,18 +113,18 @@ Click Start on the new screen to kick off the repair. Since you're dealing with 
 
 ![Select the problem and begin the repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3.** Fill in the Xiaomi 14 Pro device Details
 
 The platform will detect your Xiaomi 14 Pro's brand. Confirm the Name, Model, Country, and Carrier. If your device is unlocked, choose OPEN in the Carrier section. Agree to the warning, click Next, and proceed with the repair.
 
 ![Confirm your Xiaomi 14 Pro’s details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4.** Activate Download de
 
@@ -157,13 +157,6 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 In this article, you will learn why camera fails on Xiaomi 14 Pro devices, how to make camera work again, as well as a system repair tool to fix this issue in few clicks.
 
 [![](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Xiaomi 14 Pro devices are one of the best Android devices available in the market and their users are always satisfied with their features. However, it is a recent observation that many Xiaomi 14 Pro users complain about Xiaomi 14 Pro camera failed error while using the camera App on the Xiaomi 14 Pro device. It is a strange error and pops up suddenly with only one option to tap on, i.e., “OK”
 
@@ -222,6 +215,13 @@ One-click solution to fix camera failed on Xiaomi 14 Pro devices
 
 When the software is done repairing the system, you will be notified. Thus, the Camera failed Xiaomi 14 Pro error in your phone will be fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to fix Camera Failed error by clearing camera data?
 
 Has anyone ever informed you that it is absolutely necessary to keep clearing camera data every once in a while? Yes, since it deletes all unnecessary data stored in respect of the App and no, it does not mean that all your photos and videos will get deleted. Just follow the steps given below to clear camera data:
@@ -233,13 +233,6 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 2\. Now a list of all Apps will appear before you. Keep scrolling down until your find “Camera”.
 
 ![camera app](https://images.wondershare.com/drfone/article/2017/07/14997065904511.jpg "camera app")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
@@ -277,13 +270,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14997067742072.jpg "boot in recovery mode")
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Once the Recovery Screen appears, leave all buttons and use the volume down key till you reach “Wipe Cache Partition”.
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
@@ -291,6 +277,16 @@ This method might seem tedious and time-consuming and you may also lose your dat
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
+
+You may try to use the camera app once the process completes.
+
+## Part 6: How to fix Camera Failed error by Reset Settings?
+
+Resetting the camera settings solves the problem 9 out of 10 times and thus is worth a try.
+
+1\. To reset, first, launch the Camera App by tapping on its icon.
+
+![tap on camera](https://images.wondershare.com/drfone/article/2017/07/14997068859206.jpg "tap on camera")
 
 <!-- affiliate ads begin -->
 <span id="1983573">
@@ -304,16 +300,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-You may try to use the camera app once the process completes.
-
-## Part 6: How to fix Camera Failed error by Reset Settings?
-
-Resetting the camera settings solves the problem 9 out of 10 times and thus is worth a try.
-
-1\. To reset, first, launch the Camera App by tapping on its icon.
-
-![tap on camera](https://images.wondershare.com/drfone/article/2017/07/14997068859206.jpg "tap on camera")
 
 2\. Then go to Camera “Settings” by tapping on the circular gear like icon.
 
@@ -355,6 +341,13 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 
 There is no doubt that it is quite frustrating when your device buttons, such as home and back don’t work properly. The reasons can be software as well as hardware issues. If you are wondering whether there is any solution to fix this problem, then you’ve come to the right place. Firstly, yes some methods can probably help you to come out of this issue. Here, in this guide, we have covered various solutions you can try to resolve the “home button not working Android” problem no matter whether it is due to software or hardware reason.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: 4 Common Measures to Fix Home Button Not Working Android
 
 Here, we are going to mention four common methods that you can try to resolve the home button problem on your Xiaomi 14 Pro with ease.
@@ -364,19 +357,6 @@ Here, we are going to mention four common methods that you can try to resolve th
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>[Try It Free](https://download.wondershare.com/drfone_repair_full3371.exe)
 
 When it comes to the home button not working Xiaomi 14 Pro problem, the most common reason is the unknown system issues. In such a scenario, the best solution is using Dr.Fone - System Repair (Android) software to repair your Android system to normal in one click. This tool is powerful enough to resolve various Android issues within a few minutes.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -407,13 +387,6 @@ Step 3: Next, you will navigate to a device information page where you have to p
 Step 4: After that, the software will download the appropriate firmware to repair your Android system.
 
 ![home button not working android - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: After downloading the firmware, the software will start the repair process. Wait for a few seconds, the problem should get fixed and your phone will get back to its normal state.
 
@@ -476,11 +449,31 @@ Cons:
 
 URL: [https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en\_US](https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en_US)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.2 Button Savior app
 
 Button Savior app is one of the ultimate apps that can help you to fix the Android home button not working problem with ease. For this app, root and no root versions are available on the Google Play store. To fix the Home button not working issue, no root version is the right one. But, if you want to fix the Back button or other buttons, then you need to go for the root version.
 
 ![button savior](https://images.wondershare.com/drfone/article/2019/02/button-savior-app.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Pros:
 
@@ -512,6 +505,19 @@ Cons:
 - It comes with ads.
 
 URL: [https://play.google.com/store/apps/details?id=nu.nav.bar](https://play.google.com/store/apps/details?id=nu.nav.bar)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.4 Home Button app
 
@@ -567,20 +573,17 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-crafting-the-perfect-soundscape-with-googles-ringtone/"><u>[New] 2024 Approved Crafting the Perfect Soundscape with Google's Ringtone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-instagrams-video-opposites-a-tutorial/"><u>[Updated] 2024 Approved Mastering Instagram's Video Opposites A Tutorial</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unlimited-chuckles-craftsmanship-no-monetary-requirement-for-2024/"><u>[Updated] Unlimited Chuckles Craftsmanship No Monetary Requirement for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-elevate-your-content-with-effective-video-seo/"><u>2024 Approved Elevate Your Content with Effective Video SEO</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-tecno-pova-6-pro-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Pova 6 Pro 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-vivo-s17e-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo S17e Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-zero-to-hero-understanding-five-key-drivers-of-chatgpt/"><u>From Zero to Hero: Understanding Five Key Drivers of ChatGPT</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-perfecting-cgi-in-depth-tutorial-for-kinemaster-users/"><u>In 2024, Perfecting CGI In-Depth Tutorial for Kinemaster Users</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-x9b-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor X9b Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unmissable-experiences-in-digital-playfields/"><u>Unmissable Experiences in Digital Playfields</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-f14-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy F14 5G? Here is How | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-12-pro-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone 12 Pro? How to Fix</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-oppo-a79-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo A79 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-apex-screen-capture-tools-the-elite-line-up/"><u>[New] 2024 Approved Apex Screen Capture Tools The Elite Line-Up</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-abyss-underwater-video-tips-using-a-gopro-camera/"><u>[New] Exploring Abyss Underwater Video Tips Using a GoPro Camera</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-does-youtube-work-after-a-video-is-uploaded-for-2024/"><u>[Updated] How Does YouTube Work After a Video Is Uploaded for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-a15-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy A15 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/all-around-vs-3d-visual-perspectives-for-2024/"><u>All Around Vs 3D Visual Perspectives for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pathways-to-identifying-outstanding-video-artists/"><u>Pathways to Identifying Outstanding Video Artists</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-woes-discover-solutions-to-tower-of-fantasy-game-crashes/"><u>PC Gaming Woes? Discover Solutions to 'Tower of Fantasy' Game Crashes</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Lava Yuva 3 | Dr.fone</u></a></li>
 </ul></div>
 

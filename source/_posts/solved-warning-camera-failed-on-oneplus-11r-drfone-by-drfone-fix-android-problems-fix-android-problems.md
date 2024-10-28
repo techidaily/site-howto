@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on OnePlus 11R | Dr.fone
-date: 2024-10-17T20:09:48.886Z
-updated: 2024-10-22T19:07:35.161Z
+date: 2024-10-27T18:00:30.549Z
+updated: 2024-10-28T16:12:43.439Z
 tags: 
   - problems
 categories:
@@ -65,13 +65,6 @@ One-click solution to fix camera failed on OnePlus 11R devices
 
 ![select the details of samsung device](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3**. Now put your device in the download mode. The software will provide you with a guide to put the phone in download mode to begin the downloading process.
 
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
@@ -129,19 +122,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 2\. Now, press and hold the power on/off, home and volume up button simultaneously. Your device will now vibrate. This a signal to let go of the power button (only).
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14997067742072.jpg "boot in recovery mode")
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Once the Recovery Screen appears, leave all buttons and use the volume down key till you reach “Wipe Cache Partition”.
 
@@ -206,13 +186,6 @@ In such a scenario it is obvious for Android Smartphone users to look for possib
 Many people are also interested in knowing about the causes behind why an App won't open or why multiple/all Apps won’t open. This article will answer your query about why won't my App open on an Android phone by listing a few probable causes for the problem.
 
 Here are all the fixes you need if an App won’t open on your OnePlus 11R. Read on to find out all about why Apps won't open on your OnePlus 11R and solutions to overcome such a problem.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Possible reasons for Apps won't open
 
@@ -307,10 +280,10 @@ Follow the steps given below to update the app which won't open on your phone:
 ![Update All](https://images.wondershare.com/drfone/article/2017/06/14984183782889.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once the App is updated, close all Apps and tabs running in the background. Now try to launch the app once again. If it opens, your problem is solved. If not, DO NOT worry as there are more ways to help you.
@@ -439,13 +412,6 @@ Step 2: Tap on the ‘Android Repair’ option and then click ‘Start’ for mo
 
 ![start to fix](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Mention the detailed information about your OnePlus 11R under the OnePlus 11R device information section. Press ‘Next’ then on.
 
 ![enter android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -466,6 +432,13 @@ Step 2: Click ‘Next’ to start downloading the Android firmware.
 
 ![download android firmware to fix](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Now, Dr.Fone - System Repair (Android) would verify the firmware and then start repairing the Android system on its own. It will ultimately fix your ‘why won't My OnePlus 11R charge’ trouble.
 
 ![Android phone won’t charge issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -480,6 +453,13 @@ It is also very commonly observed that the charging end of the cable which gets 
 
 ![charging cable](https://images.wondershare.com/drfone/article/2017/06/14985459762305.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Check/clean charging port
 
 The charging port in your device is a small opening where the charging end of the cabbie is inserted for the current to flow to the phone/tablet. Very often, we notice that the charging port gets blocked with tiny particles of dirt. The charging port might also get clogged if dirt and dust get accumulated in it, preventing the sensors from receiving and forwarding the current to the OnePlus 11R device.
@@ -489,6 +469,13 @@ The charging port in your device is a small opening where the charging end of th
 The best way to take this problem is to clean the port with a blunt pin or a soft bristle unused toothbrush. Make sure you clean the port gently and do not damage it or its sensors.
 
 ![clean charging port](https://images.wondershare.com/drfone/article/2017/06/14985460097930.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Check/replace charging adapter
 
@@ -518,13 +505,6 @@ Follow the steps given below to clear your device’s cache:
 
 Try charging your phone after clearing the cache. If your phone doesn't charge even now, do not worry. There are more ways to help you combat My OnePlus 11R won't charge problem.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Re-start/reboot your phone/tablet
 
 Restarting your device to fix why won't My OnePlus 11R charge error is a very effective remedy. This method of rebooting your device not only fixes software glitches but other but also tackles other factors/operations that might be running in the background preventing your device from charging.
@@ -537,7 +517,21 @@ Restarting a device is simple and can be done by following the steps given below
 
 ![restart device](https://images.wondershare.com/drfone/article/2017/06/14985010975405.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To restart your device, you may also press the power button for about 20-25 seconds for the phone/tablet to automatically reboot.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Download and install the Ampere App
 
@@ -557,13 +551,6 @@ To check for and install updates on your device, you must be connected to WiFi o
 
 If there is an update available, you will be prompted to download it. Just follow the instructions given before you install a brand new Android OS version on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 9\. Factory reset your device
 
 Factory Reset is must be done after due deliberation. Remember to take a back-up of all your data and contents on the cloud or an external memory device, such as a pen drive before adopting this method because once you perform a factory reset on your device, all media, contents, data and other files are wiped out, including your device settings.
@@ -579,10 +566,10 @@ Follow the steps given below to factory reset your device:
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/06/14985012572851.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 • In this step, select “Factory data reset” and then “Reset Device”.
@@ -590,6 +577,13 @@ Follow the steps given below to factory reset your device:
 • Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/06/14985012764216.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Note: Once the factory reset process is complete, your device will automatically restart and you will have to set it up once again.
 
@@ -615,18 +609,19 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/numeneras-torment-an-innovative-blend-of-sci-fi-roleplaying-and-immersive-storytelling-reviewed-here/"><u>'Numenera's Torment': An Innovative Blend of Sci-Fi Roleplaying & Immersive Storytelling Reviewed Here</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-glow-up-guide-3-masterful-instagram-highlight-tricks-for-2024/"><u>[Updated] Glow-Up Guide 3 Masterful Instagram Highlight Tricks for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-and-science-of-compelling-headlines/"><u>2024 Approved The Art & Science of Compelling Headlines</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-s17t-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo S17t Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-x-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone X To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/inside-the-troubled-world-of-halo-infinite-diagnosing-and-fixing-black-screens/"><u>Inside the Troubled World of Halo Infinite: Diagnosing & Fixing Black Screens</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-nokia-g42-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Nokia G42 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-k70e-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi K70E Screen | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-video-from-english-to-arabic-with-ease/"><u>Updated 2024 Approved Translate Video From English to Arabic with Ease</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-lenovo-thinkphone-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lenovo ThinkPhone Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-steps-to-convert-video-tweets-to-mp3-soundtracks/"><u>[New] Steps to Convert Video Tweets to MP3 Soundtracks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-essentials-to-initiate-in-google-meet/"><u>[Updated] 2024 Approved The Essentials to Initiate in Google Meet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-smart-money-making-on-youtube-shorts/"><u>[Updated] In 2024, Smart Money-Making on Youtube Shorts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-real-time-recording-rivals-obs-and-shadowtoolkit/"><u>[Updated] Real-Time Recording Rivals OBS & ShadowToolKit</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/achieve-fitness-goals-with-the-compact-samsung-galaxy-fit2-tracking-band/"><u>Achieve Fitness Goals with the Compact Samsung Galaxy Fit2 Tracking Band</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-not-playing-heres-the-solution-for-firefox-users/"><u>Audio Not Playing? Here's the Solution for Firefox Users</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-honor-play-8t-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor Play 8T Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-conversion-of-oga-audio-files-into-wav-format/"><u>Free Conversion of OGA Audio Files Into WAV Format</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-after-effects-/"><u>New Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-nubia-z50s-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nubia Z50S Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-t2x-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo T2x 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-best-android-photos-tactics/"><u>Unveiling Best Android Photos Tactics</u></a></li>
 </ul></div>
 

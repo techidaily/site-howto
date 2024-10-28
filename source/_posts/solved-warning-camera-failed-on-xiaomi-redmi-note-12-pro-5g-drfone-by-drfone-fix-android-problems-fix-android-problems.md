@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Xiaomi Redmi Note 12 Pro 5G | Dr.fone
-date: 2024-10-20T19:01:15.163Z
-updated: 2024-10-22T22:55:41.260Z
+date: 2024-10-27T16:25:40.783Z
+updated: 2024-10-28T17:04:03.872Z
 tags: 
   - problems
 categories:
@@ -93,13 +93,6 @@ Tap on “Camera” to open the “Camera Info” screen and once you are there,
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to fix Camera Failed error by removing third-party Apps?
 
 Another tip to fix Xiaomi Redmi Note 12 Pro 5G camera failed error is by deleting a few unwanted third-party Apps (recently installed) to free some space in the Xiaomi Redmi Note 12 Pro 5G device’s internal storage. It is essential to create and keep storage space for the camera App to function smoothly and allow it to store its data as well. Also, if this issue only happens recently, it might be some newly installed Apps causing some glitches with the camera.
@@ -149,16 +142,10 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 ![tap on camera](https://images.wondershare.com/drfone/article/2017/07/14997068859206.jpg "tap on camera")
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2\. Then go to Camera “Settings” by tapping on the circular gear like icon.
@@ -193,13 +180,6 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/07/14997070554687.jpg "erase everything")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Note: You will have to set up your Xiaomi Redmi Note 12 Pro 5G device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Xiaomi Redmi Note 12 Pro 5G devices.
@@ -230,6 +210,13 @@ To start repairing, go to the official website of Dr.Fone - System Repair (Andro
 
 ![whatsapp not opening - fix with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Choose the Right Tab**
 
 As the next step, you need to take the help of USB cable and then plug your device to the computer. Once connected appropriately, make sure to click on the “Android Repair” tab from the left panel.
@@ -241,19 +228,6 @@ As the next step, you need to take the help of USB cable and then plug your devi
 Next will be the information screen. Simply enter the model, brand and other details. Check everything once and click on “Next”.
 
 ![whatsapp not opening - enter device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4: Enter Download Mode**
 
@@ -287,12 +261,26 @@ A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp
 
 ![whatsapp stopping - fix component corruption](https://images.wondershare.com/drfone/article/2019/06/install-whatsapp.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Cause 4: Not Enough Storage on your Phone
 
 Insufficient storage could be the other reason why for your WhatsApp has stopped. When your device starts running out of space, some apps may not be able to operate properly for their functions take up space in the Xiaomi Redmi Note 12 Pro 5G device. And probably WhatsApp is one of them. If the space is the case with you, we suggest you the following two things to go with.
 
 - Firstly, go to Settings and check the storage. Make sure it is enough i.e. at least 100 to 200MB.
 - Secondly, start eliminating the apps that are no longer needed. This will indeed create more space in your device and will let your WhatsApp wok properly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Cause 5: Gmail Account no longer valid or hacked
 
@@ -339,10 +327,10 @@ Now that you have decided where to download the apk file, these are the followin
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi Note 12 Pro 5G
@@ -389,6 +377,13 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 
 If you have already tried running the Xiaomi Redmi Note 12 Pro 5G device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Xiaomi Redmi Note 12 Pro 5G’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -418,20 +413,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 ****Step 3:**** When you let go of the “Power” button, press and hold the “Volume Down” button. After that, a “Safe Mode” label will appear in your screen’s lower-left corner.
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Turn Off Developer Options
 
@@ -488,10 +469,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
@@ -561,6 +542,13 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
@@ -581,17 +569,18 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-guiding-principles-for-speech-conversion-in-google-translate/"><u>[New] In 2024, Guiding Principles for Speech Conversion in Google Translate</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-maximizing-engagement-with-instagrams-ask-emoji-for-2024/"><u>[New] Maximizing Engagement with Instagram's Ask Emoji for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-capturing-attention-the-power-of-these-top-10-tags/"><u>[Updated] Capturing Attention The Power of These Top 10 Tags</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-connect-with-stars-write-inspiring-biographies-on-whatsapp/"><u>[Updated] Connect with Stars – Write Inspiring Biographies on WhatsApp</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-find-x7-ultra-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo Find X7 Ultra Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-choreographing-ideal-canon-sequential-shots/"><u>2024 Approved Choreographing Ideal Canon Sequential Shots</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-the-best-dvd-players-for-windows-11-and-mac-reviews-and-choices/"><u>Download the Best DVD Players for Windows 11 and Mac - Reviews & Choices</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-nubia-z50-ultra-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nubia Z50 Ultra Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-t2-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo T2 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-defy-2-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola Defy 2 FRP</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-trending-stock-images-and-behind-the-scenes-stories/"><u>[Updated] 2024 Approved Top Trending Stock Images & Behind-the-Scenes Stories</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-captivating-books-in-video-form/"><u>[Updated] Captivating Books in Video Form</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/chortlechaos-dive-deep-into-meme-genesis/"><u>ChortleChaos Dive Deep Into Meme Genesis</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-v27-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo V27 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-z-flip-5-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy Z Flip 5 phone? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-checklist-to-record-web-chats/"><u>In 2024, The Ultimate Checklist to Record Web Chats</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-the-crucial-media-device-driver-now-installed-on-your-system/"><u>Resolved: The Crucial Media Device Driver Now Installed on Your System</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-itel-p40-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Itel P40 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
 

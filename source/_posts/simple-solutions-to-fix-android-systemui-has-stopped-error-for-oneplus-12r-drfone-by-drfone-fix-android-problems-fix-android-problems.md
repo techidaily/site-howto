@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions to Fix Android SystemUI Has Stopped Error For OnePlus 12R | Dr.fone
-date: 2024-10-21T17:34:38.117Z
-updated: 2024-10-22T20:28:08.419Z
+date: 2024-10-26T17:38:27.889Z
+updated: 2024-10-28T16:19:31.259Z
 tags: 
   - problems
 categories:
@@ -35,6 +35,13 @@ Android device owners would agree that OS updates are very helpful as they fix t
 Another reason for the Android SystemUI isn't responding error to occur, maybe because of flashing a new ROM or due to improper firmware update installation. Even when you restore the backed up data from cloud or your Google Account, such Android, unfortunately, the process com.android.systemui has stopped error may show up.
 
 It is not possible to say for sure which one of the above-mentioned reasons is causing your device to show Android SystemUI is not responding error. But what we can do is move on to fixing the Android SystemUI by following any one of the three methods given the following segments.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to fix “com.android.systemui has stopped” in one click
 
@@ -88,6 +95,13 @@ Step 4 – In a just a matter of a few minutes, your Android system UI isn’t r
 
 ![com.android.systemui stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Uninstall Google updates to fix Android SystemUI issue
 
 All Android SystemUI isn't responding errors are circled the Google App as the Android platform is heavily dependent on it. If you have recently updated your Google App and the Android, unfortunately, the process com.android.systemui has stopped error keeps popping up at regular intervals, make sure you uninstall Google App updates as soon as possible.
@@ -129,6 +143,13 @@ This method will help you de-clutter your device and erase all the clogged up un
 
 If the Android SystemUI has stopped the problem persists, there is only one way out. Read on to find out about it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: Fix Android SystemUI error by factory reset
 
 Factory Resetting your device to fix Android; unfortunately, the process com.android.systemui has stopped error is a desperate measure and should be the last thing to do on your list. Take this step only when the above mentored two techniques fail to work.
@@ -149,13 +170,6 @@ Follow the steps given below to factory reset your device to solve the Android S
 - Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
 
 ![android system ui-tap on “ERASE EVERYTHING”](https://images.wondershare.com/drfone/article/2017/06/14985099118666.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After the factory reset process is completed, your device will automatically restart, and you will have to set it up once again.
 
@@ -200,10 +214,10 @@ You’ll be directed to the “System Repair” screen where you have to opt for
 ![contacts stopping on samsung - android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: Key in device information
@@ -218,18 +232,24 @@ Just follow the on-screen steps for booting your OnePlus 12R into download mode.
 
 ![contacts stopping on samsung - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 5: Repair Android phone
 
 Once the software downloads, the program will automatically repair any issues irking over your phone. Now, your phone is all free from contacts error.
 
 ![contacts stopping on samsung - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: 9 Common ways to fix “Unfortunately, Contacts Has Stopped”
 
@@ -267,13 +287,6 @@ As we know the cache memories are the temporary files build by the firmware. The
 
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the OnePlus 12R device.
 
 ### 2.4 Disable Google+ app
@@ -291,6 +304,13 @@ There will be a prompt stating that the application may misbehave. However, you 
 
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.5 Update your device software
 
 Many a times, we skip updating our device software thinking it is of less importance. In fact, one must not miss out the updates that occurs in phone. As, without the updates, the scope of some applications are affected to some extent. For its better functioning and avoiding issues like “contacts keep stopping”, here is how you should update device software.
@@ -299,6 +319,13 @@ Many a times, we skip updating our device software thinking it is of less import
 2. There, you need to tap over “Software Update”.
 
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
 
@@ -332,13 +359,6 @@ Some applications contain some unwanted advertisements and some elements of malw
 Now, check whether you’ve fought the battle with the problem or not.
 
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.9 Reset to Factory Settings
 
@@ -400,13 +420,6 @@ Step 1: Launch the app switcher on your specific Android device the way your dev
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### II.III: Check App Permissions
 
 These days, thanks to strides in the privacy initiatives, apps need permissions before they can function the way they do. Most of the times, apps such as camera do have the necessary permissions, but sometimes it is possible that the permissions are set incorrectly. To check if the camera app has the requisite permissions, do the following:
@@ -443,6 +456,13 @@ Step 1: Go to Settings > Apps > Photos > Storage Usage.
 
 Step 2: Tap Clear Cache.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### II.VI: Check For App Updates
 
 This does not happen always, but sometimes, with known bugs and issues, there may be an update released that fixes those bugs and issues that prevent some users from using a given app reliably. Checking for updates is a good step to make sure that your camera app is updated to the latest version possible.
@@ -462,13 +482,6 @@ Step 3: If there are updates available, Tap Update All to update all apps.
 We do not realize the immense power that is packed into the thin smartphone form factor these days. If you have been using the phone to video chat for a while now, you might not realize that the phone has become hot, especially if you are using a desk stand. Same for shooting high-resolution videos; the phone does get quite hot shooting high-resolution videos.
 
 If this is the case, close all apps and let the phone cool down. You might even want to shut the phone off to help cool it faster.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### II.VIII: Nudge The Camera System
 
@@ -514,13 +527,6 @@ Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000)
 
 ![confirm android firmware repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -545,17 +551,24 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-first-footage-assessment-breakdown/"><u>[New] In 2024, First Footage Assessment Breakdown</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-premium-downloader-suite-for-vimeo-content/"><u>[Updated] 2024 Approved Premium Downloader Suite for Vimeo Content</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-nubia-z50-ultra-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Nubia Z50 Ultra System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-13t-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi 13T Pro System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/become-a-master-at-kinemaster-strategies-features-and-top-online-gaming-rivals-for-2024/"><u>Become a Master at KineMaster Strategies, Features, and Top Online Gaming Rivals for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-huawei-nova-y91-by-fonelab-android-recover-data/"><u>How to recover lost data from Huawei Nova Y91?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-15-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 15 Pro Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/ultimate-reddit-winners-a-collection-of-best-posts-for-2024/"><u>Ultimate Reddit Winners A Collection of Best Posts for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-stunning-evaluation-and-different-paths/"><u>[New] Stunning Evaluation & Different Paths</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-thrive-on-instavid-a-guide-to-creating-a-solid-video-marketing-framework/"><u>[Updated] In 2024, Thrive on InstaVid A Guide to Creating a Solid Video Marketing Framework</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-exploring-hues-from-textbooks-to-canvas/"><u>2024 Approved Exploring Hues From Textbooks to Canvas</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-repairing-your-unresponsive-macbook-pro-keys/"><u>Expert Advice on Repairing Your Unresponsive MacBook Pro Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-implemented-for-print-driver-host-stopped-working-on-32-bit-systems-seamless-printing-restored/"><u>Fix Implemented for 'Print Driver Host Stopped Working' On 32-Bit Systems – Seamless Printing Restored</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-100-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor 100 Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-redmi-k70-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi Redmi K70 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boost-video-influence-techniques-for-exceptional-client-spotlights/"><u>In 2024, Boost Video Influence Techniques for Exceptional Client Spotlights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-realignment-for-chatgpt-service-errors/"><u>Mastering the Art of Realignment for ChatGPT Service Errors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-13-ultra-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi 13 Ultra to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-note-13-proplus-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi Note 13 Pro+ 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-missing-msodll-error-in-windows/"><u>Troubleshooting Steps for 'Missing mso.dll Error' In Windows</u></a></li>
 </ul></div>
 

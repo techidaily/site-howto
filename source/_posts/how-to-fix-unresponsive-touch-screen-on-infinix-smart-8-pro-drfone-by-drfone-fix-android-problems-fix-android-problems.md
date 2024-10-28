@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Infinix Smart 8 Pro | Dr.fone
-date: 2024-07-30T13:21:21.254Z
-updated: 2024-07-31T13:21:21.254Z
+date: 2024-10-26T16:38:54.478Z
+updated: 2024-10-28T16:51:00.519Z
 tags: 
   - problems
 categories:
@@ -18,10 +18,6 @@ With the increase in our reliance on smartphones, having **touchscreen problems*
 
 If your **touchscreen is malfunctioning** or doesn’t work correctly, you cannot interact with your device. On this page, you’ll learn general **phone touch problems** on Android and how to get rid of them. Now explore the article to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![android screen problems intro](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-01.jpg)
 
 ## Part 1: Why Is My Android Experiencing Touch Screen Problems
@@ -36,6 +32,13 @@ Below are some of the most common reasons you’re experiencing touch problems o
 - The device is physically damaged, or the screen is cracked or broken.
 - Outdated devices are prone to the black/white/blue screen of death.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Tips, Fixes, and Workarounds To Fix Your Infinix Smart 8 Pro Touch Problems
 
 If any of the outlined reasons above are the cause of your **touch screen malfunctioning,** here are some solutions to fix it.
@@ -44,23 +47,27 @@ If any of the outlined reasons above are the cause of your **touch screen malfun
 
 Some phone cases and screen protectors cause **touch problems** on your Android screen. This issue is prevalent if you recently changed your phone case or screen protector. It may be due to incompatibility, but you should remove them to see if your phone starts responding again.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![android remove screen protector](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Clean Your Android Smartphone
 
 A **touchscreen malfunctioning** can also be a sign of a dirty display. Since the screen relies on contact between your fingers and the touchpad to perform actions, this also applies to foreign particles such as dirt, debris, smudges, oil, and more. Clean your touchscreen with wipes or a soft cloth by gently wiping over the screen.
 
 ![android dirty screen](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Stop Using Your Android Device for a While
 
 **Touch problems** also arise due to abnormal temperature changes. Your phone might experience ghost touch if it’s too cold or hot. For your screen to function correctly, it needs to be in a temperate environment. Remember to take breaks between phone usage, especially when the phone gets too hot. Avoid using your device under hot conditions, direct sunlight, or anything affecting your phone’s normal temperature.
@@ -95,16 +102,10 @@ Placing your Android into **Recovery Mode** is different depending on your Andro
 
 **Step 1C**: If step 1A did not put your Android into **Recovery Mode**, press and hold the **Power** and **Volume Up** and **Down** buttons simultaneously. Continue pressing all three until the screen starts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![android recovery mode 01](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-06.jpg)
 
 **Step 2**: Use the **Volume** buttons to navigate the choices, select Wipe data/factory reset, and confirm your choice with the **Power** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android recovery mode 02](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-07.jpg)
 
 **Step 3**: Wait for the process to complete and for your Infinix Smart 8 Pro to restart automatically.
@@ -113,25 +114,16 @@ Placing your Android into **Recovery Mode** is different depending on your Andro
 
 If doing all the earlier workarounds and fixes couldn’t resolve the **touchscreen problem,** it could be the screen itself. While replacing the touchscreen yourself is possible if you have the technical know-how, it’s still best to bring it to a professional to prevent further damage. You should have your Infinix Smart 8 Pro checked by a technician if the screen is getting weak, has water damage, or has failing screen components.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![图像](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-08.jpg)"
 
 ### Method 8: Bring it to an Authorized Service Center
 
 Your **phone touch problem** might not be caused by the screen, even when you had it replaced. If your Android is still unresponsive, it’s best to bring your smartphone to an authorized service center or directly to the phone manufacturer, especially when all efforts are exhausted.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## Part 3: How To Fix Android Touch Problem With an Alternative
 
 If all the general **phone touch problems** on your Infinix Smart 8 Pro persist, you should strongly consider [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) to do the job. The program can fix all Android system issues without any required skills. Problems caused by the operating system or software, such as the black screen of death, boot loop, ghost touch, and more, are done within less than 10 minutes with the program.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ### Key Features
@@ -180,16 +172,10 @@ Follow the step-by-step guide below to start fixing general phone screen problem
 
 Here are some FAQs you should remember when experiencing **phone touch problems**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Does a Cracked Screen Affect Touch on an Android?
 
 If you continue using a smartphone with a cracked screen, there are several implications. Your device will be vulnerable to further damage and might develop **touchscreen problems**,and your sensors will gradually begin to malfunction. The capabilities of your device are also compromised the longer you delay repairing it. Moreover, a cracked screen can put your fingers at risk of injury due to potential glass splinters.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How Do I Temporarily Fix a Cracked Screen?
 
 If you can’t take your cracked screen to a repair shop, apply a small amount of vegetable oil or petroleum jelly to the screen. Doing this will not fix the issue but will make the cracks less noticeable. On the other hand, you can also apply a screen protector to safeguard your phone against further damage. The screen protector slows down or prevents the cracks from getting worse.
@@ -198,23 +184,15 @@ If you can’t take your cracked screen to a repair shop, apply a small amount o
 
 You can download and install Dr.Fone – System Repair (iOS) or (Android) for free to evaluate the program’s offerings. You can do the first few steps to see if the app supports your device. However, you need to get the full version and enter a valid license code to repair your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,471,551** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 If the **touchscreen is malfunctioning** on your smartphone, one of the fixes above should help solve the problem. If it did not solve the issue, consider using Dr. Fone – System Repair for iOS or Android when you need an all-in-one solution to all your phone screen problems.
 
 However, if your screen is broken or cracked, going to an authorized service center is still your best bet, especially when your screen urgently needs a replacement. Delaying it further may hurt your wallet in the long run, so it’s best to fix it as soon as possible.
-
-
 
 ## How to Quickly Fix Bluetooth Not Working on Infinix Smart 8 Pro
 
@@ -224,9 +202,6 @@ Fortunately, despite there being many reasons why a problem could occur to your 
 
 Let’s get straight into it!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Part 1. About Bluetooth Not Working on Android
 
 Of course, the most common problem to occur with Bluetooth technology in your Infinix Smart 8 Pro is when it doesn’t connect to the Infinix Smart 8 Pro device you’re trying to link it to. This could be anything from a Bluetooth headset or headphones, to a portable speaker or even an in-car audio system.
@@ -242,8 +217,6 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Infinix Smart 8 Pro. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -261,9 +234,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step One** Make your way over to the Wondershare website and download the Dr.Fone - System Repair (Android) software to either your Mac or Windows computer. Install the downloaded file by following the on-screen instructions. Once installed, open the software, so you’re on the Main Menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![bluetooth not working on android - use a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step Two** Connect your Infinix Smart 8 Pro to your computer using the USB cable, wait a couple of seconds, and then click the System Repair option. On the Menu on the left, click Android Repair, and then press Start.
@@ -272,32 +242,27 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step Three** Next, use the drop-down menus to make sure all the information about your specific device is correct, including your device, operating system number, and carrier information. Click Next to confirm your selections.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step Four** When prompted, put your phone into Download Mode needed for repairs. You can do this by following the on-screen instructions which will depend on which device you have and the available buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![bluetooth not working on android - download mode to fix issues](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **Step Five** The software will now begin the repair process. This will happen automatically, and all you’ll need to do is make sure your device doesn’t disconnect during this process, and your computer doesn’t turn off.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![bluetooth not working on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Infinix Smart 8 Pro and start using it and your Bluetooth features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.2 Restart Android and turn on Bluetooth again
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
 
 One of the most common solutions in technology is simply to turn it on and off again, which is the case to happen here. By restarting your device, you can clear out any problems you may be suffering from to help it get up and running again. Here’s how;
@@ -308,14 +273,8 @@ One of the most common solutions in technology is simply to turn it on and off a
 4. Navigate Settings > Bluetooth and then enable the setting
 5. Try to connect your Bluetooth device to what you were trying to do before
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Clear the Bluetooth cache
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![android bluetooth problems - clear cache](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-cache.jpg)
 
 Every service on your Infinix Smart 8 Pro using a feature called a cache. This is where information is stored to help the feature run properly and give you the best experience. However, over time this can get messy and can cause problems with your Bluetooth feature.
@@ -330,10 +289,14 @@ By clearing the cache, you can restart the service and hopefully clear up any is
 
 ### 2.4 Remove paired devices
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - remove paired devices](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-paried.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sometimes, you may have a problem with the Infinix Smart 8 Pro device you’re trying to connect to via Bluetooth, especially if this is a device you’ve updated. To counter and repair this, you’re going to need to remove the paired devices saved with your device and then reconnect them.
 
@@ -344,11 +307,15 @@ Here’s how;
 3. Go through these settings and remove/delete/forget every connection on your device
 4. Now when you go to connect to a device using Bluetooth, repair the Infinix Smart 8 Pro device, enter the passcode, and use a fresh paired connection.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.5 Use Bluetooth in safe mode
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
 
 If you’re having problems with your connection and paired devices, sometimes you may have conflicting software faults in your device that are causing the problems. If this is the case, you’ll need to boot your Infinix Smart 8 Pro in Safe Mode.
@@ -377,8 +344,12 @@ Here’s how to turn on your Bluetooth discoverable feature;
 4. Turn your Bluetooth feature on and connect to the Infinix Smart 8 Pro device you’re trying to connect too
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2.7 Exclude Bluetooth issues of the other device
 
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
@@ -392,9 +363,6 @@ By testing out another Bluetooth device to see if it will work with your preferr
 3. If the new device doesn’t connect to your Bluetooth device, you’ll know there’s a problem with your Bluetooth device, not your Infinix Smart 8 Pro
 4. If the Infinix Smart 8 Pro devices connect, you’ll know there’s a problem with your Infinix Smart 8 Pro
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.8 Place both devices within close proximity
 
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
@@ -405,9 +373,6 @@ The further away the Infinix Smart 8 Pro devices are from each other, the less l
 
 ### 2.9 Avoid interference of other Bluetooth sources
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - avoid interference](https://images.wondershare.com/drfone/article/2019/04/bluetooth-device-interference.jpg)
 
 The final consideration you’ll want to think about is that Bluetooth radio waves, or wireless waves, can interfere with each other. This means they can bounce off each other or get muddled up and make things confusing from your devices.
@@ -417,8 +382,12 @@ With this in mind, you’ll want to make sure you’re limiting the amount of Bl
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Infinix Smart 8 Pro to the Infinix Smart 8 Pro device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix App Not Available in Your Country Play Store Problem on Infinix Smart 8 Pro
 
 Mobile applications are important for smooth operations when it comes to smartphones. They offer convenience, entertainment, and functionality at your fingertips. However, encountering the "**App Not Available in Your Country Play Store**" issue can be frustrating. It can quickly dampen the excitement of discovering a new app.
@@ -453,25 +422,16 @@ In some instances, political tensions or economic considerations can also be a f
 
 The right app can make a major difference in work efficiency or personal enjoyment. That's why facing the "**Play Store app not available in your country**" issue can be frustrating. The positive aspect is that many solutions exist for addressing this issue. Presented below are the top 4 approaches to resolving this matter:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### Method 1: Change Your Google Play Store Country
 
 One of the most direct ways to address this issue is by manually adjusting your Google Play Store country settings. Google allows users to change their country or region. Remember that you can only do it once a year. To utilize this approach, it's essential to reside in the specified country. The other option is to provide a payment method originating from that particular region. Below is a detailed walkthrough for this procedure:
 
 - **Step 1.** Launch the Google Play Store on your Infinix Smart 8 Pro and tap the “Profile” icon from the top right corner. Here, choose "Settings" and follow on to tap "General."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![general settings play store](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-1.jpg)
 
 - **Step 2.** Within the "General" tab, move towards "Account and device preferences" and tap it. There, select "Country and profiles" and tap the country to change it. Now, follow the on-screen prompts to complete the procedure.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update residence country](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-2.jpg)
 
 ### Method 2: Use a Reliable VPN
@@ -482,17 +442,18 @@ You can utilize a reliable VPN to access the Play Store as though you were in a 
 
 - **Step 1.** Access the Google Play Store and download a reliable VPN for the procedure. Open the VPN you download and connect to the country of your choice. Once you have connected your device’s IP to another country using the VPN, continue to your home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![get vpn from play store](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-3.jpg)
 
 - **Step 2.** Look for Google Play Store on the home screen and long-press to open a menu. From the pop-up menu, choose "App Info," and on the following screen, tap "Clear data." Now, press "Clear cache" to wipe the cache.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear play store cache](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Go back to the “App info” screen and press "Force Stop" to force close the app. Afterward, relaunch the Play Store and access your targeted apps.
 
@@ -504,9 +465,6 @@ One way to resolve the issue at hand is to sideload the app by downloading its A
 
 - **Step 1.** Before starting, ensure that you have enabled the installation from unknown sources. Afterward, find a reliable website and search for your targeted apps.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download apk from website](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-6.jpg)
 
 - **Step 2.** Once you have found the targeted app, download it on your Infinix Smart 8 Pro. When the download process is complete, tap the file to start the installation process.
@@ -519,28 +477,18 @@ Google Play Store isn't the only apps and games store. There exist many options,
 
 - **Step 1.** Use a web browser on your Infinix Smart 8 Pro to look for a reliable third-party app store like Aptoide. Once it is downloaded, install it on your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![aptoide app store](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-8.jpg)
 
 - **Step 2.** Open the third-party app store and look for your targeted apps. Now, you should be able to download them without any restrictions.
 
 ![install app in aptoide](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Pro Tip: Fix Play Store Available in Your Country but Not Working on All Android Smartphones
 
 If the Play Store is not working on your Infinix Smart 8 Pros or an application is not downloading from it, we have a tip for you. [<u>Wondershare Dr.Fone – System Repair (Android)</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) is a perfect solution for all the issues for your Infinix Smart 8 Pros. Whether it is the Play Store functionality issue or the downloading of applications problem, System Repair (Android) is there to resolve them.
 
 It fixes various Android issues in a matter of a few seconds. This toolkit has a high success rate of fixing Android issues, including the Play Store Not Working issue. It can also resolve the issue of [<u>Apps Keep Crashing</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html), [<u>Phone Stuck in a Boot Loop</u>](https://drfone.wondershare.com/android-issue/boot-loop-android.html), and much more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features of Wondershare Dr.Fone
 
 There are some prevalent pointers you should know about Wondershare Dr.Fone. Before you continue using the tool for resolving Android problems, look into these prominent features:
@@ -563,9 +511,6 @@ Repair Android System Errors without Any Trouble.
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Steps Included To Fix Play Store Not Working on All Android Smartphones
 
 While you have learned much about Wondershare Dr.Fone, in situations where an app is available but the Play Store is not working properly, it comes pretty handy. Here is how you can fix the Play Store not working problem on Android devices with Dr.Fone:
@@ -574,10 +519,6 @@ While you have learned much about Wondershare Dr.Fone, in situations where an ap
 
 At first, you will have to run Wondershare Dr.Fone - System Repair (Android) on your system and head towards the "System Repair" section from the "Toolbox." Next, click on the "Android" device to continue, and hit the "Start" button to start the repair process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![navigate system repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - Step 2: Put Android Phone on Download Mode
@@ -590,14 +531,8 @@ On the next window, you need to enter the Infinix Smart 8 Pro device details, in
 
 Once the phone has been put in the Download Mode, the firmware will download automatically. Install it on your device by selecting the “Fix Now” icon. Now, enter the “Code” and confirm installation, after which hit the “Done” button once the process concludes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![repair process completed](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,289,252** people have downloaded it
@@ -616,15 +551,11 @@ Your Google Play Balance is linked to the country setting on your Google Play ac
 
 It is risky to download Android applications from a third-party store because of the viral content. There could be issues like App Authenticity, Outdated Apps, Policy Violations, etc. It is better to download these apps from official platforms like Google Play Store since they are more secure.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 To summarize, the pursuit of the perfect app sometimes encounters hurdles. One frustrating issue often reported by users is the "**App Not Available in Your Country Play Store**" issue. However, armed with the knowledge, you can now navigate through these challenges. From changing your Play Store country to using VPNs, this guide has covered a range of methods. Each method provides a unique approach, catering to different preferences and circumstances.
 
 As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful tool designed to tackle Play Store malfunctions head-on. With support for even Android 13, this software offers a complete solution for Android. Its comprehensive approach and easy-to-use interface make it a valuable addition to your toolkit.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -638,9 +569,26 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-clearview-capture-watchlist/"><u>[New] 2024 Approved ClearView Capture Watchlist</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-flame-the-fire-enhancing-your-snapstreak-game-for-2024/"><u>[Updated] Flame the Fire Enhancing Your Snapstreak Game for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-first-steps-to-proficiency-in-iphone-voice-memos/"><u>[Updated] From First Steps to Proficiency in iPhone Voice Memos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-speed-settings-for-snapchat-content/"><u>[Updated] Navigating Speed Settings for Snapchat Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-speedy-iphone-timelapses-made-simple/"><u>2024 Approved Speedy iPhone Timelapses Made Simple</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amuse-others-via-adobe-meme-making/"><u>In 2024, Amuse Others via Adobe Meme-Making</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-micromobility-important-timelines-current-news-hearsay-and-insights/"><u>Navigating the World of Micromobility: Important Timelines, Current News, Hearsay & Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-m54-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy M54 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-realme-c67-4g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Realme C67 4G Location | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-reno-10-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Reno 10 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-s18-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo S18 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-g2-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo G2 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+</ul></div>
 

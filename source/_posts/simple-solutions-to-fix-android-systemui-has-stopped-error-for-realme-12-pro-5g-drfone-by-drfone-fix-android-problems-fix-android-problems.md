@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme 12 Pro 5G | Dr.fone
-date: 2024-09-29T16:00:23.528Z
-updated: 2024-10-05T16:12:36.233Z
+date: 2024-10-25T16:29:06.232Z
+updated: 2024-10-28T19:13:51.338Z
 tags: 
   - problems
 categories:
@@ -219,13 +219,6 @@ One-click solution to fix camera failed on Realme 12 Pro 5G devices
 
 When the software is done repairing the system, you will be notified. Thus, the Camera failed Realme 12 Pro 5G error in your phone will be fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to fix Camera Failed error by clearing camera data?
 
 Has anyone ever informed you that it is absolutely necessary to keep clearing camera data every once in a while? Yes, since it deletes all unnecessary data stored in respect of the App and no, it does not mean that all your photos and videos will get deleted. Just follow the steps given below to clear camera data:
@@ -233,6 +226,13 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 1\. First, visit “Settings’” on your Realme 12 Pro 5G device and select “Apps” or Application Manager”.
 
 ![application manager](https://images.wondershare.com/drfone/article/2017/07/14997063797708.jpg "application manager")
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2\. Now a list of all Apps will appear before you. Keep scrolling down until your find “Camera”.
 
@@ -243,19 +243,20 @@ Tap on “Camera” to open the “Camera Info” screen and once you are there,
 ![clear data](https://images.wondershare.com/drfone/article/2017/07/14997066321127.jpg "clear data")
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to fix Camera Failed error by removing third-party Apps?
 
@@ -290,13 +291,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 3\. Once the Recovery Screen appears, leave all buttons and use the volume down key till you reach “Wipe Cache Partition”.
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
@@ -344,6 +338,13 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/07/14997070554687.jpg "erase everything")
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Note: You will have to set up your Realme 12 Pro 5G device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Realme 12 Pro 5G devices.
@@ -374,13 +375,6 @@ If your **phone is working, but the screen is black,** there’s also a high pro
 
 A potential reason why **your phone screen went black but still works** could be because of your smartphone’s software. This problem suggests that your Realme 12 Pro 5G is crashing, potentially freezing your device if not addressed immediately. If this is the cause, then your device is likely experiencing a critical system error, and you should directly try to reboot your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Hardware Problem
 
 If you dropped your phone, there’s a high chance the LCD connectors went loose due to the physical impact. If this happened to you, the phone might be working, but the screen is black due to the LCD cable dislodging. Another issue could be your phone got exposed to extreme temperatures. This can also cause a **black screen but your phone is still on.**
@@ -390,6 +384,13 @@ If you dropped your phone, there’s a high chance the LCD connectors went loose
 ## Part 2: How To Fix Black Screen on Your Phone
 
 Here are four valuable methods you should know on **what to do when your phone screen goes black** on your iPhone or Android smartphone to get them working again.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Force Restart your Android/iOS Smartphone
 
@@ -465,6 +466,13 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 ![ios erase all content and settings](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Tap **Continue** and enter your iPhone passcode. A message warns you that the process will delete all media and data and reset all settings.
 
 **Step 4:** Tap **Erase iPhone** to confirm. You’ll be asked to type in your Apple ID and password if **Find My** is active. Enter your password and tap **Erase**.
@@ -474,20 +482,6 @@ The process of booting into **Recovery Mode** is not the same across all Android
 If **your phone screen went black but still works** and doing the methods above did not solve the issue, you can use Wondershare Dr.Fone for [<u>iOS</u>](https://drfone.wondershare.com/ios-system-repair.html) and [<u>Android</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) as a last resort. It’s one of the most popular smartphone repair tools today, enabling you to fix all kinds of annoying scenarios. These include black screen, boot loop, white screen of death, bricked iOS or Android device, and more.
 
 ![drfone system repair main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -517,10 +511,10 @@ Meanwhile, here are the system requirements for Dr.Fone – System Repair (iOS).
 | macOS 12, 11, 10.15, 10.14, 10.13, 10.12, 10.11, 10.10, 10.9, 10.8 |
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pros and Cons
@@ -547,13 +541,6 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 ![drfone system repair for ios](https://images.wondershare.com/drfone/product-2021/system-repair/swp2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2B (For Android)**: Click **Start.** On the next window, choose the **Brand, Name, Model, Country,** and **Carrier** of your smartphone, then click **Next**.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -565,6 +552,13 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,262,204** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -586,24 +580,19 @@ Doing all the recommended methods above usually solves the case. If the differen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-8-things-to-consider-before-buying-next-lens-for-4k-camera/"><u>[New] 2024 Approved 8 Things to Consider Before Buying Next Lens for 4K Camera</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-affordable-tutorial-on-professional-looking-youtube-introsends-for-2024/"><u>[New] Affordable Tutorial on Professional Looking YouTube Intros/Ends for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-platforms-for-digital-graffiti-fonts/"><u>[New] Leading Platforms for Digital Graffiti Fonts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-notch-mac-visual-archiver-for-2024/"><u>[Updated] Top-Notch Mac Visual Archiver for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-screen-selections-for-immersive-xbox-series-x-gaming/"><u>[Updated] Ultimate Screen Selections for Immersive Xbox Series X Gaming</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-hues-harmony-an-editors-guide-to-perfect-grading/"><u>2024 Approved Hues Harmony An Editor's Guide to Perfect Grading</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-motorola-edge-2023-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Edge 2023 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illustrate-effortlessly-prime-ios-design-software-for-2024/"><u>Illustrate Effortlessly Prime iOS Design Software for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-pitfalls-in-text-generation-with-chatgpt/"><u>Navigating Pitfalls in Text Generation with ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reviving-your-home-theater-experience-a-complete-guide-to-resetting-samsung-soundbars/"><u>Reviving Your Home Theater Experience: A Complete Guide to Resetting Samsung Soundbars</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-entrepreneurial-journey-of-launching-a-review-channel-for-clothing-for-2024/"><u>The Entrepreneurial Journey of Launching a Review Channel for Clothing for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nokia-c210-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nokia C210 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-13t-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi 13T Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-redmi-12-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Redmi 12 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-asus-rog-phone-7-ultimate-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Asus ROG Phone 7 Ultimate Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-tools-for-live-gameplay-screen-grabs-for-2024/"><u>[Updated] Best Tools for Live Gameplay Screen Grabs for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-digital-dialogue-preservation-guide/"><u>[Updated] In 2024, Digital Dialogue Preservation Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-cash-flow-on-youtube-an-ad-free-blueprint-for-income/"><u>Creating Cash Flow on YouTube An Ad-Free Blueprint for Income</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/data-disaster-free-stellar-to-the-rescue/"><u>Data Disaster? Free Stellar to the Rescue!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/estrategias-expertas-para-reducir-el-tamano-de-avi-en-windows-10-sin-sacrificar-la-excelencia-visual/"><u>Estrategias Expertas Para Reducir El Tamaño De AVI en Windows 10 Sin Sacrificar La Excelencia Visual</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-note-30-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Note 30 Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-finest-lineup-top-7-aim-focused-titles/"><u>In 2024, The Finest Lineup Top 7 Aim-Focused Titles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/natural-vs-artificial-balancing-your-sets-illumination-for-2024/"><u>Natural Vs. Artificial Balancing Your Set's Illumination for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-how-to-successfully-retrieve-unwantedly-removed-images/"><u>Step-by-Step Guide: How to Successfully Retrieve Unwantedly Removed Images</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-zte-nubia-flip-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My ZTE Nubia Flip 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y100t | Dr.fone
-date: 2024-07-30T13:18:24.360Z
-updated: 2024-07-31T13:18:24.360Z
+date: 2024-10-22T16:40:30.284Z
+updated: 2024-10-28T17:20:20.419Z
 tags: 
   - problems
 categories:
@@ -22,8 +22,6 @@ It can occur while you launch the app or while you’re in the app already findi
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
 
-
-
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Fix Contacts app crashing on Android in one click
@@ -42,27 +40,18 @@ Step 1: Load program and draw connection of device
 
 Download Dr.Fone - System Repair (Android) on PC. While program installs, use USB cable to connect device with system. From interface, tap on “System Repair” main window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - download the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Opt for Android Repair option
 
 You’ll be directed to the “System Repair” screen where you have to opt for “Android Repair” options appearing over the left panel of the program. After that, do not forget to press “Start”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Key in device information
 
 From following screen, fill the fields of “Brand”, “Name”, “Model”, “Country” and several other parameters. Then, tap on “Next” option to proceed further.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - enter info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 4: Download Firmware package
@@ -86,16 +75,10 @@ Our response to any minuscule issue is straightaway restarting phone. This helps
 1. Get hold of your Android system and long press the power button.
 2. This will fadeout the main screen and showcase several options from where you’ve to tap on “Reboot/Restart” mode.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts app stopping - retart android](https://images.wondershare.com/drfone/article/2019/04/restart-reboot-android-phone.jpg)
 
 Now, your device will quickly reboot the Vivo Y100t device. Once, the Vivo Y100t device regains its normal state, check whether the issue is coming again or not.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### 2.2 Clear cache and data of Contacts app
 
 The cache memory basically stashes the copies of the concerned application. It is indeed a streak of copies of the desired app storing information and incurring additional space on the storage. This might be the reason why the contact app crashes rapidly on your Vivo Y100t. Hence, it can prove to be a good remedy for this problem. Just follow down the steps mentioned below-
@@ -105,14 +88,8 @@ The cache memory basically stashes the copies of the concerned application. It i
 3. Here, you need to browse for “Contacts” app and open it.
 4. On “Contacts” app, just tap on “CLEAR CACHE” and “CLEAR DATA” button. This will prompt the cache memory to be cleared.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Wipe cache partition
 
 As we know the cache memories are the temporary files build by the firmware. These are of little importance as they are bound to become a bit more corrupted in nature. And sometimes, may indirectly become a hurdle for the working of contacts app. It is good if the Vivo Y100t device is cleared off from the caches. Instead of manually wiping down the cache memory, we will understand how to clear off the cache partition in the following steps.
@@ -123,16 +100,10 @@ As we know the cache memories are the temporary files build by the firmware. The
 4. Over the options available, just opt for “wipe cache partition” by tapping the “Volume down” button until the desired option is highlighted.
 5. Finally, push the “Power” key to give consent to the selection.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
 
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the Vivo Y100t device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.4 Disable Google+ app
 
 The root cause for detecting any problem is not very easy. You never know the overloading of Google + application might have directly impacted contacts app crashes. To resolve it, disabling it may prove to be a helpful solution. Here is the quick reference for disabling Google+ application.
@@ -146,9 +117,6 @@ The root cause for detecting any problem is not very easy. You never know the ov
 
 There will be a prompt stating that the application may misbehave. However, you must disable the feature and check whether it worked out for you or not.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
 
 ### 2.5 Update your device software
@@ -158,16 +126,10 @@ Many a times, we skip updating our device software thinking it is of less import
 1. First and foremost, head on to “Settings” menu. Over there, click on “About Device”.
 2. There, you need to tap over “Software Update”.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.6 Reset App Preferences
 
 As stated, the malfunctioning of contacts can be due to be any unexpected reason. Hence, users can opt for resetting app preferences. This may prove to be helpful in brushing away the issue of “Contacts app won’t open”.
@@ -176,14 +138,8 @@ As stated, the malfunctioning of contacts can be due to be any unexpected reason
 - Just, tap over the three dots appearing at the upper right section and then tap on “Reset app preferences”.
 - At last, just select “Reset default apps”.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### 2.7 Delete voicemail
 
 Do you happen to exchange voicemails quite often? It can trigger to be the reason for contact app crashes. If your device happens to have a bulk of voicemails, you must get rid of them sooner or later. As, these might standout to be the prime reason for contacts stopping on Vivo Y100t. If you’re unaware about the procedure of removing all kinds of voicemails, you can proceed to make use of the following steps.
@@ -203,14 +159,8 @@ Some applications contain some unwanted advertisements and some elements of malw
 
 Now, check whether you’ve fought the battle with the problem or not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.9 Reset to Factory Settings
 
 Last but not least, if all the methods falls flat to resolve the issue of contacts app won’t open. Then, it might be your device has some internal problem. This can be any software crash which might not be fixing with the aforementioned steps. That is where reset to factory settings may prove to be a good option. With this method, your phone will be cleared of all the components, settings and everything present in it. Here are is the comprehensive tutorial for biding bye to the problem of contacts app won’t open.
@@ -221,12 +171,14 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 - You need to toggle on the option for performing the backup on your Google account.
 - Then, tap on “Reset” button and then tick mark the option for resetting your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Vivo Y100t Bootloop Problem, How to Fix it Without Data Loss
 
@@ -239,8 +191,12 @@ We understand the inconvenience caused, therefore, here are ways to tell you how
 However, before moving on, let us learn a little about the causes for the Android boot loop error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: What might cause the bootloop issue on Android?
 
 Android boot loop error might seem weird and unexplainable but it occurs because of some specific reasons.
@@ -265,8 +221,6 @@ If you are trying to figure out how to fix boot loop, the first option you have 
 
 This is designed to repair any data corruption on your device and restores your firmware to its usual working condition.
 
-
-
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One click to fix boot loop of Android
@@ -288,9 +242,6 @@ One click to fix boot loop of Android
 
 Open the software and select the System Repair option from the main menu to fix the Android bootloop error.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android boot loop](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step #2** Connect your Vivo Y100t to your computer using the official cable and select the "Android" option from the three menu items. Click "Start" to confirm.
@@ -301,6 +252,13 @@ You’ll then need to input the Vivo Y100t device information, such as your carr
 
 ![select info to fix android boot loop](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step #3** Now you’ll need to put your phone into Download Mode to remove the Android bootloop.
 
 For this, you can simply follow the onscreen instructions for both phones with and without home buttons.
@@ -309,18 +267,12 @@ For this, you can simply follow the onscreen instructions for both phones with a
 
 Click "Next", and the software will begin downloading the firmware repair files.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![firmware downloading to android](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 **Step #4** Now you can sit back and watch the magic happen!
 
 Make sure your computer stays connected to the internet, and your device stays connected to your computer throughout the entire process. Once the firmware has been downloaded, it will be automatically installed onto your mobile device, removing the boot loop Android error.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![fixed android boot loop smoothly](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 You’ll be notified when the process is done and when you can remove your device and start using free from the boot loop Android error!
@@ -374,9 +326,6 @@ Once you've identified and uninstalled the problematic app, restart your device 
 
 By following these steps and using Safe Mode to isolate problematic apps, you can effectively troubleshoot and resolve boot loop issues on your Vivo Y100t.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Factory reset to fix Android bootloop issue
 
 Factory reset, also known as Hard Reset, is a one-stop solution for all your software resulting in issues. Android boot loop being such problem, can be easily overcome by performing a factory reset.
@@ -393,9 +342,6 @@ Press the volume down button and power button together until you see a screen wi
 
 When you are at the Recovery Mode screen, scroll down using the volume down key, and from the options given, select “Factory Reset” using the power key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Factory Reset](https://images.wondershare.com/drfone/article/2017/07/14994538843981.jpg)
 
 Wait for your device to perform the task and then:
@@ -416,9 +362,6 @@ Press the home, power, and volume up buttons to launch the CWM Recovery screen.
 
 Note: you might have to use a different combination of keys to enter into Recovery Mode, depending on your device’s model.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter into Recovery Mode](https://images.wondershare.com/drfone/article/2017/07/14994539374814.jpg)
 
 Scroll down using” the volume key to select "Advanced".
@@ -442,20 +385,22 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Resolve Vivo Y100t Screen Not Working
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 [![](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Nothing is more frustrating than your phone's touch screen becoming unresponsive. Given the importance of smartphones in daily work, a phone with a touch screen not working can badly affect your routine. It is an issue found in most smartphone brands, even among Vivo Y100t phones, known for their efficient performance. If your ****Vivo Y100t screen is not working****, it can be an exhausting experience.
 
@@ -465,20 +410,21 @@ Luckily for your, multiple ways are available to resolve this issue. This articl
 
 Answering what causes Vivo Y100t screen unresponsiveness is difficult. Many reasons, ranging from minor bugs to serious hardware issues, can cause it. To find out the exact or near exact reason, you will have to review your device's activity before this issue occurs. You can use the following common reasons behind the ****Vivo Y100t 6T touch screen not working**** as the basis of your investigation:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Touchscreen Calibration
 
 Excessive smartphone use can cause the touchscreen to go out of the required settings. It means until the touch screen is not recalibrated properly, the touch not working issues will continue to pop up.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Battery Issue
 
 If your device's battery is damaged or is at the end of its lifespan, it can cause the touch screen not responding issues. Moreover, the low battery and issue with the charging port can also lead to this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### 3\. Corrupted System Files
 
 The presence of corrupted system files is also a significant cause of such issues. These corrupted files can also lead to serious performance issues on your phone.
@@ -491,15 +437,19 @@ It is also possible that the conflicting settings in your device are causing thi
 
 Fixing the ****Vivo Y100tscreen not working**** is easy as long as it is not a serious hardware issue. While there are multiple ways to solve this problem, we have chosen the 6 most common and easy solutions. Listed below are the 6 common solutions to solve a Vivo Y100t screen unresponsive:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1. Restart the Vivo Y100t Phone
 
 As with any other issue or device, the first fix you should always try first is to restart your device. It is the best solution to fix the ****Vivo Y100t not working**** issue if temporary bugs and glitches are the reason behind it. When you restart your device, it flushes out all temporary bugs and glitches while resetting your device’s processes. Use this guide to restart your Vivo Y100t device:
 
 ****Instruction:**** Press and hold the “Power” button for a couple of seconds until it turns off. Wait a few moments and then use the “Power” button to turn on the Vivo Y100t device. In some of the Vivo Y100t devices, you also have to use the “Volume Down” button along with the “Power” button to restart the Vivo Y100t device.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
 
 ### Solution 2. Check the Charging Port and Battery
@@ -508,9 +458,6 @@ The issues with the battery of your Vivo Y100t 5 can also lead to ****Vivo Y100t
 
 Thus, you should check and clean your device's charging port and see if it resolves the problem. Moreover, turn off your device, charge it, and then restart it to check if the touch screen not working issue is gone.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 3. Contact the Vivo Y100t Customer Support
 
 Contacting Vivo Y100t customer support can also help resolve the ****Vivo Y100t screen not working**** problem. It is especially helpful if you are unable to find the cause and want to seek an expert opinion. The Vivo Y100t customer support will help you find the issue and recommend a solution.
@@ -519,30 +466,27 @@ It is an excellent option if your Vivo Y100t device's touch is not working due t
 
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 4. Wipe the Cache of Your Vivo Y100t Device
 
 A common reason for ****Vivo Y100t Nord being stuck on the loading screen**** is the filled cache partition. If you do not clean out the cache partition of your Vivo Y100t device, its performance will degrade. As a result, your device will experience issues like the touch screen not working or getting stuck at the loading screen. Here is how you can clear the cache of your Vivo Y100t device:
 
 ****Step 1:**** Turn off your device by pressing and holding the “Power” button. Once it is turned off, press and hold the “Power” and “Volume Down” buttons until you see the Vivo Y100t logo.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wait for oneplus logo](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-3.jpg)
 
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
 
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
 ### Solution 5. Reset to Factory Settings
@@ -578,7 +522,6 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 
 To sum up this article, it can be said that issues like ****Vivo Y100t not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -591,9 +534,23 @@ To sum up this article, it can be said that issues like ****Vivo Y100t not worki
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-a-step-by-step-roadmap-for-masterful-instagram-photos/"><u>[New] In 2024, A Step-by-Step Roadmap for Masterful Instagram Photos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-dynamic-dialogue-list-to-engage-podcast-audience/"><u>[New] In 2024, Dynamic Dialogue List to Engage Podcast Audience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-quieting-background-sounds-in-media-capture-free-and-paid/"><u>[New] In 2024, Quieting Background Sounds in Media Capture (Free & Paid)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-masterful-music-management-with-easy-vrecorder-downloads/"><u>[Updated] In 2024, Masterful Music Management with Easy VRecorder Downloads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unseen-screenshots-tracking-instagrams-hidden-viewer-list/"><u>2024 Approved Unseen Screenshots Tracking Instagram's Hidden Viewer List</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oneplus-nord-n30-se-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your OnePlus Nord N30 SE? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s23-fewithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S23 FEwith/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-v-purse-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor V Purse FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-honor-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Honor Lock Screen Password</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v29-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V29 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Nubia Red Magic 8S Pro+ Screen Not Working | Dr.fone
-date: 2024-07-30T13:28:11.373Z
-updated: 2024-07-31T13:28:11.373Z
+date: 2024-10-23T17:15:14.033Z
+updated: 2024-10-28T16:52:02.828Z
 tags: 
   - problems
 categories:
@@ -20,16 +20,10 @@ Nothing is more frustrating than your phone's touch screen becoming unresponsive
 
 Luckily for your, multiple ways are available to resolve this issue. This article will list six fixes for resolving the ****Nubia Red Magic 8S Pro+ not working**** issue. It will also discuss the reasons behind this issue in detail and provide a list of tips to avoid it in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Part 1: What Causes Nubia Red Magic 8S Pro+ Screen Unresponsive?
 
 Answering what causes Nubia Red Magic 8S Pro+ screen unresponsiveness is difficult. Many reasons, ranging from minor bugs to serious hardware issues, can cause it. To find out the exact or near exact reason, you will have to review your device's activity before this issue occurs. You can use the following common reasons behind the ****Nubia Red Magic 8S Pro+ 6T touch screen not working**** as the basis of your investigation:
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Touchscreen Calibration
 
 Excessive smartphone use can cause the touchscreen to go out of the required settings. It means until the touch screen is not recalibrated properly, the touch not working issues will continue to pop up.
@@ -42,9 +36,6 @@ If your device's battery is damaged or is at the end of its lifespan, it can cau
 
 The presence of corrupted system files is also a significant cause of such issues. These corrupted files can also lead to serious performance issues on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Conflicting Settings
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
@@ -59,9 +50,6 @@ As with any other issue or device, the first fix you should always try first is 
 
 ****Instruction:**** Press and hold the “Power” button for a couple of seconds until it turns off. Wait a few moments and then use the “Power” button to turn on the Nubia Red Magic 8S Pro+ device. In some of the Nubia Red Magic 8S Pro+ devices, you also have to use the “Volume Down” button along with the “Power” button to restart the Nubia Red Magic 8S Pro+ device.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
 
 ### Solution 2. Check the Charging Port and Battery
@@ -70,9 +58,6 @@ The issues with the battery of your Nubia Red Magic 8S Pro+ 5 can also lead to *
 
 Thus, you should check and clean your device's charging port and see if it resolves the problem. Moreover, turn off your device, charge it, and then restart it to check if the touch screen not working issue is gone.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 3. Contact the Nubia Red Magic 8S Pro+ Customer Support
 
 Contacting Nubia Red Magic 8S Pro+ customer support can also help resolve the ****Nubia Red Magic 8S Pro+ screen not working**** problem. It is especially helpful if you are unable to find the cause and want to seek an expert opinion. The Nubia Red Magic 8S Pro+ customer support will help you find the issue and recommend a solution.
@@ -81,23 +66,12 @@ It is an excellent option if your Nubia Red Magic 8S Pro+ device's touch is not 
 
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Solution 4. Wipe the Cache of Your Nubia Red Magic 8S Pro+ Device
 
 A common reason for ****Nubia Red Magic 8S Pro+ Nord being stuck on the loading screen**** is the filled cache partition. If you do not clean out the cache partition of your Nubia Red Magic 8S Pro+ device, its performance will degrade. As a result, your device will experience issues like the touch screen not working or getting stuck at the loading screen. Here is how you can clear the cache of your Nubia Red Magic 8S Pro+ device:
 
 ****Step 1:**** Turn off your device by pressing and holding the “Power” button. Once it is turned off, press and hold the “Power” and “Volume Down” buttons until you see the Nubia Red Magic 8S Pro+ logo.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wait for oneplus logo](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-3.jpg)
 
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
@@ -108,9 +82,6 @@ A common reason for ****Nubia Red Magic 8S Pro+ Nord being stuck on the loading 
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Solution 5. Reset to Factory Settings
 
 Sometimes, clearing the cache partition doesn't help resolve the touchscreen issue. In that case, You have to factory reset your Nubia Red Magic 8S Pro+ device. It is the best and last solution if other fixes haven't worked and you can't pinpoint the reason. Factory resetting your Nubia Red Magic 8S Pro+ will delete all phone data. Thus, you should create a proper backup before trying this fix. Follow these steps to factory reset your Nubia Red Magic 8S Pro+ in no time:
@@ -127,10 +98,6 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 If none of the above-mentioned fixes have worked so far, you should replace the touch screen. Replacing the touch screen is recommended in case of hardware and severe software issues. However, it can be quite an expensive fix as new touch screens aren't cheap. The prices for new touchscreens differ depending on the model. These prices start from $20 and go up to hundreds of dollars.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Part 3: How to Avoid Nubia Red Magic 8S Pro+ Screen being Unresponsive?
 
 Protecting your Nubia Red Magic 8S Pro+ device against system issues like touch not working is not difficult. While it is true that you can't 100% avoid such problems, the risks can still be reduced to a great extent. To prevent your Nubia Red Magic 8S Pro+ screen from being unresponsive, here are some tips you can follow:
@@ -148,38 +115,46 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 
 To sum up this article, it can be said that issues like ****Nubia Red Magic 8S Pro+ not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Methods for Nubia Red Magic 8S Pro+ Won’t Turn On
 
 The Nubia Red Magic 8S Pro+ 3 boasts numerous impressive features, making it a desirable phone. However, occasional malfunctions can result in the **Nubia Red Magic 8S Pro+ 3 won't turn on** issue. This issue can be incredibly frustrating. Don't panic if you encounter this issue! There exist solutions to rectify it. This comprehensive guide aims to assist you in diagnosing and resolving the problem.
 
 It will offer both basic steps and advanced techniques. With clear instructions and insightful tips, we'll help troubleshoot your Nubia Red Magic 8S Pro+ 3. Should you encounter this setback, follow this guide diligently to revive your Nubia Red Magic 8S Pro+ 3 and have it up and running again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Scenario 1. Phone Not Charged
 
 A **Nubia Red Magic 8S Pro+ 4 not turning on** might simply be a victim of a drained battery due to lack of charging. Several factors could lead to this, including a damaged charging cable or adapter. Moreover, issues with the power source or a malfunctioning charging port can be the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Reason 1. Damaged Charging Cable or Adapter
 
 **Solution:** Replace the charging cable or adapter with a known working one. Try using a different USB-C cable and adapter to ensure it's not a faulty connection.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![damaged charging cable](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reason 2. Faulty Power Source
 
 **Solution:** Verify the power source by trying different outlets or USB ports. Ensure the power source is functional by testing it with another device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![power source issues](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-2.jpg)
 
 ### Reason 3. Charging Port Issues
@@ -188,12 +163,16 @@ A **Nubia Red Magic 8S Pro+ 4 not turning on** might simply be a victim of a dra
 
 ![charging port issues google pixel](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Scenario 2. Check for Damages
 
 Sometimes, a Nubia Red Magic 8S Pro+ 3 might not turn on due to physical damage incurred by the Nubia Red Magic 8S Pro+ device. Instances such as accidental drops, exposure to water or moisture, or even hardware malfunctions can be the reason. These can cause visible or invisible damage, leading to **Nubia Red Magic 8S Pro+ 4 won’t turn on**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reason 1. Physical Impact or Dropping
 
@@ -211,10 +190,6 @@ Sometimes, a Nubia Red Magic 8S Pro+ 3 might not turn on due to physical damage 
 
 **Solution:** [Check for any hardware malfunction symptoms](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html) such as [overheating](https://drfone.wondershare.com/iphone-problems/iphone-overheating-after-updating-to-ios-17.html), unusual sounds, or a burnt smell. If any such signs are evident, refrain from attempting to turn on the Nubia Red Magic 8S Pro+ device. You should seek professional assistance from authorized service centers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![google pixel hardware malfunction](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-6.jpg)
 
 ## Scenario 3. Buggy Android Smartphone
@@ -227,17 +202,10 @@ An Android smartphone, including the Nubia Red Magic 8S Pro+ 3 XL, can encounter
 
 ![google pixel device stuck boot loop](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Reason 2. Software Glitches or System Crash
 
 **Solution:** If encountering issues with the Nubia Red Magic 8S Pro+ device not powering on because of software glitches or a system crash, try initiating Safe Mode by simultaneously pressing and holding the 'Power' button along with a Volume key. This action will cause the Power menu to be displayed. Here, tap and hold the "Power off" for a while and tap "OK" once the Safe Mode prompt appears.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![put google pixel in safe mode](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-8.jpg)
 
 ## Scenario 4. System Glitches? Try Wondershare Dr.Fone as a Prioritized Solution
@@ -246,14 +214,18 @@ If you have attempted the solutions mentioned above without success, it is essen
 
 Dr.Fone is designed to tackle various repairing problems that occur in Android devices. With its comprehensive setup, it can effectively address errors related to the Nubia Red Magic 8S Pro+. These measures are aligned to meet the specific requirements of your device. This is helpful in minimizing the time needed for troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Key Features of Wondershare Dr.Fone
 
 1. Fone allows you to repair the Android device with just a few clicks. By following the on-screen instructions, you can complete the whole process conveniently.
 2. It fixes all Android-related problems, including the [Black screen of death](https://drfone.wondershare.com/iphone-problems/fix-iphone-15-black-screen-of-death.html), the Play Store not working, and more.
 3. This tool is compatible with all the mainstream Nubia Red Magic 8S Pro+ models, including the latest ones.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps Required To Resolve System Glitches via Wondershare Dr.Fone – System Repair
 
@@ -265,9 +237,6 @@ Starting with, you will have to activate Dr.Fone on your computer and head to th
 
 ![launch dr fone android repair](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,082,195** people have downloaded it
@@ -276,9 +245,6 @@ Starting with, you will have to activate Dr.Fone on your computer and head to th
 
 In the next step, choose the "Start" button that appears, by which your device will be recognized. You have to put in the "Name, Model, Country, and Carrier" details of the Nubia Red Magic 8S Pro+ device and hit the "Next" option. Then, you need to put your Nubia Red Magic 8S Pro+ on Download Mode following the on-screen instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![set device properties and proceed](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 3:** Utilize the Firmware
@@ -297,25 +263,16 @@ Lastly, the repair process will get started and can be viewed in a progress bar.
 
 At times, an Android device, including the Nubia Red Magic 8S Pro+ 3/4, might benefit from a power cycle procedure. This process involves completely refreshing the Nubia Red Magic 8S Pro+ device's system. It potentially **my Nubia Red Magic 8S Pro+ 3 won’t turn on** issues, temporary bugs, or system hang-ups. These issues prevent the Nubia Red Magic 8S Pro+ device from turning on or functioning properly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Reason 1. System Freeze or Unresponsive Device
 
 **Solution:** If the Nubia Red Magic 8S Pro+ 3/4 is unresponsive or frozen, perform a forced restart by holding down the "Power" and "Volume Up" for about 10 seconds. This action should force the Nubia Red Magic 8S Pro+ device to shut down and reboot, potentially resolving the issue.
 
 ![perform power cycle google pixel](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Reason 2. Battery Optimization and Refreshment
 
 **Solution:** Sometimes, a power cycle helps [optimize the Nubia Red Magic 8S Pro+ device's battery performance](https://drfone.wondershare.com/device-diagnostics/check-your-phone-battery-health.html) and refreshes the system. Allow the Nubia Red Magic 8S Pro+ 3/4 to completely power down, charge it for at least 30 minutes, then attempt to turn it on.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Reason 3. Software Hang-Up or Temporary Glitch
 
 **Solution.** To shut down your Nubia Red Magic 8S Pro+ 3/4, press and hold the power button, then choose 'Power Off' from the menu that appears. After the Nubia Red Magic 8S Pro+ device powers down, wait for about 30 seconds to 1 minute to ensure it has fully shut down before moving forward. Subsequently, press and hold the power button until the Google logo displays to restart your device.
@@ -325,8 +282,12 @@ At times, an Android device, including the Nubia Red Magic 8S Pro+ 3/4, might be
 When an Android device experiences severe software damage, it can lead to major issues like **the Nubia Red Magic 8S Pro+ 3 won't turn on**. This can hinder the functionality of the Nubia Red Magic 8S Pro+ device. It also includes the inability to turn on or persistent system malfunctions. In such cases, performing a complete phone restore becomes a necessary solution:
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Reason 1. Corrupted System Files or Firmware Issues
 
 **Solution.** In cases of severe software damage or corruption of system files, performing a settings reset becomes imperative. It is to restore the Nubia Red Magic 8S Pro+ device to its default settings and resolve underlying issues.
@@ -334,8 +295,18 @@ When an Android device experiences severe software damage, it can lead to major 
 ![reset settings google pixel](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Reason 2. Factory Reset as a Solution
 
 [Performing a factory reset](https://drfone.wondershare.com/reset-android/how-to-factory-reset-huawei-phone-when-locked.html) serves as the ultimate solution. This is true when facing critical software damage that leads to a non-responsive Nubia Red Magic 8S Pro+ 3/4. This process erases all user data, apps, settings, and files stored on the Nubia Red Magic 8S Pro+ device, reverting it to its original factory state.
@@ -350,10 +321,6 @@ When an Android device experiences severe software damage, it can lead to major 
 
 ![factory reset google pixel](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Scenario 7. Phone Hangs on Installed App
 
 There are scenarios where a phone, like the Nubia Red Magic 8S Pro+ 3, hangs or gets stuck on a specific installed app. It happens during the startup process, and it can prevent the Nubia Red Magic 8S Pro+ device from turning on properly. This issue often arises due to a malfunctioning or poorly coded app. This app disrupts the Nubia Red Magic 8S Pro+ device's startup routine, causing **Nubia Red Magic 8S Pro+ 4 won’t turn on**.
@@ -362,45 +329,33 @@ There are scenarios where a phone, like the Nubia Red Magic 8S Pro+ 3, hangs or 
 
 **Solution:** Start by booting the Nubia Red Magic 8S Pro+ 3 into Safe Mode. This mode disables third-party apps, allowing you to access the Nubia Red Magic 8S Pro+ device without interference from downloaded applications.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![reboot google pixel to safe mode](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-17.jpg)
 
 ### Reason 2. Problematic App
 
 **Solution:** While in Safe Mode, observe if the Nubia Red Magic 8S Pro+ device boots up properly. If it successfully boots, it suggests that a third-party application is causing the problem. To pinpoint the problematic app, uninstall recently added apps individually and restart the Nubia Red Magic 8S Pro+ device after each removal. This process helps pinpoint the problematic app causing the hang during startup.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![uninstall app in google pixel](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reason 3. Stacked Up App Cache and Data
 
 **Solution:** If the problematic app is identified, try clearing its cache and data. Go to Settings and then access "Apps." Within "Apps," find the Problematic App and tap "Storage & cache." On the subsequent display, select "[Clear cache](https://drfone.wondershare.com/erase-android/clear-cache-android.html)" and "Clear storage" to restore the application to its original settings. After restarting the Nubia Red Magic 8S Pro+ device, verify whether the problem persists.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear storage and cache](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-19.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reason 4. Outdated Application
 
 **Solution:** If the application is essential, ensure to seek updates within the Google Play Store. Updating the app to its latest version could potentially resolve any compatibility issues. Alternatively, if updates are not available or don’t resolve the problem, consider uninstalling and reinstalling the app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![update app to latest version](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 In conclusion, this article has aimed to address the perplexing issue of a **Nubia Red Magic 8S Pro+ 3 won't turn on**. It offered a range of solutions depending on different underlying reasons. The guide included basic methods like checking for charging issues and examining hardware damage. Moreover, it included advanced techniques like software repair tools such as Wondershare Dr.Fone.
@@ -431,9 +386,6 @@ There was a problem parsing the package may occur due to several reasons, most o
 
 Read on to find out more.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Reasons for the parsing error
 
 Parse Error, better known as “there was a problem parsing the package” error is very common and normally surfaces when we try to download and install new Apps onto our Android devices from Google Play Store.
@@ -456,9 +408,6 @@ The causes listed above are not App specific. The Parse Error may occur due to a
 
 Let us move on to learn ways to fix the there was a problem parsing the package error.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Part 2: 8 Solutions to fix the parsing error
 
 “There is problem parking the package” error can be dealt with easily if only we do not panic and deliberately follows the steps explained in this segment. Here are 7 of the most reliable and trustworthy methods to fix the Parse Error.
@@ -468,8 +417,6 @@ They are easy, user-friendly, and do not take much of your time. So don not wast
 #### **2.1 One Click to Fix ‘There is a Problem Parsing the Package**
 
 If you’re still encountering the Parsing error, there may be a problem with the Nubia Red Magic 8S Pro+ device data on your device, which means you’ll need to repair it. Luckily, there’s a simple, one-click solution you can follow called [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/).
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -489,9 +436,6 @@ Android repair tool to fix all android system issues in one click
 
 **Step #1** Head over to the Dr.Fone website and download the software. Install the downloaded software and open it. From the main menu, select the System Repair option.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix problem parsing the package](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Input your device and firmware information to confirm you’re installing the right version of the operating system.
@@ -500,25 +444,16 @@ Input your device and firmware information to confirm you’re installing the ri
 
 **Step #2** Follow the onscreen instructions on how to get into Download Mode to start the Repair process.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix problem parsing the package in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Once complete, the firmware will start downloading.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download the firmware to fix problem parsing the package](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 **Step #3** Once the firmware has downloaded, it will automatically install it to your device.
 
 When this is completed, you’ll be free to disconnect your Nubia Red Magic 8S Pro+ and use it how you please without the ‘there is a problem with the parsing package’ error.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![repairing android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 #### **2.2 Allow installation from unknown sources**
@@ -541,9 +476,6 @@ To enable USB Debugging to fix “There is a problem parsing the package” erro
 
 • Now click on “Build Number” not once but continuously for seven times.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![click on “Build Number”](https://images.wondershare.com/drfone/article/2017/06/14985108749996.jpg)
 
 • Once you see a pop-up saying “You are now a developer”, go back to “Settings”.
@@ -586,14 +518,18 @@ Clearing Play Store Cache cleans the Android Market platform by deleting all clo
 
 • Now visit Play Store’s “Settings”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![visit Play Store’s “Settings”](https://images.wondershare.com/drfone/article/2017/06/14985109949391.jpg)
 
 • Select “General Settings” to “Clear local search history”.
 
 ![“Clear local search history”](https://images.wondershare.com/drfone/article/2017/06/14985110201340.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **2.8 Factory Reset Android**
 
@@ -605,9 +541,6 @@ Follow the steps given below to factory reset your device:
 
 • Now select “Backup and Reset”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/06/14985110589339.jpg)
 
 • In this step, select “Factory data reset” and then “Reset Device” to confirm Factory Reset.
@@ -615,9 +548,6 @@ Follow the steps given below to factory reset your device:
 The whole process of factory resetting your Nubia Red Magic 8S Pro+ might sound tedious, risky, and cumbersome but it helps to fix the Android SystemUI has stopped error 9 out of 10 times. So, think carefully before using this remedy.
 
 Parse Error: There was a problem parsing the package is an error message that has troubled many Android users. The good part is that the above-stated fixes not only solve the problem but also prevent it from occurring in the future. So, keep them in mind the next time you or anyone you know faces such an issue.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -631,9 +561,17 @@ Parse Error: There was a problem parsing the package is an error message that ha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-t2-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo T2 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Infinix Note 30 Pro Phone Without Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-axon-40-lite-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock ZTE Axon 40 Lite Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-11-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 11 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-c33-2023-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Realme C33 2023</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-common-directdraw-graphics-glitches-easily/"><u>Solving Common DirectDraw Graphics Glitches Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-note-30-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix Note 30 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-steps-to-perform-a-hardware-reset-on-your-lenovo-notebook/"><u>Ultimate Guide: Steps to Perform a Hardware Reset on Your Lenovo Notebook</u></a></li>
+</ul></div>
 

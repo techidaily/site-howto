@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Realme 12 5G Safely | Dr.fone
-date: 2024-07-30T13:24:21.257Z
-updated: 2024-07-31T13:24:21.257Z
+date: 2024-10-24T16:31:45.534Z
+updated: 2024-10-28T16:42:50.896Z
 tags: 
   - problems
 categories:
@@ -27,15 +27,8 @@ Given below are eight techniques to flash your Realme 12 5G safely, depending up
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ZqS8c3T65WI"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Can a Dead Phone Be Flashed?
 
 Flashing a dead Android phone might be skeptical for many users who have been in such a situation. Although it is possible to flash a dead Android phone, it is essential to be aware of the reasons that lead you into such a situation. Before a remedy, diagnosing the problem is a necessity for retaining the Realme 12 5G device.
@@ -46,11 +39,6 @@ From battery issues to physical damage to the Realme 12 5G device, there can be 
 
 While you are worried about how to flash Realme 12 5G instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Realme 12 5G logo.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One-click solution to flash Realme 12 5G
@@ -63,6 +51,13 @@ One-click solution to flash Realme 12 5G
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step-by-step Tutorial
 
 We are going to explain how to flash a dead Android phone using a PC using Dr.Fone - System Repair (Android)
@@ -73,9 +68,6 @@ We are going to explain how to flash a dead Android phone using a PC using Dr.Fo
 
 Step 1: Once you have downloaded and installed Dr.Fone, launch it. From the main menu, tap on ‘System Repair’ and get your Realme 12 5G connected to it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to flash Dead Android phone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Click ‘Android Repair’ from the available options, and then press the ‘Start’ button to fix the Dead Android phone by flashing it.
@@ -92,9 +84,6 @@ Step 1: It is essential to boot your Realme 12 5G in Download mode before repair
 
 - If the Realme 12 5G device has a ‘Home’ button: Turn it off and then hold down the ‘Volume Down’, ‘Home’, and ‘Power’ buttons altogether for 5-10 seconds. Un-hold all of them and hit the ‘Volume Up’ button for entering ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![flash android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - In the absence of a ‘Home’ button: Switch off the Android device and hold the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons for 5 to 10 seconds, then release them. Hit the ‘Volume Up’ button for entering the ‘Download’ mode.
@@ -103,13 +92,6 @@ Step 1: It is essential to boot your Realme 12 5G in Download mode before repair
 
 Step 2: Press the ‘Next’ button for initiating firmware download.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![flashing samsung galaxy](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
@@ -118,9 +100,6 @@ Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Part 3: How to flash Realme 12 5G dead phone with Odin?
 
 In this segment, we will learn how to fix the dead Android phone, i.e., Realme 12 5G phones using Odin software. Odin is software used internally by Realme 12 5G to generally unblock devices and perform a more utility-based job, namely, flashing new firmware in place of the old one. There are different variants available, so choose the one which is supported by your Galaxy phone. Here is a step-by-step explanation of how to flash dead Android phone (Realme 12 5G) using Odin software.
@@ -129,17 +108,18 @@ Step 1: Install the driver software on the computer. You can find the best drive
 
 Step 2: Now download suitable firmware for your device in the form of a zip folder that you can open and store on your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![download suitable firmware](https://images.wondershare.com/drfone/article/2017/07/14991894766699.jpg)
 
 Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file types recognized by Odin.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![firmware zip file](https://images.wondershare.com/drfone/article/2017/07/14991896515887.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![firmware md5 file](https://images.wondershare.com/drfone/article/2017/07/14991896708947.jpg)
 
@@ -147,14 +127,25 @@ Step 3: In this step, download the latest version of Odin on your PC and move it
 
 ![download odin](https://images.wondershare.com/drfone/article/2017/07/14991896878336.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
 
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![boot in download mode](https://images.wondershare.com/drfone/article/2017/07/14991897353612.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
 
@@ -170,9 +161,6 @@ Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA
 
 Finally, once the flashing process is complete, your Realme 12 5G phone will reboot and start normally, and you may see a “Pass” or “Reset” message on the Odin window on the PC.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to flash MTK Android dead phone with SP Flash tool?
 
 SP Flash tool, also known as SmartPhone Flash tool is a popular freeware tool used to flash custom ROM or firmware in MTK Android phones. It is a very successful tool and is extremely easy to use.
@@ -187,16 +175,10 @@ Step 2: Once done, you should download the SP Flash tool and extract it on your 
 
 Step 3: Now, on the SP Flash tool window, click on “Download” and select “Scatter-loading”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![scatter loading](https://images.wondershare.com/drfone/article/2017/07/14991898892877.jpg)
 
 Step 4: The last step would be to locate the file downloaded by you and click “Open” and then finally, select “Download” on the SP Flash tool window.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![load the downloaded file](https://images.wondershare.com/drfone/article/2017/07/14991899108318.jpg)
 
 After completing the above steps, connect your dead device to the PC with a USB cable and wait for it to get recognized. The flashing process will take a few minutes to finish and then you will see a green circle indicating “OK Download”.
@@ -217,11 +199,15 @@ Now, on the toolbar, click “Tools” and select “Data Package Download” fr
 
 ![data package download](https://images.wondershare.com/drfone/article/2017/07/14991899684185.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then move to download the firmware for your dead Realme 12 5G  and save it in a new Folder. Once done, go back to the Phoenix tool window and click on “File” and select “Open Product”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open product](https://images.wondershare.com/drfone/article/2017/07/14991899991748.jpg)
 
 Simply, feed in the details and then click “OK”.
@@ -232,18 +218,12 @@ After this, click on “Flashing” and select “Firmware update” and then br
 
 Then move on to select “Dead Phone USB Flashing” from the Firmware Update Box.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dead phone usb flashing](https://images.wondershare.com/drfone/article/2017/07/14991900551025.jpg)
 
 Lastly, just click on “Refurbish” and connect your phone to the PC using a USB cable.
 
 That was it, the flashing process may take up to a few minutes after which your dead Realme 12 5G  will restart automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Part 6: How to flash a dead phone that won’t turn on via factory reset?
 
 Using tools for flashing Android devices can be a solution; however, it is heavily restricted to the Realme 12 5G device models. For a generalized solution, there can be other options that you can go with. Factory resetting an Android device by putting it in Recovery Mode is one way. To know **how to flash a dead Android phone** using factory reset, go through the steps featured below:
@@ -252,9 +232,6 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 
 **Step 2:** As the Android boot menu opens on your screen, use the “Volume Down” and “Volume Up” keys to scroll up and down the menu. On accessing the “Wipe Data/Factory Reset” option, use the “Power” key to select the particular option.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![choose wipe data factory reset option](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-1.jpg)
 
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
@@ -267,14 +244,18 @@ If the Android vibrates on restarting and the screen does not lighten up, the pr
 
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 8: How to fix a dead Android phone by changing the battery
 
 Another solution that can help you fix the dead Android phone is changing its battery. The battery of an Android device can last up to 3 years. When its capacity drops to a bare minimum, it is best to change the battery of your Android. Upon trying to restart your Realme 12 5G, if it does not, you might need to replace your battery. All Android phone batteries are removable, which should be regulated with proper supervision.
 
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 9: How to repair dead Android phone by contacting official support
 
@@ -288,10 +269,6 @@ It has been observed that Wondershare Dr.Fone – System Repair (Android) assist
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## How to Quickly Fix Bluetooth Not Working on Realme 12 5G
 
 One of the key features of an Android device these days is the Bluetooth technology. This is such an important part of the phone that many of us take for granted, but as soon as the feature stops working, it can cause all kinds of problems.
@@ -308,9 +285,6 @@ However, the problems don’t stop there. You may have problems with turning you
 
 Due to the complicated nature of Bluetooth technology, there could be many reasons as to why your Bluetooth feature is playing up in this way, but that doesn’t mean it can’t be fixed. For the rest of this guide, we’re going to explore the nine need-to-know ways you can fix the Bluetooth problems not working on your Realme 12 5G as quickly as possible.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. 9 fixes for Bluetooth not working on Android
 
 ### 2.1 One click to fix Android Bluetooth issues due to Android system
@@ -319,11 +293,13 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix Bluetooth issues in one click
@@ -340,9 +316,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step One** Make your way over to the Wondershare website and download the Dr.Fone - System Repair (Android) software to either your Mac or Windows computer. Install the downloaded file by following the on-screen instructions. Once installed, open the software, so you’re on the Main Menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![bluetooth not working on android - use a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step Two** Connect your Realme 12 5G to your computer using the USB cable, wait a couple of seconds, and then click the System Repair option. On the Menu on the left, click Android Repair, and then press Start.
@@ -351,16 +324,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step Three** Next, use the drop-down menus to make sure all the information about your specific device is correct, including your device, operating system number, and carrier information. Click Next to confirm your selections.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step Four** When prompted, put your phone into Download Mode needed for repairs. You can do this by following the on-screen instructions which will depend on which device you have and the available buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - download mode to fix issues](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **Step Five** The software will now begin the repair process. This will happen automatically, and all you’ll need to do is make sure your device doesn’t disconnect during this process, and your computer doesn’t turn off.
@@ -371,9 +338,6 @@ When the repair process has been completed, you’ll receive the screen below, w
 
 ### 2.2 Restart Android and turn on Bluetooth again
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
 
 One of the most common solutions in technology is simply to turn it on and off again, which is the case to happen here. By restarting your device, you can clear out any problems you may be suffering from to help it get up and running again. Here’s how;
@@ -384,9 +348,6 @@ One of the most common solutions in technology is simply to turn it on and off a
 4. Navigate Settings > Bluetooth and then enable the setting
 5. Try to connect your Bluetooth device to what you were trying to do before
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Clear the Bluetooth cache
 
 ![android bluetooth problems - clear cache](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-cache.jpg)
@@ -401,9 +362,6 @@ By clearing the cache, you can restart the service and hopefully clear up any is
 4. Go back of the Menu and restart your phone
 5. Now turn your Bluetooth feature on and turn connecting it to your preferred device
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### 2.4 Remove paired devices
 
 ![android bluetooth problems - remove paired devices](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-paried.jpg)
@@ -417,9 +375,6 @@ Here’s how;
 3. Go through these settings and remove/delete/forget every connection on your device
 4. Now when you go to connect to a device using Bluetooth, repair the Realme 12 5G device, enter the passcode, and use a fresh paired connection.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### 2.5 Use Bluetooth in safe mode
 
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
@@ -464,14 +419,6 @@ By testing out another Bluetooth device to see if it will work with your preferr
 
 ### 2.8 Place both devices within close proximity
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
 
 One of the common misconceptions of Bluetooth is just how far the wireless range is of the service. You need to make sure your devices are well and truly close to each other to make sure a stable connection can be formed.
@@ -480,9 +427,6 @@ The further away the Realme 12 5G devices are from each other, the less likely t
 
 ### 2.9 Avoid interference of other Bluetooth sources
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![android bluetooth problems - avoid interference](https://images.wondershare.com/drfone/article/2019/04/bluetooth-device-interference.jpg)
 
 The final consideration you’ll want to think about is that Bluetooth radio waves, or wireless waves, can interfere with each other. This means they can bounce off each other or get muddled up and make things confusing from your devices.
@@ -491,27 +435,16 @@ With this in mind, you’ll want to make sure you’re limiting the amount of Bl
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Realme 12 5G to the Realme 12 5G device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7 Solutions to Fix Chrome Crashes or Won’t Open on Realme 12 5G
 
 Google Chrome is one of the most popular web browsers in the world. It is fast, secure, and easy to use. However, like any other app, it is not free from errors. Many users have reported that Chrome crashes or won’t open on their Realme 12 5G. If you are also facing this issue, then you have come to the right place. In this article, we will discuss the reasons behind this problem and provide you with 7 solutions to fix Chrome crashes or won’t open on Realme 12 5G.
 
 Being one of the widely used browsers, Chrome is always our rescue whenever vital information is our need. Imagine, you launched Chrome for some urgent work and all of a sudden, got “Unfortunately Chrome has stopped” error. You re-opened it thinking about proper functioning of it now but to no avail. Does this situation sound familiar? Are you in a same problem as well? Fret not! We will discuss in this article why your Chrome is crashing on Android and the potential solutions to do away with the problem. Please read the article attentively and know what helps you best.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Too many tabs opened
 
 One of the main reasons why Chrome keeps crashing could be the multiple opened tabs. If you keep open the tabs, it may slow down the performance of Chrome and the app will use RAM. As a result, it will obviously get stopped midway. Therefore, we suggest you to close the tabs which are opened. And once you do that, exit the app and then launch it again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Too much memory used
 
 When Chrome or any other app keeps running on the background, issues like “Unfortunately Chrome has stopped” are likely to occur. Moreover, the opened apps will eat the memory of your device. Hence, as the next solution, it is suggested that the Chrome should be closed by force quitting and then you need to try to launch it again to work. See if it works or still Chrome is not responding.
@@ -520,12 +453,22 @@ When Chrome or any other app keeps running on the background, issues like “Unf
 
 2\. Now simply swipe the app up/left/right (according to the Realme 12 5G device).
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Chrome crashing on Android by force quiting](https://images.wondershare.com/drfone/article/2019/05/force-quit-chrome.jpg)
 
 3\. The app will be force quit now. You can then start it again to check if thing get back to normal.
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Chrome cache overflowing
 
@@ -547,8 +490,6 @@ Most probably Chrome is not able to support the website you are trying to access
 
 Another reason why your Chrome has stopped could be the corrupted software. You can’t expect anything normal when your firmware corruption occurs and so in the case of Chrome. If this is the case, the re-flashing the stock ROM is the most recommended solution. And the best that can help you in this is none other than [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). Within one click, it vows to help users in flashing the ROM without any complications. Read the advantages offered by this tool.
 
-
-
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix crashing Chrome
@@ -567,9 +508,6 @@ Step 1: Install the Tool to Begin
 
 Start downloading it from there. Install it once downloading is completed and open the tool. The main screen will show you some tabs. You need to hit on “System Repair” among those.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Chrome crashing on Android - get the fixing tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Get Android Device Connected
@@ -594,9 +532,6 @@ Once the firmware is downloaded, you will notice that the repairing process will
 
 ![Chrome crashing fixed on Android](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 6: File Downloading issue from Chrome
 
 While you were trying to download from internet, the file didn’t download properly or it might get stuck and eventually crashing Chrome occurs. In such instances, many times, uninstalling and installing helps. Therefore, follow the steps below to uninstall and install Chrome and fix Chrome keeps stopping
@@ -608,18 +543,6 @@ While you were trying to download from internet, the file didn’t download prop
 
 - Now, you need to re-install it from Play Store. From the “My Apps” section, tap on Chrome and update it.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 7: Clashes between Chrome and system
 
 Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it might be because of the incompatibility between the Chrome and system. Maybe your device is not updated and therefore is at odds with the Chrome app. So, the last tip that we would like give you is to update your Realme 12 5G. Following are the steps for it. Follow them and stop the Chrome crashing on Android issue.
@@ -627,11 +550,7 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 - Go to “Settings” and tap on “System”/”About Phone”/”About Device”.
 - Now, choose “Software Update”/”System Update” and your device will detect if there is any update present on your device. Proceed accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![fix Chrome crashing by updating android](https://images.wondershare.com/drfone/article/2019/05/update-android.jpg)
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -645,9 +564,19 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-recorder-tools-the-8-best-lists/"><u>[New] 2024 Approved Essential Recorder Tools The 8 Best Lists</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instaloops-create-content-that-circulates-and-captivates/"><u>[New] 2024 Approved InstaLoops Create Content That Circulates & Captivates</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-live-video-conferencing-systems/"><u>[Updated] Premium Live Video Conferencing Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/achieving-geometric-brilliance-making-mc-circles-and-spheres/"><u>Achieving Geometric Brilliance Making MC Circles & Spheres</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essentials-for-your-next-smart-tv-purchase-understanding-the-top-7-considerations/"><u>Essentials for Your Next Smart TV Purchase: Understanding the Top 7 Considerations</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-nubia-z50-ultra-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Nubia Z50 Ultra</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-single-frame-snipping-capturing-stillness-from-videos-in-photos/"><u>In 2024, Single-Frame Snipping Capturing Stillness From Videos in Photos</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-x100-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo X100 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-a15-4g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy A15 4G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-zte-axon-40-lite-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My ZTE Axon 40 Lite Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

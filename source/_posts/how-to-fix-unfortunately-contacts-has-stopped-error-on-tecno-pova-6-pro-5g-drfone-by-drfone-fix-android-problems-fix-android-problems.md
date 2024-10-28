@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Pova 6 Pro 5G | Dr.fone
-date: 2024-07-30T13:18:09.056Z
-updated: 2024-07-31T13:18:09.056Z
+date: 2024-10-25T18:43:28.209Z
+updated: 2024-10-28T17:43:14.137Z
 tags: 
   - problems
 categories:
@@ -18,14 +18,9 @@ Have you recently noticed a message stating “Contacts has stopped”? This is 
 
 It can occur while you launch the app or while you’re in the app already finding the required contact or when any other application is trying to gain access to it. So, to rage a battle with this issue, you need to seek help of some powerful methods in killing down the issue of contacts app crashes. And, the best part is that you’ve secured yourself by reaching the right place. We will be taking an in-depth discussion on several methods that may prove to be helpful. Let’s read them up here now.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -45,19 +40,27 @@ Step 1: Load program and draw connection of device
 
 Download Dr.Fone - System Repair (Android) on PC. While program installs, use USB cable to connect device with system. From interface, tap on “System Repair” main window.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - download the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Opt for Android Repair option
 
 You’ll be directed to the “System Repair” screen where you have to opt for “Android Repair” options appearing over the left panel of the program. After that, do not forget to press “Start”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Key in device information
 
@@ -70,6 +73,13 @@ Step 4: Download Firmware package
 Just follow the on-screen steps for booting your Tecno Pova 6 Pro 5G into download mode. Then, hit the “Next” button to proceed with downloading the most suitable firmware package for your Tecno Pova 6 Pro 5G.
 
 ![contacts stopping on samsung - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5: Repair Android phone
 
@@ -86,16 +96,10 @@ Our response to any minuscule issue is straightaway restarting phone. This helps
 1. Get hold of your Android system and long press the power button.
 2. This will fadeout the main screen and showcase several options from where you’ve to tap on “Reboot/Restart” mode.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app stopping - retart android](https://images.wondershare.com/drfone/article/2019/04/restart-reboot-android-phone.jpg)
 
 Now, your device will quickly reboot the Tecno Pova 6 Pro 5G device. Once, the Tecno Pova 6 Pro 5G device regains its normal state, check whether the issue is coming again or not.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.2 Clear cache and data of Contacts app
 
 The cache memory basically stashes the copies of the concerned application. It is indeed a streak of copies of the desired app storing information and incurring additional space on the storage. This might be the reason why the contact app crashes rapidly on your Tecno Pova 6 Pro 5G. Hence, it can prove to be a good remedy for this problem. Just follow down the steps mentioned below-
@@ -107,9 +111,6 @@ The cache memory basically stashes the copies of the concerned application. It i
 
 ![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.3 Wipe cache partition
 
 As we know the cache memories are the temporary files build by the firmware. These are of little importance as they are bound to become a bit more corrupted in nature. And sometimes, may indirectly become a hurdle for the working of contacts app. It is good if the Tecno Pova 6 Pro 5G device is cleared off from the caches. Instead of manually wiping down the cache memory, we will understand how to clear off the cache partition in the following steps.
@@ -139,9 +140,6 @@ There will be a prompt stating that the application may misbehave. However, you 
 
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### 2.5 Update your device software
 
 Many a times, we skip updating our device software thinking it is of less importance. In fact, one must not miss out the updates that occurs in phone. As, without the updates, the scope of some applications are affected to some extent. For its better functioning and avoiding issues like “contacts keep stopping”, here is how you should update device software.
@@ -171,9 +169,6 @@ Do you happen to exchange voicemails quite often? It can trigger to be the reaso
 2. From there, duly opt for “Voicemail”.
 3. Just click on the press menu option and at last select “Delete” option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### 2.8 Uninstall the downloaded apps
 
 Some applications contain some unwanted advertisements and some elements of malware. This can be enough for disrupting the functionality of the built-in contact app won’t open. It is crucial for your phone to be detoxed from such elements. You need to manually scrap off such applications. Do, ensure to download the application from the genuine source for future use.
@@ -199,9 +194,6 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Exit Android Factory Mode On Tecno Pova 6 Pro 5G?
 
 You’ve often heard that recovery mode will solve just about any problem your Tecno Pova 6 Pro 5G is experiencing. This is mostly true and one of the components of Android’s recovery mode, factory mode or [factory reset](https://drfone.wondershare.com/reset-android/wipe-data-factory-reset.html) is one of the most efficient ways to solve various problems on your device. While factory mode is often a good thing, there are times when your device can enter factory mode on its own. Other times, you can safely enter factory mode but not know how to get out.
@@ -222,11 +214,6 @@ Before we can see how to safely enter and exit factory mode, it is important to 
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Backup & Restore (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexibly Backup and Restore Android Data
@@ -240,45 +227,24 @@ Flexibly Backup and Restore Android Data
 
 Follow these very simple steps to use this MobileTrans Phone Transfer software to create a full backup of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 1. Launch Dr.Fone on your computer and choose "Backup & Restore"
 
 Run the software on your computer and you can see all features displayed in the primary window. Choose this one: Backup & Restore. It allows you to get your device backed up entirely with one click.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![backup android before enter in recovery mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2. Plug in with your device
 
 Then plug in with your device to the computer. When your devic is detected, click on Backup.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![connect android phone to computer](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Step 3. Select the file types to backup
 
 The program will display all the file types it can support to backup. Just select the ones you would like to backup and hit Backup.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select the data types to backup](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 4. Start backing up your device to the computer
 
 After choosing the file's type for backup, click "Backup" to begin backing up your device to your computer. It will take you a few minutes, depending on the storage of the data.
@@ -293,11 +259,13 @@ From the above parts, you are well aware about what is factory mode. As we discu
 
 But for situations when your Tecno Pova 6 Pro 5G gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on Tecno Pova 6 Pro 5G logo or factory mode or blue screen of death with a single click.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One click fix to Android stuck in factory mode
@@ -320,16 +288,10 @@ Step 1: Installation completion needs to be followed by running Dr.Fone on your 
 
 Step 2: Select the ‘Android Repair’ option from the list to fix Android stuck in factory modeissue. Hit the ‘Start’ button soon after.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start fixing Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Select Android device details on the Tecno Pova 6 Pro 5G device information window, followed by tapping the ‘Next’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![model info selection](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 4: Enter ‘000000’ for confirmation then proceed.
@@ -342,9 +304,6 @@ Step 1: It’s important to put the Android device in ‘Download’ mode, here 
 
 - On a ‘Home’ button-less device – turn off the Tecno Pova 6 Pro 5G device and push down the ‘Volume Down’, ‘Power’ and ‘Bixby’ buttons for about 10 seconds and un-hold. Now, hit the ‘Volume Up’ button to get into ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![fix Android stuck in factory mode on android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - For a device with ‘Home’ button – switch it off and hold down the ‘Power’, ‘Volume Down’ and ‘Home’ buttons together for 10 seconds and release. Click the ‘Volume Up’ button for entering ‘Download’ mode.
@@ -357,9 +316,6 @@ Step 2: Press ‘Next’ for initiating firmware downloading.
 
 Step 3: Dr.Fone –Repair (Android) starts Android repair as soon as download and verification of firmware is done. All Android issues along with Android stuck in factory mode will be fixed now.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixed Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Part 4. Common Solutions to Exit Factory Mode on Android
@@ -412,11 +368,6 @@ You can also exit factory mode on unrooted device by going to Settings> Applicat
 
 As much as factory mode can be a useful solution to a number of problems, it can be quite annoying when it pops up unexpectedly. Now you are equipped with 2 effective solutions to help you safely exit factory mode if ever you find yourself in this situation.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Tecno Pova 6 Pro 5G Camera Not Working Unexpected Error? Fix It Now
 
 For all its glory and goodness, the Android OS often has its users pulling their hair in frustration at just how buggy the OS can be at times. So, if you’re having one of those days today, we are here to help. Camera app is one of the most used apps on smartphones today. People only launch the app when they want to take a photo, for everything else there’s a dedicated photo gallery app. What happens when you launch the camera app only to realize it threw an error and you missed your photo moment? Don’t throw the phone, not yet. Let us help you out.
@@ -443,25 +394,14 @@ OS bugs and general glitches within the OS and the camera app can cause camera n
 
 In the rarest cases, there might have developed an actual hardware issue with the camera system on your Tecno Pova 6 Pro 5G. The likely culprit is misuse and abuse, such as a dropped phone or maybe the phone was too hot for extended periods of time, causing hardware issues.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Part II: How To Fix Android Camera Not Working Issue?
 
 So, how to get the Android camera not working problem solved? There are a few ways you can try fixing the camera not working issue on your Tecno Pova 6 Pro 5G right where you are, without needing to take the Tecno Pova 6 Pro 5G device to the manufacturer’s service center.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.I: Restart The Handset
 
 One of the first things to do any time an app or your phone or tablet does not work like it should, restarting the Tecno Pova 6 Pro 5G device refreshes everything just enough to resolve most commonly occurring issues.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
 
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
@@ -472,9 +412,6 @@ If the camera app (or any app for that matter) has been in the background for a 
 
 Step 1: Launch the app switcher on your specific Android device the way your device manufacturer suggests you to. Usually, it is a swipe up and hold gesture to get into the app switcher.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![closing apps in app switcher](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-3.jpg)
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
@@ -487,11 +424,15 @@ Step 1: Go to Settings > Apps > Camera > Permissions.
 
 ![camera permissions check android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Tap Camera.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
@@ -502,28 +443,25 @@ Clearing the camera app cache is sometimes helpful. To do that:
 
 Step 1: Go to Settings > Apps > Camera and tap Storage Usage.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear camera app cache](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### II.V: Clear The Photo Gallery App Cache
 
 The camera app is closely tied to the photo gallery app that comes baked in into Android OS. That is because photos that the camera app takes are stored in the photo gallery app. Consequently, if there were any issues in the photo gallery app, that could lead to the camera app not working on Android problem. Here’s how to clear the photo gallery app cache:
 
 Step 1: Go to Settings > Apps > Photos > Storage Usage.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear photo gallery app cache](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-8.jpg)
 
 Step 2: Tap Clear Cache.
@@ -538,13 +476,16 @@ Step 1: Go to Play Store and tap your profile picture on the right.
 
 Step 2: Tap Manage Apps and Device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![check for app updates play store](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-10.jpg)
 
 Step 3: If there are updates available, Tap Update All to update all apps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### II.VII: Cool The Phone Down
 
@@ -566,9 +507,6 @@ Today, we will use Dr.Fone’s System Repair (Android) module to fix Android cam
 
 Download Dr.Fone here.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 Step 1: Launch Dr.Fone app on your PC or Mac.
@@ -577,9 +515,6 @@ Step 1: Launch Dr.Fone app on your PC or Mac.
 
 Step 2: Click System Repair module and then Android.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 Step 3: For now, don’t bother with the scenarios given and click Start to go to the next screen.
@@ -592,16 +527,17 @@ Step 4: Your Android device will be detected by Dr.Fone. If anything seems incor
 
 Step 5: Your phone needs to be put into Download mode before it can be repaired. Follow the instructions shown onscreen and click Next.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![set phone in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 6: Dr.Fone automatically downloads the most recent firmware for your device and when it is ready, waits for your input. Click Fix Now to start the repair process.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android camera not working](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000) to confirm and begin the repair process.
@@ -614,14 +550,9 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -635,9 +566,26 @@ The camera app on your smartphone is one of the most important apps you use. Thi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhancing-your-video-impact-a-compreranble-plan-for-youtube-success-for-2024/"><u>[New] Enhancing Your Video Impact A Compreranble Plan for YouTube Success for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-starting-strong-with-these-trendy-15-video-intros/"><u>[New] In 2024, Starting Strong with These Trendy 15 Video Intros</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-win11s-ultimate-screen-recording-kit-for-2024/"><u>[New] Win11's Ultimate Screen Recording Kit for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-mastering-your-iphone-the-secrets-to-hdr-image-magic/"><u>[Updated] In 2024, Mastering Your iPhone The Secrets to HDR Image Magic</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-honor-100-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor 100 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-whatsapps-competitor-a-line-app-evaluation/"><u>Comprehensive Guide to WhatsApp's Competitor – A Line App Evaluation</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-k70-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Xiaomi Redmi K70 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-audio-refinement-the-ultimate-guide-to-removing-background-noise-in-fcpx/"><u>In 2024, Audio Refinement The Ultimate Guide to Removing Background Noise in FCPX</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-moto-g14-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola Moto G14 for Parents | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-20c-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20C Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-nokia-c110-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Nokia C110 Phone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-itel-p55-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Itel P55 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oneplus-nord-n30-se-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When OnePlus Nord N30 SE Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-tecno-camon-30-pro-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Tecno Camon 30 Pro 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

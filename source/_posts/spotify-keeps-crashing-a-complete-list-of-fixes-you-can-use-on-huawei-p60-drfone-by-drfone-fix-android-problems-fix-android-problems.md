@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Huawei P60 | Dr.fone
-date: 2024-10-16T17:08:01.107Z
-updated: 2024-10-22T16:59:51.088Z
+date: 2024-10-24T17:05:04.693Z
+updated: 2024-10-28T18:11:00.657Z
 tags: 
   - problems
 categories:
@@ -29,6 +29,13 @@ Some people have encountered a problem with their Spotify accounts. Spotify can 
 Another reason the Spotify app keeps crashing could be an antivirus or a VPN blocking Spotify from working. Moreover, your device might be out of storage space, causing your phone to slow down and crash apps.
 
 Several other reasons for this problem include network issues, a weak Wi-Fi signal, or the battery saving mode. Furthermore, your apps and files might be corrupted, or an app on your phone might block Spotify from working correctly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. Spotify Keeps Crashing: Best Fixes
 
@@ -82,10 +89,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 ![completed android system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 There are two ways to enter Download Mode: one for Android devices with the Home button and another for those without it.
@@ -115,19 +122,6 @@ You can force-close Spotify and open it again to make it work properly. That is 
 
 ![recent apps on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Find Spotify in **Recent Apps**and click **X** or swipe up over it to force-close it.
 - **Step 4:** Try opening Spotify again.
 
@@ -152,6 +146,13 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 - **Step 6:** Tap **Login**again, and you’re in.
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4. Restart Your Device
 
@@ -240,13 +241,6 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 - **Step 7:** Once it installs, log in to test if it’s working.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 10. Check if Spotify Is Down
 
 If your Spotify keeps crashing and closing, it might not be your device’s problem. Sometimes, Spotify’s server can be down, and many people face the same issue. If that’s the case, you can check with your friends if their Spotify is working or check online if Spotify is down. To do that, follow these steps:
@@ -261,6 +255,13 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 11. Clear the Cache
 
@@ -284,13 +285,6 @@ When using different apps and websites, your device caches data from those sourc
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -364,6 +358,19 @@ Step 3: Now, Dr.Fone - System Repair (Android) would verify the firmware and the
 
 ## Part 2. 10 common ways to fix Android won't charge
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Check/replace charging cable
 
 Charging cables fray or become defunct after prolonged usage. Therefore, it is advised to always use the Huawei P60 device’s original charging cable or purchase a good quality charging cord, which doesn't damage your device or your adapter.
@@ -381,13 +388,6 @@ The charging port in your device is a small opening where the charging end of th
 The best way to take this problem is to clean the port with a blunt pin or a soft bristle unused toothbrush. Make sure you clean the port gently and do not damage it or its sensors.
 
 ![clean charging port](https://images.wondershare.com/drfone/article/2017/06/14985460097930.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Check/replace charging adapter
 
@@ -429,13 +429,6 @@ Restarting a device is simple and can be done by following the steps given below
 
 ![restart device](https://images.wondershare.com/drfone/article/2017/06/14985010975405.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To restart your device, you may also press the power button for about 20-25 seconds for the phone/tablet to automatically reboot.
 
 ### 7\. Download and install the Ampere App
@@ -445,6 +438,13 @@ The Ampere app can be downloaded from the Google Play Store. It is very helpful 
 If the App gives information in green color, it means all is wetland your device is charging normally, however, if the information before you is in orange, you need to take steps to fix the charging problem.
 
 ![charging status](https://images.wondershare.com/drfone/article/2017/06/14985011165678.jpg) ![full charged](https://images.wondershare.com/drfone/article/2017/06/14985011377424.jpg) ![discharging](https://images.wondershare.com/drfone/article/2017/06/14985011663339.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. Install software updates
 
@@ -483,13 +483,6 @@ Note: Once the factory reset process is complete, your device will automatically
 This should be your last resort to fix My Huawei P60 won't charge problem, and you should only attempt to replace your battery if none of the other techniques work. Also, please consult a technician before purchasing and installing a new battery in your device as different phones and tablets have a different type of battery requirements.
 
 ![replace phone battery](https://images.wondershare.com/drfone/article/2017/06/14985013005679.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Finally, fixing the phone won't charge the problem is simple, and therefore there is no need for you to worry as you are not the only one experiencing such an issue. Other Android users have tried, tested, and recommended the methods given above to solve why won't My Huawei P60 charge or Huawei P60 tablet won't charge error. So go ahead and try them out now.
 
@@ -533,6 +526,13 @@ If your Huawei P60 won’t turn on, here is how you can use the software to reco
 On your desktop computer or laptop, open Wondershare Dr.Fone. Click on Data Recovery on the left column. Connect your Huawei P60 to the computer using a USB cable.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-device-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Decide which file types to recover**
 
@@ -600,13 +600,6 @@ Step 2: You will find a range of options, tap on the ‘Android Repair’ one. H
 
 ![star to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Now, over the Huawei P60 device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
 ![go to SMS to export text messages](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -618,6 +611,13 @@ Step 1: You need to put your Huawei P60 in Download mode for resolving the Andro
 - For the Huawei P60 device having ‘Home’ button, you got to switch it off and press ‘Volume Down’, ‘Home’, and ‘Power’ keys for 5-10 seconds at once. Let them go and click on the ‘Volume Up’ button to put your phone in ‘Download’ mode.
 
 ![fix Android Phone not turn on with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - For ‘Home’ button-less device, turn the phone/tablet down first. For 5 – 10 seconds, hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons. Tap on the ‘Volume Up’ button to get into the ‘Download’ mode, after releasing the 3 buttons.
 
@@ -675,17 +675,21 @@ It is important to note that your phone contains some important data. Therefore,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/arlo-pro/"><u>Arlo Pro 지속성: 판매중 정기화제라는 가장 좋은 선택에 다가차</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-tecno-spark-20-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Tecno Spark 20 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-huawei-p60-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Huawei P60? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/doom-eternal-crash-woes-discover-key-strategies-to-enhance-game-performance/"><u>DOOM Eternal Crash Woes? Discover Key Strategies to Enhance Game Performance</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-gt-neo-5-se-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme GT Neo 5 SE to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-narzo-60x-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme Narzo 60x 5G Phone FRP Lock</u></a></li>
-<li><a href="https://techidaily.com/is-your-realme-gt-5-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme GT 5 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-final-verdict-on-language-bots-for-your-workflow-7-deciding-factors/"><u>The Final Verdict on Language Bots for Your Workflow? 7 Deciding Factors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-role-of-storytelling-in-presenting-market-research-findings/"><u>The Role of Storytelling in Presenting Market Research Findings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-strategies-for-viewing-your-subscribers/"><u>[New] In 2024, Essential Strategies for Viewing Your Subscribers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-fix-for-clearer-focus-in-google-meet/"><u>[New] Quick Fix for Clearer Focus in Google Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-transform-your-tech-skills-mastering-screen-capture-in-macos/"><u>[Updated] 2024 Approved Transform Your Tech Skills Mastering Screen Capture in macOS</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-motorola-moto-g14-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola Moto G14? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/custom-whisper-of-your-electric-car-denied-by-american-laws/"><u>Custom Whisper of Your Electric Car Denied by American Laws</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-supreme-gaming-performance-msi-katana-156-inch-laptop-powered-by-nvidia-geforce-rtx-4070-for-just-1199/"><u>Experience Supreme Gaming Performance: MSI Katana 15.ˈ6 Inch Laptop - Powered by NVIDIA GeForce RTX 4070 for Just $1,199</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-motorola-edge-2023-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Motorola Edge 2023 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/initial-movie-capture-evaluation-with-options/"><u>Initial Movie Capture Evaluation with Options</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nokia-g310-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nokia G310 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y55s-5g-2023-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y55s 5G (2023) Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

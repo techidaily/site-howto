@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme C51 | Dr.fone
-date: 2024-10-15T16:20:16.974Z
-updated: 2024-10-23T00:03:10.976Z
+date: 2024-10-22T19:25:00.058Z
+updated: 2024-10-28T17:11:29.042Z
 tags: 
   - problems
 categories:
@@ -51,6 +51,13 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![pick android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** See which Android errors Wondershare Dr.Fone can fix and click **Start**.
 
 ![start system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -76,6 +83,13 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
 
 ![android system repair in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 12:** Once it finishes, click **Done**to complete the system repair.
 
@@ -107,13 +121,6 @@ You can force-close Spotify and open it again to make it work properly. That is 
 - **Step 2:** If it’s not working, open **App Switcher** or **Recent Apps**. Different Android devices open it differently. Thus, you can swipe up from your Home screen, or if you have three buttons at the bottom, press **Recent Apps**.
 
 ![recent apps on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3:** Find Spotify in **Recent Apps**and click **X** or swipe up over it to force-close it.
 - **Step 4:** Try opening Spotify again.
@@ -172,6 +179,13 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 
 ![settings on your android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:** Go to **System** or **About Phone**.
 
 ![about phone to find system update](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-12.jpg)
@@ -206,13 +220,6 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 - **Step 3:** Here, you can see how much of your storage space is available and what’s taking up the most space.
 
 ![available storage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-17.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4:** Then, you can go ahead and clear as much space as you can.
 
@@ -261,13 +268,6 @@ When using different apps and websites, your device caches data from those sourc
 - **Step 3:** Find **Spotify** and tap it.
 
 ![spotify in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-23.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4:** Tap **Storage**or **Storage usage**.
 
@@ -370,16 +370,16 @@ Once the firmware is downloaded, you will notice that the repairing process will
 ![Chrome crashing fixed on Android](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 6: File Downloading issue from Chrome
@@ -393,13 +393,6 @@ While you were trying to download from internet, the file didn’t download prop
 
 - Now, you need to re-install it from Play Store. From the “My Apps” section, tap on Chrome and update it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 7: Clashes between Chrome and system
 
 Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it might be because of the incompatibility between the Chrome and system. Maybe your device is not updated and therefore is at odds with the Chrome app. So, the last tip that we would like give you is to update your Realme C51. Following are the steps for it. Follow them and stop the Chrome crashing on Android issue.
@@ -412,6 +405,13 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 ## Troubleshooting Guide: How to Fix an Unresponsive Realme C51 Screen
 
 [![](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Smart devices have become an integral part of our lives, and Realme C51 phones are increasingly popular due to their advanced features and affordable prices. These phones offer numerous benefits, including high-quality cameras, fast processors, long-lasting batteries, and sleek designs.
 
@@ -435,23 +435,9 @@ Overheating, physical damage, and manufacturing defects are some common causes o
 
 Here are the three most common solutions to deal with phone screens being unresponsive, regardless of the brand:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Restart the Realme C51 device
 
 ![restart realme smartphone](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restarting the Realme C51 device is a simple and quick solution to an unresponsive phone screen. To restart the phone, press and hold the **power button** until the screen **turns off**, then press and hold the **power button** again to t**urn the phone back on**.
 
@@ -464,13 +450,6 @@ Sometimes, an unresponsive screen can be caused by a dead battery or a faulty ch
 **Step 1:** Plug the phone into a charger and wait for at least 30 minutes to see if the battery charges.
 
 **Step 2:** Try a different charger or cable to see if the issue is with the charging accessories.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Contact the Pros
 
@@ -494,6 +473,13 @@ Sometimes, a Realme C51 phone's screen, specifically Realme C51 8 Pro, may becom
 
 ![realme reset factory settings](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 A factory reset may help fix the problem if none of the above solutions work. Note that this will erase all data and settings on the phone, so be sure to back up your data before resetting. To reset the phone:
 
 **Step 1:** Go to **Settings** \> **Additional Settings** > **Backup and Reset** > **Erase All Data**.
@@ -507,6 +493,13 @@ A factory reset may help fix the problem if none of the above solutions work. No
 If the phone's screen is physically damaged or cracked, it may need to be replaced. To replace the screen:
 
 - Contact a professional repair center or the manufacturer for replacement parts and installation.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to avoid Realme C51 Screen being unresponsive?
 
@@ -527,6 +520,13 @@ Keep your Realme C51 device in a temperature-controlled environment. High temper
 ### Keep the screen clean
 
 Dirt and debris on the screen can cause it to become unresponsive. Use a microfiber cloth to clean the screen regularly.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reduce the number of running apps
 
@@ -560,19 +560,17 @@ To deal with an unresponsive screen, users can try restarting the Realme C51 dev
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-streamstart-beginner-friendly-podcast-live-broadcast-guide/"><u>[New] StreamStart Beginner-Friendly Podcast Live Broadcast Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-bandicam-screen-recorder-review/"><u>[Updated] 2024 Approved Bandicam Screen Recorder Review</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oneplus-12-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My OnePlus 12 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/a-comprehensive-guide-to-the-lumia-950xl-devices-powered-by-windows-10-mobile-features-specs-release-info-and-cost/"><u>A Comprehensive Guide to the Lumia 950/XL Devices Powered by Windows 10 Mobile: Features, Specs, Release Info, and Cost</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-smart-8-pro-phone-by-drfone-android/"><u>How to Reset a Locked Infinix Smart 8 Pro Phone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-best-translation-devices-to-subtitle-videos/"><u>In 2024, Best Translation Devices to Subtitle Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sketchgiggle-generate-chuckles-for-2024/"><u>SketchGiggle Generate Chuckles for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-10-professional-360-degree-cameras-2023-update-for-2024/"><u>Top 10 Professional 360 Degree Cameras -2023 Update for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-tips-for-increasing-fps-performance-in-ring-of-elysium/"><u>Ultimate Tips for Increasing FPS Performance in Ring of Elysium</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y78plus-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78+ Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-nokia-c22-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nokia C22 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/irect-pathway-transferring-youtube-content-to-dailymotion-for-2024/"><u>[New] Direct Pathway Transferring YouTube Content to Dailymotion for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-free-tribe-50-branding-banners-ready-to-unleash/"><u>2024 Approved Free Tribe 50 Branding Banners Ready to Unleash!</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-sony-xperia-5-v-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Sony Xperia 5 V System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-s23-fe-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy S23 FE Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-back-to-editing-how-to-reset-final-cut-pro-x-for-2024/"><u>Get Back to Editing How to Reset Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-edge-40-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola Edge 40 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iconic-imagery-stories-a-deep-dive/"><u>Iconic Imagery Stories A Deep Dive</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-fix-installing-printer-drivers-efficiently/"><u>Instant Fix: Installing Printer Drivers Efficiently</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-the-art-of-selecting-top-online-vhs-image-adjustments-for-2024/"><u>Mastering the Art of Selecting Top Online VHS Image Adjustments for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10c-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10C Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-zte-nubia-z60-ultra-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your ZTE Nubia Z60 Ultra Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

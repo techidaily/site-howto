@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On ZTE Nubia Flip 5G | Dr.fone
-date: 2024-10-21T23:16:35.227Z
-updated: 2024-10-22T18:15:55.654Z
+date: 2024-10-27T17:31:25.604Z
+updated: 2024-10-28T16:55:49.991Z
 tags: 
   - problems
 categories:
@@ -133,6 +133,20 @@ An outdated Play Store version may lead to compatibility issues. Open the Google
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Clear Play Store Cache and Data
 
 Cached data in the Play Store can sometimes cause download problems. Head to the ZTE Nubia Flip 5G device settings and open **Apps** or **Application Manager**. Locate Google Play Store, and tap **Storage**. Clear both the cache and data to refresh the app.
@@ -146,16 +160,10 @@ Authentication issues with your Google account can prevent app downloads. Confir
 ![syncing google account on device](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-10.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Check Date and Time Settings
@@ -211,6 +219,13 @@ If you’re writing a lot of data to your device in one go, this can sometimes o
 
 If this is the case, there’s a solution known as [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) that can help. This is an industry-leading package that has everything you need to get your device running as it should be.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Easiest Fix to Error Code 920
@@ -233,23 +248,9 @@ Easiest Fix to Error Code 920
 
 ![fix error code 920 in one click](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then connect your ZTE Nubia Flip 5G using the official cable and select the ‘Android Repair’ option.
 
 ![select android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step #3** On the next screen, insert your device information to ensure you’re downloading the correct firmware.
 
@@ -285,19 +286,6 @@ Step 2 - Now after doing this go to your Play Store application and download the
 
 ![error code 920-turn off wifi](https://images.wondershare.com/drfone/article/2017/06/14985022435219.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### **METHOD 4: Clearing the cache and data of Google Play Store**
 
 This is a little more complicated (complicated as in you will need to do a little more than the previous two methods). What you need to do is clear the cache and clear the data of the play store. This will get rid of the error code 920 the next time you download or update any application from the Google Play store.
@@ -309,19 +297,6 @@ Step 2 – Now find “Applications” option under the settings menu. Here you 
 Step 3 – Now, at the bottom, you can find “Clear Cache” option. Tap on it and your all cache will be cleared.
 
 ![error code 920-google play store clear cache](https://images.wondershare.com/drfone/article/2017/06/14985022644620.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After doing this step clear your task manager (delete all recent applications). Go to play store and resume your download or update.
 
@@ -343,13 +318,6 @@ Again it is best if you follow the methods as illustrated above for removing err
 
 Play Store error 920 is a pretty common error and its solutions are also very easy. Please do ensure that you follow each and every step in sync so that you can get the best result out of these methods and get over with the error code 920 on Google play store.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Spotify Keeps Crashing: A Complete List of Fixes You Can Use on ZTE Nubia Flip 5G
 
 ![spotify logo](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-1.jpg)
@@ -367,13 +335,6 @@ Some people have encountered a problem with their Spotify accounts. Spotify can 
 Another reason the Spotify app keeps crashing could be an antivirus or a VPN blocking Spotify from working. Moreover, your device might be out of storage space, causing your phone to slow down and crash apps.
 
 Several other reasons for this problem include network issues, a weak Wi-Fi signal, or the battery saving mode. Furthermore, your apps and files might be corrupted, or an app on your phone might block Spotify from working correctly.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. Spotify Keeps Crashing: Best Fixes
 
@@ -469,6 +430,13 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![log out of spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Tap **Log In**.
 
 ![log into spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-6.jpg)
@@ -477,6 +445,13 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 - **Step 6:** Tap **Login**again, and you’re in.
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4. Restart Your Device
 
@@ -502,13 +477,6 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6. Update Your System Software
 
 Your Spotify app might keep crashing because your system is outdated. Try updating it to the latest version to try and fix the crashing problem. The steps for the Android system update are as follows:
@@ -525,6 +493,13 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 - **Step 4:** If there’s an available update, tap
 
 ![install system update on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7. Update Your App
 
@@ -569,6 +544,13 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 - **Step 6:** Tap **Install**to reinstall the app again.
 
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 7:** Once it installs, log in to test if it’s working.
 
@@ -630,20 +612,22 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-efficiently-shifting-videos-youtube-to-dailymotion-strategy/"><u>[Updated] 2024 Approved Efficiently Shifting Videos YouTube to Dailymotion Strategy</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-selecting-the-best-hdr-cameras-simplified/"><u>[Updated] Selecting the Best HDR Cameras Simplified</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-the-ultimate-guide-to-top-10-tiktok-gamers/"><u>2024 Approved The Ultimate Guide to Top 10 TikTok Gamers</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-xiaomi-redmi-12-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Xiaomi Redmi 12 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-gt-3-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme GT 3 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-zte-blade-a73-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix ZTE Blade A73 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-vivo-y100t-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y100t? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-windows-display-skewness-issues/"><u>Corrected Windows Display Skewness Issues</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-google-pixel-8-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Google Pixel 8 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-components-inside-toms-hardware-world/"><u>Mastering Gadgets and Components: Inside Tom's Hardware World</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-ultimate-list-of-budget-friendly-web-based-daw-tools/"><u>New Ultimate List of Budget-Friendly, Web-Based DAW Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-poco-x5-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Poco X5 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-igtvs-top-picks-for-next-weeks-feed-for-2024/"><u>[New] IGTV's Top Picks for Next Week's Feed for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-leveraging-visuals-for-profile-dominance/"><u>[Updated] 2024 Approved Leveraging Visuals for Profile Dominance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-portrait-to-panorama-a-guide-to-instagrams-rotation-revolution-for-2024/"><u>[Updated] From Portrait to Panorama A Guide to Instagram's Rotation Revolution for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-step-by-step-approach-to-mastering-the-steam-pro-controller-on-switch/"><u>[Updated] In 2024, Step-by-Step Approach to Mastering the Steam Pro Controller on Switch</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-firefoxs-multitasking-toolkit-the-pip-mode/"><u>2024 Approved Firefox's Multitasking Toolkit The PIP Mode</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-infinix-note-30-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Infinix Note 30 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-s18e-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo S18e Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-skeptical-to-sold-how-these-3-key-features-convinced-me-of-the-apple-watch-series-10s-worth/"><u>From Skeptical to Sold: How These 3 Key Features Convinced Me of the Apple Watch Series 10'S Worth</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-simplify-zoom-a-comprehensive-guide-to-blurry-borders/"><u>In 2024, Simplify Zoom A Comprehensive Guide to Blurry Borders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818051081-my-computer-screen-upside-down-how-to-fix-it/"><u>My Computer Screen Upside Down – How to Fix It</u></a></li>
+<li><a href="https://some-skills.techidaily.com/subtitled-on-the-go-zip-to-srt-conversion-techniques-for-2024/"><u>Subtitled on the Go ZIP-to-SRT Conversion Techniques for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-tecno-camon-30-pro-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Tecno Camon 30 Pro 5G? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

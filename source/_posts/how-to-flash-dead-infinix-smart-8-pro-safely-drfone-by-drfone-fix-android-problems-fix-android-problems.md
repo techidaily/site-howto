@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Infinix Smart 8 Pro Safely | Dr.fone
-date: 2024-07-30T13:23:21.934Z
-updated: 2024-07-31T13:23:21.934Z
+date: 2024-10-22T16:12:07.170Z
+updated: 2024-10-28T18:47:24.409Z
 tags: 
   - problems
 categories:
@@ -39,8 +39,6 @@ From battery issues to physical damage to the Infinix Smart 8 Pro device, there 
 
 While you are worried about how to flash Infinix Smart 8 Pro instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Infinix Smart 8 Pro logo.
 
-
-
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One-click solution to flash Infinix Smart 8 Pro
@@ -53,9 +51,6 @@ One-click solution to flash Infinix Smart 8 Pro
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step-by-step Tutorial
 
 We are going to explain how to flash a dead Android phone using a PC using Dr.Fone - System Repair (Android)
@@ -66,9 +61,6 @@ We are going to explain how to flash a dead Android phone using a PC using Dr.Fo
 
 Step 1: Once you have downloaded and installed Dr.Fone, launch it. From the main menu, tap on ‘System Repair’ and get your Infinix Smart 8 Pro connected to it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to flash Dead Android phone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Click ‘Android Repair’ from the available options, and then press the ‘Start’ button to fix the Dead Android phone by flashing it.
@@ -101,6 +93,13 @@ Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to flash Infinix Smart 8 Pro dead phone with Odin?
 
 In this segment, we will learn how to fix the dead Android phone, i.e., Infinix Smart 8 Pro phones using Odin software. Odin is software used internally by Infinix Smart 8 Pro to generally unblock devices and perform a more utility-based job, namely, flashing new firmware in place of the old one. There are different variants available, so choose the one which is supported by your Galaxy phone. Here is a step-by-step explanation of how to flash dead Android phone (Infinix Smart 8 Pro) using Odin software.
@@ -131,22 +130,23 @@ Step 5: Gently press the volume up button, and you will see the Download Mode Sc
 
 ![android download mode](https://images.wondershare.com/drfone/article/2017/07/14991897566586.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 6: Now, you may use a USB to connect your Infinix Smart 8 Pro to the PC. Odin will recognize your device, and in the Odin window, you will see a message saying “Added”.
 
 ![connect android device](https://images.wondershare.com/drfone/article/2017/07/14991897792616.jpg)
 
 Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA” or “AP” on the Odin window and then click “Start”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![open md5 file](https://images.wondershare.com/drfone/article/2017/07/14991898009725.jpg)
 
 Finally, once the flashing process is complete, your Infinix Smart 8 Pro phone will reboot and start normally, and you may see a “Pass” or “Reset” message on the Odin window on the PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to flash MTK Android dead phone with SP Flash tool?
 
 SP Flash tool, also known as SmartPhone Flash tool is a popular freeware tool used to flash custom ROM or firmware in MTK Android phones. It is a very successful tool and is extremely easy to use.
@@ -157,9 +157,6 @@ Step 1: To start with, download and install the MTK driver on your PC and then d
 
 Step 2: Once done, you should download the SP Flash tool and extract it on your PC and move on to launch the Flash\_tool.exe file to open the SP Flash tool window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![download sp flash tool](https://images.wondershare.com/drfone/article/2017/07/14991898618783.jpg)
 
 Step 3: Now, on the SP Flash tool window, click on “Download” and select “Scatter-loading”.
@@ -168,18 +165,12 @@ Step 3: Now, on the SP Flash tool window, click on “Download” and select “
 
 Step 4: The last step would be to locate the file downloaded by you and click “Open” and then finally, select “Download” on the SP Flash tool window.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![load the downloaded file](https://images.wondershare.com/drfone/article/2017/07/14991899108318.jpg)
 
 After completing the above steps, connect your dead device to the PC with a USB cable and wait for it to get recognized. The flashing process will take a few minutes to finish and then you will see a green circle indicating “OK Download”.
 
 That's it! Now simply disconnect your phone and wait for it to reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Part 5: How to flash Infinix Smart 8 Pro dead phone with the Phoenix tool?
 
 Phoenix tool, better known as PhoenixSuit, is a tool similar to the SP False tool and Odin. It works very well with Infinix Smart 8 Pro  and is the best answer to “How to fix dead Android phone?”, “How to flash dead Android phone using PC?”, etc.
@@ -188,9 +179,6 @@ Let's look at the steps of flashing the Infinix Smart 8 Pro dead phone with the 
 
 First, download and install the Infinix Smart 8 Pro PC Suite driver on your PC. Then you will need to download the PhoenixSuit tool and then launch it.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![nokia pc suite](https://images.wondershare.com/drfone/article/2017/07/14991899457235.jpg)
 
 Now, on the toolbar, click “Tools” and select “Data Package Download” from the drop-down list.
@@ -199,9 +187,6 @@ Now, on the toolbar, click “Tools” and select “Data Package Download” fr
 
 Then move to download the firmware for your dead Infinix Smart 8 Pro  and save it in a new Folder. Once done, go back to the Phoenix tool window and click on “File” and select “Open Product”.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![open product](https://images.wondershare.com/drfone/article/2017/07/14991899991748.jpg)
 
 Simply, feed in the details and then click “OK”.
@@ -212,20 +197,25 @@ After this, click on “Flashing” and select “Firmware update” and then br
 
 Then move on to select “Dead Phone USB Flashing” from the Firmware Update Box.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![dead phone usb flashing](https://images.wondershare.com/drfone/article/2017/07/14991900551025.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lastly, just click on “Refurbish” and connect your phone to the PC using a USB cable.
 
 That was it, the flashing process may take up to a few minutes after which your dead Infinix Smart 8 Pro  will restart automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Part 6: How to flash a dead phone that won’t turn on via factory reset?
 
 Using tools for flashing Android devices can be a solution; however, it is heavily restricted to the Infinix Smart 8 Pro device models. For a generalized solution, there can be other options that you can go with. Factory resetting an Android device by putting it in Recovery Mode is one way. To know **how to flash a dead Android phone** using factory reset, go through the steps featured below:
@@ -244,31 +234,25 @@ The screen of your Infinix Smart 8 Pro may be faulty, due to which it is not lau
 
 If the Android vibrates on restarting and the screen does not lighten up, the problem can be directed to a hardware fault. The screen is broken and needs physical assistance to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 8: How to fix a dead Android phone by changing the battery
 
 Another solution that can help you fix the dead Android phone is changing its battery. The battery of an Android device can last up to 3 years. When its capacity drops to a bare minimum, it is best to change the battery of your Android. Upon trying to restart your Infinix Smart 8 Pro, if it does not, you might need to replace your battery. All Android phone batteries are removable, which should be regulated with proper supervision.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
 
 ## Part 9: How to repair dead Android phone by contacting official support
 
 If you are unable to discover any proper solution for **how to flash dead Android phones,** you might have to consult the respective customer support of the Android phone manufacturers. Consult customer support to discover why the phone is dead and how it can be flashed. The respective personnel will assist you in resolving the issue, which might require monetary input from your side.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 A dead Android phone might be the cause of worry, but the techniques given above to flash your dead Android device safely are very helpful. These methods have been tried and tested by users all over the world and thus, we recommend them to you. If your phone is dead or has become unresponsive, do not panic. Depending on your phone’s brand, here are ways to guide you on how to fix the dead Android phone and how to flash dead Android phone using PC.
@@ -277,15 +261,8 @@ It has been observed that Wondershare Dr.Fone – System Repair (Android) assist
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Play Store Stuck on Downloading Of Infinix Smart 8 Pro? 7 Ways to Resolve
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Part 1: Symptoms when “Play Store Stuck on Downloading”
 
 Just as any problem gives some indication of anything wrong is going to befall. Similarly, a user does feel some unexpected turns of events resulting in **_Play Store to stick at downloading_**. If one happens to see that the progress bar has suddenly frozen to a certain scope and taking ages to march any further, it is treated as the first signs for Play store not working properly. Another, such scenario is where your apps are not able to download easily. Rather, the Play store reflects a message downloads are yet in the pending queue. If one happens to witness such problems, these can be in fact be giving you the warning signal of the Play store problem
@@ -305,6 +282,13 @@ With technology, uncertainties are bound to happen. It becomes quite tricky to a
 
 All the applications, data of one’s device is generally loads directly in phone’s storage or the SD card (if plugged). Hence, it is crucial to check whether your phone storage or SD is not fully occupied. As it can indirectly be the reason why the issue of “**_Play Store download stuck at 99%_**” might occur. Ensure to get rid of any application that you are no longer using. Or, consider deleting any picture, videos or documents that aren’t required by you.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.2 Check Wi-Fi or cellular data connection
 
 Sometimes, it’s not your phone that is going all faulty, the root cause might be the internet connection. If the internet is running low or does not seem to be stable, then the **_play store download problem_** may occur. Users must ensure that the Infinix Smart 8 Pro device they are working should have a stable network connection so as to combat the problem. Then, they can try downloading the application and check if the problem is prevalent or not.
@@ -313,11 +297,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix Play Store stuck on downloading
@@ -344,18 +323,12 @@ First of all, load the program on PC. In the interim, draw connection of device 
 
 Over the following screen, select “Android Repair” placed at the left panel to resolve play store stuck issue and press “Start” button too!
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![play store stuck on downloading - go to android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step 3: Fill in the information**
 
 It is important to add in all the necessary information for successful execution of program. Make sure to give details of “Brand”, “Name”, “Country”, “Model” and all other fields.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![play store stuck on downloading - fill in info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step 4: Ensure to Download Firmware**
@@ -370,9 +343,6 @@ Fret not, the program will automatically detect the most suitable firmware for y
 
 After the package downloads, program will repair all kinds of problems surfacing over your phone automatically. This way, the **_Play store stuck on downloading_** will get resolved fully.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![get to repair android to fix play store download pending](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ### 3.4 Clear data and cache of Play Store and download again
@@ -385,14 +355,8 @@ Did you know the piling up of cache memory can certainly pull off a great deal f
 4. Optionally, make use of “Force Stop” feature to halt the functioning of the app.
 5. At last, reboot/restart your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear data to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/clear-cache-data.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.5 Update Play Store to the latest version
 
 When was the last time you cared to update your Play store app? Generally, users overlook the need of updating the application. As, they think that it may not be of any greater importance. But, in reality working in an outdated version can directly impact **_Play Store and cause download problem_**. Follow the below steps to update Play Store to latest version.
@@ -408,14 +372,9 @@ When was the last time you cared to update your Play store app? Generally, users
 
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### 3.7 Avoid downloading large apps
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
-
-
 
 ## Bricked Your Infinix Smart 8 Pro? Here’s A Full Solution
 
@@ -423,18 +382,10 @@ A bricked phone is a device that won’t turn on no matter what you do and every
 
 In this article we are going to look at how you can fix your device if you are sure it is bricked, how to rescue the data on your bricked device and even how you can avoid this situation in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Part 1: Rescue the data on your Bricked Android Phone
 
 Before we can learn how to fix a bricked device, it is important that you are able to save the data that is on the Infinix Smart 8 Pro device. Having the data saved somewhere else will be the added insurance you need in case anything goes wrong during the process. There are very few software solutions in the market to help you get back data from a bricked device. One of these and the most reliable is [Wondershare Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html).
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html)
 
 World's 1st Android smartphone and tablet recovery software.
@@ -448,9 +399,6 @@ World's 1st Android smartphone and tablet recovery software.
 
 **4,771,974** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Use Dr.Fone - Data Recovery (Android) to Rescue Data from a Bricked Android
 
 If your device is completely unresponsive, don’t worry Dr.Fone can help you get all the data back. Simply follow these steps to gain access to the Infinix Smart 8 Pro device and recover all your data.
@@ -461,9 +409,6 @@ Step 1: Download and install Wondershare Dr.Fone to your PC. Launch the program 
 
 Step 2. Select the issue type for your phone. Choose from "Touch screen not responsive or cannot access the phone" or "Black/broken screen".
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bricked android phone data recovery-Select the issue type](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
 Step 3: In the next step, you need to select your device model. If you don’t know the model of your device click on “How to check the Infinix Smart 8 Pro device model” to get help.
@@ -472,17 +417,18 @@ Step 3: In the next step, you need to select your device model. If you don’t k
 
 Step 4: The next screen will provide instructions on how to enter “Download mode.” Connect the Infinix Smart 8 Pro device to your PC once it is in “Download Mode”
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bricked android phone data recovery-Download Mode](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
 
 Step 5: The program will begin an analysis of your device and then download the recovery package.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![bricked android phone data recovery-download the recovery package](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 6: Then Dr.Fone will display all the recoverable file types. You can click on the files to preview them. Select the ones you need and click on "Recover to Computer" to save them to your computer.
 
@@ -491,16 +437,16 @@ Step 6: Then Dr.Fone will display all the recoverable file types. You can click 
 <iframe width="750" height="415" src="https://www.youtube.com/embed/m12WULZ-6aA" frameborder="0" allowfullscreen=""></iframe>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Fix Your Bricked Android Phone
 
 Android devices are usually very flexible in allowing users to flash ROM but sometimes an incorrect process can result in a bricked device. While there are few solutions to this problem, here are a few things you can do;
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### When the Infinix Smart 8 Pro device Boots Straight into Recovery
 
 If the Infinix Smart 8 Pro device can boot to the recovery screen, you can find an alternative ROM to install and copy it your device. Installation can then be done in the recovery menu. If the Infinix Smart 8 Pro device is booting to recovery mode there is a chance that it can be fixed.
@@ -509,14 +455,15 @@ Step 1: Load up Clockworkmod or any other recovery tool that you have been using
 
 Step 2: Once you are in, navigate to the “Reboot system now.” If you are using Clockworkmod, this should be your first option. Hopefully everything will work just right if you do this, If it doesn’t you may need to download and re-flash the ROM again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![bricked android phone data recovery-Reboot system now.](https://images.wondershare.com/drfone/others/fix-bricked-android-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### When the Infinix Smart 8 Pro device won’t stop rebooting
 
 Here’s what to do if the Infinix Smart 8 Pro device wont stop rebooting.
@@ -533,9 +480,6 @@ Step 4: Go to the “Wipe Cache Partition” and select it.
 
 Step 5: Go to “Wipe data/ factory reset.”
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![bricked android phone data recovery-Wipe data/ factory reset](https://images.wondershare.com/drfone/others/fix-bricked-android-03.jpg)
 
 Step 6: Finally reboot the Infinix Smart 8 Pro device by selecting “Reboot system now.” This should fix the problem. You may also want to flash the same ROM or try a new one.
@@ -562,7 +506,6 @@ If you are planning on installing custom ROM you need to install Custom Recovery
 
 While installing Custom ROM can actually be a great way to customize your device, it is also the leading reason for bricked devices. Therefore ensure that you understand what you are doing when you decide to customize your device. Learn as much as you can about the process before attempting everything.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -575,9 +518,19 @@ While installing Custom ROM can actually be a great way to customize your device
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-personalize-your-pixelated-world-the-ultimate-guide-to-discovering-creator-types-via-6-tests/"><u>[New] Personalize Your Pixelated World The Ultimate Guide to Discovering Creator Types via 6 Tests</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-evaluating-video-coders-are-you-team-av1-or-vp9/"><u>In 2024, Evaluating Video Coders Are You Team Av1 or VP9?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-y55s-5g-2023-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo Y55s 5G (2023) to iPod | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-the-latest-updates-for-your-epson-xp-310-printer-drivers-today/"><u>Install the Latest Updates for Your Epson XP 310 Printer Drivers Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-vector-imagery-best-10-sources-for-2024/"><u>Mastering the Art of Vector Imagery Best 10 Sources for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-functionality-of-a-smartwatch-an-in-depth-examination/"><u>Navigating the Functionality of a Smartwatch: An In-Depth Examination</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-13-ultra-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi 13 Ultra ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/mpeg-m4v-movavi/"><u>オンデマンドで簡単なMPEG M4Vフォーマット変更 – 無料、高速、Movavi変換ツール</u></a></li>
+</ul></div>
 

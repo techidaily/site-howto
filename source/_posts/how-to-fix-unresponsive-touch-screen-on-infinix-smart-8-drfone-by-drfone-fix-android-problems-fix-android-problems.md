@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Infinix Smart 8 | Dr.fone
-date: 2024-07-30T13:21:19.932Z
-updated: 2024-07-31T13:21:19.932Z
+date: 2024-10-25T17:00:15.931Z
+updated: 2024-10-28T17:11:47.436Z
 tags: 
   - problems
 categories:
@@ -20,9 +20,6 @@ If your **touchscreen is malfunctioning** or doesn’t work correctly, you canno
 
 ![android screen problems intro](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Why Is My Android Experiencing Touch Screen Problems
 
 Below are some of the most common reasons you’re experiencing touch problems on your Android smartphone.
@@ -35,29 +32,14 @@ Below are some of the most common reasons you’re experiencing touch problems o
 - The device is physically damaged, or the screen is cracked or broken.
 - Outdated devices are prone to the black/white/blue screen of death.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Part 2: Tips, Fixes, and Workarounds To Fix Your Infinix Smart 8 Touch Problems
 
 If any of the outlined reasons above are the cause of your **touch screen malfunctioning,** here are some solutions to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Method 1: Remove the Screen Protector and Phone Case
 
 Some phone cases and screen protectors cause **touch problems** on your Android screen. This issue is prevalent if you recently changed your phone case or screen protector. It may be due to incompatibility, but you should remove them to see if your phone starts responding again.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android remove screen protector](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-02.jpg)
 
 ### Method 2: Clean Your Android Smartphone
@@ -67,8 +49,12 @@ A **touchscreen malfunctioning** can also be a sign of a dirty display. Since th
 ![android dirty screen](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3: Stop Using Your Android Device for a While
 
 **Touch problems** also arise due to abnormal temperature changes. Your phone might experience ghost touch if it’s too cold or hot. For your screen to function correctly, it needs to be in a temperate environment. Remember to take breaks between phone usage, especially when the phone gets too hot. Avoid using your device under hot conditions, direct sunlight, or anything affecting your phone’s normal temperature.
@@ -77,9 +63,6 @@ A **touchscreen malfunctioning** can also be a sign of a dirty display. Since th
 
 Performing a reboot sounds trivial with such a complicated issue. But sometimes, it’s often the most successful way to fix a **touchscreen problem** on an Android device. Restarting your Android shuts down and resets all background services, which may have led to your issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![android restart method](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-04.jpg)
 
 To restart your Android, press and hold the **Power** button for several seconds to switch off your phone. In other smartphones, you may need to hold down the **Power** button as well as the **Volume Down** button at the same time.
@@ -106,10 +89,20 @@ Placing your Android into **Recovery Mode** is different depending on your Andro
 
 **Step 1C**: If step 1A did not put your Android into **Recovery Mode**, press and hold the **Power** and **Volume Up** and **Down** buttons simultaneously. Continue pressing all three until the screen starts.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android recovery mode 01](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-06.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2**: Use the **Volume** buttons to navigate the choices, select Wipe data/factory reset, and confirm your choice with the **Power** button.
 
@@ -118,8 +111,12 @@ Placing your Android into **Recovery Mode** is different depending on your Andro
 **Step 3**: Wait for the process to complete and for your Infinix Smart 8 to restart automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 7: Replace Your Android Touchscreen
 
 If doing all the earlier workarounds and fixes couldn’t resolve the **touchscreen problem,** it could be the screen itself. While replacing the touchscreen yourself is possible if you have the technical know-how, it’s still best to bring it to a professional to prevent further damage. You should have your Infinix Smart 8 checked by a technician if the screen is getting weak, has water damage, or has failing screen components.
@@ -136,9 +133,6 @@ If all the general **phone touch problems** on your Infinix Smart 8 persist, yo
 
 ![dr.fone main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features
 
 Dr.Fone – System Repair (Android) has many features you can immediately take advantage of. Here are some of them below.
@@ -151,9 +145,6 @@ Wondershare Dr.Fone allows you to fix all **touchscreen problems** on your smart
 
 The program supports almost all Infinix Smart 8 models and other Android devices, whether unlocked or from a carrier. Dr.Fone is equipped with all the proper firmware to flash your Infinix Smart 8 with just a few clicks. In addition, it has handy on-screen instructions to help you complete the whole process with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pros and Cons
 
 Here are the pros and cons of using Dr.Fone – System Repair (Android) to know if you’re still undecided.
@@ -168,9 +159,6 @@ Here are the pros and cons of using Dr.Fone – System Repair (Android) to know 
 - The free version only works until you see if your Infinix Smart 8 is compatible with the app. You will be required to enter a valid license once you initiate the repair process.
 - If you own an iOS device, you’ll have to get the iOS version.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How To Fix Black Phone Screen With Wondershare Dr.Fone
 
 Follow the step-by-step guide below to start fixing general phone screen problems on Android using Wondershare Dr.Fone.
@@ -195,17 +183,17 @@ Here are some FAQs you should remember when experiencing **phone touch problems*
 
 If you continue using a smartphone with a cracked screen, there are several implications. Your device will be vulnerable to further damage and might develop **touchscreen problems**,and your sensors will gradually begin to malfunction. The capabilities of your device are also compromised the longer you delay repairing it. Moreover, a cracked screen can put your fingers at risk of injury due to potential glass splinters.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How Do I Temporarily Fix a Cracked Screen?
 
 If you can’t take your cracked screen to a repair shop, apply a small amount of vegetable oil or petroleum jelly to the screen. Doing this will not fix the issue but will make the cracks less noticeable. On the other hand, you can also apply a screen protector to safeguard your phone against further damage. The screen protector slows down or prevents the cracks from getting worse.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Can I Use Dr.Fone for Free?
 
 You can download and install Dr.Fone – System Repair (iOS) or (Android) for free to evaluate the program’s offerings. You can do the first few steps to see if the app supports your device. However, you need to get the full version and enter a valid license code to repair your smartphone.
@@ -220,16 +208,10 @@ If the **touchscreen is malfunctioning** on your smartphone, one of the fixes a
 
 However, if your screen is broken or cracked, going to an authorized service center is still your best bet, especially when your screen urgently needs a replacement. Delaying it further may hurt your wallet in the long run, so it’s best to fix it as soon as possible.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix Unfortunately Settings Has Stopped on Infinix Smart 8 Quickly
 
 All of you, sooner or later, must have found the “Unfortunately Settings has stopped” error on your Infinix Smart 8. The problem can occur if the Settings keeps stopping or crashing. Many times, you may try to open the Settings but it doesn’t even open. Or possibly, it may freeze after getting opened thereby hampering the Infinix Smart 8 device's performance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![unfortunately settings has stopped](https://images.wondershare.com/drfone/article/2022/04/fix-unfortunately-settings-has-stopped.jpg)
 
 Well! There can be a number of reasons why this thing happens. For instance, custom ROM installations, not enough space in the Infinix Smart 8 device or perhaps an outdated version of Android. If you are struggling with the same issue and want to know what to do when Android Settings is not responding, this post will help you. We have explained everything in detail along with the solutions. So, scroll down and get things sorted.
@@ -242,9 +224,6 @@ Well! There can be a number of reasons why this thing happens. For instance, cus
 - [Part 6: Factory reset your Android](https://drfone.wondershare.com/android-stopped/unfortunately-settings-has-stopped.html#Part6)
 - [Part 7: Check and update Android OS](https://drfone.wondershare.com/android-stopped/unfortunately-settings-has-stopped.html#Part7)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Clear the cache of Settings and Google Play Service
 
 It is possible that the corrupted cache files are responsible for this error. Hence, as the first tip, we would like you to clear the Settings cache if that is what triggers the “Unfortunately Settings has stopped” issue. Clearing it would definitely make Settings run appropriately. And The steps to clear the cache of the Google Play Services app are similar. Here is how to clear the cache of Settings:
@@ -253,16 +232,17 @@ It is possible that the corrupted cache files are responsible for this error. He
 2. In the list of applications, look for “Settings” and open it.
 3. Now, select “Storage” followed by “Clear Cache”.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![settings crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-settings.jpg)
 
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Clear the Android phone’s RAM and retry
 
 As the next tip, we would like to suggest you clear your device’s RAM by ceasing the running apps in the background. RAM, if at the increased level, is responsible for the Infinix Smart 8 device’s freezing, poor performance, and most probably is the reason behind crashing Settings. Also, if the apps in the background keep running, they might conflict with the Settings and stop it to perform properly. Therefore clearing RAM is important when Android Settings is not responding. Here is how to do it.
@@ -273,9 +253,6 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
 
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Uninstall the Google update
 
 Uninstalling Google Play Store updates has also responded well to many users. It has worked in the case of the “Unfortunately Settings has stopped” error. So, we would also like to suggest you use this tip if the others don’t work. Here are the steps to be followed for this.
@@ -286,14 +263,9 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Infinix Smart 8, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Infinix Smart 8 devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -313,18 +285,12 @@ Step 1: Download Tool
 
 Visit the official website of Dr.Fone and download the toolbox from there. Go for the installation process and wait until the installation gets over. Launch it now and choose the “System Repair” tab from the main window.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![Android settings not responding- download tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Get the Phone Connected
 
 With the help of a USB cable, plug your Infinix Smart 8 into the PC. Upon proper connection, hit on the “Android Repair” option from the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding - connect android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Feed Correct Information
@@ -339,20 +305,21 @@ Now, you need to take your device into Download mode. For this, you need to foll
 
 ![Android settings not responding - download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5: Repair the Issue
 
 Once the firmware is completely downloaded, your Infinix Smart 8 will automatically start getting repaired. Stay there and you will receive a notification that the repair is done.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding - fix the issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Part 5: Wipe cache partition to restore Settings
 
 Like RAM, wiping cache is also vital so as to make the Infinix Smart 8 device’s operation smoother. And when you are getting the “Unfortunately Settings has stopped” error, it might be due to the collected cache. To remove it, you will need to enter the recovery mode. And the steps for recovery mode range from device to device. For instance, [Infinix Smart 8 users](https://drfone.wondershare.com/samsung/samsung-recovery-mode.html) have to press the “Home”, “Power” and “Volume Up” buttons. Similarly, [HTC](https://drfone.wondershare.com/htc/htc-recovery-mode.html) and LG device users are supposed to press the “Volume Down” and “Power” buttons. For Nexus, it is “Volume Up, Down” and Power key combinations. Therefore, before going further, make sure what device you own and enter the recovery mode according to it. Now, follow the detailed guide below to wipe the cache partition in order to fix crashing Settings.
@@ -376,8 +343,12 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 7: Check and update Android OS
 
 A lot of times minor issues crop up due to the operating systems that get outdated. It is because the Infinix Smart 8 device needs to get updated from time-to-time for proper functioning otherwise it will not be able to match up with the fading technologies thereby coming up with issues like “Unfortunately Settings has stopped”. We recommend here you check for the available update and update your device. For this follow the guide below.
@@ -386,14 +357,8 @@ A lot of times minor issues crop up due to the operating systems that get outdat
 2. Now, hit on “System Update” and the Infinix Smart 8 device will look for any available update.
 3. If there is any, go along with the prompts to install it and make your phone even smarter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Android settings not responding - update android firmware](https://images.wondershare.com/drfone/article/2019/04/update-samsung.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 If your Infinix Smart 8 shows the "Unfortunately Settings has stopped" error, don't worry. This problem can come from many things like old software or cache issues. You can try easy fixes like clearing cache or updating your system. Sometimes, removing custom ROMs might be needed.
@@ -401,8 +366,6 @@ If your Infinix Smart 8 shows the "Unfortunately Settings has stopped" error, do
 For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html). It's known for fixing many iOS problems without losing any data. Remember, a well-working device is just a few steps away!
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
-
-
 
 ## How to Fix the Soft Bricked Infinix Smart 8?
 
@@ -414,15 +377,19 @@ If you are confused about the soft brick and hard brick problems and looking for
 
 Read on to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: What is the difference between soft brick and hard brick?
 
 To begin with, let us understand the basic difference between a soft brick and hard brick issue. Both versions of a bricked phone prevent it from booting but differ in their causes and gravity of the problem.
 
 A soft-brick problem is caused merely by a software error/crash and makes your device switch on automatically every time you manually turn it off. This phenomenon is referred to as Boot Loop. Soft bricked Android phones are not as difficult to fix as the hard bricked Android phones. It is convenient to say that a soft bricked phone only boots up half-way and not fully, whereas a hard bricked device does not switch on at all. A hard brick error is thus caused when the kernel, which is nothing but an interface for the software to communicate with the hardware, is tampered with. A hard bricked phone is not recognized by your PC when plugged in and is a serious problem. It requires troubleshooting techniques and cannot be easily fixed as the soft brick problem.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hard bricked v/s soft bricked ](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
@@ -439,17 +406,10 @@ Since the phone refuses to boot, Cache can be cleared from entering into the Rec
 
 Once you are the recovery mode screen, you will see a number of options as shown in the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
 
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
@@ -468,9 +428,6 @@ Firstly, you must root your phone and unlock the Bootloader. Every phone’s mec
 
 Once the Bootloader is unlocked, take a backup of all your data by selecting “Backup” or “Android” back in recovery mode. The process should not take long and all you need to do is tap “OK” to config backup.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
 
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
@@ -495,7 +452,6 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -508,9 +464,18 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-exploring-the-power-of-yi-4k-cameras/"><u>[New] In 2024, Exploring the Power of YI 4K Cameras</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-harness-the-potential-of-gratuitous-timer-tools/"><u>[Updated] In 2024, Harness the Potential of Gratuitous Timer Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-pop-8-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Pop 8 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-12-pro-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 12 Pro With or Without Password</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-look-how-does-vr-headgear-work-for-2024/"><u>Inside Look How Does VR Headgear Work for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-5-ios-podcast-apps-selection-for-2024/"><u>Leading 5 iOS Podcast Apps Selection for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-a59-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo A59 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-realme-12-pro-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme 12 Pro 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

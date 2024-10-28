@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Vivo X90S Safely | Dr.fone
-date: 2024-07-30T13:25:06.726Z
-updated: 2024-07-31T13:25:06.726Z
+date: 2024-10-26T16:20:07.567Z
+updated: 2024-10-28T17:43:18.123Z
 tags: 
   - problems
 categories:
@@ -35,18 +35,10 @@ Flashing a dead Android phone might be skeptical for many users who have been in
 
 From battery issues to physical damage to the Vivo X90S device, there can be many reasons your Vivo X90S died. The reasons for a dead Android phone are not restricted to these points. There can be software-related issues or firmware issues that might cause such havoc on your Android.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to flash Vivo X90S in one click
 
 While you are worried about how to flash Vivo X90S instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Vivo X90S logo.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One-click solution to flash Vivo X90S
@@ -59,13 +51,6 @@ One-click solution to flash Vivo X90S
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Step-by-step Tutorial
 
 We are going to explain how to flash a dead Android phone using a PC using Dr.Fone - System Repair (Android)
@@ -78,18 +63,19 @@ Step 1: Once you have downloaded and installed Dr.Fone, launch it. From the main
 
 ![how to flash Dead Android phone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Click ‘Android Repair’ from the available options, and then press the ‘Start’ button to fix the Dead Android phone by flashing it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![android repair to flash dead phone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: On the Vivo X90S device information screen, pick the appropriate device brand, name, model, and other details followed by tapping the ‘Next’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![choose brand info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Put the Android device in Download mode to start repair.**
@@ -104,22 +90,23 @@ Step 1: It is essential to boot your Vivo X90S in Download mode before repairing
 
 ![flash android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Press the ‘Next’ button for initiating firmware download.
 
 ![flashing samsung galaxy](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to flash Vivo X90S dead phone with Odin?
 
 In this segment, we will learn how to fix the dead Android phone, i.e., Vivo X90S phones using Odin software. Odin is software used internally by Vivo X90S to generally unblock devices and perform a more utility-based job, namely, flashing new firmware in place of the old one. There are different variants available, so choose the one which is supported by your Galaxy phone. Here is a step-by-step explanation of how to flash dead Android phone (Vivo X90S) using Odin software.
@@ -128,30 +115,18 @@ Step 1: Install the driver software on the computer. You can find the best drive
 
 Step 2: Now download suitable firmware for your device in the form of a zip folder that you can open and store on your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![download suitable firmware](https://images.wondershare.com/drfone/article/2017/07/14991894766699.jpg)
 
 Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file types recognized by Odin.
 
 ![firmware zip file](https://images.wondershare.com/drfone/article/2017/07/14991896515887.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![firmware md5 file](https://images.wondershare.com/drfone/article/2017/07/14991896708947.jpg)
 
 Step 3: In this step, download the latest version of Odin on your PC and move it to the desktop, and then right-click on the downloaded Odin file to select “Run as Administrator”.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download odin](https://images.wondershare.com/drfone/article/2017/07/14991896878336.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
 
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
@@ -164,9 +139,6 @@ Step 5: Gently press the volume up button, and you will see the Download Mode Sc
 
 Step 6: Now, you may use a USB to connect your Vivo X90S to the PC. Odin will recognize your device, and in the Odin window, you will see a message saying “Added”.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect android device](https://images.wondershare.com/drfone/article/2017/07/14991897792616.jpg)
 
 Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA” or “AP” on the Odin window and then click “Start”.
@@ -189,16 +161,10 @@ Step 2: Once done, you should download the SP Flash tool and extract it on your 
 
 Step 3: Now, on the SP Flash tool window, click on “Download” and select “Scatter-loading”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![scatter loading](https://images.wondershare.com/drfone/article/2017/07/14991898892877.jpg)
 
 Step 4: The last step would be to locate the file downloaded by you and click “Open” and then finally, select “Download” on the SP Flash tool window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![load the downloaded file](https://images.wondershare.com/drfone/article/2017/07/14991899108318.jpg)
 
 After completing the above steps, connect your dead device to the PC with a USB cable and wait for it to get recognized. The flashing process will take a few minutes to finish and then you will see a green circle indicating “OK Download”.
@@ -217,16 +183,10 @@ First, download and install the Vivo X90S PC Suite driver on your PC. Then you w
 
 Now, on the toolbar, click “Tools” and select “Data Package Download” from the drop-down list.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![data package download](https://images.wondershare.com/drfone/article/2017/07/14991899684185.jpg)
 
 Then move to download the firmware for your dead Vivo X90S  and save it in a new Folder. Once done, go back to the Phoenix tool window and click on “File” and select “Open Product”.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open product](https://images.wondershare.com/drfone/article/2017/07/14991899991748.jpg)
 
 Simply, feed in the details and then click “OK”.
@@ -261,33 +221,31 @@ The screen of your Vivo X90S may be faulty, due to which it is not launching. Wh
 
 If the Android vibrates on restarting and the screen does not lighten up, the problem can be directed to a hardware fault. The screen is broken and needs physical assistance to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Part 8: How to fix a dead Android phone by changing the battery
 
 Another solution that can help you fix the dead Android phone is changing its battery. The battery of an Android device can last up to 3 years. When its capacity drops to a bare minimum, it is best to change the battery of your Android. Upon trying to restart your Vivo X90S, if it does not, you might need to replace your battery. All Android phone batteries are removable, which should be regulated with proper supervision.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Part 9: How to repair dead Android phone by contacting official support
 
 If you are unable to discover any proper solution for **how to flash dead Android phones,** you might have to consult the respective customer support of the Android phone manufacturers. Consult customer support to discover why the phone is dead and how it can be flashed. The respective personnel will assist you in resolving the issue, which might require monetary input from your side.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 A dead Android phone might be the cause of worry, but the techniques given above to flash your dead Android device safely are very helpful. These methods have been tried and tested by users all over the world and thus, we recommend them to you. If your phone is dead or has become unresponsive, do not panic. Depending on your phone’s brand, here are ways to guide you on how to fix the dead Android phone and how to flash dead Android phone using PC.
@@ -296,9 +254,6 @@ It has been observed that Wondershare Dr.Fone – System Repair (Android) assist
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Is My Vivo X90S Offline? Troubleshooting Guide
 
 Ever had your Vivo X90S claim it's offline, leaving you scratching your head about where it went wrong? We get it; it's confusing. That's why this article is here to untangle the mystery.
@@ -331,9 +286,6 @@ Now, you have understood the potential causes as the first step toward resolving
 
 ![Phone offline on Android](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How To Fix “Phone Offline” With Internet Connection Problem
 
 Now that we've figured out why your phone says it's offline, let's tackle the issue head-on. If you're facing problems like downloads that won't start, Google Play stuck on "Loading…," or web pages refusing to load, chances are it's an internet connection issue causing the problem.
@@ -350,10 +302,6 @@ Switching to mobile data can be a quick fix if your Wi-Fi is acting up. It ensur
 
 ![Change connection to mobile data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Solution 2: On and off Airplane mode
 
 [<u>Airplane Mode</u>](https://drfone.wondershare.com/fake-location/airplane-mode-turn-off-gps-location.html) can sometimes cause connectivity confusion. Turning it off and on essentially resets your phone's wireless connections, which might resolve the offline issue.
@@ -364,9 +312,6 @@ How to on and off Airplane mode on Android:
 - **Step 2:** Look for the Airplane Mode icon and tap the icon to turn on Airplane Mode.
 - **Step 3:** Wait a few seconds, then tap it again to turn off the Airplane Mode. Now, check if your phone is now online.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![On and off the Airplane mode](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-3.jpg)
 
 ### Solution 3: Reset network settings
@@ -383,8 +328,12 @@ To reset your network settings, the steps may differ depending on the phone mode
 ![Reset the network settings on Android](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 4: Restart your Wi-Fi router
 
 Sometimes, the problem might not be with your phone but rather with the [<u>Wi-Fi router</u>](https://drfone.wondershare.com/root/wifi-hacker-without-root.html). Restarting it can refresh the connection and potentially resolve the connectivity problem.
@@ -397,6 +346,13 @@ How to restart your Wi-Fi router:
 - **Step 4:** Allow the router to restart and establish a connection. Then, check if your phone still shows the "Phone Offline" message.
 
 These solutions should cover the most common connectivity issues. If the problem persists, we'll explore further steps in the following sections.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How To Fix “Phone Offline” Despite Having an Internet Connection
 
@@ -472,9 +428,6 @@ The platform will detect your Vivo X90S's brand. Confirm the Name, Model, Countr
 
 Follow the instructions to put your Vivo X90S into Download Mode. Once in Download Mode, you will start downloading the firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Activate Download mode to download the firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 5:** Confirm Installation
@@ -483,9 +436,6 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Dealing with the "Phone Offline" hiccup on your Vivo X90S can be a real headache. But fear not – we've covered a range of solutions to get you back online smoothly. From troubleshooting internet connection problems to addressing browser and app-related glitches, the solutions provided in this guide are designed to cater to a variety of scenarios. If you find it troublesome to try solutions one by one, then we recommend using Dr.Fone directly which is a full toolkit for your phone and can help resolve most device glitches one-off.
@@ -496,10 +446,6 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 
 Like any other technological system, Android is not without its fair share of problems. One of the most common issues that Android users face is the android.process.media error. If you have encountered this problem lately, you don’t need to worry, this article will clearly explain what exactly causes this error and how to fix it safely.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![android process media has stopped](https://images.wondershare.com/drfone/article/2023/08/android-process-media-has-stopped.jpg)
 
 ## Part 1. Why this error pops up?
@@ -513,17 +459,16 @@ There are several reasons why this error can occur repeatedly and it is worth no
 - 5\. Failure of certain apps such as the download manager and the media storage
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2. Back up your Android Data First
 
 It is always a good idea to back up your data especially before embarking on any attempt to fix any problem with your device. This way you will always have your data with you just in case something goes wrong and you lose all your data. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) will help you easily back up your Vivo X90S. The application will allow you to back up your device with a few clicks and you can restore what you want from your backup .
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexibly Back up and Restore Android Data
@@ -541,9 +486,6 @@ Step 1. Download, install, and run the program
 
 Click the "Start Download" button above to get the software installed on your computer. Then run it. The primary window of the software looks like below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android. Process. Media - backup android](https://images.wondershare.com/drfone/guide/connect-my-device-2.png)
 
 Step 2. Connect your device
@@ -556,16 +498,17 @@ Step 3. Begin to backup
 
 When your device is displayed on the window of the program, click "Back Up Now " to begin. The rest will be done by the program.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Android. Process. Media - select data types](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3. How to Fix "Android. Process. Media" Error
 
 With a full backup of your Vivo X90S, you can now embark on a mission to fix the error. There are several methods to clear this error. We have outlined three of the most effective solutions here.
@@ -604,9 +547,6 @@ Step 5: Next you need to open Google Play and when presented with an error, clic
 
 Step 6: Turn off the Vivo X90S device and then turn it back on. Go to the Google Services framework again and turn it on to see if the issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Check Google Sync & Media Storage settings
 
 Step 1: Go to Settings > Accounts and Personal> Google Sync and uncheck all the checkboxes to stop the Google Synchronization.
@@ -619,16 +559,11 @@ Step 4: Turn off your device and then turn it on
 
 This Should clear the error message for good.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Boot your device into safe mode
 
 [Safe mode](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html) can temporarily disable third-party apps, allowing only core system apps. This detects if a third-party app causes the "Android process media keeps stopping" error. If the problem disappears in safe mode, a third-party app might be the cause. Uninstalling it can restore normal function. If the problem persists in safe mode, a deeper system issue might exist, needing further investigation or support.
 
 ### Method 6: Fix the error by using a dedicated repair tool
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -655,11 +590,15 @@ In the Vivo X90S device information interface, remember to select the correct in
 
 ![select device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To confirm the Android repair may erase all data on your device, you need to type in "000000" to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android.process.media stopping by entering code](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step 2. Repair your Vivo X90S in Download mode.**
@@ -670,46 +609,25 @@ Read and follow the [guide here](https://drfone.wondershare.com/guide/android-re
 
 Then click "Next" to start downloading the firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![start downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 It may take a while, so you could have a cup of coffee to wait for the repair process completed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![android.process.media stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 7: Factory Reset your device
 
 If the above steps fail, you might need to perform a factory reset. A factory reset restores the Vivo X90S device to its initial state, which can eliminate many problems, but it will also erase all data. Ensure you back up your important data before proceeding.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 8: Seek Manufacturer Support
 
 If the problem persists after trying the above steps, it could be related to specific device or software issues. It's advisable to contact your device manufacturer's support team for more detailed guidance and assistance.
 
 It is our hope that when faced with this fairly common error, you will not panic. This is a fairly mild issue that can easily be fixed as we have seen above.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -723,9 +641,20 @@ It is our hope that when faced with this fairly common error, you will not panic
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-premiere-10-optics-enhancing-visuals-for-2024/"><u>[Updated] Premiere 10 Optics Enhancing Visuals for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-comprehensive-analysis-mastering-the-art-of-video-editing-with-vivacut/"><u>2024 Approved Comprehensive Analysis Mastering the Art of Video Editing With VivaCut</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-realme-v30-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Realme V30 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-magic-5-lite-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor Magic 5 Lite? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-s18-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo S18? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-v29e-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo V29e Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-se-2020ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone SE (2020)/iPad? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transition-techniques-decreasing-volume-gradually-in-pp/"><u>Transition Techniques Decreasing Volume Gradually in PP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-strongest-gaming-laptop-contenders-for-e-2024-in-depth-analysis-and-benchmarking/"><u>Unveiling the Strongest Gaming Laptop Contenders for E 2024: In-Depth Analysis and Benchmarking</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nubia-red-magic-9-proplus-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nubia Red Magic 9 Pro+? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

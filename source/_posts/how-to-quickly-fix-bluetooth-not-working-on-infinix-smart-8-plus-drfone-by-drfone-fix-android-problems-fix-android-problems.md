@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Infinix Smart 8 Plus | Dr.fone
-date: 2024-07-30T13:25:54.005Z
-updated: 2024-07-31T13:25:54.005Z
+date: 2024-10-26T16:45:46.233Z
+updated: 2024-10-28T16:32:33.489Z
 tags: 
   - problems
 categories:
@@ -28,9 +28,6 @@ However, the problems don’t stop there. You may have problems with turning you
 
 Due to the complicated nature of Bluetooth technology, there could be many reasons as to why your Bluetooth feature is playing up in this way, but that doesn’t mean it can’t be fixed. For the rest of this guide, we’re going to explore the nine need-to-know ways you can fix the Bluetooth problems not working on your Infinix Smart 8 Plus as quickly as possible.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2. 9 fixes for Bluetooth not working on Android
 
 ### 2.1 One click to fix Android Bluetooth issues due to Android system
@@ -39,7 +36,12 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -57,14 +59,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step One** Make your way over to the Wondershare website and download the Dr.Fone - System Repair (Android) software to either your Mac or Windows computer. Install the downloaded file by following the on-screen instructions. Once installed, open the software, so you’re on the Main Menu.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![bluetooth not working on android - use a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step Two** Connect your Infinix Smart 8 Plus to your computer using the USB cable, wait a couple of seconds, and then click the System Repair option. On the Menu on the left, click Android Repair, and then press Start.
@@ -77,9 +71,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step Four** When prompted, put your phone into Download Mode needed for repairs. You can do this by following the on-screen instructions which will depend on which device you have and the available buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![bluetooth not working on android - download mode to fix issues](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **Step Five** The software will now begin the repair process. This will happen automatically, and all you’ll need to do is make sure your device doesn’t disconnect during this process, and your computer doesn’t turn off.
@@ -88,9 +79,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Infinix Smart 8 Plus and start using it and your Bluetooth features.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.2 Restart Android and turn on Bluetooth again
 
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
@@ -130,10 +118,6 @@ Here’s how;
 3. Go through these settings and remove/delete/forget every connection on your device
 4. Now when you go to connect to a device using Bluetooth, repair the Infinix Smart 8 Plus device, enter the passcode, and use a fresh paired connection.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### 2.5 Use Bluetooth in safe mode
 
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
@@ -151,13 +135,14 @@ Here’s how to find out;
 5. Now turn on your Bluetooth and connect it to your preferred device
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2.6 Turn on the discoverable feature
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![android bluetooth problems - discoverable feature](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-discoverable.jpg)
 
 To ensure your Bluetooth can connect to other devices, it’s important to make sure you’re making your device discoverable to other Bluetooth devices. If it’s hidden, other devices won’t be able to find it, and sometimes it can bug and prevent connections.
@@ -169,14 +154,8 @@ Here’s how to turn on your Bluetooth discoverable feature;
 3. Under the available settings, tick the box that allows your Bluetooth device to be discoverable
 4. Turn your Bluetooth feature on and connect to the Infinix Smart 8 Plus device you’re trying to connect too
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.7 Exclude Bluetooth issues of the other device
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
 
 Sometimes, you might not even have a problem with your Infinix Smart 8 Plus, but rather the Bluetooth device you’re trying to connect to, whether that’s a Bluetooth speaker, an in-car entertainment system, or any other kind of Bluetooth device.
@@ -188,12 +167,22 @@ By testing out another Bluetooth device to see if it will work with your preferr
 3. If the new device doesn’t connect to your Bluetooth device, you’ll know there’s a problem with your Bluetooth device, not your Infinix Smart 8 Plus
 4. If the Infinix Smart 8 Plus devices connect, you’ll know there’s a problem with your Infinix Smart 8 Plus
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### 2.8 Place both devices within close proximity
 
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 One of the common misconceptions of Bluetooth is just how far the wireless range is of the service. You need to make sure your devices are well and truly close to each other to make sure a stable connection can be formed.
 
@@ -209,18 +198,12 @@ With this in mind, you’ll want to make sure you’re limiting the amount of Bl
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Infinix Smart 8 Plus to the Infinix Smart 8 Plus device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Full Guide: How To Fix Connection Is Not Private on Infinix Smart 8 Plus
 
 Are you encountering the "your connection is not private" issue on your phone? We found many Android users have increasingly expressed their frustrations with this recurring problem while browsing on the internet.
 
 Usually, you can just reload the page to fix the error. But in case it doesn't help, you may need to look for more advanced solutions. In the following discussion, we will delve into why this **"your connection is not private" on Android** happens and explore solutions that work for you.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Addressing Your Connection Is Not Private on Android
 
 First of all, what does **"your connection is not private" on Android** mean? To answer this question, it's essential to understand that this error is often associated with Secure Socket Layer (SSL) protocol issues.
@@ -271,14 +254,18 @@ This error code points to a discrepancy between your Infinix Smart 8 Plus's date
 
 This is a more generic error message that indicates a problem with the website's SSL certificate without specifying the exact nature of the issue. It could indicate various issues, such as an expired certificate, a misconfiguration in the certificate chain, or other SSL-related problems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Part 3: How To Fix Your Connection Is Not Private on Android
 
 Encountering the **"your connection is not private" error on Android** can be a frustrating experience. Fortunately, there are various methods to address and fix this issue, depending on its underlying cause.
 
 In this section, we will explore some effective solutions to help you regain a secure and private connection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Clear your cache
 
@@ -290,12 +277,22 @@ So, [<u>clearing your browser cache and data </u>](https://drfone.wondershare.co
 - **Step 2:** Access the Menu (the three dots button) to open the Settings. Select Privacy and Security > Clear Browsing Data.
 - **Step 3:** Opt for the "All Time" option and click "Clear Data" to erase your cache.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear the browser's cache and data.](https://images.wondershare.com/drfone/article/2023/12/connection-private-android-2.jpg)
 
 After successfully clearing your browser cache and data, revisit the website to check if the problem persists.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Repair the Android system
 
@@ -307,14 +304,8 @@ How to perform system repair with Dr.Fone:
 
 Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox section and connect your Infinix Smart 8 Plus. Choose System Repair and pick Android as your device type.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Open Dr.Fone System Repair tool.](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,322,863** people have downloaded it
@@ -323,9 +314,6 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 Click Start on the new screen to kick off the repair. Since you're dealing with a connection private issue on Android, select System Damage.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Select the problem and begin the repair.](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 3.** Fill in the Infinix Smart 8 Plus device Details
@@ -359,9 +347,6 @@ The specific steps can vary based on your Android model, but the general approac
 
 ![Check and fix the Android's date and time.](https://images.wondershare.com/drfone/article/2023/12/connection-private-android-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Method 4: Perform factory reset
 
 If nothing else works, there might be malware on your phone causing trouble. It's crucial to eliminate this threat before further damage occurs. The recommended action is to [<u>perform a factory reset </u>](https://drfone.wondershare.com/reset-android/how-to-factory-reset-huawei-phone-when-locked.html) on your phone.
@@ -375,9 +360,6 @@ However, keep in mind that this process can result in data loss, so it's essenti
 
 Most of the time, you won't need to go to the extreme of a factory reset. The simpler solutions mentioned earlier should take care of the Security Certificate Error on your Android.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 By now, you should have a good grasp of the "Your Connection Is Not Private" problem on Android. This issue typically arises from complications with the SSL certificate of the website, designed to ensure a secure connection.
@@ -396,10 +378,13 @@ You might find lots of people online stating I can't receive text messages on An
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
 
-
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
 The most common symptoms that would clarify that your Android messaging service is not working right are given below:
@@ -420,6 +405,13 @@ The reasons why your Android is not receiving texts are given below:
 
 Apart from all these reasons, some additional causes are also there that can lead to this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: One-click to Fix Android not Receiving Texts by Android System Repair
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/06HDyPDOBqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
@@ -427,8 +419,6 @@ Apart from all these reasons, some additional causes are also there that can lea
 If you are not willing to waste your precious time fixing the message problem, then you can switch to the top-rated Android repair tool, i.e., [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). With this software, you can easily fix issues like the black screen of death, crashing apps, can't receive text messages on Android, or failed download. If you have no idea what is causing the message app problem, you can simply think of repairing the whole Android system.
 
 You surely need to try the software as it can perform the following tasks:
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -446,23 +436,14 @@ You can download and install the software on your system and use it to fix any i
 
 Step 1: Launch the application and choose the System Repair option from the main interface. Connect your Infinix Smart 8 Plus to the computer and choose the Android Repair mode, and hit the Start button to begin.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![fix android not receiving texts with Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: You will have to provide information about your device, including the brand, name, model, country, and carrier. In between, you will be notified that your device repair might erase the existing data of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android not receiving texts - provide info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 3: Agree with the conditions and hit the Next button. The software will download the firmware package automatically. It might take a while to finish the download, and when it is finished, the repair process will be initiated automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![android not receiving texts - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 It won’t take long, and your Infinix Smart 8 Plus will be repaired. Now you will be able to receive and send text messages without any hassle.
@@ -471,21 +452,19 @@ It won’t take long, and your Infinix Smart 8 Plus will be repaired. Now you wi
 
 The easiest thing that you can try if your Infinix Smart 8 Plus is not receiving any text messages is because the SIM is not inserted right. If your SIM card is inserted wrong, then it is obvious you can't receive text messages on Android. Simply take out the SIM card, see how it must be inserted, and do it correctly. Once the SIM is inserted in the right way, you will receive the pending text messages immediately unless there is another issue preventing it.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Part 3: Check Network Connection
 
 Another simple method that you can try if you are not receiving text messages on Infinix Smart 8 Plus phone is to check your network connection. Usually, you can see the bar on the top of the screen. Maybe the problem exists because you have no signal strength at the moment.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![android not receiving texts - check connection](https://images.wondershare.com/drfone/article/2019/02/no-internet-connection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: Consult your Carrier about the Data Plan
 
 Maybe you are unable to get messages on your Infinix Smart 8 Pluss because your existing data plan has expired. You can directly contact your Carrier about the issues where your Infinix Smart 8 Plus is not receiving texts. If your plan has expired, then you might have to renew it immediately. If not, then try out other fixes to resolve this issue.
@@ -496,9 +475,6 @@ Sometimes, people complain that Infinix Smart 8 Plus is not receiving texts from
 
 When you are offline the message is saved on the server and just about when you get online, the text messages are delivered. If it is the SIM issue, then you will not get the message unless you contact your network operator.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: Clear the Cache of Messaging App
 
 In smartphones, the memory space often gets filled up with cache. And not everyone remembers that they have to clear the cache from time to time. The accumulated cache can also lead to this issue. So, if your Android messaging app is not working, you have to clear the cache memory.
@@ -521,9 +497,6 @@ Step 1: Open the messages app and open settings. Look for an option that says �
 
 Step 2: There, you will see the existing messages on the SIM. You can either delete all the messages or perform a selective deletion to free up space.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Part 8: Try a Third-party Messaging App
 
 If you can’t receive messages on your default app, then you can try installing a third-party messaging app. Nowadays, most people use social media messaging apps like WhatsApp, Skype, etc. for messaging. So, if somehow, the Android is not receiving texts, then the new apps can help you to send and receive messages with a non-native network.
@@ -540,9 +513,6 @@ If the Infinix Smart 8 Plus phone is not receiving texts from iPhone, then this 
 
 Taking the iPhone in hand makes sure that you are connected to a network. Open settings and scroll to look for the Message option. Toggle the bar next to the iMessage option to turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![android not receiving texts - check iphone message](https://images.wondershare.com/drfone/article/2019/02/deactivate-imessages.jpg)
 
 If the FaceTime option is also on, you might have to deactivate that too to send messages and calls as regular ones.
@@ -551,15 +521,9 @@ If the FaceTime option is also on, you might have to deactivate that too to send
 
 Updating the operating system to the latest Android version can fix some system errors which may cause the "Android not receiving texts" issue because the latest version always brings a better user experience and fix the know bugs.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 Now you know several methods that can work if the Android messaging app is not working.  If you experience this kind of issue with your Infinix Smart 8 Plus, then you are most likely to resolve them with these fixes. If none of the solutions seem to fix the issue, then you can take the help of Dr. Fone - System Repair (Android) feature. With this tool, you can resolve all kinds of working issues on your device.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -573,9 +537,23 @@ Now you know several methods that can work if the Android messaging app is not w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-amplify-your-audience-maximizing-youtube-viewership/"><u>[New] 2024 Approved Amplify Your Audience Maximizing YouTube Viewership</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-recording-rivals-meet/"><u>[Updated] In 2024, Recording Rivals, Meet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-reimagining-communication-advanced-tactics-for-capturing-skype-calls/"><u>[Updated] Reimagining Communication Advanced Tactics for Capturing Skype Calls</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-g24-power-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola G24 Power Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-diving-deep-into-minecraft-playback-secrets-from-the-pros/"><u>2024 Approved Diving Deep Into Minecraft Playback Secrets From the Pros</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-your-first-venture-into-hosting-effective-zoom-webinars/"><u>2024 Approved Your First Venture Into Hosting Effective Zoom Webinars</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-yuva-3-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/live-stream-titans-clash-twitch-vs-youtube-analysis/"><u>Live-Stream Titans Clash Twitch Vs YouTube Analysis</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sharpen-your-iphone-hdri-discover-the-top-4-fixes-for-premiere-pro-professionals/"><u>Sharpen Your iPhone HDRI Discover the Top 4 Fixes for Premiere Pro Professionals</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-note-12-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi Note 12 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-significant-savings-with-abbyy-discover-the-story-of-a-6m-windfall-for-a-leading-finance-firm/"><u>Unlocking Significant Savings with ABBYY: Discover the Story of a $6M Windfall for a Leading Finance Firm</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-asus-rog-phone-8-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Asus ROG Phone 8? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-a24-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy A24 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-realme-narzo-60x-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme Narzo 60x 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

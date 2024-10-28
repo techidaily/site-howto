@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Sony Xperia 1 V | Dr.fone
-date: 2024-10-16T19:15:53.536Z
-updated: 2024-10-22T20:19:35.656Z
+date: 2024-10-23T16:22:07.871Z
+updated: 2024-10-28T17:18:21.826Z
 tags: 
   - problems
 categories:
@@ -85,10 +85,10 @@ One of the standout features of Dr.Fone - System Repair is its high success rate
 When grappling with persistent issues hindering app downloads on the Google Play Store, having a reliable third-party tool becomes essential to safeguard your apps and ensure a seamless user experience. The next section will show you how to use the platform to fix the **apps not downloading in the Google Play Store** problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part III. First Choice: Use Dr.Fone - System Repair for App Downloading Issues
@@ -111,19 +111,19 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![dr.fone firmware download successfully](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Initiating the system repair process will be accompanied by a progress bar visible on the screen. Upon completion, a prompt window will emerge, presenting a completion message.
 
 - If you can download apps successfully, click **Done**to close the tool.
 - If the problem persists, select **TryAgain** to rerun the process.
 
 ![dr.fone completion message window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you can't download Dr.Fone for some reason, you can try these common fixes to try to resolve your app download issues on your device
 
@@ -147,13 +147,6 @@ An outdated Play Store version may lead to compatibility issues. Open the Google
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Clear Play Store Cache and Data
 
 Cached data in the Play Store can sometimes cause download problems. Head to the Sony Xperia 1 V device settings and open **Apps** or **Application Manager**. Locate Google Play Store, and tap **Storage**. Clear both the cache and data to refresh the app.
@@ -165,6 +158,13 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 Authentication issues with your Google account can prevent app downloads. Confirm that your Google account is properly verified. Go to the Sony Xperia 1 V device settings, select **Accounts**, and ensure your Google account is active and synced.
 
 ![syncing google account on device](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Check Date and Time Settings
 
@@ -178,16 +178,16 @@ Device settings or parental controls might impose restrictions on certain app do
 
 ![download restrictions on android](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Restart the Sony Xperia 1 V device
 
 Sometimes, a simple restart can resolve various issues. Power off your device, wait a few seconds and then power it back on. This can help refresh system processes and eliminate temporary glitches.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -220,6 +220,13 @@ A most effective method to fix Google Play Store not working
 
 ![fix google play store not working using a dedicated tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Select the option "System Repair". In the new interface, click on the "Android Repair" tab.
 
 ![fix google play store not working by selecting the repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -228,23 +235,9 @@ A most effective method to fix Google Play Store not working
 
 ![fix google play store not working in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Activate the Download mode from your Sony Xperia 1 V.
 
 ![fix google play store not working in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. After entering the Download mode, the Dr.Fone tool starts to download the correct firmware to your Android.
 
@@ -257,13 +250,6 @@ A most effective method to fix Google Play Store not working
 1. Wait until the Android repair process is complete. Start your Android and Google Play Store, you can then find that the Google Play Store not working issue no longer exists.
 
 ![google play store stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Video tutorial to fix Google Play Store not working
 
@@ -313,7 +299,27 @@ Step 3 – Now, instead of tapping “Clear cache”, tap on “Clear data”. T
 
 ![tap on “Clear data”](https://images.wondershare.com/drfone/article/2017/06/14985033317238.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After this, open “Google Play Store” and now your problem might be solved now.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Reconnecting the Google account
 
@@ -471,13 +477,6 @@ Here’s how to fix it.
 
     ![wipe cahce of snapchat crashing - step 3](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-three.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Here, you can choose to Clear All, but you can select individual areas if you prefer
 
     ![wipe cahce of snapchat crashing - step 4](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-four.png)
@@ -515,6 +514,13 @@ Once completed, open the software, so you’re on the main menu.
 **Step 2**: From the main menu, click the System Repair option, followed by the **Android** option. Of course, if you have an iOS device you want to repair in the future, the option is there if you want it. Also, connect your Sony Xperia 1 V to your computer using the USB cable.
 
 ![snapchat crashing - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3**: Confirm details.
 
@@ -614,15 +620,22 @@ Make sure you back up your personal files from your device first like your photo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-deciphering-if-reviews-on-products-are-paid-for-2024/"><u>[New] Deciphering if Reviews on Products Are Paid for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-turn-fb-hd-videos-into-high-quality-mp4-free-online-method-unveiled-for-2024/"><u>[Updated] Turn FB HD Videos Into High-Quality MP4 – Free Online Method Unveiled for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-computer-connection-5-strategies-to-move-files/"><u>2024 Approved Computer Connection 5 Strategies to Move Files</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bot-communication-mirroring-human-chatter/"><u>Bot Communication: Mirroring Human Chatter</u></a></li>
-<li><a href="https://tools.techidaily.com/jetprofiler/products/"><u>Jetprofiler's Products</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quintessential-scripts-elevating-blockbusters-for-2024/"><u>Quintessential Scripts Elevating Blockbusters for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-moto-g73-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Moto G73 5G Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-realme-gt-3-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme GT 3 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-insiders-take-on-androids-creme-de-la-creme-podcast-apps/"><u>[Updated] Insider’s Take on Android’s Crème De La Crème Podcast Apps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-simplifying-image-reduction-creating-professional-thumbnails/"><u>[Updated] Simplifying Image Reduction Creating Professional Thumbnails</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-pinnacle-strategies-for-persuasive-client-centered-videography-for-2024/"><u>[Updated] The Pinnacle Strategies for Persuasive Client-Centered Videography for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-lava-yuva-2-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Lava Yuva 2 Pro Phone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nokia-c12-plus-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nokia C12 Plus? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bluetooth-device-drivers-download-compatible-with-windows-11-and-10/"><u>Bluetooth Device Drivers Download: Compatible with Windows 11 & 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-pc-visuals-with-an-easy-to-execute-intel-graphics-driver-upgrade-on-w10/"><u>Boost PC Visuals with an Easy-to-Execute Intel Graphics Driver Upgrade on W10.</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-oneplus-ace-3-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on OnePlus Ace 3 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-c67-4g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme C67 4G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/decoding-the-capabilities-of-samsung-photo-studio-for-2024/"><u>Decoding the Capabilities of Samsung Photo Studio for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-sony-xperia-5-v-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Sony Xperia 5 V Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-play-7t-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor Play 7T 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/rtx-2080-latest-driver-update-windows-1078-supported-versions-available-now/"><u>RTX 2080 Latest Driver Update - Windows 10/7/8 Supported Versions Available Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/trailblazers-in-vr-eyewear-design/"><u>Trailblazers in VR Eyewear Design</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oppo-find-x7-ultra-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo Find X7 Ultra Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Vivo X100 Safely | Dr.fone
-date: 2024-07-30T13:25:05.537Z
-updated: 2024-07-31T13:25:05.537Z
+date: 2024-10-25T18:51:16.650Z
+updated: 2024-10-28T17:44:39.174Z
 tags: 
   - problems
 categories:
@@ -39,8 +39,6 @@ From battery issues to physical damage to the Vivo X100 device, there can be man
 
 While you are worried about how to flash Vivo X100 instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Vivo X100 logo.
 
-
-
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One-click solution to flash Vivo X100
@@ -63,21 +61,22 @@ We are going to explain how to flash a dead Android phone using a PC using Dr.Fo
 
 Step 1: Once you have downloaded and installed Dr.Fone, launch it. From the main menu, tap on ‘System Repair’ and get your Vivo X100 connected to it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to flash Dead Android phone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Click ‘Android Repair’ from the available options, and then press the ‘Start’ button to fix the Dead Android phone by flashing it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![android repair to flash dead phone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: On the Vivo X100 device information screen, pick the appropriate device brand, name, model, and other details followed by tapping the ‘Next’ button.
 
 ![choose brand info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Phase 2: Put the Android device in Download mode to start repair.**
 
@@ -85,32 +84,20 @@ Step 1: It is essential to boot your Vivo X100 in Download mode before repairing
 
 - If the Vivo X100 device has a ‘Home’ button: Turn it off and then hold down the ‘Volume Down’, ‘Home’, and ‘Power’ buttons altogether for 5-10 seconds. Un-hold all of them and hit the ‘Volume Up’ button for entering ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![flash android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - In the absence of a ‘Home’ button: Switch off the Android device and hold the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons for 5 to 10 seconds, then release them. Hit the ‘Volume Up’ button for entering the ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![flash android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2: Press the ‘Next’ button for initiating firmware download.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![flashing samsung galaxy](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Part 3: How to flash Vivo X100 dead phone with Odin?
@@ -127,18 +114,12 @@ Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file ty
 
 ![firmware zip file](https://images.wondershare.com/drfone/article/2017/07/14991896515887.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![firmware md5 file](https://images.wondershare.com/drfone/article/2017/07/14991896708947.jpg)
 
 Step 3: In this step, download the latest version of Odin on your PC and move it to the desktop, and then right-click on the downloaded Odin file to select “Run as Administrator”.
 
 ![download odin](https://images.wondershare.com/drfone/article/2017/07/14991896878336.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
 
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
@@ -147,9 +128,6 @@ Step 4: Now, boot your dead device to Download Mode by pressing the power, volum
 
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![android download mode](https://images.wondershare.com/drfone/article/2017/07/14991897566586.jpg)
 
 Step 6: Now, you may use a USB to connect your Vivo X100 to the PC. Odin will recognize your device, and in the Odin window, you will see a message saying “Added”.
@@ -158,17 +136,10 @@ Step 6: Now, you may use a USB to connect your Vivo X100 to the PC. Odin will re
 
 Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA” or “AP” on the Odin window and then click “Start”.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open md5 file](https://images.wondershare.com/drfone/article/2017/07/14991898009725.jpg)
 
 Finally, once the flashing process is complete, your Vivo X100 phone will reboot and start normally, and you may see a “Pass” or “Reset” message on the Odin window on the PC.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Part 4: How to flash MTK Android dead phone with SP Flash tool?
 
 SP Flash tool, also known as SmartPhone Flash tool is a popular freeware tool used to flash custom ROM or firmware in MTK Android phones. It is a very successful tool and is extremely easy to use.
@@ -193,6 +164,13 @@ After completing the above steps, connect your dead device to the PC with a USB 
 
 That's it! Now simply disconnect your phone and wait for it to reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: How to flash Vivo X100 dead phone with the Phoenix tool?
 
 Phoenix tool, better known as PhoenixSuit, is a tool similar to the SP False tool and Odin. It works very well with Vivo X100  and is the best answer to “How to fix dead Android phone?”, “How to flash dead Android phone using PC?”, etc.
@@ -201,30 +179,18 @@ Let's look at the steps of flashing the Vivo X100 dead phone with the Phoenix to
 
 First, download and install the Vivo X100 PC Suite driver on your PC. Then you will need to download the PhoenixSuit tool and then launch it.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![nokia pc suite](https://images.wondershare.com/drfone/article/2017/07/14991899457235.jpg)
 
 Now, on the toolbar, click “Tools” and select “Data Package Download” from the drop-down list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![data package download](https://images.wondershare.com/drfone/article/2017/07/14991899684185.jpg)
 
 Then move to download the firmware for your dead Vivo X100  and save it in a new Folder. Once done, go back to the Phoenix tool window and click on “File” and select “Open Product”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open product](https://images.wondershare.com/drfone/article/2017/07/14991899991748.jpg)
 
 Simply, feed in the details and then click “OK”.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![check the details](https://images.wondershare.com/drfone/article/2017/07/14991900207363.jpg)
 
 After this, click on “Flashing” and select “Firmware update” and then browse to select the appropriate product code and then click “OK” again.
@@ -237,9 +203,6 @@ Lastly, just click on “Refurbish” and connect your phone to the PC using a U
 
 That was it, the flashing process may take up to a few minutes after which your dead Vivo X100  will restart automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 6: How to flash a dead phone that won’t turn on via factory reset?
 
 Using tools for flashing Android devices can be a solution; however, it is heavily restricted to the Vivo X100 device models. For a generalized solution, there can be other options that you can go with. Factory resetting an Android device by putting it in Recovery Mode is one way. To know **how to flash a dead Android phone** using factory reset, go through the steps featured below:
@@ -248,10 +211,6 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 
 **Step 2:** As the Android boot menu opens on your screen, use the “Volume Down” and “Volume Up” keys to scroll up and down the menu. On accessing the “Wipe Data/Factory Reset” option, use the “Power” key to select the particular option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![choose wipe data factory reset option](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-1.jpg)
 
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
@@ -262,14 +221,8 @@ The screen of your Vivo X100 may be faulty, due to which it is not launching. Wh
 
 If the Android vibrates on restarting and the screen does not lighten up, the problem can be directed to a hardware fault. The screen is broken and needs physical assistance to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 8: How to fix a dead Android phone by changing the battery
 
 Another solution that can help you fix the dead Android phone is changing its battery. The battery of an Android device can last up to 3 years. When its capacity drops to a bare minimum, it is best to change the battery of your Android. Upon trying to restart your Vivo X100, if it does not, you might need to replace your battery. All Android phone batteries are removable, which should be regulated with proper supervision.
@@ -280,9 +233,6 @@ Another solution that can help you fix the dead Android phone is changing its ba
 
 If you are unable to discover any proper solution for **how to flash dead Android phones,** you might have to consult the respective customer support of the Android phone manufacturers. Consult customer support to discover why the phone is dead and how it can be flashed. The respective personnel will assist you in resolving the issue, which might require monetary input from your side.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 A dead Android phone might be the cause of worry, but the techniques given above to flash your dead Android device safely are very helpful. These methods have been tried and tested by users all over the world and thus, we recommend them to you. If your phone is dead or has become unresponsive, do not panic. Depending on your phone’s brand, here are ways to guide you on how to fix the dead Android phone and how to flash dead Android phone using PC.
@@ -295,9 +245,6 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 
 “Unfortunately TouchWiz home has stopped” is the talk of the town due to annoying TouchWiz UI, a front-end user interface developed by Vivo X100. Not to mention, the Vivo X100 has borne a whole lot of heat from its agitated users over the years and the reason is pretty much obvious due to the pre-installed bloatware apps and the theme launch “TouchWiz home”. That not just brutally annoys users and eats up a heck of internal storage space but lags up too often due to low speed and stability. As a result users end up with “Unfortunately TouchWiz home has stopped” and “Unfortunately, TouchWiz has stopped”. Apparently, there are several flaws in the design and functioning of this launcher and hence, Touchwiz keeps stopping or becomes unresponsive.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Common scenarios when TouchWiz keeps stopping
 
 Here in this section, we will introduce some scenarios that can be blamed for why **_TouchWiz is not working_**. Check out the following points:
@@ -307,15 +254,17 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 - Many times **<u>installing some third-party apps and widgets</u>** can cause this problem. The apps like launchers can be conflicting with TouchWiz home launcher and therefore cease it to work. Also, a glitched widget is responsible for the same i.e. forces stop the TouchWiz.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: 9 Fixes to “Unfortunately TouchWiz has stopped”
 
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -337,9 +286,6 @@ The one-click repairing process begins with downloading Dr.Fone from its officia
 
 After you open the software, hit on the “System Repair” button from the main interface. With the help of a genuine USB cable, get your Vivo X100 phone and connect it with the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 3: Choose the Tab**
@@ -364,14 +310,15 @@ Tip: You can use [Dr.Fone – Phone Backup (Android)](https://tools.techidaily.c
 
 You will get some instructions on your screen to keep your device in Download mode. Follow them according to the Vivo X100 device you own and hit “Next”. When you do this, the program will detect your device and let you download the latest firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 **Step 7: Repair Device**
@@ -379,6 +326,13 @@ You will get some instructions on your screen to keep your device in Download mo
 Now, when the firmware is downloaded, the program will itself begin to repair your device. Wait and keep the Vivo X100 device connected until you get the notification for process completion.
 
 ![get android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clear the cache data the TouchWiz
 
@@ -396,9 +350,6 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 
 Please note that this will delete all your Home screens post this method.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Disable Motion & gesture settings
 
 The functions regarding Motions and Gestures can be responsible for why **_TouchWiz home has stopped_** in your device. Usually the Vivo X100 devices running on Android version less than Marshmallow are prone to encountering this issue. Or the Vivo X100 devices having modest specs often fall prey to the issue. When you disable these settings, you might get out of the problem.
@@ -406,6 +357,13 @@ The functions regarding Motions and Gestures can be responsible for why **_Touch
 ### Change the Animation Scale
 
 When you use TouchWiz, it may consume higher memory usage for high amount of graphic maintenance. As a result, the “**_unfortunately TouchWiz home has stopped_**” error might crop up. Taking this into consideration, you should try reconfiguring the animation scale and get rid of the error. Here’s how:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clear Cache Partition
 
@@ -427,16 +385,10 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 - Open “Settings” and go to “Personalization”.
 - Hit on “Easy Mode” now.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![easy mode to fix TouchWiz stopping](https://images.wondershare.com/drfone/article/2019/02/easy-mode.jpg)
 
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Boot your phone to safe mode
 
 Here is the next solution to be followed when TouchWiz keeps stopping. As we already said, third-party apps can cause this issue, booting your device in the Safe mode will disable those apps temporarily. Hence you need to boot your Vivo X100 device to Safe mode and check if the reason is any third-party app.
@@ -449,9 +401,6 @@ Here is the next solution to be followed when TouchWiz keeps stopping. As we alr
 
 ![safe mode](https://images.wondershare.com/drfone/article/2019/02/enable-safe-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reset Factory settings
 
 If the above method went futile and you’re still at the same place, then factory reset is the next logical step to be taken. We suggest this method because it will take your device to its factory state. As a result, TouchWiz will probably get normal and work perfectly.
@@ -464,11 +413,25 @@ Along with this, we would also suggest you go take backup of your data so that y
 
 ![reset factory settings](https://images.wondershare.com/drfone/article/2019/02/reset-factory-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Wait a few minutes and your device will reboot.
 
 ### Install a new launcher to replace TouchWiz
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Full Solutions to Fix Error Code 920 In Google Play on Vivo X100
 
@@ -481,16 +444,10 @@ Trust me, once you face an error it’s frustrating until you find a solution to
 - (iii) Clearing the cache and data of Google Play Store
 - (iv) Removing and adding back your Google account
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Part 1: What is Error Code 920?
 
 Sometimes people think that they have endangered the fate of humanity because of the error that is being displayed (Just Kidding). Don’t worry you haven’t crashed any server or did any damage to your device but you just gave your device a lot of work. Before you got this error you were downloading a lot of apps right. Well, that’s the exact reason why you came up with this error in the first place. There are various reasons behind this error code 920, however, the prominent ones are –
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![error code 920](https://images.wondershare.com/drfone/article/2017/06/14985021968933.jpg)
 
 - a. Too much load on your data connection.
@@ -531,23 +488,14 @@ Easiest Fix to Error Code 920
 
 Then connect your Vivo X100 using the official cable and select the ‘Android Repair’ option.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step #3** On the next screen, insert your device information to ensure you’re downloading the correct firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step #4** Put your phone into Download mode by following the onscreen instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix error code 920 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Dr.Fone will now download your firmware and automatically install it onto your device. Your phone will then reset, and you’ll be ready to use it without experiencing that annoying error 920 play store code!
@@ -586,9 +534,6 @@ Step 2 – Now find “Applications” option under the settings menu. Here you 
 
 Step 3 – Now, at the bottom, you can find “Clear Cache” option. Tap on it and your all cache will be cleared.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![error code 920-google play store clear cache](https://images.wondershare.com/drfone/article/2017/06/14985022644620.jpg)
 
 After doing this step clear your task manager (delete all recent applications). Go to play store and resume your download or update.
@@ -605,17 +550,11 @@ Step 3 - In that section find the account you use for the play store or the acco
 
 Step 4 - Now you have successfully removed your account and after that re-add your account. After entering your email id and password and hence adding your account. Go back to the play store and find the application that you were downloading or updating when the error code 920 came in. Now re-install it or update it back again. This time you won’t be faced with the play store error 920.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![error code 920-remove account](https://images.wondershare.com/drfone/article/2017/06/14985022914137.jpg)
 
 Again it is best if you follow the methods as illustrated above for removing error code 920 and this might have solved your problem by now. If now, you go for a complete factory reset, do it only at the extreme stage as this will delete all your personal data.
 
 Play Store error 920 is a pretty common error and its solutions are also very easy. Please do ensure that you follow each and every step in sync so that you can get the best result out of these methods and get over with the error code 920 on Google play store.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -629,9 +568,20 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-inside-outlook-what-youre-missing-as-a-story-viewer/"><u>[New] 2024 Approved Inside Outlook What You're Missing as a Story Viewer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-iptv-recording-mastery/"><u>[Updated] 2024 Approved A Comprehensive Guide to IPTV Recording Mastery</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-transforming-your-facebook-history-a-look-back-video-guide/"><u>[Updated] Transforming Your Facebook History A Look Back Video Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/adapting-to-the-wild/"><u>Adapting to the Wild</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-motorola-edge-2023-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola Edge 2023? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-hp-color-laserjet-pro-m452dn-printer-drivers-and-software/"><u>Free Download: HP Color LaserJet Pro M452dn Printer Drivers & Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-realme-11x-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Realme 11X 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-11-pro-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 11 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-gt-10-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix GT 10 Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-picture-in-picture-perfection-tips-and-tricks-for-final-cut-pro-for-2024/"><u>Updated Picture-in-Picture Perfection Tips and Tricks for Final Cut Pro for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy F15 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone
-date: 2024-10-21T00:10:10.486Z
-updated: 2024-10-22T18:21:07.412Z
+date: 2024-10-26T17:47:23.492Z
+updated: 2024-10-28T18:42:39.586Z
 tags: 
   - problems
 categories:
@@ -68,6 +68,13 @@ Step 1: Launch the application and choose the System Repair option from the main
 
 ![fix android not receiving texts with Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: You will have to provide information about your device, including the brand, name, model, country, and carrier. In between, you will be notified that your device repair might erase the existing data of your device.
 
 ![android not receiving texts - provide info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -82,25 +89,11 @@ It won’t take long, and your Samsung Galaxy F15 5G will be repaired. Now you w
 
 The easiest thing that you can try if your Samsung Galaxy F15 5G is not receiving any text messages is because the SIM is not inserted right. If your SIM card is inserted wrong, then it is obvious you can't receive text messages on Android. Simply take out the SIM card, see how it must be inserted, and do it correctly. Once the SIM is inserted in the right way, you will receive the pending text messages immediately unless there is another issue preventing it.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Check Network Connection
 
 Another simple method that you can try if you are not receiving text messages on Samsung Galaxy F15 5G phone is to check your network connection. Usually, you can see the bar on the top of the screen. Maybe the problem exists because you have no signal strength at the moment.
 
 ![android not receiving texts - check connection](https://images.wondershare.com/drfone/article/2019/02/no-internet-connection.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Consult your Carrier about the Data Plan
 
@@ -111,6 +104,13 @@ Maybe you are unable to get messages on your Samsung Galaxy F15 5Gs because your
 Sometimes, people complain that Samsung Galaxy F15 5G is not receiving texts from iPhone, and it might be because of the SIM card issue. So, the best thing you can try is to remove the SIM from your current phone and insert it into another phone.
 
 When you are offline the message is saved on the server and just about when you get online, the text messages are delivered. If it is the SIM issue, then you will not get the message unless you contact your network operator.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6: Clear the Cache of Messaging App
 
@@ -134,6 +134,13 @@ Step 1: Open the messages app and open settings. Look for an option that says �
 
 Step 2: There, you will see the existing messages on the SIM. You can either delete all the messages or perform a selective deletion to free up space.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 8: Try a Third-party Messaging App
 
 If you can’t receive messages on your default app, then you can try installing a third-party messaging app. Nowadays, most people use social media messaging apps like WhatsApp, Skype, etc. for messaging. So, if somehow, the Android is not receiving texts, then the new apps can help you to send and receive messages with a non-native network.
@@ -143,13 +150,6 @@ _Further Reading: [15 Best Free Chat Apps in 2022. Chat Now!](https://drfone.won
 ## Part 9: Ensure your Phone is Fully Charged
 
 Another possible fix to this problem might be your phone’s battery percentage. Sometimes, when the Android is in power saving mode, it disables the default apps too. As a result, you can't even receive text messages on Android. So, when you plug in the charger, the power saving mode will be disabled, and you will get your text messages.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 10: Ensure It’s Not An iMessage From iPhone
 
@@ -189,6 +189,19 @@ It is appropriate to tag our generation as smartphone addicts because we use sma
 
 ![Settings](https://images.wondershare.com/drfone/article/2017/06/14984583143306.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Another possible reason for Apps to crash or why an App won't open is a possible data crash. This may occur due to **an unstable internet connection** or **various other background software interruptions**.
 
 The causes for the problem to occur are many and no specific reason can be established as the only reason why Apps won't open on your Samsung Galaxy F15 5G. There are a lot of speculations about why such a problem occurs and persists, but it is more important to focus on how to fix if a particular App won't open or if all Apps won't open on Android.
@@ -225,13 +238,6 @@ Step 2: Hit the ‘Android Repair’ located on the left panel followed by tappi
 
 ![start to fix App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Feed your Samsung Galaxy F15 5G details under the Samsung Galaxy F15 5G device information screen. Please check the warning and press the ‘Next’ button right after that.
 
 ![select the android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -244,38 +250,24 @@ Step 1: You got to boot the Android device under Download mode, as it’s import
 
 ![boot android in download mode with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - When there is no ‘Home’ button – Turn off the Samsung Galaxy F15 5G device and then for 5 to 10 seconds, keep the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons pressed. Tap the ‘Volume Up’ button after releasing all the buttons to enter the ‘Download’ mode.
 
 ![boot android in download mode without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: Hitting the ‘Next’ button starts downloading the Android firmware.
 
 ![fix App won't open in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Once Dr.Fone - System Repair (Android) verifies the downloaded firmware, it begins fixing the app won't open the issue asap.
 
 ![fixing App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: 3 Common fixes if a particular App won’t open
 
@@ -349,19 +341,6 @@ To update your software:
 
 ![tap on “System Updates](https://images.wondershare.com/drfone/article/2017/06/14984184697337.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 • In this step, if you are prompted for an update, follow the instruction given and do so.
 
 Updating your Android software solves most of your problems. This method might sound weird but works wonders when it comes to App related issues.
@@ -387,6 +366,13 @@ To Factory Reset your Samsung Galaxy F15 5G, carefully follow the guidelines giv
 • Visit “Settings” to find the “Backup and reset” option as shown in the screenshot below.
 
 ![Backup and reset](https://images.wondershare.com/drfone/article/2017/06/14984185141857.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 • Now click on “Factory Data Reset”>“Reset Device”>“Erase Everything”
 
@@ -429,6 +415,13 @@ All these reasons and more can handle with ease and you can continue to use Goog
 ## Part 2: Easiest solution to fix _Error Code 963_ on Android
 
 When it comes to the most convenient solution to fix error 963, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) cannot be missed. It is the most productive program that covers a wide range of Android issues. It ensures full safety while performing and one can fix the Android issues in a hassle-free way.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -541,6 +534,13 @@ Now click on “Move to Phone” or “Move to internal storage” and try to do
 
 ![“Move to internal storage”](https://images.wondershare.com/drfone/article/2017/06/14984137603366.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Try updating the App now. If the Apps’s update does not download even now, DO NOT worry. There are three more ways to help you.
 
 #### **4\. Unmount your external Memory Card**
@@ -611,20 +611,16 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-microsoft-hololens-demo-tomorrows-tech-today/"><u>[New] Microsoft HoloLens Demo – Tomorrow’s Tech Today</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-blaze-pro-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Blaze Pro 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/code-comparison-evaluating-github-copilot-and-chatgpt-for-effective-coding-practices/"><u>Code Comparison: Evaluating GitHub Copilot and ChatGPT for Effective Coding Practices</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-a05mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy A05Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-8t-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 8T Phone FRP Lock</u></a></li>
-<li><a href="https://games-able.techidaily.com/quality-graphics-without-breaking-bank/"><u>Quality Graphics Without Breaking Bank</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-net-finds-high-quality-alarm-tones/"><u>Top Net Finds High-Quality Alarm Tones</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/turn-mess-into-mastery-efficient-edits-on-bulky-tiktok-drafts-for-2024/"><u>Turn Mess Into Mastery Efficient Edits on Bulky TikTok Drafts for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1728484599263-windows-111087/"><u>Windows 11/10/8/7におけるボリュームシャドウイメージの作成手順詳細ガイド</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capture-clarity-at-no-cost-top-screen-recorder-for-windows-and-macos/"><u>[New] Capture Clarity at No Cost - Top Screen Recorder for Windows & MacOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-brilliance-a-thorough-review-of-the-professional-quest-with-bl2711u/"><u>2024 Approved Unveiling Brilliance A Thorough Review of the Professional Quest with BL2711U</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-x90s-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo X90S Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-redmi-k70e-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi Redmi K70E 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mirrorless-innovation-taking-over-dslr-in-videos/"><u>Mirrorless Innovation Taking Over DSLR in Videos?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photographic-lifelines-in-the-cloud-affordable-and-elite-storage-solutions-for-2024/"><u>Photographic Lifelines in the Cloud Affordable & Elite Storage Solutions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-quick-guide-to-instagram-video-speed-up-mobiledesktop/"><u>The Quick Guide to Instagram Video Speed-Up (Mobile/Desktop)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-and-abilities-of-openais-shapely-evaluator-shape-in-ai-explainability/"><u>The Role and Abilities of OpenAI's Shapely Evaluator (ShapE) in AI Explainability</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tranquil-tracks-easy-volume-diminution-via-garageband/"><u>Tranquil Tracks Easy Volume Diminution via Garageband</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-play-40c-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor Play 40C Screen | Dr.fone</u></a></li>
 </ul></div>
 

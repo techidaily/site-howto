@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Spark 20C | Dr.fone
-date: 2024-10-20T23:51:30.058Z
-updated: 2024-10-22T21:17:01.441Z
+date: 2024-10-21T17:03:18.321Z
+updated: 2024-10-28T17:02:30.467Z
 tags: 
   - problems
 categories:
@@ -51,13 +51,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![pick android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** See which Android errors Wondershare Dr.Fone can fix and click **Start**.
 
 ![start system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -83,6 +76,19 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
 
 ![android system repair in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 12:** Once it finishes, click **Done**to complete the system repair.
 
@@ -149,6 +155,13 @@ Another way to stop Spotify from crashing can be restarting your Android. The st
 
 ![restart android to fix spotify crashing](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5. Set Up Your Time and Date
 
 Another possible reason for your Spotify closing problem could be the incorrect time and date on your Android. That is also an easy fix; you must set it correctly and try opening the app again. Set up your time and date with these steps:
@@ -207,19 +220,6 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 
 ![available storage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-17.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Then, you can go ahead and clear as much space as you can.
 
 ### 9. Reinstall Spotify
@@ -253,6 +253,13 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
 ### 11. Clear the Cache
@@ -275,13 +282,6 @@ When using different apps and websites, your device caches data from those sourc
 - **Step 5:** Tap **Clear Cache**.
 
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
@@ -337,27 +337,20 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step Three** Next, use the drop-down menus to make sure all the information about your specific device is correct, including your device, operating system number, and carrier information. Click Next to confirm your selections.
 
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step Four** When prompted, put your phone into Download Mode needed for repairs. You can do this by following the on-screen instructions which will depend on which device you have and the available buttons.
 
 ![bluetooth not working on android - download mode to fix issues](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step Five** The software will now begin the repair process. This will happen automatically, and all you’ll need to do is make sure your device doesn’t disconnect during this process, and your computer doesn’t turn off.
 
@@ -394,13 +387,6 @@ By clearing the cache, you can restart the service and hopefully clear up any is
 ### 2.4 Remove paired devices
 
 ![android bluetooth problems - remove paired devices](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-paried.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sometimes, you may have a problem with the Tecno Spark 20C device you’re trying to connect to via Bluetooth, especially if this is a device you’ve updated. To counter and repair this, you’re going to need to remove the paired devices saved with your device and then reconnect them.
 
@@ -440,6 +426,13 @@ Here’s how to turn on your Bluetooth discoverable feature;
 3. Under the available settings, tick the box that allows your Bluetooth device to be discoverable
 4. Turn your Bluetooth feature on and connect to the Tecno Spark 20C device you’re trying to connect too
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.7 Exclude Bluetooth issues of the other device
 
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
@@ -465,6 +458,13 @@ The further away the Tecno Spark 20C devices are from each other, the less likel
 
 ![android bluetooth problems - avoid interference](https://images.wondershare.com/drfone/article/2019/04/bluetooth-device-interference.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The final consideration you’ll want to think about is that Bluetooth radio waves, or wireless waves, can interfere with each other. This means they can bounce off each other or get muddled up and make things confusing from your devices.
 
 With this in mind, you’ll want to make sure you’re limiting the amount of Bluetooth activity in the area where you’re trying to use a device. While uncommon, this could be the problem.
@@ -484,6 +484,13 @@ Don't worry, though. This guide is here to help. It will show you how to unbrick
 A **bricked phone** might sound like a techy term, but it's pretty simple – when your Tecno Spark 20C phone turns into a lifeless block that won't do anything. In this section, you'll learn all about why this happens, so you can avoid these issues and keep your phone alive as long as possible.
 
 ![android logo head with broken glass](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Trying to flash incompatible ROMs.** Sometimes, people want their Tecno Spark 20C phones to run different software like a custom version of Android called a ROM. But if you use the correct ROM for your specific phone, it can mess things up nicely. Also, inexperience with ROM flashing can **hard brick**your **Tecno Spark 20C** Be sure to follow guides and ask for community help online.
 - **Rooting mishaps/failures.**"Rooting" means giving your phone superpowers, but if you mess up, it can go wrong. Your phone might not boot up, leaving you with a brick. Like the previous bullet, follow guides carefully, especially if inexperienced.
@@ -523,13 +530,6 @@ Now that you know what the Tecno Spark 20C Flash Tool is all about, it's time to
 - **Step 5.** Click the **refresh** button until the flash tool recognizes your device. Then, click **flash** to replace the firmware. A text saying "success" should appear under the result column.
 
 ![xiaomi flash tool success screen](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Congratulations! Your phone should be up and working after following these steps.
 
@@ -585,16 +585,16 @@ Now that you know about Dr.Fone, it's time to understand how to use it. Hopefull
 
 ![wondershare dr.fone initiate system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 7.** After the process is finished, your phone should now be okay. Click **Done**.
 
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4. Best Practices/Tips Before Unbricking Your Phone
 
@@ -628,22 +628,18 @@ As a parting reminder, always keep a tool ready for emergencies. For this, choos
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagrams-abandoned-followers-map/"><u>2024 Approved Instagram's Abandoned Followers Map</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-instagrams-live-feature-without-your-identity/"><u>2024 Approved Mastering Instagram's Live Feature Without Your Identity</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-tecno-spark-20c-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Tecno Spark 20C Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connecting-ps-vr-headset-to-your-computer-easy-steps-for-an-immersive-experience/"><u>Connecting PS VR Headset to Your Computer: Easy Steps for an Immersive Experience</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/considering-macos-sonomas-latest-version/"><u>Considering MacOS Sonoma's Latest Version?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722995415817-effortless-fix-for-continuous-control-errors-and-crashing-problems/"><u>Effortless Fix for Continuous Control Errors & Crashing Problems</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/from-audience-to-advocate-strategies-for-powerful-fb-covers-for-2024/"><u>From Audience to Advocate Strategies for Powerful FB Covers for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-6-plus-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 6 Plus Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-and-repair-missing-ringtones-for-smsmms-alerts-in-ios-15plus/"><u>Troubleshoot and Repair Missing Ringtones for SMS/MMS Alerts in iOS 15+</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-oneplus-12r-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your OnePlus 12R Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-infinix-smart-7-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Smart 7 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-poco-x5-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Poco X5 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-google-pixel-8-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Google Pixel 8 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smartphone-image-editing-the-best-free-layers-and-tools-guide-top-10/"><u>[New] Smartphone Image Editing - The Best Free Layers & Tools Guide (Top 10)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-story-lore-who-are-the-premier-channels/"><u>[Updated] Story Lore Who Are the Premier Channels?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-secrets-to-viral-meme-innovation/"><u>2024 Approved Secrets to Viral Meme Innovation</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oppo-find-x6-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Oppo Find X6 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-significant-tenets-of-interactive-storytelling/"><u>In 2024, Significant Tenets of Interactive Storytelling</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-macs-green-screen-fix-for-youtube-videos-for-2024/"><u>Mastering Mac's Green Screen Fix for YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fixing-battlefield-5-not-starting/"><u>Step-by-Step Guide to Fixing Battlefield 5 Not Starting</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-f14-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy F14 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

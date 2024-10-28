@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Vivo Y100 5G | Dr.fone
-date: 2024-07-30T13:27:27.670Z
-updated: 2024-07-31T13:27:27.670Z
+date: 2024-10-23T16:55:53.068Z
+updated: 2024-10-28T18:23:40.485Z
 tags: 
   - problems
 categories:
@@ -28,21 +28,13 @@ However, the problems don’t stop there. You may have problems with turning you
 
 Due to the complicated nature of Bluetooth technology, there could be many reasons as to why your Bluetooth feature is playing up in this way, but that doesn’t mean it can’t be fixed. For the rest of this guide, we’re going to explore the nine need-to-know ways you can fix the Bluetooth problems not working on your Vivo Y100 5G as quickly as possible.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. 9 fixes for Bluetooth not working on Android
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### 2.1 One click to fix Android Bluetooth issues due to Android system
 
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Vivo Y100 5G. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -60,16 +52,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step One** Make your way over to the Wondershare website and download the Dr.Fone - System Repair (Android) software to either your Mac or Windows computer. Install the downloaded file by following the on-screen instructions. Once installed, open the software, so you’re on the Main Menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![bluetooth not working on android - use a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step Two** Connect your Vivo Y100 5G to your computer using the USB cable, wait a couple of seconds, and then click the System Repair option. On the Menu on the left, click Android Repair, and then press Start.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![bluetooth not working on android - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step Three** Next, use the drop-down menus to make sure all the information about your specific device is correct, including your device, operating system number, and carrier information. Click Next to confirm your selections.
@@ -78,9 +64,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step Four** When prompted, put your phone into Download Mode needed for repairs. You can do this by following the on-screen instructions which will depend on which device you have and the available buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![bluetooth not working on android - download mode to fix issues](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **Step Five** The software will now begin the repair process. This will happen automatically, and all you’ll need to do is make sure your device doesn’t disconnect during this process, and your computer doesn’t turn off.
@@ -89,9 +72,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Vivo Y100 5G and start using it and your Bluetooth features.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### 2.2 Restart Android and turn on Bluetooth again
 
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
@@ -104,12 +84,16 @@ One of the most common solutions in technology is simply to turn it on and off a
 4. Navigate Settings > Bluetooth and then enable the setting
 5. Try to connect your Bluetooth device to what you were trying to do before
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Clear the Bluetooth cache
 
 ![android bluetooth problems - clear cache](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-cache.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Every service on your Vivo Y100 5G using a feature called a cache. This is where information is stored to help the feature run properly and give you the best experience. However, over time this can get messy and can cause problems with your Bluetooth feature.
 
@@ -123,9 +107,6 @@ By clearing the cache, you can restart the service and hopefully clear up any is
 
 ### 2.4 Remove paired devices
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - remove paired devices](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-paried.jpg)
 
 Sometimes, you may have a problem with the Vivo Y100 5G device you’re trying to connect to via Bluetooth, especially if this is a device you’ve updated. To counter and repair this, you’re going to need to remove the paired devices saved with your device and then reconnect them.
@@ -136,6 +117,13 @@ Here’s how;
 2. Turn Bluetooth on, and you’ll see all the connections your Vivo Y100 5G is paired with
 3. Go through these settings and remove/delete/forget every connection on your device
 4. Now when you go to connect to a device using Bluetooth, repair the Vivo Y100 5G device, enter the passcode, and use a fresh paired connection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.5 Use Bluetooth in safe mode
 
@@ -155,9 +143,6 @@ Here’s how to find out;
 
 ### 2.6 Turn on the discoverable feature
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![android bluetooth problems - discoverable feature](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-discoverable.jpg)
 
 To ensure your Bluetooth can connect to other devices, it’s important to make sure you’re making your device discoverable to other Bluetooth devices. If it’s hidden, other devices won’t be able to find it, and sometimes it can bug and prevent connections.
@@ -169,10 +154,6 @@ Here’s how to turn on your Bluetooth discoverable feature;
 3. Under the available settings, tick the box that allows your Bluetooth device to be discoverable
 4. Turn your Bluetooth feature on and connect to the Vivo Y100 5G device you’re trying to connect too
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 2.7 Exclude Bluetooth issues of the other device
 
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
@@ -186,14 +167,8 @@ By testing out another Bluetooth device to see if it will work with your preferr
 3. If the new device doesn’t connect to your Bluetooth device, you’ll know there’s a problem with your Bluetooth device, not your Vivo Y100 5G
 4. If the Vivo Y100 5G devices connect, you’ll know there’s a problem with your Vivo Y100 5G
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.8 Place both devices within close proximity
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
 
 One of the common misconceptions of Bluetooth is just how far the wireless range is of the service. You need to make sure your devices are well and truly close to each other to make sure a stable connection can be formed.
@@ -202,9 +177,6 @@ The further away the Vivo Y100 5G devices are from each other, the less likely t
 
 ### 2.9 Avoid interference of other Bluetooth sources
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - avoid interference](https://images.wondershare.com/drfone/article/2019/04/bluetooth-device-interference.jpg)
 
 The final consideration you’ll want to think about is that Bluetooth radio waves, or wireless waves, can interfere with each other. This means they can bounce off each other or get muddled up and make things confusing from your devices.
@@ -213,9 +185,6 @@ With this in mind, you’ll want to make sure you’re limiting the amount of Bl
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Vivo Y100 5G to the Vivo Y100 5G device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Authentication Error Occurred on Vivo Y100 5G? Here Are 10 Proven Fixes
 
 There are times when users get an authentication error while they connect to a Wifi network. The problem is mostly found in Android whenever a device tries to establish a connection to Wifi. If your device is also experiencing an authentication problem Wifi, then don’t worry. It can easily be resolved. In this post, we will make you familiar with the root cause for the Vivo Y100 5G Wifi problem and how you can resolve whenever authentication error occurred on your device.
@@ -236,9 +205,6 @@ In this scenario, whenever you try to connect to a Wifi network (even after supp
 
 Before we make you familiar with different fixes for the Wifi authentication error, it is important to check your router beforehand. Chances are that you could be getting the authentication error because your router is not functioning properly. You can restart it and try to connect any other device to it as well to check it. After making sure that there is no problem with your network or router, follow these suggestions to overcome the authentication error occurred issue.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check if extra characters added in Wi-Fi password
 
 Ensure that no other extra characters are being added in the Wi-Fi password while you’re entering it. Key in the password carefully while viewing the characters, and then check if the authentication error occurs or not.
@@ -250,8 +216,6 @@ Android system repair is considered the most effective way to fix Wifi Authentic
 So Android repair requires programming knowledge to do it?
 
 No! With Dr.Fone - System Repair (Android), you can do Android repair in just a few steps and get all issues like Wifi Authentication error fixed easily.
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -274,9 +238,6 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 
 1. Connect your Vivo Y100 5G to the computer, and select "Android Repair" in the middle.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![fix Wifi Authentication Error by selecting option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 1. Select all the details that match your device, and click "Next".
@@ -291,9 +252,6 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 
 ![Wifi Authentication Error fixing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Use static IP address instead of DHCP
 
 DHCP, or Dynamic Host Configuration Protocol is the default IP address assignment for the Wi-Fi settings on many devices. Whereas DHCP can cause IP address conflict during the dynamic IP address assignment. So, you'd better change "DHCP" to "Static" to see if the authentication error persists.
@@ -306,21 +264,12 @@ Step 3: Depending on your Vivo Y100 5G model, look for “IP Settings” and tap
 
 Step 4: Note down the static IP address fields and wipe off all the fields. Punch it in again and then save it.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change dhcp settings of wifi](https://images.wondershare.com/drfone/article/2019/06/dhcp-static.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check carefully for duplicate Wi-Fi names before you connect
 
 Perhaps, you might connect to a WiFi with a similar name. There are good chances that some users do not modify their WiFi network name and possibly, your neighbor may have the same WiFi network, service provider. Therefore, ensure you connect to the correct WiFi network.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reset the Wifi network
 
 One of the easiest ways to fix the authentication problem of Wifi is to reset the network. To do this, you would be required to forget the respective network first and then connect to it again. This can be done by simply following these steps.
@@ -328,6 +277,13 @@ One of the easiest ways to fix the authentication problem of Wifi is to reset th
 1\. Firstly, you need to forget a Wifi network. To do it, go to your phone’s Settings > WiFi and network. From here, you can see a list of all the Wifi hotspots that your phone connects to. Select the network you wish to forget.
 
 ![Select the network](https://images.wondershare.com/drfone/article/2017/06/14981516957952.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2\. When you would select a network, it will provide the basic information related to it. Just tap on the “Forget” button and agree to the pop-up message. This will erase the network’s information from your device.
 
@@ -337,18 +293,12 @@ One of the easiest ways to fix the authentication problem of Wifi is to reset th
 
 ![tap on the Connect button](https://images.wondershare.com/drfone/article/2017/06/14981518275903.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Modify network connection
 
 If the above solution won’t work, then you would be required to walk the extra mile to fix the Vivo Y100 5G Wifi problem. After you reset a network connection, if still getting issues regarding the authentication of the network, you need to modify the connection. In this technique, you will be changing the IP settings on your phone to alter the way it establishes a secure connection. You can do it by following these steps.
 
 1\. To start with, visit your phone’s Settings and open the Wifi page.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open the Wifi page](https://images.wondershare.com/drfone/article/2017/06/14981518727215.jpg)
 
 2\. This will display a list of all the Wifi networks that are associated with your device. Just long-tap on the Wifi network that you wish to modify. It will open another pop-up window. From here, tap on the option of “Manage network settings”. Sometimes, users also get an option of “Modify network settings” here as well. Simply select it to proceed.
@@ -357,27 +307,25 @@ If the above solution won’t work, then you would be required to walk the extra
 
 3\. It will display basic information related to your Wifi network. Just tap on the “Show advanced options” button to access more options related to the network setting.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Show advanced options](https://images.wondershare.com/drfone/article/2017/06/14981519311624.jpg)
 
 4\. From the IP Settings menu, change the field from DHCP to Static. This will let you establish a static connection between your device and the router.
 
 ![change the field](https://images.wondershare.com/drfone/article/2017/06/14981520827015.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5\. As soon as you will change it to static, you will get different fields related to your network’s IP address, gateway, DNS, and more. Simply fill these fields and tap on the “Save” button once you are done.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![fill these fields](https://images.wondershare.com/drfone/article/2017/06/14981521159129.jpg)
 
 Now, try to connect to the Wifi hotspot again. You would be able to overcome the authentication problem of Wifi.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Change Network Security Type
 
 It has been observed that, when we connect to Wifi, our device chooses a wrong security type. This clashes with the default security protocol of the router and authentication error occurred due to this. If your device is facing the same issue, then it can be fixed by simply changing its security type. To do this, follow these instructions:
@@ -388,27 +336,32 @@ It has been observed that, when we connect to Wifi, our device chooses a wrong s
 
 ![tap on the “Security”](https://images.wondershare.com/drfone/article/2017/06/14981521984185.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. From here, you will get a list of various security protocols that you can pick. Select “WPA/WPA2-PSK” and save your selection.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Select “WPA/WPA2-PSK”](https://images.wondershare.com/drfone/article/2017/06/14981522445076.jpg)
 
 Now, try to connect to the network again. Most likely, it will let you fix the authentication error on your device.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Update Android firmware to the latest
 
 There are instances where an outdated OS version of your Vivo Y100 5G may create a hindrance in establishing a connection between your device and the WiFi network. You need to update your Android firmware to the latest version and then check if the problem persists or not.
@@ -425,25 +378,23 @@ Sometimes, the WiFi router may hang up while establishing a connection and there
 
 By simply turning on the Airplane mode (and later turning it off), you can easily fix the authentication problem Wifi most of the time. You can find a toggle button for Airplane mode on the notification bar of your phone. If you can’t find it there, then go to your phone’s Settings > Connection > More Networks and turn on the feature of “Airplane Mode”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![go to Connection](https://images.wondershare.com/drfone/article/2017/06/14981523333039.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Let it do for a while. Afterward, turn it off and try to connect to the Wifi network again.
 
 After following these quick and easy suggestions, you would be able to fix the Vivo Y100 5G Wifi problem for sure. Even if you use any other Android device, then its authentication error can easily be resolved after these effective solutions. Go ahead and give these expert solutions a try and let us know about your experience as well. If you have any other solution to fix the authentication problem Wifi, then share it with us as well in the comments.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix Unfortunately Settings Has Stopped on Vivo Y100 5G Quickly
 
 All of you, sooner or later, must have found the “Unfortunately Settings has stopped” error on your Vivo Y100 5G. The problem can occur if the Settings keeps stopping or crashing. Many times, you may try to open the Settings but it doesn’t even open. Or possibly, it may freeze after getting opened thereby hampering the Vivo Y100 5G device's performance.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unfortunately settings has stopped](https://images.wondershare.com/drfone/article/2022/04/fix-unfortunately-settings-has-stopped.jpg)
 
 Well! There can be a number of reasons why this thing happens. For instance, custom ROM installations, not enough space in the Vivo Y100 5G device or perhaps an outdated version of Android. If you are struggling with the same issue and want to know what to do when Android Settings is not responding, this post will help you. We have explained everything in detail along with the solutions. So, scroll down and get things sorted.
@@ -486,19 +437,11 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 2. Now, head to all the apps and select “Google Play Store” from there.
 3. Tap on “Uninstall Updates” and restart your device to check if the crashing Settings issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Vivo Y100 5G, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Vivo Y100 5G devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -530,9 +473,6 @@ Step 3: Feed Correct Information
 
 In the next window, you need to fill in some necessary information like the name and model of the mobile device. Enter details like country and career. Check once and hit on “Next”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Android settings not responding - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 4: Enter Download Mode
@@ -545,12 +485,16 @@ Step 5: Repair the Issue
 
 Once the firmware is completely downloaded, your Vivo Y100 5G will automatically start getting repaired. Stay there and you will receive a notification that the repair is done.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding - fix the issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: Wipe cache partition to restore Settings
 
@@ -564,9 +508,6 @@ Like RAM, wiping cache is also vital so as to make the Vivo Y100 5G device’s o
 
 ![Android settings not responding - cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Part 6: Factory reset your Android
 
 You can also opt for Factory resetting your device to fix the issue of Settings keeps stopping. By removing everything from the Vivo Y100 5G device, it will make your device run properly. If you have important data on your device, please make sure to [create a backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before taking action if you don’t want to lose it. The steps are as follows.
@@ -575,9 +516,6 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 2. Tap on “Factory data reset” followed by “Reset device”.
 3. Wait for the completion of the process and check if Settings is stopping or not after it gets rebooted.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
 ## Part 7: Check and update Android OS
@@ -588,9 +526,6 @@ A lot of times minor issues crop up due to the operating systems that get outdat
 2. Now, hit on “System Update” and the Vivo Y100 5G device will look for any available update.
 3. If there is any, go along with the prompts to install it and make your phone even smarter.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Android settings not responding - update android firmware](https://images.wondershare.com/drfone/article/2019/04/update-samsung.jpg)
 
 ## Conclusion
@@ -600,9 +535,6 @@ If your Vivo Y100 5G shows the "Unfortunately Settings has stopped" error, don't
 For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html). It's known for fixing many iOS problems without losing any data. Remember, a well-working device is just a few steps away!
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -616,9 +548,20 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-filmora-video-avi-to-image-gif-a-step-by-step-guide/"><u>[New] Filmora Video (AVI) to Image (GIF) A Step by Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-tech-savvy-summit-unveiling-our-top-5-video-capture-tools/"><u>[New] Tech-Savvy Summit Unveiling Our Top 5 Video Capture Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/22-in-depth-metaverse-illustrations-for-enlightenment-for-2024/"><u>22 In-Depth Metaverse Illustrations for Enlightenment for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-honor-x50-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Honor X50 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-inability-to-preserve-display-configuration-state/"><u>Fixing Inability to Preserve Display Configuration State</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-realme-12-proplus-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Realme 12 Pro+ 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guarding-your-conversations-techniques-to-stop-chatgpt-from-saving-interactions/"><u>Guarding Your Conversations: Techniques to Stop ChatGPT From Saving Interactions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-f14-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-leveraging-machine-learning-for-clean-audio-transmission/"><u>In 2024, Leveraging Machine Learning for Clean Audio Transmission</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sky-high-adventures-the-gopro-karma-experience/"><u>In 2024, Sky-High Adventures The GoPro Karma Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-20c-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20C Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-risks-when-chatting-with-advanced-ais-like-chatgpt/"><u>Understanding Risks When Chatting with Advanced AIs Like ChatGPT</u></a></li>
+</ul></div>
 

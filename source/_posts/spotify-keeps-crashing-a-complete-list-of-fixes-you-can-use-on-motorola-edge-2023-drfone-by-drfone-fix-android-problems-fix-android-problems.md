@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Motorola Edge 2023 | Dr.fone
-date: 2024-10-21T19:02:24.840Z
-updated: 2024-10-22T16:19:55.805Z
+date: 2024-10-21T16:33:14.519Z
+updated: 2024-10-28T17:19:16.443Z
 tags: 
   - problems
 categories:
@@ -51,9 +51,29 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![pick android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** See which Android errors Wondershare Dr.Fone can fix and click **Start**.
 
 ![start system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 5:** Select the **Brand,****Name, Model, Country,** and **Carrier** In the **Carrier** section, choose **OPEN** if your device is unlocked.
 
@@ -80,13 +100,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 12:** Once it finishes, click **Done**to complete the system repair.
 
 ![completed android system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 There are two ways to enter Download Mode: one for Android devices with the Home button and another for those without it.
 
@@ -225,6 +238,13 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7:** Once it installs, log in to test if it’s working.
 
 ### 10. Check if Spotify Is Down
@@ -241,13 +261,6 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 11. Clear the Cache
 
@@ -324,13 +337,6 @@ If unfortunately the above solutions don’t work, there is a requirement to fla
 
 The next most common problem where people get stuck with is when there Gmail won’t sync. Here are the solutions to this particular problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Make Space in the Phone
 
 When Gmail stops syncing, one of the things that can save you is clearing the storage. It is the space that maybe the culprit and therefore the syncing don’t work at all. We would like to suggest you removing the unwanted apps to clear the storage or deleting the downloaded files. You can also transfer the important files to your computer and make the space vacant.
@@ -348,19 +354,6 @@ When still the Gmail not working issue persists and you can’t sync, make sure 
 
 ![Gmail crashing on Android - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Restart the Motorola Edge 2023 device
 
 Again, restarting can also be helpful in this situation. When you boot the Motorola Edge 2023 device again, check if your Gmail can sync or not.
@@ -370,10 +363,10 @@ Again, restarting can also be helpful in this situation. When you boot the Motor
 In case you are using the Gmail over your web browser and it has tested your patience in loading, here are the solutions that could prove to be fruitful for you. Please check these out.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ensure to Use Gmail Supported Browser
@@ -443,13 +436,6 @@ Many times, the users get the error that says “Account not synced” while the
 ### Make Space in the Phone
 
 When Gmail stops to further the process by prompting “Accounts not synced” issue, be sure that your Motorola Edge 2023 has some storage in it. If not, create it straight away. As we also mentioned in one of the above solutions, you can either delete the unnecessary files or transfer the important files to the PC to make the space in the phone. Go along with this tip and see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Check Gmail Sync Settings
 
@@ -529,10 +515,10 @@ The reasons why your Android is not receiving texts are given below:
 Apart from all these reasons, some additional causes are also there that can lead to this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: One-click to Fix Android not Receiving Texts by Android System Repair
@@ -542,6 +528,13 @@ Apart from all these reasons, some additional causes are also there that can lea
 If you are not willing to waste your precious time fixing the message problem, then you can switch to the top-rated Android repair tool, i.e., [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). With this software, you can easily fix issues like the black screen of death, crashing apps, can't receive text messages on Android, or failed download. If you have no idea what is causing the message app problem, you can simply think of repairing the whole Android system.
 
 You surely need to try the software as it can perform the following tasks:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -591,6 +584,13 @@ Sometimes, people complain that Motorola Edge 2023 is not receiving texts from i
 
 When you are offline the message is saved on the server and just about when you get online, the text messages are delivered. If it is the SIM issue, then you will not get the message unless you contact your network operator.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 6: Clear the Cache of Messaging App
 
 In smartphones, the memory space often gets filled up with cache. And not everyone remembers that they have to clear the cache from time to time. The accumulated cache can also lead to this issue. So, if your Android messaging app is not working, you have to clear the cache memory.
@@ -610,13 +610,6 @@ Sometimes, if you are not receiving text messages on Motorola Edge 2023, it mean
 Step 1: Open the messages app and open settings. Look for an option that says “Manage SIM Card Messages”. Sometimes, you can find this option under Advanced Settings.
 
 ![android not receiving texts - free up space](https://images.wondershare.com/drfone/article/2019/02/manage-SIM-card-messages.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: There, you will see the existing messages on the SIM. You can either delete all the messages or perform a selective deletion to free up space.
 
@@ -640,6 +633,13 @@ Taking the iPhone in hand makes sure that you are connected to a network. Open s
 
 If the FaceTime option is also on, you might have to deactivate that too to send messages and calls as regular ones.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 11: [Update Your Android](https://drfone.wondershare.com/android-update/samsung-update.html)
 
 Updating the operating system to the latest Android version can fix some system errors which may cause the "Android not receiving texts" issue because the latest version always brings a better user experience and fix the know bugs.
@@ -662,19 +662,24 @@ Now you know several methods that can work if the Android messaging app is not w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-step-by-step-guide-to-capturing-and-embedding-speech-in-ppt-for-2024/"><u>[New] Step-by-Step Guide to Capturing and Embedding Speech in PPT for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-vimeo-vs-youtube-vs-dailymotion-which-platform-is-the-one/"><u>[Updated] Vimeo vs YouTube vs Dailymotion Which Platform Is the One?</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/automatisches-sichern-von-dateien-unter-windows-11-lerne-die-besten-zwei-strategien-zum-schutz-ihrer-daten/"><u>Automatisches Sichern Von Dateien Unter Windows 11 - Lerne Die Besten Zwei Strategien Zum Schutz Ihrer Daten!</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-itel-a70-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Itel A70 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-how-to-use-d3dgear-screen-recorder/"><u>In 2024, How to Use D3DGear Screen Recorder</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-scrutinizing-vsdc-writings-on-its-features-and-rival-software/"><u>In 2024, Scrutinizing VSDC’ Writings on Its Features and Rival Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ds-for-eliminating-invisible-youtube-playback-for-2024/"><u>Methods for Eliminating Invisible YouTube Playback for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/pro-vs-pro-max-the-battle-of-iphone-models/"><u>Pro Vs. Pro Max: The Battle of iPhone Models</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ring-versus-nest-a-comprehensive-side-by-side-review-of-smart-doorbells/"><u>Ring Versus Nest: A Comprehensive Side-by-Side Review of Smart Doorbells</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a56s-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A56s 5G Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-infinix-gt-10-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix GT 10 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-meizu-21-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Meizu 21 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-instantly-accessible-downloading-youtube-playlists-effortlessly/"><u>[Updated] In 2024, Instantly Accessible Downloading YouTube Playlists Effortlessly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-standard-youtube-license-vs-creative-commons/"><u>[Updated] Standard YouTube License Vs. Creative Commons</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-gtx-gems-the-best-for-high-res-gaming/"><u>2024 Approved GTX Gems The Best for High-Res Gaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-laugh-ledger-the-premier-free-meme-repository/"><u>2024 Approved Laugh Ledger The Premier FREE Meme Repository</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-honor-play-8t-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor Play 8T? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-motorola-moto-g24-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola Moto G24? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/easy-steps-para-iniciar-lenovo-con-un-disco-usb-en-windows-11/"><u>Easy Steps Para Iniciar Lenovo Con Un Disco USB en Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-igtv-with-a-phone-or-dslr-camera-the-ultimate-guide/"><u>In 2024, Mastering IGTV with a Phone or DSLR Camera The Ultimate Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-honor-x50-gt-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Honor X50 GT Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-motorola-edge-40-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Motorola Edge 40 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-guide-to-drying-out-distorted-sounds-three-effective-methods/"><u>Updated The Ultimate Guide to Drying Out Distorted Sounds Three Effective Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-a23-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy A23 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-nokia-g22-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nokia G22 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Infinix Smart 8 Plus | Dr.fone
-date: 2024-07-30T13:19:03.452Z
-updated: 2024-07-31T13:19:03.452Z
+date: 2024-10-27T17:58:28.949Z
+updated: 2024-10-28T19:03:50.824Z
 tags: 
   - problems
 categories:
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
 Smartphones nowadays contribute to our daily workflow, whether you’re a student or a professional. They get more sophisticated and add new features every year, making them more attractive with each new release. However, users sometimes deal with their **screen touch not working** on Android, raising various concerns.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix unresponsive android/ios touchscreen intro](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-01.jpg)
 
 If you are facing a similar issue, this page has all the solutions to teach you **what to do if your phone screen is not working.** By exploring the different methods below, you will be able to know how to fix a frozen phone touch screen as an Android user. Read on for more information.
@@ -55,28 +52,16 @@ It may not respond properly when an Android device is dirty due to water, sweat,
 
 Here is a list of things you should do **how to fix a frozen phone touch screen,** whether you’re using an iPhone or an Android smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Clean Your Smartphone
 
 Your **screen touch not working** can sometimes get fixed by simply cleaning the screen on your smartphone. Use a soft dry cloth, gently clean your iPhone or Android device, and ensure water, oils, dirt, or other debris are no longer on your display. If you recently dropped your device in water, turn it off and leave it untouched for the next few hours.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![cleaning iphone with cloth](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Remove Extra Peripherals
 
 Unplug any external device connected to your iPhone’s Lightning port or USB-C if your **phone screen stops working**. For Android users, meanwhile, disconnect any accessories like chargers or wireless headphones. After that, try using the touchscreen. If it works, the outcome proves that the fault appeared due to the external device.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Force Restart Your Device
 
 If your **phone screen is still unresponsive**,maybe it **is o**verloaded. You should force restart your Infinix Smart 8 Plus. It doesn’t delete any data. Here’s how.
@@ -97,10 +82,6 @@ If your Infinix Smart 8 Plus Redmi **phone is stuck on loading screen** or “t
 
 **Step 2:** Choose **Restart,** then **Accept** if a confirmation message spears. Then wait a few seconds or minutes when your device is performing the reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![reboot xiaomi redmi options](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-06.jpg)
 
 ### 4\. Update Your Software
@@ -110,9 +91,6 @@ Your smartphone may behave erratically due to software bugs. While these are out
 - For iOS users, go to your iPhone **Settings**\> **General** > **Software Update** > **Download and Install**.
 - For Android owners, go to **Settings > Software Update.** Tap the **Check for software updates**to see if a new update is available.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ios software update](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-07.jpg)
 
 ### 5\. Perform a Factory Reset
@@ -131,21 +109,12 @@ You might be asked to enter the pin of the security lock on the phone if you’v
 
 **S****tep 3:** You may need to enter your Infinix Smart 8 Plus account password if you have bounded an account to your phone after taping **Delete all**. Then your Infinix Smart 8 Plus phone will reset. You’ll see its initial setup screen when it turns back on.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Fix Unresponsive Touchscreen With an Alternative
 
 The methods outlined above usually solve issues on your **smartphone not responding to touch**. If all else fails, Wondershare Dr.Fone for [<u>iOS</u>](https://drfone.wondershare.com/ios-system-repair.html) and [<u>Android</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) can fix various smartphone issues within less than 10 minutes. The program enables you to fix common scenarios such as black screen, boot loop, bricked iOS or Android, and much more without any required skills.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Key Features
 
 The key features of Wondershare Dr.Fone for iOS and Android are listed below.
@@ -158,9 +127,6 @@ Wondershare Dr.Fone for Android and iOS allows you to fix your smartphone within
 
 The program supports all iOS versions, including the latest iOS 16 and iOS 16 beta. Compared to the iTunes store or other methods, the app can quickly fix any iPhone issues without data loss. For Android users, meanwhile, Dr.Fone supports up to 1000+ Android smartphones making it highly versatile even if you’re using an older Android device or the latest models.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Tech Specs
 
 Here are the minimum system requirements of Wondershare Dr.Fone (iOS) for your computer.
@@ -206,18 +172,12 @@ Wondershare Dr.Fone (Android) price plans are available for a 1-Year or Perpetua
 - Perpetual License (1-5 Mobile Devices) - $49.95
 - 1-Year Business License (Unlimited Devices) - $399.00
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How To Fix Unresponsive Touchscreen With Wondershare Dr.Fone
 
 In this step-by-step guide below, you can fix your **unresponsive phone screen** using Wondershare Dr.Fone on iOS and Android.
 
 **Step 1**: Download and install Wondershare Dr.Fone for iOS or Android on your computer. Launch the app afterward and connect your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone fix unresponsive touchscreen 01](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step 2A (For iOS)**: Choose the correct model of your iPhone to download the appropriate firmware package.
@@ -228,10 +188,14 @@ In this step-by-step guide below, you can fix your **unresponsive phone screen**
 
 **Step 3**: Follow the on-screen instructions provided on the main program window and wait for the repair process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![dr.fone fix unresponsive touchscreen 03](https://images.wondershare.com/drfone/drfone/android-repair-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: People Also Ask
 
@@ -241,9 +205,6 @@ Some common questions you should know when taking care of an unresponsive phone 
 
 Your iPhone screen with a **touch issue** will sometimes go black after not responding to touch due to several issues. It could be hardware, software, issues with a particular app, software crash, or you have a low battery. If it’s a drained battery, you’re in luck; all you have to do is charge it. Otherwise, you’ll have to perform a force restart on your iPhone to try to reboot it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### 2\. How Do I Keep My Android From Crashing?
 
 Keeping your apps updated should help you solve app crashing issues that can impact your Android OS. These apps build up large caches throughout your normal usage. Clearing cached data from time to time can drastically improve your smartphone’s performance and prevent **touch issues**. To remove your app cache, go to **Settings** \> **Storage** and tap **Cached Data**.
@@ -254,26 +215,24 @@ Wondershare Dr.Fone for iOS and Android is free to download and install. You can
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Knowing the common causes of an **unresponsive phone touchscreen** is the first step to preventing it from happening to your smartphone. While there are ways to fix it when it does happen, prevention is better than cure, as most experts say. However, if the methods outlined above don’t work, your best bet is to use a dedicated program such as Wondershare Dr.Fone for Android and iOS.
 
 Wondershare Dr.Fone works on almost all modern smartphones today and can fix a **stop-working phone screen** within less than 10 minutes. It’s beginner-friendly and doesn’t require advanced technical know-how to use right away.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9 Solutions to Fix Process System Isn't Responding Error on Infinix Smart 8 Plus
 
 The “**Process system isn’t responding**” is a common error that occurs in almost every kind of Android device. Even though most Android smartphone manufacturers have taken a huge leap in the last few years, the operating system still suffers from a few pitfalls. The process system isn't responding Android is one of those errors that have been reported plenty of times. I definitely understand encountering the 'Process System Isn't Responding' error on your Infinix Smart 8 Plus can be frustrating.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![process system isn't responding](https://images.wondershare.com/drfone/article/2017/06/14980669359224.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 However, there are several straightforward methods to resolve this issue. This article will provide a step-by-step guide on how to fix the problem and restore your device to normal functionality.
 
@@ -306,14 +265,15 @@ This is one of the easiest ways to resolve the **process system not responding**
 
 If it won’t work, then long press the Power and Volume up buttons at the same time until the screen goes off. Afterward, use the power button again to turn it on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![force restart android](https://images.wondershare.com/drfone/article/2023/07/process-system-isnt-responding.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Reset App Preferences
 
 Sometimes the apps interfere with the Infinix Smart 8 Plus device's settings because they were given permission to access specific functions. It is recommended to allow the asked permission precisely because some suspicious apps can also steal your sensitive data. Here are the straightforward instructions you need to follow to reset the app preferences:
@@ -332,9 +292,6 @@ In case the Android internal memory is completely filled, it will slow down the 
 
 **Step 2:** Following this, you can select the data you want to remove from the internal memory. Your device will show the space it will free up for you, and you can press the “Free Up” button to free up the storage.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![press the free up button](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-3.jpg)
 
 ### Fix 4: Enter Safe Mode to Uninstall Suspicious Apps
@@ -351,19 +308,25 @@ Updating the apps is crucial for any Android device to work with high efficiency
 
 **Step 1:** Locate the Play Store from the Android home screen and access it. Then, tap the “Profile” icon from the top right corner and proceed to the “Manage apps and devices” option. Afterward, you can check how many app updates are available from the “Updates available” option. To update the apps, you will have to go inside this option.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the updates available](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-5.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** You can tap on the “Update All” button if you want to update all the apps one by one. Otherwise, you can press the “Update” option adjacent to each app name to update the frequently used ones.
 
 ![update the pending updates](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 6: Check the SD card
 
 If you are still getting the **process system isn’t responding** to Android error, then chances are that there could be an issue with your SD card. Firstly, check if your SD card is working fine or not. If it is corrupted, then get another memory card for your phone. Also, it should have a prominent amount of free storage. You might be facing this issue if the SD card has limited free space.
@@ -372,20 +335,18 @@ Also, if you are storing apps on the SD card, then your phone might encounter th
 
 ![move to device storage](https://images.wondershare.com/drfone/article/2017/06/14980670154176.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 7: One click to fix the process system isn't responding error
 
 If all the above tricks don't get your device out of the process system not responding state, then there may be some system issues on your Android. In this case, an Android repair can successfully fix issues like process system isn't responding.
 
 **Note:** _Android repair may wipe out existing Android data. [Back up your Android data](https://drfone.wondershare.com/iphone-backup-and-restore.html) before going on._
 
-
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -418,9 +379,6 @@ Android repair tool to fix all Android system issues in one click
 
 - 5\. After a while, your Android will be repaired with the "process system isn't responding" error fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![process system not responding successfully fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -428,8 +386,6 @@ Android repair tool to fix all Android system issues in one click
 ### Fix 8: Factory reset Android
 
 It is always considered the most used way to factory reset your phone in order to resolve the process system not responding error. Though, this should be your last resort, as it will wipe off your device’s data entirely. Even if you are performing a factory reset, make sure that you back up your data by using a reliable tool like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/).
-
-
 
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
@@ -444,9 +400,6 @@ Flexibly Back up and Restore Android Data
 
 If your phone is functioning, then you can easily factory reset it by visiting Settings > General > Backup & Restore and selecting the option of “Factory Data Reset”. Your device will display a warning regarding all the data files that would be lost or un-synced. Just tap on the “Reset” button to factory reset your device.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset phone](https://images.wondershare.com/drfone/article/2017/06/14980670512565.jpg)
 
 If your device is not functioning or locked, then you can perform the factory reset operation by putting your phone into Recovery mode. Most of the time, it can be done by pressing the Power and Volume up button simultaneously for at least 10 seconds. Though, the key combinations might change from one device to another.
@@ -455,25 +408,23 @@ If your device is not functioning or locked, then you can perform the factory re
 
 After entering the Recovery mode, go to the “wipe data/factory reset” option using the Volume up and down button. Use the Power button to make a selection. If you get an additional message, then select the “yes – delete all data” option. When it is done, you can simply reboot your device.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9: Unroot the Infinix Smart 8 Plus device
 
 It has been further discovered that the process system isn’t responding error is more common in rooted devices. Therefore, if you also have a rooted Android device, then you can choose to unroot it in order to fix this issue. There are different ways to unroot an Android device. One of the easiest ways to do it is by using the SuperSU app.
 
 You can always download either SuperSU or SuperSU Pro app from its website [here](https://supersuroot.org/). Simply install it on our device and launch it whenever you wish to unroot it. Visit its “Settings” tab and select the option of “Full unroot”.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![full unroot](https://images.wondershare.com/drfone/article/2017/06/14980671048148.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This will generate a warning message regarding all the repercussions of the unrooting process. Just tap on “Continue” to initiate the process.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![continue unroot](https://images.wondershare.com/drfone/article/2017/06/14980671247132.jpg)
 
 If you are using an older version of Android, then you might get another pop-up to restore boot images. Simply make the desired selection and start the process. After a while, your device would be restarted the usual way, and it would be unrooted. Most probably, this will resolve the process system isn’t responding error as well.
@@ -482,15 +433,10 @@ If you are using an older version of Android, then you might get another pop-up 
 
 Now that you know different ways to fix the **process system not responding** error, you can easily overcome this issue and make the most out of your device. Simply start with the easy fixes, and if they don’t work, then take extreme measures like unrooting your device or restoring it to factory setting. Also, make sure to back up your data before taking any extreme measures.
 
-
-
 ## Fix Unfortunately Settings Has Stopped on Infinix Smart 8 Plus Quickly
 
 All of you, sooner or later, must have found the “Unfortunately Settings has stopped” error on your Infinix Smart 8 Plus. The problem can occur if the Settings keeps stopping or crashing. Many times, you may try to open the Settings but it doesn’t even open. Or possibly, it may freeze after getting opened thereby hampering the Infinix Smart 8 Plus device's performance.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unfortunately settings has stopped](https://images.wondershare.com/drfone/article/2022/04/fix-unfortunately-settings-has-stopped.jpg)
 
 Well! There can be a number of reasons why this thing happens. For instance, custom ROM installations, not enough space in the Infinix Smart 8 Plus device or perhaps an outdated version of Android. If you are struggling with the same issue and want to know what to do when Android Settings is not responding, this post will help you. We have explained everything in detail along with the solutions. So, scroll down and get things sorted.
@@ -504,8 +450,12 @@ Well! There can be a number of reasons why this thing happens. For instance, cus
 - [Part 7: Check and update Android OS](https://drfone.wondershare.com/android-stopped/unfortunately-settings-has-stopped.html#Part7)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: Clear the cache of Settings and Google Play Service
 
 It is possible that the corrupted cache files are responsible for this error. Hence, as the first tip, we would like you to clear the Settings cache if that is what triggers the “Unfortunately Settings has stopped” issue. Clearing it would definitely make Settings run appropriately. And The steps to clear the cache of the Google Play Services app are similar. Here is how to clear the cache of Settings:
@@ -526,14 +476,8 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
     Note: Please note that different devices have different ways to go to the Recent apps screen. Do it according to the Infinix Smart 8 Plus device you own.
 2. Now, swipe the apps and tap on the clear option. You will be able to notice the amount of RAM cleared
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Part 3: Uninstall the Google update
 
 Uninstalling Google Play Store updates has also responded well to many users. It has worked in the case of the “Unfortunately Settings has stopped” error. So, we would also like to suggest you use this tip if the others don’t work. Here are the steps to be followed for this.
@@ -544,14 +488,9 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Infinix Smart 8 Plus, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Infinix Smart 8 Plus devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -571,20 +510,12 @@ Step 1: Download Tool
 
 Visit the official website of Dr.Fone and download the toolbox from there. Go for the installation process and wait until the installation gets over. Launch it now and choose the “System Repair” tab from the main window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Android settings not responding- download tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Get the Phone Connected
 
 With the help of a USB cable, plug your Infinix Smart 8 Plus into the PC. Upon proper connection, hit on the “Android Repair” option from the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![Android settings not responding - connect android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Feed Correct Information
@@ -607,9 +538,6 @@ Once the firmware is completely downloaded, your Infinix Smart 8 Plus will autom
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Part 5: Wipe cache partition to restore Settings
 
 Like RAM, wiping cache is also vital so as to make the Infinix Smart 8 Plus device’s operation smoother. And when you are getting the “Unfortunately Settings has stopped” error, it might be due to the collected cache. To remove it, you will need to enter the recovery mode. And the steps for recovery mode range from device to device. For instance, [Infinix Smart 8 Plus users](https://drfone.wondershare.com/samsung/samsung-recovery-mode.html) have to press the “Home”, “Power” and “Volume Up” buttons. Similarly, [HTC](https://drfone.wondershare.com/htc/htc-recovery-mode.html) and LG device users are supposed to press the “Volume Down” and “Power” buttons. For Nexus, it is “Volume Up, Down” and Power key combinations. Therefore, before going further, make sure what device you own and enter the recovery mode according to it. Now, follow the detailed guide below to wipe the cache partition in order to fix crashing Settings.
@@ -630,14 +558,8 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 2. Tap on “Factory data reset” followed by “Reset device”.
 3. Wait for the completion of the process and check if Settings is stopping or not after it gets rebooted.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 7: Check and update Android OS
 
 A lot of times minor issues crop up due to the operating systems that get outdated. It is because the Infinix Smart 8 Plus device needs to get updated from time-to-time for proper functioning otherwise it will not be able to match up with the fading technologies thereby coming up with issues like “Unfortunately Settings has stopped”. We recommend here you check for the available update and update your device. For this follow the guide below.
@@ -649,22 +571,12 @@ A lot of times minor issues crop up due to the operating systems that get outdat
 ![Android settings not responding - update android firmware](https://images.wondershare.com/drfone/article/2019/04/update-samsung.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 If your Infinix Smart 8 Plus shows the "Unfortunately Settings has stopped" error, don't worry. This problem can come from many things like old software or cache issues. You can try easy fixes like clearing cache or updating your system. Sometimes, removing custom ROMs might be needed.
@@ -672,7 +584,6 @@ If your Infinix Smart 8 Plus shows the "Unfortunately Settings has stopped" erro
 For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html). It's known for fixing many iOS problems without losing any data. Remember, a well-working device is just a few steps away!
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -686,9 +597,17 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-ideas-to-keep-your-snapchat-streak-alive/"><u>[New] 2024 Approved Ideas to Keep Your Snapchat Streak Alive</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-from-pilot-to-producer-editing-mastery-in-drone-filmmaking-for-2024/"><u>[New] From Pilot to Producer Editing Mastery in Drone Filmmaking for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-process-for-acquiring-moviemaker-6-on-pcs/"><u>2024 Approved Step-by-Step Process for Acquiring Moviemaker 6 on PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/y-behind-the-screen-color-correction-insights/"><u>Beauty Behind the Screen Color Correction Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-honor-magic-v2-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Honor Magic V2 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-meizu-21-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Meizu 21 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-open-excel-2019-read-only-documents-stellar-by-stellar-guide/"><u>Solutions to open Excel 2019 Read Only Documents | Stellar</u></a></li>
+</ul></div>
 

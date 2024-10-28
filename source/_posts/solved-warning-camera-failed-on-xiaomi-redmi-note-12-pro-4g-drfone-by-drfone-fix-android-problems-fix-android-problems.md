@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Xiaomi Redmi Note 12 Pro 4G | Dr.fone
-date: 2024-10-20T00:01:42.162Z
-updated: 2024-10-22T21:10:00.351Z
+date: 2024-10-21T16:10:49.555Z
+updated: 2024-10-28T16:32:58.130Z
 tags: 
   - problems
 categories:
@@ -64,13 +64,6 @@ One-click solution to fix camera failed on Xiaomi Redmi Note 12 Pro 4G devices
 **Step 2.** You will have to provide the Xiaomi Redmi Note 12 Pro 4G device details accurately to ensure that the software provides a precise firmware package to be downloaded. Enter brand, name, model, country, and carrier of your device and agree to the terms and condition.
 
 ![select the details of samsung device](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3**. Now put your device in the download mode. The software will provide you with a guide to put the phone in download mode to begin the downloading process.
 
@@ -138,6 +131,19 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You may try to use the camera app once the process completes.
 
 ## Part 6: How to fix Camera Failed error by Reset Settings?
@@ -176,6 +182,13 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. Finally, you have to click on “Erase Everything” and wait for the Xiaomi Redmi Note 12 Pro 4G device to reboot itself.
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/07/14997070554687.jpg "erase everything")
@@ -191,13 +204,6 @@ Cell phones have become a part of a person’s daily life. It offers convenience
 In this article, you’ll explore practical methods on **h ow to take a virus off your phone**. From simple preventive measures to specific solutions, this guide aims to equip you with practical strategies, ensuring a safer and smoother mobile experience by safeguarding your phone against the perils of viruses.
 
 ![phone with virus logo](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Why You Get Mobile Viruses in the First Place
 
@@ -242,13 +248,6 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![dr.fone ios system repair options](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Choose either **Standard Mode** or **Standard Repair**. Standard Repair will not remove data from your device. However, for a sure fix, choose Standard Mode.
 
 ![dr.fone standard/advanced repair page](https://images.wondershare.com/drfone/guide/ios-system-repair-2.png)
@@ -281,13 +280,6 @@ Generally, here’s how you can [enter Safe Mode](https://drfone.wondershare.com
 
 ![android safe mode](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 For iPhones, here’s how you can do it:
 
 - **Step 1:** Power off your iPhone.
@@ -298,10 +290,10 @@ For iPhones, here’s how you can do it:
 ![ios safe mode](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Downloading Anti-Virus Software
@@ -320,6 +312,13 @@ Generally, the Factory Reset option should be in **Settings > General & Backup a
 
 ![miui factory reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 IOS devices should be under **Settings > General > Transfer or Reset iPhone**.
 
 ![ios transfer or reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-14.jpg)
@@ -336,6 +335,13 @@ To keep your phone safe from viruses, follow these easy tips that act as a shiel
 - **Anti-virus software:**Install a reliable anti-virus app and keep it updated. These apps constantly scan for and detect viruses, safeguarding your device against threats.
 
 These simple yet crucial tips will fortify your phone’s defenses, reducing the likelihood of virus infections and ensuring a safer digital experience.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -395,6 +401,13 @@ Step1: Download [the Dr.Fone - System Repair (Android) program](https://tools.te
 
 ![make error code 505 disappear by android repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2: Select the "Android Repair" among the 3 tabs, connect your Android to PC, and click "Start".
 
 ![select android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -410,13 +423,6 @@ Step4: Boot your Android in download mode, then start downloading the firmware o
 Step5: After the Xiaomi Redmi Note 12 Pro 4G device firmware is downloaded, the tool will start repairing your Android.
 
 ![fix error code 505 when firmware is downloaded](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step6: When your Android is repaired, the error code 505 will disappear.
 
@@ -492,10 +498,10 @@ Due to continuous updation of new apps and services Google Play store used to be
 ![Google Play store](https://images.wondershare.com/drfone/article/2017/06/14976277251819.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - \>Go to Settings
@@ -523,13 +529,6 @@ Or call them at their call center number regarding the issue.
 
 ![call center number](https://images.wondershare.com/drfone/article/2017/06/14976278809798.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus FAQ about Google Play error
 
 **Q1: What is a 505 error code?**
@@ -554,6 +553,13 @@ The 506 error code is a frequent error when operating the Google Play Store. You
 
 However, sometimes the five simple couldn’t work anymore. A system repair software can be helpful quickly. We really recommend [the Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) , only a few minutes, the error will be fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
@@ -572,17 +578,20 @@ Not being able to download or install the app is very frustrating and time-consu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/dding-value-instructional-design-of-youtube-alerts-and-annotations-for-2024/"><u>[New] Adding Value Instructional Design of YouTube Alerts & Annotations for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pro-level-screen-recorder-showdown-for-2024/"><u>[Updated] Pro-Level Screen Recorder Showdown for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-reno-10-proplus-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo Reno 10 Pro+ 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-a34-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-fusing-iphones-audio-and-visuals-together/"><u>In 2024, Fusing iPhones' Audio and Visuals Together</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-11-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 11 Pro Max Lock Screen with Notifications?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-official-method-to-unlock-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Pro Official Method to Unlock Your Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-fcpx-problem-solving-guide-expert-solutions/"><u>New 2024 Approved FCPX Problem-Solving Guide Expert Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/reset-chronology-fix-windows-time-errors/"><u>Reset Chronology: Fix Windows Time Errors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ilencing-distractions-enhancing-youtube-videos/"><u>[New] Silencing Distractions Enhancing YouTube Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999338240-solved-zoom-black-screen-issues-on-pc-2024-guide/"><u>[SOLVED] Zoom Black Screen Issues on PC - 2024 Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capture-and-crop-with-ios-top-iphone-apps-reviewed/"><u>[Updated] Capture & Crop with iOS Top iPhone Apps Reviewed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-components-that-lift-you-in-youtube-viewership/"><u>[Updated] In 2024, The Components That Lift You in YouTube Viewership</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-google-pixel-fold-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Google Pixel Fold Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nokia-g22-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nokia G22 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-90-gt-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor 90 GT? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/effortless-video-integration-into-instagram-feed-for-2024/"><u>Effortless Video Integration Into Instagram Feed for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-screen-recorders-in-chrome-os-free-version/"><u>In 2024, Top Screen Recorders in Chrome OS, Free Version</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-connecting-your-ps4-controller-seamlessly/"><u>Simple Steps: Connecting Your PS4 Controller Seamlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-resolving-the-missing-msstdfmtdll-error/"><u>Step-by-Step Guide: Resolving the Missing Msstdfmt.dll Error</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On OnePlus Nord N30 SE | Dr.fone
-date: 2024-10-20T00:29:43.328Z
-updated: 2024-10-22T21:13:53.747Z
+date: 2024-10-25T17:26:21.178Z
+updated: 2024-10-28T17:09:40.330Z
 tags: 
   - problems
 categories:
@@ -41,6 +41,13 @@ Running an outdated version of the Play Store can cause compatibility issues wit
 ### Google Account Authentication Problems
 
 Issues with verifying Google accounts can restrict access to the Play Store. It prevents you from downloading or updating apps. Authentication problems pose a significant barrier, impacting your ability to stay current with app versions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### App Download Restrictions
 
@@ -121,6 +128,13 @@ Here are 8 other methods to troubleshoot and resolve common app downloading prob
 
 A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u> <u> an Internet signal check</u>](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html) to ensure you are connected to a reliable Wi-Fi network or have a strong mobile data signal. If the connection is weak, consider switching to a more robust network.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Free Up Storage Space
 
 [<u>Insufficient storage</u>](https://drfone.wondershare.com/backup/fix-not-enough-icloud-storage-problem.html) on your device can hinder app installations. Navigate to the OnePlus Nord N30 SE device settings, access the **Storage** section, and clear unnecessary files or apps. Creating more space ensures a smoother download experience.
@@ -139,13 +153,6 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Verify Google Account
 
 Authentication issues with your Google account can prevent app downloads. Confirm that your Google account is properly verified. Go to the OnePlus Nord N30 SE device settings, select **Accounts**, and ensure your Google account is active and synced.
@@ -159,10 +166,10 @@ Incorrect date and time settings may disrupt the authentication process. Verify 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Review Download Restrictions
@@ -181,18 +188,18 @@ Ensuring a smooth app download experience demands attention to various factors. 
 
 For persistent issues, consider Dr.Fone - System Repair. The app is a viable option, providing a comprehensive approach. Embracing these measures ensures you can easily fix apps that won't download from the Play Store. Having a reliable tool beside you also fosters an uninterrupted and enjoyable downloading journey from the Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Fix Android App Not Installed Error on OnePlus Nord N30 SE Quickly?
 
 App not installed on Android is no more an unknown Error Code during Application installation as many people experience it on a day-to-day basis. An "Application not installed" error message usually pops up when you are trying to download and install an App with a .apk file extension from somewhere other than the Google Play Store. The error is very confusing at first but makes sense when you realize that this unknown Error Code during Application installation is neither a software issue nor a hardware problem. It is a direct outcome of what you do with your device. Yes, you heard that right. Your faulty actions can cause Android App not installed error.
 
 ![app not install on android](https://images.wondershare.com/drfone/article/2023/05/app-not-installed-error-in-android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 What to do when trying to install the Android APK it says "app not installed"? It is terrible that you can't install App on your device. But in this article, you will know more about the causes behind this error and the best ways to fix it, read on, here is all you need to know.
 
@@ -238,6 +245,13 @@ So App not installed on your OnePlus Nord N30 SE or tablet? The most horrible pa
 
 Android system repair used to require high technical skills. But most of the users know little about technical things. Well, worry not! [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) allows you to repair Android easily, that is, complete the fix with just one click.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 A powerful tool to fix the "Android App not installed" error in one click
@@ -257,19 +271,6 @@ A powerful tool to fix the "Android App not installed" error in one click
 
 ![fix Android App not installed error using a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Select the "Android" option and click "Start".
 
 ![fix Android App not installed error - select Android Repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -281,6 +282,13 @@ A powerful tool to fix the "Android App not installed" error in one click
 4. Follow the on-screen instructions to boot your Android in download mode, and allow the tool to download the firmware to your device.
 
 ![fix Android App not installed error in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. After the firmware is downloaded, the tool will start to repair your Android, hereby fixing the "Android App not installed" error.
 
@@ -346,13 +354,6 @@ You can reset App permissions to combat the Android App not installed error by V
 
 Make sure to always download an App file only from a trusted and safe source to avoid any errors during installation.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### #8. Reboot your device
 
 Finally, if nothing else works, restart your device to end all operations which could be causing the said error. To reboot, just press the power button till you see a pop-up. Select “Restart” and wait for your device to reboot.
@@ -382,6 +383,13 @@ Android is a flexible operating system. It allows users to customize it in any w
 Fortunately, this is not a complicated fix. Android accepts different fixes and allows the system to return to how it once was. Even with software issues, the system does not get completely inoperable. The best way to fix changes to the software is to start from the beginning of the process. This might offer the best chance for you to restore your phone to normal.
 
 Although it is fun to customize and change the software, following trusted sources ensures you do not damage your phone. Having an ****Android phone stuck on the logo**** page is one of the many examples of the problems that might happen if changes to the software go out of hand.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2. Android Software Updates
 
@@ -427,13 +435,6 @@ If your ****Android phone is stuck on the logo**** page and not getting past it
 
 ![charging android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4. Wipe Cache Data
 
 Cache refers to a software or hardware component of an Android device that stores your program and data for reference. This data might result from the daily usage of your device or duplicate data from a different source on the OnePlus Nord N30 SE device. Similar to a computer, if the cache occupies too much space on your device, it might cause your OnePlus Nord N30 SE to become slower and eventually get stuck at the ****Android boot screen****.
@@ -451,6 +452,13 @@ Follow the steps below to perform a factory rest on your OnePlus Nord N30 SE:
 **Step 2:** Use the Volume button to scroll the options and highlight Wipe data/factory reset. Press the Power button to begin the factory reset.
 
 ![factory reset of android phones](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. Bonus Tip: Best App To Solve Android Phone Stuck On Boot Screen
 
@@ -474,26 +482,6 @@ Refer to the tutorial below to solve your ****Android phone is stuck on the logo
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article summarizes some possible reasons your ****Android phone is stuck on the logo**** page. Five useful strategies were shared to easily overcome your OnePlus Nord N30 SE being stuck in the boot. However, if all the above methods do not work, we recommend trying the Dr.Fone-System Repair.
@@ -514,24 +502,16 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-deciphering-youtube-shorts-a-comprehensive-overview-for-2024/"><u>[Updated] Deciphering YouTube Shorts A Comprehensive Overview for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-artificial-intelligence-systems-enhancing-web-search/"><u>Best Artificial Intelligence Systems Enhancing Web Search</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-poco-m6-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Poco M6 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-honor-magic-5-lite-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor Magic 5 Lite? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/challenge-accepted-7-questions-too-complex-for-chatgpt-to-answer/"><u>Challenge Accepted? 7 Questions Too Complex for ChatGPT to Answer</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/come-aggiornare-o-ripristinare-windows-10-usando-la-riga-di-comando-una-guida-completa/"><u>Come Aggiornare O Ripristinare Windows 10 Usando La Riga Di Comando: Una Guida Completa</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-strategies-for-fixing-arma-iii-crash-issues/"><u>Expert Strategies for Fixing ArmA III Crash Issues</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/star-trek-chronicles-a-step-by-step-guide-to-enjoying-all-movies-back-to-back/"><u>Star Trek Chronicles: A Step-by-Step Guide to Enjoying All Movies Back-to-Back</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-fix-for-preventing-euro-truck-simulator-2-pc-malfunctions/"><u>Step-by-Step Fix for Preventing Euro Truck Simulator 2 PC Malfunctions</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-poco-f5-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Poco F5 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-s18-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo S18 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-pova-5-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pova 5 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-12-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi 12 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-from-beginner-to-pro-5-final-cut-pro-editing-tips-to-up-your-game/"><u>Updated In 2024, From Beginner to Pro 5 Final Cut Pro Editing Tips to Up Your Game</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-oppo-a18-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo A18 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-shorts-and-tiktok-which-one-is-better-for-personal-usage/"><u>[Updated] In 2024, YouTube Shorts & TikTok Which One Is Better for Personal Usage?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-transformative-power-of-instavids-planning-your-marketing-journey-for-2024/"><u>[Updated] Transformative Power of InstaVids Planning Your Marketing Journey for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-a05s-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy A05s Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-tecno-spark-10-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Spark 10 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-your-vpn-connection-solutions-to-clientserver-side-error-800-issues/"><u>Fix Your VPN Connection: Solutions to Client/Server-Side Error 800 Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/gratuito-transformacion-de-musica-en-formato-ogg-a-mp3-mediante-el-servicio-web-de-conversion-de-movavi/"><u>Gratuito Transformación De Música en Formato OGG a MP3 Mediante El Servicio Web De Conversión De Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-hues-in-action-implementing-color-schemes-properly/"><u>In 2024, Hues in Action Implementing Color Schemes Properly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-premium-headsets-for-next-gen-drone-pilots/"><u>In 2024, Premium Headsets for Next-Gen Drone Pilots</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-fixing-fifa-20-pc-game-crashes-step-by-step-tutorial/"><u>Ultimate Guide: Fixing FIFA 20 PC Game Crashes - Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Gionee F3 Pro | Dr.fone
-date: 2024-10-18T20:20:21.013Z
-updated: 2024-10-22T23:19:57.927Z
+date: 2024-10-26T16:26:55.548Z
+updated: 2024-10-28T17:26:45.806Z
 tags: 
   - problems
 categories:
@@ -83,6 +83,13 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 
 ![application manager](https://images.wondershare.com/drfone/article/2017/07/14997063797708.jpg "application manager")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Now a list of all Apps will appear before you. Keep scrolling down until your find “Camera”.
 
 ![camera app](https://images.wondershare.com/drfone/article/2017/07/14997065904511.jpg "camera app")
@@ -123,6 +130,13 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14997067742072.jpg "boot in recovery mode")
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Once the Recovery Screen appears, leave all buttons and use the volume down key till you reach “Wipe Cache Partition”.
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
@@ -130,6 +144,13 @@ This method might seem tedious and time-consuming and you may also lose your dat
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You may try to use the camera app once the process completes.
 
@@ -141,13 +162,6 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 ![tap on camera](https://images.wondershare.com/drfone/article/2017/07/14997068859206.jpg "tap on camera")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Then go to Camera “Settings” by tapping on the circular gear like icon.
 
 ![camera settings](https://images.wondershare.com/drfone/article/2017/07/14997069036741.jpeg "camera settings")
@@ -155,6 +169,13 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 3\. Now look for “Reset Settings” options and click on it.
 
 ![reset settings](https://images.wondershare.com/drfone/article/2017/07/14997069347307.jpg "reset settings")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once done, go back to the Home Screen and start the camera App again to use it.
 
@@ -203,13 +224,6 @@ It is appropriate to tag our generation as smartphone addicts because we use sma
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984182929893.jpg)
 
 ![Settings](https://images.wondershare.com/drfone/article/2017/06/14984583143306.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Another possible reason for Apps to crash or why an App won't open is a possible data crash. This may occur due to **an unstable internet connection** or **various other background software interruptions**.
 
@@ -268,10 +282,10 @@ Step 2: Hitting the ‘Next’ button starts downloading the Android firmware.
 ![fix App won't open in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: Once Dr.Fone - System Repair (Android) verifies the downloaded firmware, it begins fixing the app won't open the issue asap.
@@ -296,13 +310,6 @@ Follow the steps given below to update the app which won't open on your phone:
 
 ![select “My Apps & Games](https://images.wondershare.com/drfone/article/2017/06/14984183627979.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 • In this step, you may click on “Update All” to update all Apps for which an update is available or manually select the Apps which you wish to Update.
 
 ![Update All](https://images.wondershare.com/drfone/article/2017/06/14984183782889.jpg)
@@ -318,6 +325,13 @@ Closing the App completely which won't open on your phone is a good idea. To mak
 • Click on “Apps” to see a list of all the Apps on your Gionee F3 Pro.
 
 ![Click on “Apps”](https://images.wondershare.com/drfone/article/2017/06/14984184003158.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 • Select the App which won't open.
 
@@ -338,6 +352,13 @@ Carefully follow the step-by-step instructions given below to clear all App cach
 • Now tap on “Clear Cache” and “Clear data” directly or under “Storage”.
 
 ![Clear data](https://images.wondershare.com/drfone/article/2017/06/14984585184488.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: 3 Common fix if all Apps won’t open on Android
 
@@ -433,13 +454,6 @@ Since there are many reasons for having problems with videos not playing on your
 
 ![person holding a black android](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 While a factory reset shouldn’t always be the first solution you go to, it can usually prove to be the most effective one.
 
 A factory reset, aka a master reset or a hard reset, returns all your software configurations to the original state when the phone was first manufactured. In the process, all your data is lost – any photos and videos you have on your phone and the apps you’ve installed will be deleted. You’ll be logged out of all your accounts and won’t have access to your message history, contacts, and more.
@@ -449,6 +463,13 @@ While it seems like an extreme step, it can help fix any video issues you might 
 Though there could be slight variations between different phones, you can usually perform a factory reset by going to **Settings > General Management > Reset > Factory data reset > Reset.**
 
 ![factory reset on android](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2. Restart Your Gionee F3 Pro
 
@@ -470,13 +491,6 @@ If the format isn’t supported, installing the right video player with the nece
 
 ![pull-down bar on android showing wifi is turned off](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you’re having problems playing downloaded or online videos, check your internet connection to see if there’s an issue there. If your internet’s down, any downloaded videos might not have downloaded correctly, and any online videos that haven’t been loaded will not play.
 
 Make sure that you turn the Airplane mode off and your Wi-Fi on. Check the connection and test your internet speed to see if everything works properly.
@@ -494,20 +508,6 @@ On average, you should clear your phone’s cache every few months to ensure tha
 To clear the cache from your apps, you’ll want to go to **Settings > Apps.** From there, select the app you want to remove the cache from, scroll down to **Storage**, then choose **Clear Cache**.
 
 ![clear cache on android apps](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6. Update Android OS
 
@@ -605,21 +605,18 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-ultimate-action-vision-top-7-4k-camera-selections/"><u>[New] In 2024, Ultimate Action Vision Top 7 4K Camera Selections</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-android-cloud-saving-tools/"><u>[Updated] Top Android Cloud Saving Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-c67-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme C67 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/banter-bonanza-the-best-comedians-on-the-web/"><u>Banter Bonanza The Best Comedians on the Web</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-zte-nubia-flip-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on ZTE Nubia Flip 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-realme-narzo-60-pro-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Realme Narzo 60 Pro 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-navigating-the-settings-youtube-comments-activation/"><u>In 2024, Navigating the Settings YouTube Comments Activation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722879531870-ipad-pro-m4-vs-macbook-air-m3-whats-the-difference/"><u>IPad Pro M4 vs MacBook Air M3: What's the Difference?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/methods-for-integrating-code-snippets-into-word-processing-software/"><u>Methods for Integrating Code Snippets Into Word Processing Software</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-12-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme 12 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-and-restore-your-hp-screen-expert-solutions-to-common-display-problems/"><u>Troubleshoot and Restore Your HP Screen - Expert Solutions to Common Display Problems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unraveling-the-purpose-behind-facebooks-blue-icon-for-2024/"><u>Unraveling the Purpose Behind Facebook's Blue Icon for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-s18e-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S18e Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y27-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y27 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-a79-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo A79 5G Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-fullscreen-image-of-page-layout/"><u>[Updated] In 2024, Fullscreen Image of Page Layout</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-cinema-boosted-list-of-the-best-15-luts/"><u>2024 Approved GoPro Cinema Boosted List of the Best 15 LUTs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-immersion-in-the-most-realistic-water-games/"><u>2024 Approved Immersion in the Most Realistic Water Games</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-troubleshoot-tweets-on-chrome-not-loading/"><u>2024 Approved Troubleshoot Tweets on Chrome Not Loading</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-aerial-fun-comprehensive-review-of-the-syma-107g-remote-controlled-helicopter/"><u>Affordable Aerial Fun: Comprehensive Review of the Syma 107G Remote Controlled Helicopter</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y77t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y77t Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-itel-a60-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Itel A60 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nokia-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nokia Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-mastering-your-camera-essential-tactics-for-hit-youtube-videos/"><u>In 2024, Mastering Your Camera Essential Tactics for Hit YouTube Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x-fold-2-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X Fold 2 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-poco-f5-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Poco F5 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

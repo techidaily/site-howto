@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Motorola G54 5G | Dr.fone
-date: 2024-07-30T13:26:07.669Z
-updated: 2024-07-31T13:26:07.669Z
+date: 2024-10-27T16:09:14.951Z
+updated: 2024-10-28T16:39:53.545Z
 tags: 
   - problems
 categories:
@@ -20,9 +20,6 @@ Fortunately, despite there being many reasons why a problem could occur to your 
 
 Let’s get straight into it!
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Part 1. About Bluetooth Not Working on Android
 
 Of course, the most common problem to occur with Bluetooth technology in your Motorola G54 5G is when it doesn’t connect to the Motorola G54 5G device you’re trying to link it to. This could be anything from a Bluetooth headset or headphones, to a portable speaker or even an in-car audio system.
@@ -39,7 +36,12 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -57,9 +59,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step One** Make your way over to the Wondershare website and download the Dr.Fone - System Repair (Android) software to either your Mac or Windows computer. Install the downloaded file by following the on-screen instructions. Once installed, open the software, so you’re on the Main Menu.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![bluetooth not working on android - use a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step Two** Connect your Motorola G54 5G to your computer using the USB cable, wait a couple of seconds, and then click the System Repair option. On the Menu on the left, click Android Repair, and then press Start.
@@ -74,15 +73,19 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - download mode to fix issues](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step Five** The software will now begin the repair process. This will happen automatically, and all you’ll need to do is make sure your device doesn’t disconnect during this process, and your computer doesn’t turn off.
 
 ![bluetooth not working on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Motorola G54 5G and start using it and your Bluetooth features.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### 2.2 Restart Android and turn on Bluetooth again
 
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
@@ -95,14 +98,8 @@ One of the most common solutions in technology is simply to turn it on and off a
 4. Navigate Settings > Bluetooth and then enable the setting
 5. Try to connect your Bluetooth device to what you were trying to do before
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Clear the Bluetooth cache
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - clear cache](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-cache.jpg)
 
 Every service on your Motorola G54 5G using a feature called a cache. This is where information is stored to help the feature run properly and give you the best experience. However, over time this can get messy and can cause problems with your Bluetooth feature.
@@ -115,14 +112,8 @@ By clearing the cache, you can restart the service and hopefully clear up any is
 4. Go back of the Menu and restart your phone
 5. Now turn your Bluetooth feature on and turn connecting it to your preferred device
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### 2.4 Remove paired devices
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - remove paired devices](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-paried.jpg)
 
 Sometimes, you may have a problem with the Motorola G54 5G device you’re trying to connect to via Bluetooth, especially if this is a device you’ve updated. To counter and repair this, you’re going to need to remove the paired devices saved with your device and then reconnect them.
@@ -136,9 +127,6 @@ Here’s how;
 
 ### 2.5 Use Bluetooth in safe mode
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
 
 If you’re having problems with your connection and paired devices, sometimes you may have conflicting software faults in your device that are causing the problems. If this is the case, you’ll need to boot your Motorola G54 5G in Safe Mode.
@@ -153,14 +141,8 @@ Here’s how to find out;
 4. Wait a minute on the Main Menu
 5. Now turn on your Bluetooth and connect it to your preferred device
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.6 Turn on the discoverable feature
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - discoverable feature](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-discoverable.jpg)
 
 To ensure your Bluetooth can connect to other devices, it’s important to make sure you’re making your device discoverable to other Bluetooth devices. If it’s hidden, other devices won’t be able to find it, and sometimes it can bug and prevent connections.
@@ -172,10 +154,6 @@ Here’s how to turn on your Bluetooth discoverable feature;
 3. Under the available settings, tick the box that allows your Bluetooth device to be discoverable
 4. Turn your Bluetooth feature on and connect to the Motorola G54 5G device you’re trying to connect too
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.7 Exclude Bluetooth issues of the other device
 
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
@@ -189,9 +167,6 @@ By testing out another Bluetooth device to see if it will work with your preferr
 3. If the new device doesn’t connect to your Bluetooth device, you’ll know there’s a problem with your Bluetooth device, not your Motorola G54 5G
 4. If the Motorola G54 5G devices connect, you’ll know there’s a problem with your Motorola G54 5G
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### 2.8 Place both devices within close proximity
 
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
@@ -199,6 +174,13 @@ By testing out another Bluetooth device to see if it will work with your preferr
 One of the common misconceptions of Bluetooth is just how far the wireless range is of the service. You need to make sure your devices are well and truly close to each other to make sure a stable connection can be formed.
 
 The further away the Motorola G54 5G devices are from each other, the less likely the connection will remain secure. As a rule of thumb, Bluetooth can work up to 100 meters, but to play it safe, always try and keep your devices under 50m apart.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.9 Avoid interference of other Bluetooth sources
 
@@ -216,12 +198,22 @@ The revolutionized world is about the internet, online life, and social media. Y
 
 ![fix wifi keep disconnecting android](https://images.wondershare.com/drfone/article/2023/08/why-does-my-phone-keep-disconnecting-from-wifi.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Since everything revolves around the internet, it's annoying if your WI-FI disconnects. You might question yourself **why does my Wi-Fi keep disconnecting from the phone**? To know the answer, read the article below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: Why Does Your Phone Keep Disconnecting from WiFi?
 
 Is your phone frequently getting disconnected from Wi-Fi? Or the internet service is lagging? We have a few options from which you can inspect your problem. Not all internet issues arise from the service provider, as some issues are because of the Motorola G54 5G devices that are using the internet. Some of these issues are discussed below for your assistance:
@@ -271,13 +263,12 @@ If your Android keeps disconnecting from Wi-Fi, you can also fix the problem by 
 ![check router settings](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Reconnect to Network
 
 To fix the annoying problem that your Wi-Fi keeps disconnecting, you should try forgetting the network and then reconnecting to it. This could be done easily by following the steps below:
@@ -294,14 +285,25 @@ To fix the annoying problem that your Wi-Fi keeps disconnecting, you should try 
 
 ![enter wifi password](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Restart Your Router
 
 As we discussed, to restart your phone, you can also restart the router to get rid of the problem. For this, hit the restart button on the router to get a fresh start. If the Motorola G54 5G device has no button, disconnect the power supply and plug it back in to connect again. Most internet issues are resolved by restarting the router.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![restart wifi router](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Forget Old Networks
 
@@ -309,9 +311,6 @@ The problem that your Wi-Fi keeps disconnecting can also occur because of the li
 
 **Step 1**: You should start by pressing and holding the Wi-Fi option from the drop-down menu on your phone until the Wi-Fi settings screen appears.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![open wifi settings](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-7.jpg)
 
 **Step 2**: You will see a list of all the Wi-Fi networks you have connected to previously. One by one, select each network and hit the 'Forget Network' button to remove it.
@@ -326,42 +325,20 @@ Sometimes, different installed applications can also cause trouble. If your Wi-F
 
 ![tap on uninstall button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 7: Reset Network Settings on your Phone
 
 It’s annoying that your Wi-Fi keeps disconnecting while you are working or studying. Android users can easily get over this problem by resetting the network settings. The steps for this fix are as follows:
 
 **Step 1**: For resetting the network, start by opening the ‘Settings’ menu on your phone. Then, scroll down, look for the 'Connection & Sharing' option, and select it.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access connect and sharing](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-10.jpg)
 
 **Step 2**: As you progress onto a new screen, you will find the option of “Reset Wi-Fi, Mobile Networks, and Bluetooth” in the menu. Select the option to lead to the next window.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open reset option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-11.jpg)
 
 **Step 3**: Click on the option of “Reset Settings” present on the bottom of the next screen that shows up. Provide confirmation of resetting these settings by inserting your device’s PIN, if any.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![click on reset settings button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-12.jpg)
 
 **Step 4**: After providing the appropriate clearances, you will be asked for another confirmation of resetting the Motorola G54 5G device’s networks to default. Click “OK” to execute.
@@ -376,19 +353,12 @@ Although the 5GHz frequency band is recognized for providing better network spee
 
 ![change routers range](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Fix 9: Stay Connected while Asleep
 
 Most Android phones have a battery-saving feature. This feature disables the network connections to save the battery of the phone. If this is why the Wi-Fi keeps disconnecting, follow the steps shared below to fix it:
 
 **Step 1**: Start by opening the ‘Settings’ menu on your phone. Then scroll down until you find the 'Battery' option and open it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![open battery settings](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-15.jpg)
 
 **Step 2**: Then, from the battery screen, hit the 'More Battery Settings' options. Then, you will see the 'Stay Connected while Asleep' option; turn it on.
@@ -403,9 +373,6 @@ If none of the above-shared fixes work, the last fix to resolve the problem is u
 
 The article above has discussed 10 solutions that offer a comprehensive toolkit to tackle the persistent issue of Wi-Fi keeps turning off Android. By toggling Airplane Mode, restarting your device, adjusting settings, and updating firmware, among other steps, you can effectively address and resolve this connectivity problem. With these solutions at your disposal, you can regain a stable and uninterrupted Wi-Fi experience on your Motorola G54 5G.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Quickly Fix Bluetooth Not Working on Motorola G54 5G
 
 One of the key features of an Android device these days is the Bluetooth technology. This is such an important part of the phone that many of us take for granted, but as soon as the feature stops working, it can cause all kinds of problems.
@@ -430,11 +397,6 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
-
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix Bluetooth issues in one click
@@ -455,39 +417,22 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step Two** Connect your Motorola G54 5G to your computer using the USB cable, wait a couple of seconds, and then click the System Repair option. On the Menu on the left, click Android Repair, and then press Start.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step Three** Next, use the drop-down menus to make sure all the information about your specific device is correct, including your device, operating system number, and carrier information. Click Next to confirm your selections.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step Four** When prompted, put your phone into Download Mode needed for repairs. You can do this by following the on-screen instructions which will depend on which device you have and the available buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - download mode to fix issues](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **Step Five** The software will now begin the repair process. This will happen automatically, and all you’ll need to do is make sure your device doesn’t disconnect during this process, and your computer doesn’t turn off.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![bluetooth not working on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Motorola G54 5G and start using it and your Bluetooth features.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### 2.2 Restart Android and turn on Bluetooth again
 
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
@@ -500,14 +445,8 @@ One of the most common solutions in technology is simply to turn it on and off a
 4. Navigate Settings > Bluetooth and then enable the setting
 5. Try to connect your Bluetooth device to what you were trying to do before
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Clear the Bluetooth cache
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - clear cache](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-cache.jpg)
 
 Every service on your Motorola G54 5G using a feature called a cache. This is where information is stored to help the feature run properly and give you the best experience. However, over time this can get messy and can cause problems with your Bluetooth feature.
@@ -520,9 +459,6 @@ By clearing the cache, you can restart the service and hopefully clear up any is
 4. Go back of the Menu and restart your phone
 5. Now turn your Bluetooth feature on and turn connecting it to your preferred device
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.4 Remove paired devices
 
 ![android bluetooth problems - remove paired devices](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-paried.jpg)
@@ -552,9 +488,6 @@ Here’s how to find out;
 4. Wait a minute on the Main Menu
 5. Now turn on your Bluetooth and connect it to your preferred device
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.6 Turn on the discoverable feature
 
 ![android bluetooth problems - discoverable feature](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-discoverable.jpg)
@@ -568,14 +501,8 @@ Here’s how to turn on your Bluetooth discoverable feature;
 3. Under the available settings, tick the box that allows your Bluetooth device to be discoverable
 4. Turn your Bluetooth feature on and connect to the Motorola G54 5G device you’re trying to connect too
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.7 Exclude Bluetooth issues of the other device
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
 
 Sometimes, you might not even have a problem with your Motorola G54 5G, but rather the Bluetooth device you’re trying to connect to, whether that’s a Bluetooth speaker, an in-car entertainment system, or any other kind of Bluetooth device.
@@ -587,14 +514,8 @@ By testing out another Bluetooth device to see if it will work with your preferr
 3. If the new device doesn’t connect to your Bluetooth device, you’ll know there’s a problem with your Bluetooth device, not your Motorola G54 5G
 4. If the Motorola G54 5G devices connect, you’ll know there’s a problem with your Motorola G54 5G
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.8 Place both devices within close proximity
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
 
 One of the common misconceptions of Bluetooth is just how far the wireless range is of the service. You need to make sure your devices are well and truly close to each other to make sure a stable connection can be formed.
@@ -611,9 +532,6 @@ With this in mind, you’ll want to make sure you’re limiting the amount of Bl
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Motorola G54 5G to the Motorola G54 5G device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -626,9 +544,22 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-audience-appreciation-assessment-self-and-seekers-vs-rival-repertoires/"><u>[New] In 2024, Audience Appreciation Assessment Self and Seekers Vs. Rival Repertoires</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-significant-strategies-for-modifying-playback-speed-on-spotify/"><u>[New] Significant Strategies for Modifying Playback Speed on Spotify</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-innovators-amalgamating-photography-plus-music-into-videography-for-2024/"><u>[Updated] Innovators Amalgamating Photography + Music Into Videography for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-a14-4g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy A14 4G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/effortless-image-cloning-techniques-for-iphone-and-ipad-users-a-comprehensive-guide/"><u>Effortless Image Cloning Techniques for iPhone & iPad Users - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gateway-to-apps-in-windows-11-navigating-effortlessly/"><u>Gateway to Apps in Windows 11: Navigating Effortlessly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016837480-resolving-windows-107-audio-issues-no-more-crackling-from-your-speakers/"><u>Resolving Windows 10/7 Audio Issues: No More Crackling From Your Speakers!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rotibox-bluetooth-beanie-cap-analysis-exceptional-wearability-meets-high-quality-audio-features/"><u>Rotibox Bluetooth Beanie Cap Analysis: Exceptional Wearability Meets High-Quality Audio Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/snicker-snapshots-jokeframe/"><u>Snicker Snapshots JokeFrame</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-infinix-note-30-vip-racing-edition-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Infinix Note 30 VIP Racing Edition? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-realme-11-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme 11 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

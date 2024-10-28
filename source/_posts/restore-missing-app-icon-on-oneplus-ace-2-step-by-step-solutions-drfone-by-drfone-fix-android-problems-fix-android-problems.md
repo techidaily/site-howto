@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on OnePlus Ace 2 Step-by-Step Solutions | Dr.fone
-date: 2024-10-21T19:32:25.070Z
-updated: 2024-10-22T18:12:29.530Z
+date: 2024-10-21T18:39:17.581Z
+updated: 2024-10-28T16:59:42.127Z
 tags: 
   - problems
 categories:
@@ -33,10 +33,10 @@ Before proceeding with troubleshooting the **missing app icon on your Android** 
 Now, see whether you can find the **app icon that disappeared on your Android.** If you can’t find it, it means the app has been accidentally deleted, and you can install it back on your device. However, if it’s confirmed to be installed on your Android but remains missing from your home screen, you can continue the following practice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How To Find the Missing App Icon on Android
@@ -44,13 +44,6 @@ Now, see whether you can find the **app icon that disappeared on your Android.**
 _“_**_All my apps disappeared from my home Android screen._** _What should I do?”_
 
 If you've confirmed that the missing app is installed, but its icon is nowhere to be found on your home screen, don't fret—there are several solutions you can take to locate and restore the **missing app icon on Android**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Check hidden apps
 
@@ -85,13 +78,6 @@ To re-enable the disabled app, you can follow the steps here:
 - **Step 2.** Select the app which icon is missing on your home screen. For example, tap the phone app if the **phone icon disappears on your Android.**
 - **Step 3:** In the App Info, tap Enable.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Reset Android to factory settings
 
 If the previous methods don't work, you might need to do a [<u>factory reset on your OnePlus Ace 2</u>](https://drfone.wondershare.com/factory-reset-protection/bypass-factory-reset-on-android.html). But before doing that, it's important to back up your data first because a factory reset will clear all your data and cache when you press the reset button.
@@ -117,6 +103,13 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,136,839** people have downloaded it
@@ -139,6 +132,13 @@ Follow the instructions to put your OnePlus Ace 2 into Download Mode. Once you a
 
 ![Activate Download mode to download the firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5.** Confirm Installation
 
 Remember, the repair may erase data. It’s advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar. Once finished, click Done and see if your phone has returned to normal.
@@ -158,13 +158,6 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 When the **app disappears from the home screen of your Android**, it can hinder your ability to access and use the app efficiently. There are several reasons why an app might disappear from your Android home screen, and addressing the issue depends on the specific circumstances.
 
 Whether it's due to accidental deletion or a system glitch, we have discussed various methods to recover the missing app and ensure smooth functionality in this article. In cases of system-related issues on your OnePlus Ace 2, it's advisable to rely on trustworthy software such as Dr. Fone's system repair tool for a comprehensive resolution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Proven Ways to Fix There Was A Problem Parsing the Package on OnePlus Ace 2
 
@@ -246,13 +239,6 @@ Input your device and firmware information to confirm you’re installing the ri
 
 ![fix problem parsing the package in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once complete, the firmware will start downloading.
 
 ![download the firmware to fix problem parsing the package](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -262,6 +248,19 @@ Once complete, the firmware will start downloading.
 When this is completed, you’ll be free to disconnect your OnePlus Ace 2 and use it how you please without the ‘there is a problem with the parsing package’ error.
 
 ![repairing android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **2.2 Allow installation from unknown sources**
 
@@ -293,6 +292,13 @@ To enable USB Debugging to fix “There is a problem parsing the package” erro
 
 ![turn on “USB Debugging”](https://images.wondershare.com/drfone/article/2017/06/14985109282251.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This should solve the problem. If not, move on to the other techniques.
 
 #### **2.4 Check APK File**
@@ -314,6 +320,13 @@ We do not suggest that you delete the Antivirus App permanently. Temporary unins
 • Select the antivirus App to click on “Uninstall” and then tap “OK”.
 
 ![click on “Uninstall”](https://images.wondershare.com/drfone/article/2017/06/14985109617315.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now download and install the desired App again. Once this is done, do not forget to install the Antivirus App again.
 
@@ -367,13 +380,6 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 ![hard bricked v/s soft bricked ](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
 ## Part 2: Stuck at the Boot Loop
@@ -391,22 +397,15 @@ Once you are the recovery mode screen, you will see a number of options as shown
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
@@ -436,6 +435,13 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
@@ -462,21 +468,24 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-expert-guide-to-tiktoks-must-have-elements/"><u>[New] Expert Guide to TikTok's Must-Have Elements</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-beatfinder-tools-tune-in-to-online-freshness/"><u>[New] In 2024, Beatfinder Tools Tune in to Online Freshness</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-refining-your-craft-making-youtube-friendly-videos/"><u>[New] In 2024, Refining Your Craft Making YouTube-Friendly Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-precise-image-selection-from-clips-via-photo-app/"><u>[New] Precise Image Selection From Clips via Photo App</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-approach-for-verifying-your-age-on-tiktok/"><u>[New] Step-by-Step Approach for Verifying Your Age on TikTok</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dive-into-digital-fandom-top-6-interactive-questionnaires-to-identify-your-youtube-spirituality/"><u>[Updated] In 2024, Dive Into Digital Fandom Top 6 Interactive Questionnaires to Identify Your YouTube Spirituality</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-supercharge-your-videos-with-powerful-tagging-techniques/"><u>[Updated] In 2024, Supercharge Your Videos with Powerful Tagging Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-y200e-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo Y200e 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-tecno-pop-8-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Tecno Pop 8 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-note-12-pro-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi Note 12 Pro 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-y17s-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo Y17s? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-smile-and-shine-transform-photos-at-no-expense/"><u>In 2024, Smile & Shine Transform Photos at No Expense</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-hot-40-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Hot 40 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-reno-9a-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Reno 9A Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-itel-p55-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Itel P55 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mastering-the-art-of-telegram-web-navigation/"><u>[New] 2024 Approved Mastering the Art of Telegram Web Navigation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-dynamic-edge-technique-adding-motion-blur-to-portraits-using-picsart/"><u>[New] The Dynamic Edge Technique Adding Motion Blur to Portraits Using Picsart</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-beginners-path-to-successful-hp-screen-capturing-for-2024/"><u>[Updated] Beginner's Path to Successful HP Screen Capturing for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>[Updated] How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-nokia-c210-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Nokia C210 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-infinix-hot-40-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Hot 40 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-completa-para-clonar-dvd-en-una-macbook-con-big-sur-mantener-la-excelencia-de-calidad/"><u>Guía Completa Para Clonar DVD en Una MacBook Con Big Sur: Mantener La Excelencia De Calidad</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-voice-communication-problems-in-rainbow-six-siege-after-the-2024-patch/"><u>How to Fix Voice Communication Problems in Rainbow Six Siege After the 2024 Patch</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-scrolling-problems-with-your-pcs-touchpad-on-windows-10/"><u>How to Repair Scrolling Problems with Your PC's Touchpad on Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ordering-the-matrix-saga-a-step-by-step-guide/"><u>Ordering The Matrix Saga: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-upcoming-galaxy-ring-what-to-expect-in-terms-of-launch-timeline-pricing-and-tech-details/"><u>Samsung's Upcoming Galaxy Ring: What to Expect in Terms of Launch Timeline, Pricing and Tech Details</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-reno-10-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo Reno 10 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-a05-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy A05 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-poco-m6-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Poco M6 5G Screen | Dr.fone</u></a></li>
 </ul></div>
 

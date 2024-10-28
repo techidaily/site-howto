@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy A24 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-10-16T17:27:50.618Z
-updated: 2024-10-23T00:25:45.220Z
+date: 2024-10-25T18:58:12.703Z
+updated: 2024-10-28T17:01:55.750Z
 tags: 
   - problems
 categories:
@@ -43,10 +43,10 @@ In the rarest cases, there might have developed an actual hardware issue with th
 So, how to get the Android camera not working problem solved? There are a few ways you can try fixing the camera not working issue on your Samsung Galaxy A24 right where you are, without needing to take the Samsung Galaxy A24 device to the manufacturer’s service center.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### II.I: Restart The Handset
@@ -56,13 +56,26 @@ One of the first things to do any time an app or your phone or tablet does not w
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### II.II: Close And Relaunch The Camera App
 
@@ -71,6 +84,19 @@ If the camera app (or any app for that matter) has been in the background for a 
 Step 1: Launch the app switcher on your specific Android device the way your device manufacturer suggests you to. Usually, it is a swipe up and hold gesture to get into the app switcher.
 
 ![closing apps in app switcher](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
 
@@ -81,6 +107,13 @@ These days, thanks to strides in the privacy initiatives, apps need permissions 
 Step 1: Go to Settings > Apps > Camera > Permissions.
 
 ![camera permissions check android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Tap Camera.
 
@@ -99,13 +132,6 @@ Step 1: Go to Settings > Apps > Camera and tap Storage Usage.
 Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### II.V: Clear The Photo Gallery App Cache
 
@@ -128,6 +154,19 @@ Step 1: Go to Play Store and tap your profile picture on the right.
 Step 2: Tap Manage Apps and Device.
 
 ![check for app updates play store](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-10.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: If there are updates available, Tap Update All to update all apps.
 
@@ -154,16 +193,10 @@ Download Dr.Fone here.
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1: Launch Dr.Fone app on your PC or Mac.
@@ -173,13 +206,6 @@ Step 1: Launch Dr.Fone app on your PC or Mac.
 Step 2: Click System Repair module and then Android.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: For now, don’t bother with the scenarios given and click Start to go to the next screen.
 
@@ -197,13 +223,6 @@ Step 6: Dr.Fone automatically downloads the most recent firmware for your device
 
 ![fix android camera not working](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000) to confirm and begin the repair process.
 
 ![confirm android firmware repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -215,17 +234,16 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -241,18 +259,22 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-elevating-tiktok-engagement-through-effective-hashtags/"><u>[Updated] Elevating TikTok Engagement Through Effective Hashtags</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-next-gen-heroism-gopro-hero5-black-vs-hero4-silver/"><u>2024 Approved Next-Gen HEROism GoPro Hero5 Black vs Hero4 Silver</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fortnite-successfully-started-now/"><u>Fortnite: Successfully Started Now!</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/is-your-mobile-device-vulnerable-to-hacks-through-sms-insights-from-malwarefox/"><u>Is Your Mobile Device Vulnerable to Hacks Through SMS? Insights From MalwareFox</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/lifting-legends-top-10-super-strong-drones/"><u>Lifting Legends Top 10 Super-Strong Drones</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/losung-fur-den-startschleifenfehler-von-windows-server-2019-nach-systemupdate/"><u>Lösung Für Den Startschleifenfehler Von Windows Server 2019 Nach Systemupdate</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-13t-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi 13T? Here is How | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlock-clearer-livestreams-with-these-4-tips-for-2024/"><u>[New] Unlock Clearer Livestreams with These 4 Tips for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-convert-fb-videos-to-mp4-no-cost-high-definition-available-for-2024/"><u>[Updated] Convert FB Videos to MP4 - No Cost, High Definition Available for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-top-apps-and-software-for-making-videos-from-photos/"><u>[Updated] Top Apps and Software for Making Videos From Photos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-becoming-a-metaverse-veteran-top-7-gadgets-for-the-experts/"><u>2024 Approved Becoming a Metaverse Veteran Top 7 Gadgets for the Experts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-yield-your-content-mastering-youtube-ads-for-earnings/"><u>2024 Approved Yield Your Content Mastering YouTube Ads for Earnings</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-100-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-magic-6-lite-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor Magic 6 Lite? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-honor-magic5-ultimate-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor Magic5 Ultimate? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-htc-u23-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix HTC U23 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-c55-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-2755e-driver-download-guide-compatible-with-all-windows-versions/"><u>HP Deskjet 2755E Driver Download Guide: Compatible with All Windows Versions</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-how-to-convert-video-voice-to-text-online-for-free/"><u>Updated How To Convert Video Voice to Text Online for Free?</u></a></li>
 </ul></div>
 

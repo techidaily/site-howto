@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Google Pixel 8 Pro Safely | Dr.fone
-date: 2024-07-30T13:23:07.907Z
-updated: 2024-07-31T13:23:07.907Z
+date: 2024-10-26T16:23:45.205Z
+updated: 2024-10-28T17:01:10.984Z
 tags: 
   - problems
 categories:
@@ -29,9 +29,6 @@ Given below are eight techniques to flash your Google Pixel 8 Pro safely, depend
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Part 1: Can a Dead Phone Be Flashed?
 
 Flashing a dead Android phone might be skeptical for many users who have been in such a situation. Although it is possible to flash a dead Android phone, it is essential to be aware of the reasons that lead you into such a situation. Before a remedy, diagnosing the problem is a necessity for retaining the Google Pixel 8 Pro device.
@@ -42,11 +39,6 @@ From battery issues to physical damage to the Google Pixel 8 Pro device, there c
 
 While you are worried about how to flash Google Pixel 8 Pro instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Google Pixel 8 Pro logo.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One-click solution to flash Google Pixel 8 Pro
@@ -77,9 +69,6 @@ Step 2: Click ‘Android Repair’ from the available options, and then press th
 
 Step 3: On the Google Pixel 8 Pro device information screen, pick the appropriate device brand, name, model, and other details followed by tapping the ‘Next’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![choose brand info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Put the Android device in Download mode to start repair.**
@@ -92,9 +81,6 @@ Step 1: It is essential to boot your Google Pixel 8 Pro in Download mode before 
 
 - In the absence of a ‘Home’ button: Switch off the Android device and hold the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons for 5 to 10 seconds, then release them. Hit the ‘Volume Up’ button for entering the ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![flash android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2: Press the ‘Next’ button for initiating firmware download.
@@ -103,19 +89,10 @@ Step 2: Press the ‘Next’ button for initiating firmware download.
 
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to flash Google Pixel 8 Pro dead phone with Odin?
 
 In this segment, we will learn how to fix the dead Android phone, i.e., Google Pixel 8 Pro phones using Odin software. Odin is software used internally by Google Pixel 8 Pro to generally unblock devices and perform a more utility-based job, namely, flashing new firmware in place of the old one. There are different variants available, so choose the one which is supported by your Galaxy phone. Here is a step-by-step explanation of how to flash dead Android phone (Google Pixel 8 Pro) using Odin software.
@@ -128,9 +105,6 @@ Step 2: Now download suitable firmware for your device in the form of a zip fold
 
 Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file types recognized by Odin.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![firmware zip file](https://images.wondershare.com/drfone/article/2017/07/14991896515887.jpg)
 
 ![firmware md5 file](https://images.wondershare.com/drfone/article/2017/07/14991896708947.jpg)
@@ -145,9 +119,23 @@ Step 4: Now, boot your dead device to Download Mode by pressing the power, volum
 
 ![boot in download mode](https://images.wondershare.com/drfone/article/2017/07/14991897353612.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
 
 ![android download mode](https://images.wondershare.com/drfone/article/2017/07/14991897566586.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 6: Now, you may use a USB to connect your Google Pixel 8 Pro to the PC. Odin will recognize your device, and in the Odin window, you will see a message saying “Added”.
 
@@ -158,6 +146,19 @@ Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA
 ![open md5 file](https://images.wondershare.com/drfone/article/2017/07/14991898009725.jpg)
 
 Finally, once the flashing process is complete, your Google Pixel 8 Pro phone will reboot and start normally, and you may see a “Pass” or “Reset” message on the Odin window on the PC.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to flash MTK Android dead phone with SP Flash tool?
 
@@ -183,9 +184,6 @@ After completing the above steps, connect your dead device to the PC with a USB 
 
 That's it! Now simply disconnect your phone and wait for it to reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to flash Google Pixel 8 Pro dead phone with the Phoenix tool?
 
 Phoenix tool, better known as PhoenixSuit, is a tool similar to the SP False tool and Odin. It works very well with Google Pixel 8 Pro  and is the best answer to “How to fix dead Android phone?”, “How to flash dead Android phone using PC?”, etc.
@@ -194,9 +192,6 @@ Let's look at the steps of flashing the Google Pixel 8 Pro dead phone with the P
 
 First, download and install the Google Pixel 8 Pro PC Suite driver on your PC. Then you will need to download the PhoenixSuit tool and then launch it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![nokia pc suite](https://images.wondershare.com/drfone/article/2017/07/14991899457235.jpg)
 
 Now, on the toolbar, click “Tools” and select “Data Package Download” from the drop-down list.
@@ -205,9 +200,6 @@ Now, on the toolbar, click “Tools” and select “Data Package Download” fr
 
 Then move to download the firmware for your dead Google Pixel 8 Pro  and save it in a new Folder. Once done, go back to the Phoenix tool window and click on “File” and select “Open Product”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open product](https://images.wondershare.com/drfone/article/2017/07/14991899991748.jpg)
 
 Simply, feed in the details and then click “OK”.
@@ -218,18 +210,12 @@ After this, click on “Flashing” and select “Firmware update” and then br
 
 Then move on to select “Dead Phone USB Flashing” from the Firmware Update Box.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![dead phone usb flashing](https://images.wondershare.com/drfone/article/2017/07/14991900551025.jpg)
 
 Lastly, just click on “Refurbish” and connect your phone to the PC using a USB cable.
 
 That was it, the flashing process may take up to a few minutes after which your dead Google Pixel 8 Pro  will restart automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Part 6: How to flash a dead phone that won’t turn on via factory reset?
 
 Using tools for flashing Android devices can be a solution; however, it is heavily restricted to the Google Pixel 8 Pro device models. For a generalized solution, there can be other options that you can go with. Factory resetting an Android device by putting it in Recovery Mode is one way. To know **how to flash a dead Android phone** using factory reset, go through the steps featured below:
@@ -238,16 +224,17 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 
 **Step 2:** As the Android boot menu opens on your screen, use the “Volume Down” and “Volume Up” keys to scroll up and down the menu. On accessing the “Wipe Data/Factory Reset” option, use the “Power” key to select the particular option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![choose wipe data factory reset option](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 7: How to flash a dead Android phone by checking screen faulty
 
 The screen of your Google Pixel 8 Pro may be faulty, due to which it is not launching. While seeking the right way of **how to fix a dead Android phone,** you can force restart your phone using the Volume buttons according to your device model.
@@ -256,16 +243,10 @@ If the Android vibrates on restarting and the screen does not lighten up, the pr
 
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 8: How to fix a dead Android phone by changing the battery
 
 Another solution that can help you fix the dead Android phone is changing its battery. The battery of an Android device can last up to 3 years. When its capacity drops to a bare minimum, it is best to change the battery of your Android. Upon trying to restart your Google Pixel 8 Pro, if it does not, you might need to replace your battery. All Android phone batteries are removable, which should be regulated with proper supervision.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
 
 ## Part 9: How to repair dead Android phone by contacting official support
@@ -326,9 +307,6 @@ Some apps and websites allow users to share private information. Some apps, like
 
 You **can’t take screenshots due to security policy Whatsapp** features, View Once media option. This method stops people from taking pictures of private media chats, protecting users’ privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![whatsapp screenshot blocked](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-03.jpg)
 
 You Are Using a Secure Folder
@@ -353,6 +331,13 @@ If you are using this Android device, you can enable the screen capture feature 
 
 ![android apps special access settings](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Enable **Google Pixel 8 Pro capture**.
 
 ![enable samsung capture](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-06.jpg)
@@ -365,9 +350,6 @@ Apps and websites may prohibit screenshots in incognito mode to protect your pri
 
 - **Step 1:** Open Chrome on your Google Pixel 8 Pro and type “chrome://flags” in the address bar.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![chrome experimental flags](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-07.jpg)
 
 - **Step 2:** Search for Incognito Screenshot and choose **Enabled** from the drop-down menu.
@@ -412,6 +394,13 @@ Smart View allows you to display your Google Pixel 8 Pro device’s screen on yo
 
 ![cast samsung phone using smart view](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Alternatively, if you don’t have a smart TV, you can still mirror your phone screen display to your desktop or tablet using the Google Pixel 8 Pro Flow app and take a screenshot of your phone’s screen instead.
 
 Use Disable Flag Secure Magisk Module
@@ -420,9 +409,6 @@ Still experiencing the error message, “**Can’t take screenshot due to securi
 
 The module patches the Android framework to remove the FLAG\_SECURE flag from apps. It is a relatively simple process but requires root access and Magisk. This module will turn off the security flag to take screenshots in Incognito mode and other apps.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![magiskzip disable flag secure module](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-11.jpg)
 
 Authors Verdict
@@ -445,50 +431,39 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 1:** Once you have downloaded Dr.Fone, install it and launch it on your desktop. Then, connect your Google Pixel 8 Pro to your desktop using a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,567,199** people have downloaded it
 
 - **Step 2:** From the **Toolbox** homepage, select **System Repair** > **Android**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone toolbox selection interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** Click **Start** on the new window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone system repair solutions](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 4:** Select an option from the **Name**, **Model**, **Country**, and **Carrier** in the drop-down lists. Next, select the checkbox to agree with the warning, then click **Next** in the bottom right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![select correct device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 5:** Follow the in-app instructions to put your Google Pixel 8 Pro on Download mode, then click **Next**.
 
 ![put android on download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 6:** Wait while the firmware automatically downloads.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![downloading firmware interface](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 7:** Review the details on the screen and click **Fix Now** to install the firmware on your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![firmware downloaded interface](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 - **Step 8:** Read the dialogue box note, enter the code in the input box, and click **Confirm**.
@@ -497,21 +472,12 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 9:** Keep your smartphone connected and avoid using it while Dr.Fone is repairing it.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![repairing android device in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 - **Step 10:** If your device has started properly, click **Done** to close this app. Otherwise, click **Try again**.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android system issue repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 You can fix the “**Can’t take screenshot due to security policy**” error on Android in different ways. But it depends on the cause of the error. If an app is causing the error, you can try two things. First, remove the app’s screenshot restriction. Second, download a different screenshot app or a different device to take screenshots.
@@ -520,16 +486,10 @@ Although there are ways to bypass the “**Can’t take screenshot due to securi
 
 If you think the issue is with your Android system, or your device becomes bricked after trying other methods, experiencing app crashes, or otherwise malfunctioning, try using the Dr.Fone System Repair tool. It is worth trying and can fix most Android system issues in a few minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Android Safe Mode - How to Turn off Safe Mode on Google Pixel 8 Pro?
 
 Safe mode on Android is very useful to get rid of dangerous apps and malware. This allows the user to perform a uninstall of the crashed or malicious apps by putting safe mode on Android. Now the question is how to remove safe mode? In this article, we have discussed in detail how to get out of safe mode and also discussed some frequently asked questions. Keep reading this article.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to turn off safe mode on Android?
 
 This is very important to turn off the safe mode after you put the safe mode on Android. Your mobile performance is limited in this mode. So you have to turn off safe mode. For doing this, there are some methods. Try to apply them one by one. If you succeed, stop there. Else go to the next method.
@@ -584,10 +544,14 @@ Step 1 – Turn on your device in safe mode. It can generally be done by tapping
 
 Step 2 – Now you can find the recovery mode screen. Navigate to the “Wipe cache” option with the volume up and down button and select the option by tapping the power button.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Navigate to “Wipe cache”](https://images.wondershare.com/drfone/article/2017/06/14986726461259.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3 – Now follow on-screen instruction and your device will be rebooted.
 
@@ -601,9 +565,6 @@ Step 1 – Enter in the recovery mode by following the steps mentioned earlier.
 
 Step 2 – Now select “Factory data reset” from the given options.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select “Factory data reset”](https://images.wondershare.com/drfone/article/2017/06/14986726765597.jpg)
 
 Step 3 – Now, follow the on-screen instructions and your device will be factory reset.
@@ -620,11 +581,6 @@ If some apps or programs create a problem on your device, the solution is safe m
 
 Before this, remember to take a backup of your Google Pixel 8 Pro. We recommend you to use the Dr.Fone - Phone Backup (Android). This tool is the best in its class to provide users with a very easy-to-use user interface yet powerful solution.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Backup (Android)\_](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexibly Backup and Restore Android Data
@@ -640,9 +596,6 @@ To enter the safe mode, follow the instructions below.
 
 Step  1 – First of all, long press the power button and let the Power options appear.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Power options](https://images.wondershare.com/drfone/article/2017/06/14986727492182.jpg)
 
 Step 2 – Now, long press on the "Power off” option. This will instantly ask you if you want to reboot into safe mode. Select the option and your device will reboot in safe mode.
@@ -669,9 +622,6 @@ The safe mode is a very useful program for any Android device. But it limits the
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -684,9 +634,26 @@ The safe mode is a very useful program for any Android device. But it limits the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-direct-comparison-evaluating-obs-against-twitch-hubs/"><u>[Updated] Direct Comparison Evaluating OBS Against Twitch Hubs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-safeguarding-photos-best-software-guide-uncovered-for-2024/"><u>[Updated] Safeguarding Photos Best Software Guide Uncovered for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/maciphoneandroid/"><u>使用Mac、iPhone或Android簡單轉檔影像文件：高效無界的影片下載解決方案</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/achieving-memetic-mastery-top-9-techniques-to-create-engaging-gifs/"><u>Achieving Memetic Mastery Top 9 Techniques to Create Engaging GIFs</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-gt-5-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme GT 5 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-v27-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo V27 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-oppo-f23-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Oppo F23 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968564055-effortless-installation-get-your-razer-mamba-drivers-now/"><u>Effortless Installation: Get Your Razer Mamba Drivers Now!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-zero-5g-2023-turbo-phone-without-password-by-drfone-android/"><u>How To Unlock Infinix Zero 5G 2023 Turbo Phone Without Password?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-6-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 6 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-14-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 14? How to Fix</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-edge-in-data-management-premiere-server-racks-of-2024-unveiled/"><u>Leading Edge in Data Management: Premiere Server Racks of 2024 Unveiled</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-motorola-g24-power-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Motorola G24 Power? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

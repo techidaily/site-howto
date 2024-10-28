@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Xiaomi Redmi 12 | Dr.fone
-date: 2024-07-30T13:22:57.003Z
-updated: 2024-07-31T13:22:57.003Z
+date: 2024-10-23T18:43:29.843Z
+updated: 2024-10-28T17:58:58.007Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ With the increase in our reliance on smartphones, having **touchscreen problems*
 
 If your **touchscreen is malfunctioning** or doesn’t work correctly, you cannot interact with your device. On this page, you’ll learn general **phone touch problems** on Android and how to get rid of them. Now explore the article to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![android screen problems intro](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-01.jpg)
 
 ## Part 1: Why Is My Android Experiencing Touch Screen Problems
@@ -59,39 +56,18 @@ A **touchscreen malfunctioning** can also be a sign of a dirty display. Since th
 
 Performing a reboot sounds trivial with such a complicated issue. But sometimes, it’s often the most successful way to fix a **touchscreen problem** on an Android device. Restarting your Android shuts down and resets all background services, which may have led to your issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![android restart method](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-04.jpg)
 
 To restart your Android, press and hold the **Power** button for several seconds to switch off your phone. In other smartphones, you may need to hold down the **Power** button as well as the **Volume Down** button at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 5: Factory Data Reset Your Android
 
 Before attempting to have your device checked for any hardware defects, you should try completing a Factory Reset. To do this, go to **Settings > Backup and Reset.** Next, tap on **Factory data reset** \> **Delete all**.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android factory data reset](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-05.jpg)
 
 Performing a Factory Data Reset will erase all your data and restore your device to its factory default settings. Creating a backup before doing this step is recommended, as you will lose all your personal data once the process starts.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 6: Put Your Android into Recovery Mode
 
 If all else fails, placing your Android into Recovery Mode should be a last resort. Doing this method works similarly to the method above. You should perform this method if the screen is unresponsive and only the buttons on your Android are functional. Here’s how.
@@ -106,36 +82,31 @@ Placing your Android into **Recovery Mode** is different depending on your Andro
 
 **Step 1C**: If step 1A did not put your Android into **Recovery Mode**, press and hold the **Power** and **Volume Up** and **Down** buttons simultaneously. Continue pressing all three until the screen starts.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![android recovery mode 01](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-06.jpg)
 
 **Step 2**: Use the **Volume** buttons to navigate the choices, select Wipe data/factory reset, and confirm your choice with the **Power** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android recovery mode 02](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-07.jpg)
 
 **Step 3**: Wait for the process to complete and for your Xiaomi Redmi 12 to restart automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Method 7: Replace Your Android Touchscreen
 
 If doing all the earlier workarounds and fixes couldn’t resolve the **touchscreen problem,** it could be the screen itself. While replacing the touchscreen yourself is possible if you have the technical know-how, it’s still best to bring it to a professional to prevent further damage. You should have your Xiaomi Redmi 12 checked by a technician if the screen is getting weak, has water damage, or has failing screen components.
 
 ![图像](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-08.jpg)"
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 8: Bring it to an Authorized Service Center
 
 Your **phone touch problem** might not be caused by the screen, even when you had it replaced. If your Android is still unresponsive, it’s best to bring your smartphone to an authorized service center or directly to the phone manufacturer, especially when all efforts are exhausted.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How To Fix Android Touch Problem With an Alternative
 
 If all the general **phone touch problems** on your Xiaomi Redmi 12 persist, you should strongly consider [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) to do the job. The program can fix all Android system issues without any required skills. Problems caused by the operating system or software, such as the black screen of death, boot loop, ghost touch, and more, are done within less than 10 minutes with the program.
@@ -174,17 +145,10 @@ Follow the step-by-step guide below to start fixing general phone screen problem
 
 **Step 1**: Download and install Wondershare Dr.Fone on your computer. Next, launch the program and connect your Xiaomi Redmi 12 to your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![dr.fone general phone screen problems 01](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step 2:** Click **Start** to initiate the setup on a new window. From there, select the **Brand, Name, Model, Country,** and **Carrier** of your Xiaomi Redmi 12 and click **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone general phone screen problems 02](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step 3**: Follow the on-screen instructions on the main program window to initiate the repair process. After that, wait for your Android smartphone to return to its original state.
@@ -211,16 +175,11 @@ You can download and install Dr.Fone – System Repair (iOS) or (Android) for fr
 
 **4,471,551** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 If the **touchscreen is malfunctioning** on your smartphone, one of the fixes above should help solve the problem. If it did not solve the issue, consider using Dr. Fone – System Repair for iOS or Android when you need an all-in-one solution to all your phone screen problems.
 
 However, if your screen is broken or cracked, going to an authorized service center is still your best bet, especially when your screen urgently needs a replacement. Delaying it further may hurt your wallet in the long run, so it’s best to fix it as soon as possible.
-
-
 
 ## Quick Fixes for Why Is My Xiaomi Redmi 12 Black and White
 
@@ -228,23 +187,14 @@ However, if your screen is broken or cracked, going to an authorized service cen
 
 If you're asking **why is my Android phone in black and white**, then you're in luck. Dive into the article below to unravel the causes behind your phone's black-and-white display. Discover insights on addressing this unexpected issue, enhancing your overall mobile experience.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![girl pointing at phone with problem](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Phone Screen in Black and White? Easy Fixes for Android Devices
 
 Discovering your Xiaomi Redmi 12 going monochrome can be annoying. The section below answers the question: **why did my Xiaomi Redmi 12 phone go black and white?** It involves a combination of software adjustments and careful troubleshooting. Follow the practical solutions below to restore vibrant colors to your device.
 
 ![phone display in black and white](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Accessibility Settings
 
 Accidental activation of accessibility settings may turn your display monochromatic. The "**Grayscale**" or "**Color Inversion**" option in the **Accessibility** or **Vision** section of your phone's settings might be enabled. It can cause a black-and-white display. Here's the solution:
@@ -252,6 +202,13 @@ Accidental activation of accessibility settings may turn your display monochroma
 - **Step 1:** Open your phone's settings. Navigate to the **Accessibility** or **Vision** section.
 
 ![color inversion option turned on](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** Disable the **Grayscale** or **Color** **Inversion** option.
 
@@ -262,9 +219,6 @@ Certain third-party apps can cause conflicts, leading to a [black-and-white disp
 - **Step 1**: Identify and uninstall recently installed apps.
 - **Step 2:** Check individual app settings for grayscale modes.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### System Glitches
 
 System glitches or software bugs can trigger display issues. It can result in a black-and-white screen. Outdated software versions may contain bugs affecting color output as well. Regularly checking for software updates can prevent or resolve such glitches. Here's how.
@@ -275,15 +229,19 @@ System glitches or software bugs can trigger display issues. It can result in a 
 
 - **Step 2:** Update your device if there is a software update available. Ensure your device is running the latest software version.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Battery Saving Modes
 
 Battery-saving modes can also alter display settings to conserve energy. It can sometimes result in a black-and-white screen. These modes limit power consumption by reducing color output. Reviewing and adjusting these settings can restore the normal color display. Follow the steps below.
 
 - **Step 1**: Open your Xiaomi Redmi 12's **Settings**. Navigate to the **Battery** or **Battery** **&** **Performance** section.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![checking battery settings on android](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-05.jpg)
 
 - **Step 2:** Check and adjust battery-saving settings, including toggling power-saving modes on or off.
@@ -294,18 +252,12 @@ In rare cases, [hardware issues](https://drfone.wondershare.com/device-diagnosti
 
 - **Step 1:** Check for physical damage, loose connectors, or display hardware issues.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![broken android screen](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-06.jpg)
 
 - **Step 2:** Seek professional assistance or contact the Xiaomi Redmi 12 device manufacturer if hardware problems are suspected.
 
 Consider a reliable third-party tool if your phone persists in black and white despite troubleshooting attempts. Tools such as [Dr.Fone System Repair Android](https://drfone.wondershare.net/android-repair.html) offer advanced solutions for complex system issues. They ensure your phone regains its vibrant display without a hitch.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Part 2. Using a Dedicated Tool: Dr.Fone for Fixing Black and White Display Problems
 
 Dr.Fone is a reliable solution for addressing black-and-white display issues on Android devices. For a stress-free repair experience, follow these simple steps using Dr.Fone - System Repair (Android).
@@ -326,62 +278,49 @@ Repair Android System Errors without Any Trouble.
 
 - **Step 1:** Download and install Dr.Fone. Launch the program and click on **System** **Repair** on the main window. Connect your Xiaomi Redmi 12 to the computer using the correct cable. Choose **Android** among the options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone android repair window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,601,336** people have downloaded it
 
 - **Step 2:** Provide accurate device information, including brand, name, model, country/region, and carrier details. Confirm the warning and click **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone device details window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Follow the on-screen instructions and wait for the program to download the firmware. Once downloaded and verified, Dr.Fone automatically initiates the repair process on your Xiaomi Redmi 12.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![dr.fone downloading firmware window](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** After a while, your Xiaomi Redmi 12 will have all system issues fixed. Click **Done** to complete the process or choose **Try** **again** if the problem persists, allowing you to repeat the steps.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone done repairing window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 **Note**
 
 It's highly recommended to [back up your Android data](https://drfone.wondershare.com/backup/android-backup-software.html) before using Dr.Fone for repair.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### How Dr.Fone Can Help You Beyond Display Issues
 
 Beyond resolving black-and-white display problems, Dr.Fone serves as a comprehensive tool for all Android issues. The platform can enhance your device functionality.
@@ -458,9 +397,6 @@ Many phones offer a night mode that reduces blue light emission. It promotes bet
 
 Some apps have specific display settings. Explore and adjust these settings within individual apps to enhance your visual experience and reduce strain.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 The guide highlights the "**Why is My Xiaomi Redmi 12 black and white**" query. It offers practical solutions for Android and Xiaomi Redmi 12 users. By addressing common issues such as accessibility settings, app conflicts, and system glitches, you can restore their vibrant displays. Maintaining your phone display involves mindful practices, from adjusting brightness to regular updates.
@@ -473,19 +409,12 @@ Embracing the convenience of Android Auto enhances your driving experience. It s
 
 In this guide, you’ll delve into the common problems users face when **Android Auto does not work** and provide practical solutions to get you back on the road smoothly. From troubleshooting software glitches to addressing hardware concerns, this article aims to equip you with the knowledge to tackle **Android Auto problems** effectively.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![android and car logo](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-01.jpg)
 
 ## Part 1. A Briefer on Android Auto
 
 Android Auto is a revolutionary application designed to enhance the in-car experience by seamlessly connecting Android smartphones to compatible vehicles. It serves as a co-pilot, offering hands-free navigation, communication, and entertainment options, minimizing distractions while driving.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How Android Auto Works
 
 Understanding the mechanics of this technology is essential for effective **Android Auto troubleshooting**. It mirrors your Android smartphone’s interface onto your car’s infotainment system. It provides a simplified and optimized version of your device’s features on the road.
@@ -496,9 +425,6 @@ By integrating familiar smartphone functionalities into your car, Android Auto a
 
 ![android auto and apple carplay](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2. Common Issues Android Auto Faces + Troubleshooting/Repair
 
 Even if it is such a great technology, sometimes **Android Auto won’t connect.** It also deals with common issues that can affect its performance. In this section, you’ll delve into these challenges and equip you with practical troubleshooting solutions to fix your Android Auto experience.
@@ -515,14 +441,8 @@ Android Auto relies heavily on various navigation, communication, and entertainm
 
 If specific apps refuse to cooperate, a quick remedy is to restart the head unit. If the issue persists, consider uninstalling and reinstalling the problematic applications. This step ensures a clean slate for the apps, potentially resolving any underlying compatibility or performance issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![google maps needs location permission](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Screen and Display Problems (Head Unit)
 
 Issues with the screen or display on your car’s head unit can be disconcerting. To troubleshoot, commence with a simple restart of the head unit.
@@ -530,8 +450,12 @@ Issues with the screen or display on your car’s head unit can be disconcerting
 If the problem lingers, escalate the solution by restarting the entire car. Should these steps prove ineffective, seeking professional assistance at a maintenance center is advisable. This ensures a thorough examination and potential resolution of [<u>hardware-related problems</u>](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html), providing a comprehensive fix for persistent screen and display issues.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Voice Commands Not Working
 
 Voice commands serve as a cornerstone of the Android Auto hands-free experience. When they falter, it can disrupt the seamless interaction with the system.
@@ -541,15 +465,16 @@ Begin by scrutinizing your internet connection, as voice commands rely on a stab
 Understanding that these issues are inherent to any technology, Android Auto users can confidently navigate and troubleshoot these problems with the provided solutions. By addressing these commonplace concerns, users empower themselves to swiftly overcome hurdles, ensuring a seamless and gratifying driving experience with Android Auto.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3. A Quicker Solution: [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) – System Repair
 
 If navigating through various troubleshooting steps seems complicated, especially if the issue resides within your Xiaomi Redmi 12, a swift and efficient solution comes in the form of Wondershare Dr.Fone - System Repair.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 While the methods presented earlier primarily address software glitches, Dr.Fone can tackle more profound issues, offering a quick fix to revitalize your Android Auto experience. It is a comprehensive toolkit that caters to various Android needs, ensuring a seamless and optimized experience. Among its array of features, the System Repair feature in Dr.Fone acts as a reset button for your Xiaomi Redmi 12.
@@ -590,27 +515,17 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 
 - **Step 7:** Upon completion of the process, your phone should now be restored. Click **Done** to conclude.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,276,578** people have downloaded it
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Conclusion
 
 In wrapping up this guide, you’ve explored common reasons **Android Auto does not work**. You’ve also been provided practical solutions to keep your driving experience seamless. Remember, regular maintenance of your car’s head unit and periodic checks on your Xiaomi Redmi 12 can preemptively address potential issues.
 
 By staying proactive, you ensure a consistently smooth ride with Android Auto. For comprehensive system repair and addressing broader Android-related needs, consider trying out Dr.Fone. It’s a versatile tool that can enhance your Android experience and keep your digital journey hassle-free. Take control of your drive and explore the full potential of your Xiaomi Redmi 12s with Dr.Fone today.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -624,9 +539,24 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-industry-standards-selecting-prime-gear-for-ultimate-4k-results/"><u>[New] Industry Standards Selecting Prime Gear for Ultimate 4K Results</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-value-airborne-innovations-top-5-budget-drone-selections-for-2024/"><u>[New] Value Airborne Innovations Top 5 Budget Drone Selections for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-filmmakers-companion-the-journey-from-capturing-to-post-production-of-360-videos/"><u>[Updated] 2024 Approved A Filmmaker's Companion The Journey From Capturing to Post-Production of 360 Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-in-the-hole-adding-windows-to-your-steam-deck/"><u>Ace in the Hole: Adding Windows to Your Steam Deck</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-razr-40-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Razr 40 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-decoding-youtubes-strategic-approach-to-short-form-video-promotion/"><u>In 2024, Decoding YouTube's Strategic Approach to Short-Form Video Promotion</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-x9a-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor X9a Device</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-downloading-and-installing-epson-xp-400-printer-driver/"><u>Step-by-Step Instructions for Downloading and Installing Epson XP 400 Printer Driver</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/strategies-doptimisation-des-sauvegardes-incrementielles-et-differentielles-sous-windows-7/"><u>Stratégies D'optimisation Des Sauvegardes Incrémentielles Et Différentielles Sous Windows 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-6-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Tecno Pova 5 | Dr.fone</u></a></li>
+</ul></div>
 

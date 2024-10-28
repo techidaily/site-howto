@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Honor 80 Pro Straight Screen Edition | Dr.fone
-date: 2024-10-15T17:17:54.929Z
-updated: 2024-10-22T16:46:58.963Z
+date: 2024-10-22T17:53:30.236Z
+updated: 2024-10-28T16:42:35.920Z
 tags: 
   - problems
 categories:
@@ -61,6 +61,13 @@ One-click solution to fix camera failed on Honor 80 Pro Straight Screen Edition 
 
 ![fix samsung camera failed by repairing samsung system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** You will have to provide the Honor 80 Pro Straight Screen Edition device details accurately to ensure that the software provides a precise firmware package to be downloaded. Enter brand, name, model, country, and carrier of your device and agree to the terms and condition.
 
 ![select the details of samsung device](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -69,18 +76,32 @@ One-click solution to fix camera failed on Honor 80 Pro Straight Screen Edition 
 
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4.** As soon as the firmware is downloaded, the software will automatically initiate the repair process. You will be able to see the ongoing repair.
 
 ![fixing samsung camera failed](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When the software is done repairing the system, you will be notified. Thus, the Camera failed Honor 80 Pro Straight Screen Edition error in your phone will be fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to fix Camera Failed error by clearing camera data?
 
@@ -90,29 +111,22 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 
 ![application manager](https://images.wondershare.com/drfone/article/2017/07/14997063797708.jpg "application manager")
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Now a list of all Apps will appear before you. Keep scrolling down until your find “Camera”.
 
 ![camera app](https://images.wondershare.com/drfone/article/2017/07/14997065904511.jpg "camera app")
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
 ![clear data](https://images.wondershare.com/drfone/article/2017/07/14997066321127.jpg "clear data")
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How to fix Camera Failed error by removing third-party Apps?
 
@@ -130,14 +144,14 @@ Simply, follow the instructions given below to remove Apps from Honor 80 Pro Str
 
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14997067161727.jpg "uninstall app")
 
-The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
-
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
 
 ## Part 5: How to fix Camera Failed error by wiping Cache Partition?
 
@@ -147,38 +161,24 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![power off device](https://images.wondershare.com/drfone/article/2017/07/14997067521730.jpeg "power off device")
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Now, press and hold the power on/off, home and volume up button simultaneously. Your device will now vibrate. This a signal to let go of the power button (only).
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14997067742072.jpg "boot in recovery mode")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Once the Recovery Screen appears, leave all buttons and use the volume down key till you reach “Wipe Cache Partition”.
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You may try to use the camera app once the process completes.
 
@@ -219,16 +219,10 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4\. Finally, you have to click on “Erase Everything” and wait for the Honor 80 Pro Straight Screen Edition device to reboot itself.
@@ -248,24 +242,18 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-exploring-the-complexity-behind-youtube-view-counter-for-2024/"><u>[New] Exploring the Complexity Behind YouTube View Counter for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-5-audio-to-video-makers-online/"><u>[New] Top 5 Audio to Video Makers Online</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unlocking-the-power-of-visual-content-share-vids-on-facebook/"><u>2024 Approved Unlocking the Power of Visual Content Share Vids on Facebook</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-meizu-21-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Meizu 21</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cult-of-the-lamb-pc-crash-fix-expert-advice-and-solutions-unveiled/"><u>Cult of the Lamb PC Crash Fix: Expert Advice and Solutions Unveiled</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/download-free-2018-fifa-world-cup-matches-in-hd-avi-mp4-and-wmv-formats/"><u>Download Free 2018 FIFA World Cup Matches in HD - AVI, MP4 & WMV Formats</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-free-openai-inspired-ais-outside-of-sora/"><u>Explore Free, OpenAI-Inspired AIs Outside of Sora</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-oneplus-12-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It OnePlus 12 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/strategies-to-fast-track-vimeo-content-for-2024/"><u>Strategies to Fast-Track Vimeo Content for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-technique-to-get-your-lenovo-laptop-t43ebos-running-smoothly-with-the-newest-drivers-for-windows-users/"><u>The Ultimate Technique to Get Your Lenovo Laptop T43ebos Running Smoothly with the Newest Drivers for Windows Users</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-x50-gt-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor X50 GT Screen | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-the-apple-books-experience-features-pros-and-cons-review/"><u>Unboxing the Apple Books Experience: Features, Pros & Cons Review</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-redmi-note-12-pro-4g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Redmi Note 12 Pro 4G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-oneclickpodcaststream-effortlessly-livestream-your-podcast-content/"><u>[Updated] OneClickPodcastStream Effortlessly Livestream Your Podcast Content</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-8-plus-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 8 Plus When Its Locked Within Seconds</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-how-to-overcome-the-roblox-endless-loading-screen-issue/"><u>Fixes and Solutions: How to Overcome the Roblox Endless Loading Screen Issue</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-g24-power-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola G24 Power 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-15-pro-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone 15 Pro If Youve Tried Everything</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-x-flip-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo X Flip Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-oppo-reno-10-proplus-5g-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Oppo Reno 10 Pro+ 5G PIN</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-s24-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy S24 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-editors-guide-to-enhancing-longer-youtube-video-content-with-chapters-for-2024/"><u>The Editor's Guide to Enhancing Longer YouTube Video Content with Chapters for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-poco-m6-pro-4g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Poco M6 Pro 4G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-xiaomi-mix-fold-3-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Mix Fold 3 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

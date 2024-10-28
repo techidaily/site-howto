@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Nokia C12 Plus | Dr.fone
-date: 2024-10-20T18:56:42.631Z
-updated: 2024-10-22T20:43:31.879Z
+date: 2024-10-23T18:01:32.226Z
+updated: 2024-10-28T16:19:11.562Z
 tags: 
   - problems
 categories:
@@ -73,13 +73,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![confirm system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
 
 ![android system repair in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -87,13 +80,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 12:** Once it finishes, click **Done**to complete the system repair.
 
 ![completed android system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 There are two ways to enter Download Mode: one for Android devices with the Home button and another for those without it.
 
@@ -112,6 +98,13 @@ The steps for entering Download Mode on Android devices without the Home button 
 - **Step 1:** Turn off your phone.
 - **Step 2:** Press and hold the **Volume Down**, **Bixby**, and**Power** buttons simultaneously.
 - **Step 3:** Press the **Volume Up**button to enter Download Mode.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2. Force-Close the App
 
@@ -138,16 +131,16 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![log out of spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Tap **Log In**.
 
 ![log into spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5:** Enter your login credentials.
 - **Step 6:** Tap **Login**again, and you’re in.
@@ -177,6 +170,13 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 - **Step 5:** Go to **Set Time**and set the right time.
 
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6. Update Your System Software
 
@@ -241,6 +241,13 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 - **Step 7:** Once it installs, log in to test if it’s working.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 10. Check if Spotify Is Down
 
 If your Spotify keeps crashing and closing, it might not be your device’s problem. Sometimes, Spotify’s server can be down, and many people face the same issue. If that’s the case, you can check with your friends if their Spotify is working or check online if Spotify is down. To do that, follow these steps:
@@ -253,13 +260,6 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 - **Step 3:** You’ll see several websites that check real-time app servers and if they’re down.
 
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
@@ -285,6 +285,13 @@ When using different apps and websites, your device caches data from those sourc
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -327,44 +334,24 @@ Step 2. Select the issue type for your phone. Choose from "Touch screen not resp
 
 ![bricked android phone data recovery-Select the issue type](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: In the next step, you need to select your device model. If you don’t know the model of your device click on “How to check the Nokia C12 Plus device model” to get help.
 
 ![bricked android phone data recovery-select your device model](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: The next screen will provide instructions on how to enter “Download mode.” Connect the Nokia C12 Plus device to your PC once it is in “Download Mode”
 
 ![bricked android phone data recovery-Download Mode](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 5: The program will begin an analysis of your device and then download the recovery package.
 
 ![bricked android phone data recovery-download the recovery package](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 6: Then Dr.Fone will display all the recoverable file types. You can click on the files to preview them. Select the ones you need and click on "Recover to Computer" to save them to your computer.
 
@@ -385,13 +372,6 @@ Step 1: Load up Clockworkmod or any other recovery tool that you have been using
 Step 2: Once you are in, navigate to the “Reboot system now.” If you are using Clockworkmod, this should be your first option. Hopefully everything will work just right if you do this, If it doesn’t you may need to download and re-flash the ROM again.
 
 ![bricked android phone data recovery-Reboot system now.](https://images.wondershare.com/drfone/others/fix-bricked-android-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When the Nokia C12 Plus device won’t stop rebooting
 
@@ -455,6 +435,13 @@ Step 3 – Now, your phone will boot up in some time and you can see the Nokia C
 
 ![the Nokia C12 Plus device](https://images.wondershare.com/drfone/article/2017/06/14986725432763.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This method, if goes well, will turn off safe mode in Android from your device. IF not, move to the next method instead.
 
 **Method 2: Do a soft reset:**
@@ -508,6 +495,13 @@ Step 1 – Enter in the recovery mode by following the steps mentioned earlier.
 Step 2 – Now select “Factory data reset” from the given options.
 
 ![select “Factory data reset”](https://images.wondershare.com/drfone/article/2017/06/14986726765597.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3 – Now, follow the on-screen instructions and your device will be factory reset.
 
@@ -578,20 +572,24 @@ The safe mode is a very useful program for any Android device. But it limits the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-building-panoramic-pictures-through-image-fusion/"><u>[Updated] Building Panoramic Pictures Through Image Fusion</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-successful-youtube-sponsorship-deals/"><u>2024 Approved Crafting Successful YouTube Sponsorship Deals</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-asus-rog-phone-8-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Asus ROG Phone 8 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airpods-compatibility-with-nintendo-switch-can-they-work-together/"><u>AirPods Compatibility with Nintendo Switch - Can They Work Together?</u></a></li>
-<li><a href="https://win-docs.techidaily.com/complete-guide-restoring-deleted-data-from-an-external-hdd-on-windows-11-and-macos/"><u>Complete Guide: Restoring Deleted Data From an External HDD on Windows 11 and macOS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/engaging-audiences-with-strategic-language-choices/"><u>Engaging Audiences with Strategic Language Choices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-updates-for-your-hp-officejet-pro-8620-drivers-in-windows-pcs/"><u>How To Get the Latest Updates for Your HP OfficeJet Pro 8620 Drivers in Windows PCs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-samsung-galaxy-s24plus-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Samsung Galaxy S24+ PC | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-huawei-nova-y71-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Huawei Nova Y71 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-excessive-cpu-consumption-in-call-of-duty-modern-warfare/"><u>Solving Excessive CPU Consumption in Call of Duty: Modern Warfare</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-realme-c67-4g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme C67 4G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-vivo-y36-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y36 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-swiftvideo-pro-accelerate-your-android-content/"><u>[New] 2024 Approved SwiftVideo Pro Accelerate Your Android Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-boosting-engagement-on-fb-pages-with-auto-played-youtube-videos/"><u>[Updated] 2024 Approved Boosting Engagement on FB Pages with Auto-Played Youtube Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-calmly-quieten-your-computers-audio-output/"><u>[Updated] 2024 Approved Calmly Quieten Your Computer's Audio Output</u></a></li>
+<li><a href="https://win11.techidaily.com/2-mastering-the-switch-free-conversion-of-mpc-tracks-to-wav-audio-quality/"><u>2. Mastering the Switch: Free Conversion of MPC Tracks to WAV Audio Quality!</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-spark-20-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Spark 20 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-realme-narzo-60-pro-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme Narzo 60 Pro 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-y17s-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y17s? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-itel-p55-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Itel P55 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-v-purse-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor V Purse 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-start-fallout-3-latest-strategies-and-solutions/"><u>How to Successfully Start Fallout 3? Latest Strategies & Solutions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-videos-impact-with-customizable-youtube-thumbnails/"><u>In 2024, Elevate Your Video's Impact with Customizable YouTube Thumbnails</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-recommendation-best-websites-for-downloading-snapchat-ringtone/"><u>In 2024, Recommendation Best Websites For Downloading Snapchat Ringtone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-x9a-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor X9a without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-90-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor 90 Pro Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whos-bookmarked-your-post-learn-to-find-out-whos-saving-your-instagram-images/"><u>Who's Bookmarked Your Post? Learn to Find Out Who's Saving Your Instagram Images</u></a></li>
+<li><a href="https://win-community.techidaily.com/windows-server-202nx/"><u>Windows Server 202nXへの移行：サポート終了日とそれに伴う最良のバックアップ計画</u></a></li>
 </ul></div>
 

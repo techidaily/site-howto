@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy M54 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-10-18T20:52:10.408Z
-updated: 2024-10-22T19:35:36.431Z
+date: 2024-10-22T18:44:47.158Z
+updated: 2024-10-28T19:26:07.296Z
 tags: 
   - problems
 categories:
@@ -67,13 +67,6 @@ You can clear your cached data using the default settings.
 
 ![clear cached data on xiaomi 5a](https://images.wondershare.com/drfone/article/2023/03/clear-cached-data-on-xiaomi5a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5. Back Up And Factory Reset
 
 Another solution is to back up the Samsung Galaxy M54 5G device and perform a factory reset, which can help reset the Samsung Galaxy M54 5G device to its original state and remove any software glitches that may be causing the screen unresponsiveness. The factory settings on your phone will restore any data saved by third-party applications and some of the phone's settings when it was first built. Note that this method erases all data from the Samsung Galaxy M54 5G device, so it should only be considered a last resort.
@@ -111,16 +104,16 @@ To avoid facing a Samsung Galaxy M54 5G screen unresponsive issue, users can tak
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -175,13 +168,6 @@ Your **screen touch not working** can sometimes get fixed by simply cleaning the
 
 ![cleaning iphone with cloth](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Remove Extra Peripherals
 
 Unplug any external device connected to your iPhone’s Lightning port or USB-C if your **phone screen stops working**. For Android users, meanwhile, disconnect any accessories like chargers or wireless headphones. After that, try using the touchscreen. If it works, the outcome proves that the fault appeared due to the external device.
@@ -207,6 +193,13 @@ If your Samsung Galaxy M54 5G Redmi **phone is stuck on loading screen** or “
 **Step 2:** Choose **Restart,** then **Accept** if a confirmation message spears. Then wait a few seconds or minutes when your device is performing the reboot.
 
 ![reboot xiaomi redmi options](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Update Your Software
 
@@ -251,6 +244,13 @@ Wondershare Dr.Fone for Android and iOS allows you to fix your smartphone within
 
 The program supports all iOS versions, including the latest iOS 16 and iOS 16 beta. Compared to the iTunes store or other methods, the app can quickly fix any iPhone issues without data loss. For Android users, meanwhile, Dr.Fone supports up to 1000+ Android smartphones making it highly versatile even if you’re using an older Android device or the latest models.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tech Specs
 
 Here are the minimum system requirements of Wondershare Dr.Fone (iOS) for your computer.
@@ -265,13 +265,6 @@ Meanwhile, here are the tech specs for Wondershare Dr.Fone (Android)’s minimum
 | **Computer OS** | **Android** |
 | --- | --- |
 | Windows 7, 8, 8.1, 10, 11 | Android 2.1 and up |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Pros and Cons
 
@@ -321,20 +314,27 @@ In this step-by-step guide below, you can fix your **unresponsive phone screen**
 
 ![dr.fone fix unresponsive touchscreen 03](https://images.wondershare.com/drfone/drfone/android-repair-09.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: People Also Ask
 
 Some common questions you should know when taking care of an unresponsive phone touchscreen are listed below.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Why Did My iPhone Screen Go Black After Not Responding to Touch?
 
 Your iPhone screen with a **touch issue** will sometimes go black after not responding to touch due to several issues. It could be hardware, software, issues with a particular app, software crash, or you have a low battery. If it’s a drained battery, you’re in luck; all you have to do is charge it. Otherwise, you’ll have to perform a force restart on your iPhone to try to reboot it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. How Do I Keep My Android From Crashing?
 
@@ -345,13 +345,6 @@ Keeping your apps updated should help you solve app crashing issues that can imp
 Wondershare Dr.Fone for iOS and Android is free to download and install. You can also test the first few steps and see if the program supports your device. However, when you click the **Fix Now** button to start the repair process, you will be required to enter a valid license to activate the program.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -374,6 +367,13 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.1 Open the Phone app in Safe Mode
 
 First and foremost, the thing that can let you get rid of this trouble is Safe Mode. It is a feature that will end any excessive background functioning of the Samsung Galaxy M54 5G device. For instance, your device will be able to run sans any third-party apps when in Safe mode. Since the important functions and the naïve apps will be running on the Samsung Galaxy M54 5G device, you will get to know if it’s really a software glitch or not by running the Phone app in Safe mode. And this is the first solution we would recommend you make use of when the Phone app has stopped. Here is how to enable Safe Mode.
@@ -392,20 +392,6 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 3. Now, click on "Storage" and choose "Clear Cache".
 
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.3 Update Google Play services
 
@@ -478,6 +464,13 @@ Downloading firmware will be the next step. Prior to this, you have to go throug
 
 ![Phone app crashing - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5: Get the Samsung Galaxy M54 5G device Repaired**
 
 When you see the firmware has been downloaded, the issue will begin to get resolved. Hang on and wait until you get notified for the repair of the Samsung Galaxy M54 5G device.
@@ -496,6 +489,13 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <ins class="adsbygoogle"
@@ -512,14 +512,19 @@ If none of the above methods worked for you, the last resort you are left with i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/he-creators-currency-how-to-turn-streams-into-dollars/"><u>[New] The Creator’s Currency How To Turn Streams Into Dollars</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cyber-sleuthing-101-how-to-ethically-find-someones-phone-number-on-the-internet/"><u>Cyber Sleuthing 101: How to Ethically Find Someone's Phone Number on the Internet</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-6-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone 6 and iPad</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-galaxy-s21-fe-5g-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Galaxy S21 FE 5G (2023)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-the-headphone-mode-glitch-on-your-iphone-discover-8-reliable-methods/"><u>Overcome the Headphone Mode Glitch on Your iPhone: Discover 8 Reliable Methods</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-sony-xperia-5-v-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Sony Xperia 5 V Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-mastering-filmmaker-mode-crafting-viral-tiktok-reactions-with-filmora-for-2024/"><u>[New] Mastering Filmmaker Mode Crafting Viral TikTok Reactions with Filmora for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-elevate-your-content-with-these-top-5-youtube-marketing-methods/"><u>2024 Approved Elevate Your Content with These Top 5 YouTube Marketing Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-note-30-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Infinix Note 30 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-confusing-blue-screen-issue-error-0x8007007e/"><u>Clearing Up Confusing Blue Screen Issue: Error 0X8007007E</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-safely-back-up-data-discover-these-5-trustworthy-solutions/"><u>How To Safely Back Up Data - Discover These 5 Trustworthy Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m14-4g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy M14 4G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/lost-documents-found-macs-data-revival-solution/"><u>Lost Documents Found: Mac's Data Revival Solution</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-8-plus-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-case-for-and-against-chatgpt-plus/"><u>The Case for & Against ChatGPT Plus</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v30-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-tecno-spark-20c-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Spark 20C Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-mix-fold-3-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Mix Fold 3 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

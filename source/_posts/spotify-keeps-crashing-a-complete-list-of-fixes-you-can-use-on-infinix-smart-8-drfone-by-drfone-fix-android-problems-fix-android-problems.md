@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Smart 8 | Dr.fone
-date: 2024-10-17T18:55:12.958Z
-updated: 2024-10-22T23:53:07.669Z
+date: 2024-10-22T19:19:40.930Z
+updated: 2024-10-28T16:28:17.338Z
 tags: 
   - problems
 categories:
@@ -81,6 +81,13 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![completed android system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There are two ways to enter Download Mode: one for Android devices with the Home button and another for those without it.
 
 The steps for entering Download Mode on an Android phone with the Home button are as follows:
@@ -95,9 +102,23 @@ The steps for entering Download Mode on Android devices without the Home button 
 
 ![enter download mode without the home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 1:** Turn off your phone.
 - **Step 2:** Press and hold the **Volume Down**, **Bixby**, and**Power** buttons simultaneously.
 - **Step 3:** Press the **Volume Up**button to enter Download Mode.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2. Force-Close the App
 
@@ -107,6 +128,13 @@ You can force-close Spotify and open it again to make it work properly. That is 
 - **Step 2:** If it’s not working, open **App Switcher** or **Recent Apps**. Different Android devices open it differently. Thus, you can swipe up from your Home screen, or if you have three buttons at the bottom, press **Recent Apps**.
 
 ![recent apps on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Find Spotify in **Recent Apps**and click **X** or swipe up over it to force-close it.
 - **Step 4:** Try opening Spotify again.
@@ -200,6 +228,13 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 
 ![available storage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Then, you can go ahead and clear as much space as you can.
 
 ### 9. Reinstall Spotify
@@ -228,6 +263,13 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 - **Step 2:** Type “**Is Spotify down**” in the search bar.
 
 ![search if spotify is down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-20.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** You’ll see several websites that check real-time app servers and if they’re down.
 
@@ -258,18 +300,18 @@ When using different apps and websites, your device caches data from those sourc
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 If your Spotify app keeps crashing, several reasons might be behind it. For instance, your storage space might be at capacity, your system might need an update, your phone might have a software bug, or the Spotify server might be down.
 
 We’ve given you 11 solutions to fix the Spotify crashing problem. However, if your system needs repairing, you can try Wondershare Dr.Fone for quick and easy repair. This solution and all others will surely help you fix the crashing problem.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Fix Android.Process.Media Has Stopped on Infinix Smart 8
 
@@ -286,13 +328,6 @@ There are several reasons why this error can occur repeatedly and it is worth no
 - 3\. A virus attack can also result in this error among many others
 - 4\. Restoring apps via a Titanium backup is also a major cause
 - 5\. Failure of certain apps such as the download manager and the media storage
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. Back up your Android Data First
 
@@ -322,13 +357,6 @@ Step 2. Connect your device
 Then connect your Infinix Smart 8 to the computer and make sure that it can be recognized by your computer. Then click on "My Backup" on Dr.Fone.
 
 ![Android. Process. Media - recognize phone](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3. Begin to backup
 
@@ -388,13 +416,6 @@ Step 4: Turn off your device and then turn it on
 
 This Should clear the error message for good.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 5: Boot your device into safe mode
 
 [Safe mode](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html) can temporarily disable third-party apps, allowing only core system apps. This detects if a third-party app causes the "Android process media keeps stopping" error. If the problem disappears in safe mode, a third-party app might be the cause. Uninstalling it can restore normal function. If the problem persists in safe mode, a deeper system issue might exist, needing further investigation or support.
@@ -417,13 +438,6 @@ Fix Android process media has stopped issue in one click
 After launching Dr.Fone, click on "System Repair" from the main window.
 
 ![fix android.process.media stopping by drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then connect your Infinix Smart 8 with the correct cable and choose "Android" > click "Start".
 
@@ -451,19 +465,6 @@ It may take a while, so you could have a cup of coffee to wait for the repair pr
 
 ![android.process.media stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### Method 7: Factory Reset your device
@@ -477,13 +478,6 @@ If the problem persists after trying the above steps, it could be related to spe
 It is our hope that when faced with this fairly common error, you will not panic. This is a fairly mild issue that can easily be fixed as we have seen above.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Android Safe Mode - How to Turn off Safe Mode on Infinix Smart 8?
 
@@ -573,13 +567,6 @@ If some apps or programs create a problem on your device, the solution is safe m
 
 Before this, remember to take a backup of your Infinix Smart 8. We recommend you to use the Dr.Fone - Phone Backup (Android). This tool is the best in its class to provide users with a very easy-to-use user interface yet powerful solution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Phone Backup (Android)\_](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexibly Backup and Restore Android Data
@@ -604,6 +591,13 @@ Step 2 – Now, long press on the "Power off” option. This will instantly ask 
 If you are using Android version 4.2 or earlier, turn off the Infinix Smart 8 device and turn it on the back by tapping the power button. When the logo appears, tap and hold the volume down button. This will allow the Infinix Smart 8 device to boot in safe mode.
 
 Follow these steps carefully and now you can see a “Safe Mode” written at the corner of your device. This will confirm that you have successfully entered in Safe mode on Android.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Safe mode on Android FAQs
 
@@ -635,24 +629,18 @@ The safe mode is a very useful program for any Android device. But it limits the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-navigate-the-melody-maze-crafting-a-personalized-youtube-playlist/"><u>[New] 2024 Approved Navigate the Melody Maze Crafting a Personalized YouTube Playlist</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-prime-sites-to-explore-glossy-golden-typography-designs-for-2024/"><u>[Updated] Prime Sites to Explore Glossy, Golden Typography Designs for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-insightful-review-the-comprehensive-theta-s-experience/"><u>2024 Approved Insightful Review The Comprehensive Theta S Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-correct-that-mia-d3dx9-library-problem-once-and-for-all/"><u>DIY: Correct That MIA D3DX9 Library Problem Once and For All</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-slow-messages-on-iphone-correct-the-issue-with-these-9-tips/"><u>Experiencing Slow Messages on iPhone? Correct the Issue with These 9 Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-spark-20c-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Spark 20C Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-digital-universes-meta-to-omni/"><u>In 2024, Comparing Digital Universes Meta to Omni</u></a></li>
-<li><a href="https://win-net.techidaily.com/playstation-34-hdd/"><u>PlayStation 3/4 HDD バックアップマスタークラス！詳しいステップ方法を学ぶ</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/practically-always-on-power-saving-mastering-smartphone-efficiency/"><u>Practically Always on Power Saving: Mastering Smartphone Efficiency</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-geforce-experience-overcoming-closure-errors-efficiently/"><u>Troubleshooting GeForce Experience: Overcoming Closure Errors Efficiently</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-v29e-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V29e Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-a60s-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel A60s Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-10-firefox-video-capture-packages/"><u>[New] In 2024, Top 10 Firefox Video Capture Packages</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-disco-streaming-guide-3-essential-recording-methods/"><u>[Updated] The Ultimate Disco Streaming Guide 3 Essential Recording Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-a78-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo A78 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-camon-20-premier-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-c51-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme C51 FRP</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-12-pro-max-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 12 Pro Max without Apple Account</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-correctly-address-and-fix-error-651-in-windows/"><u>Step-by-Step Guide to Correctly Address and Fix Error 651 in Windows</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/vlog-like-a-pro-10-essential-editing-apps-for-mobile-creators/"><u>Vlog Like a Pro 10 Essential Editing Apps for Mobile Creators</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nokia-c02-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nokia C02? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

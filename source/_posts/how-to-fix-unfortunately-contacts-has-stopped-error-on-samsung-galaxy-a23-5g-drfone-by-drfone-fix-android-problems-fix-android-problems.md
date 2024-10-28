@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy A23 5G | Dr.fone
-date: 2024-07-30T13:17:52.624Z
-updated: 2024-07-31T13:17:52.624Z
+date: 2024-10-25T18:58:54.344Z
+updated: 2024-10-28T17:03:57.316Z
 tags: 
   - problems
 categories:
@@ -18,14 +18,9 @@ Have you recently noticed a message stating “Contacts has stopped”? This is 
 
 It can occur while you launch the app or while you’re in the app already finding the required contact or when any other application is trying to gain access to it. So, to rage a battle with this issue, you need to seek help of some powerful methods in killing down the issue of contacts app crashes. And, the best part is that you’ve secured yourself by reaching the right place. We will be taking an in-depth discussion on several methods that may prove to be helpful. Let’s read them up here now.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -69,14 +64,8 @@ Step 5: Repair Android phone
 
 Once the software downloads, the program will automatically repair any issues irking over your phone. Now, your phone is all free from contacts error.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: 9 Common ways to fix “Unfortunately, Contacts Has Stopped”
 
 ### 2.1 Restart Android system
@@ -111,16 +100,24 @@ As we know the cache memories are the temporary files build by the firmware. The
 4. Over the options available, just opt for “wipe cache partition” by tapping the “Volume down” button until the desired option is highlighted.
 5. Finally, push the “Power” key to give consent to the selection.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the Samsung Galaxy A23 5G device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2.4 Disable Google+ app
 
 The root cause for detecting any problem is not very easy. You never know the overloading of Google + application might have directly impacted contacts app crashes. To resolve it, disabling it may prove to be a helpful solution. Here is the quick reference for disabling Google+ application.
@@ -134,15 +131,15 @@ The root cause for detecting any problem is not very easy. You never know the ov
 
 There will be a prompt stating that the application may misbehave. However, you must disable the feature and check whether it worked out for you or not.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2.5 Update your device software
 
 Many a times, we skip updating our device software thinking it is of less importance. In fact, one must not miss out the updates that occurs in phone. As, without the updates, the scope of some applications are affected to some extent. For its better functioning and avoiding issues like “contacts keep stopping”, here is how you should update device software.
@@ -162,14 +159,8 @@ As stated, the malfunctioning of contacts can be due to be any unexpected reason
 - Just, tap over the three dots appearing at the upper right section and then tap on “Reset app preferences”.
 - At last, just select “Reset default apps”.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.7 Delete voicemail
 
 Do you happen to exchange voicemails quite often? It can trigger to be the reason for contact app crashes. If your device happens to have a bulk of voicemails, you must get rid of them sooner or later. As, these might standout to be the prime reason for contacts stopping on Samsung Galaxy A23 5G. If you’re unaware about the procedure of removing all kinds of voicemails, you can proceed to make use of the following steps.
@@ -191,10 +182,6 @@ Now, check whether you’ve fought the battle with the problem or not.
 
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 2.9 Reset to Factory Settings
 
 Last but not least, if all the methods falls flat to resolve the issue of contacts app won’t open. Then, it might be your device has some internal problem. This can be any software crash which might not be fixing with the aforementioned steps. That is where reset to factory settings may prove to be a good option. With this method, your phone will be cleared of all the components, settings and everything present in it. Here are is the comprehensive tutorial for biding bye to the problem of contacts app won’t open.
@@ -205,16 +192,8 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 - You need to toggle on the option for performing the backup on your Google account.
 - Then, tap on “Reset” button and then tick mark the option for resetting your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How To Unbrick a Dead Samsung Galaxy A23 5G
 
 [![](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
@@ -223,9 +202,6 @@ Discovering your phone died, especially among Samsung Galaxy A23 5G models, can 
 
 This guide teaches effective methods to **unbrick your Samsung Galaxy A23 5G**. The page will also discuss the early warning signs and healthy habits to prolong your Samsung Galaxy A23 5G. Read below to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1. Early Warning Signs of a Hard-bricked One Plus Device
 
 When a phone "bricks," the Samsung Galaxy A23 5G device becomes completely unusable and non-functional. It essentially turns into a "brick." A bricked Samsung Galaxy A23 5G device can be preceded by certain warning signs that you should be attentive to. Here are some of them below.
@@ -235,9 +211,6 @@ When a phone "bricks," the Samsung Galaxy A23 5G device becomes completely unusa
 - **Consistent Black Screens.**Experiencing recurring black screens could indicate problems within the operating system. In the long run, this might escalate to bricking.
 - **Unexpected Reboots and Crashes.**Frequent and unprovoked reboots, app crashes, and system instability might point toward software inconsistencies. Similar to consistent black screens, this could eventually lead to bricking.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Common Reasons for Your Samsung Galaxy A23 5G Phone To Be Bricked
 
 Understanding the factors that can trigger bricking in Samsung Galaxy A23 5G devices is essential for preventing such scenarios.
@@ -268,18 +241,12 @@ The presence of malicious software can cause significant disruptions to the Sams
 
 The solutions below to unbrick your Oneplus are helpful methods to revive your device. Here's an overview of these methods.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Method 1. Restore With Recovery Mode
 
 Restoring using Recovery Mode can solve most problems that cannot be solved with a normal phone restart. Here's how.
 
 - **Step 1**: Turn off your Samsung Galaxy A23 5G device. Press and hold the Power button and Volume Down until the Samsung Galaxy A23 5G logo is displayed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![oneplus recovery mode access](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-oneplus-device-03.jpg)
 
 - **Step 2**: Move through the menu using the Volume Up and Volume Down buttons until you reach **Recovery Mode**. Press the Power button to choose it.
@@ -287,30 +254,18 @@ Restoring using Recovery Mode can solve most problems that cannot be solved with
 
 ![wipe date on oneplus](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-oneplus-device-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Method 2. Contact the Manufacturer
 
 Engaging Samsung Galaxy A23 5G's official support can provide insights and potential solutions. This is advantageous if your device is under warranty.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3. Professional Repair Shops
 
 Certified repair shops have the expertise to diagnose and address bricking issues, offering tailored solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4. Software Tools
 
 Leveraging specialized software tools like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair (Android) simplifies the process, even for non-technical users.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3. Healthy Habits To Consider To Prolong Your One Plus
 
 Maintaining the longevity of your Samsung Galaxy A23 5G device requires adopting proactive habits. Here are vital tips to consider.
@@ -326,18 +281,26 @@ Maintaining the longevity of your Samsung Galaxy A23 5G device requires adopting
 
 ![taking care of your oneplus](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-oneplus-device-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tips: Unlock Your One Plus 6, 8T, or 10 Pro With Dr.Fone - Screen Unlock (Android)
 
 Dr.Fone - Screen Unlock (Android) is powerful software designed to unlock Samsung Galaxy A23 5G devices quickly. This tool is compatible with various Samsung Galaxy A23 5G models, including the Samsung Galaxy A23 5G 6, Samsung Galaxy A23 5G, and Samsung Galaxy A23 5G 10 Pro, ensuring a wide support reach.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Unlock Samsung Galaxy A23 5G Without Password
@@ -349,9 +312,6 @@ Unlock Samsung Galaxy A23 5G Without Password
 
 **3,016,652** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### How To Unlock Your One Plus With Dr.Fone - Screen Unlock (Android)
 
 Below is a guide on unbricking the Samsung Galaxy A23 5G models using Dr.Fone - Screen Unlock (Android).
@@ -360,22 +320,12 @@ Below is a guide on unbricking the Samsung Galaxy A23 5G models using Dr.Fone - 
 
 Navigate to the **Screen Unlock** section and select **Android**. Proceed by clicking on the **Unlock Android Screen** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![access remove screen lock function](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 2: Choose Your Device Brand and Initiate Data Wipe**
 
 Identify your device brand for unlocking the screen. After selecting your device brand, you will be prompted to enter a specific mode. Once in this mode, Dr.Fone will commence the Android screen unlock process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![select brand in use](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 3: Successful Screen Unlock**
@@ -406,32 +356,20 @@ For those who find themselves locked out of their Samsung Galaxy A23 5G devices,
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Gmail Not Working on Samsung Galaxy A23 5G: 7 Common Problems & Fixes
 
 Ever since Android is introduced, it has almost eliminated the need of computers to work through Gmail. Gmail carries much importance especially when you’re a working person. A lot of work is done through mails on daily basis. But maybe today is not your lucky day. Maybe Gmail is giving you a hard time today. Is it? Is your Gmail not responding or keeps stopping you from going further? Well! There is no need to be bothered anymore. We are discussing some of the general Gmail problems along with their fixes. So, if your Gmail is not working on Android, you can go through this article and find the relevant solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Problem 1: Gmail App not responding or keeps crashing
 
 First and foremost, the most common situation people meet with is when there Gmail keeps crashing. Or simply, it doesn’t respond at all. When you open it, it stuck for a few seconds and then you have to close it. It seriously is an annoying issue. If your Gmail is also not responding or crashing and you aren’t able to work properly, following are the solution you can follow.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Clear Cache
 
 The first thing you can do to fix Gmail not responding issue is to clear the cache of Gmail. This has higher chance to get the issue resolved. To do this:
 
 1. Go to “Settings” and look for “Apps & Notifications”. Please note that the option may vary in some Android phone like it maybe “Application” or “App Manager”. So, don’t panic and look for the option carefully.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
     ![gmail not working android - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-1.jpg)
 
 2. Now, from the apps list, search “Gmail” and tap on it.
@@ -460,9 +398,6 @@ If unfortunately the above solutions don’t work, there is a requirement to fla
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Problem 2: Gmail won’t sync between all ends
 
 The next most common problem where people get stuck with is when there Gmail won’t sync. Here are the solutions to this particular problem.
@@ -471,6 +406,13 @@ The next most common problem where people get stuck with is when there Gmail won
 
 When Gmail stops syncing, one of the things that can save you is clearing the storage. It is the space that maybe the culprit and therefore the syncing don’t work at all. We would like to suggest you removing the unwanted apps to clear the storage or deleting the downloaded files. You can also transfer the important files to your computer and make the space vacant.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check Gmail Sync Settings
 
 When still the Gmail not working issue persists and you can’t sync, make sure to check the Gmal sync settings. For this, follow the steps below:
@@ -478,16 +420,23 @@ When still the Gmail not working issue persists and you can’t sync, make sure 
 1. Launch the Gmail app and tap on the menu icon (three horizontal lines).
 2. Tap “Settings” and choose your account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
     ![Gmail crashing on Android - find settings](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Check the box next to “Sync Gmail” if it’s not checked.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Gmail crashing on Android - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
 
 ### Restart the Samsung Galaxy A23 5G device
@@ -498,23 +447,14 @@ Again, restarting can also be helpful in this situation. When you boot the Samsu
 
 In case you are using the Gmail over your web browser and it has tested your patience in loading, here are the solutions that could prove to be fruitful for you. Please check these out.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ensure to Use Gmail Supported Browser
 
 First of all, you need to make sure that the browser you are using works with Gmail or not. Gmail can smoothly perform in Google Chrome, Firefox, Safari, Internet Explorer and Microsoft Edge. However, the browsers should be updated. So, please make sure that these browsers are running on the latest versions. Moreover, in case you use Chromebook, don’t forget to update the operating system in order to let it support Gmail.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Clear Cache of web browser
 
 If you tried the above method but to no avail, try to clear the cache and cookies of the web browser. But by doing so, the browser history will be removed. As well as, the records of the websites you previously enjoyed will also be lost.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Check browser extensions or add-ons
 
  If not the above one, try this tip. It encourages you to check your browser extensions. Perhaps these are interfering with the Gmail and due to this conflict, Gmail won’t load. You can either turn off these extensions and plug-ins temporarily or make use of the incognito mode of the browser where there are no such things like extensions and plug-ins.
@@ -529,6 +469,13 @@ This issue is likely to emerge when you are using an outdated version of Gmail. 
 
 ![Gmail crashing on Android - check version](https://images.wondershare.com/drfone/article/2019/04/check-update-gmail.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Verify Internet Connection
 
 Another thing that carries weight while you can send or receive mails is the internet connection. As we all know that Gmail won’t respond if the Samsung Galaxy A23 5G device is not connected to the internet. Therefore, you are advised to turn off Wi-Fi and then enable it again. Also, please ensure to switch to Wi-Fi if you are using the cellular data. This may hamper the process and stop you from receiving or sending mails.
@@ -539,9 +486,6 @@ If still Gmail keeps stopping you to go ahead, make sure to once sign out from i
 
 1. Open your Gmail app and go to “Manage accounts on this device”.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![Gmail crashing on Android - open gmail](https://images.wondershare.com/drfone/article/2019/04/remove-account-1.jpg)
 
 2. Now, tap on the account you are working with. Tap on “REMOVE ACCOUNT” thereafter. After this, you can again sign in and then check if the problem is gone or not.
@@ -566,16 +510,10 @@ As already mentioned, be sure of an active internet connection while working wit
 
 Now try to send the mail and see if things are still the same or not.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check Attachments
 
 Large attachments can also be the reason for this issue. We would here like to suggest you to check the attachments you are sending. If these are not so important, you can remove them and send the mail. Or if it is not possible to send the mail without attachments, compressing the files can be a solution.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Problem 6: “Account not synced” issue
 
 Many times, the users get the error that says “Account not synced” while they try to work with Gmail. And this is the 6<sup>th</sup> problem we are introducing. The ways mentioned below will assist to get out of the trouble.
@@ -591,18 +529,12 @@ As another solution, check Gmail sync settings to get the issue fixed.
 1. Simply open Gmail and hit the menu icon which is three horizontal lines on the top.
 2. Go to “Settings” and choose your account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![Gmail not responding - go to settings](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-1.jpg)
 
 3. See the tiny box beside “Sync Gmail” and check it if it is not.
 
 ![Gmail not responding - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Restart the Samsung Galaxy A23 5G device
 
 If the above method went futile, simply restart your device. Take help of the Power button on your device. Long press it and from the options, restart it. This will hopefully work for you.
@@ -611,9 +543,6 @@ If the above method went futile, simply restart your device. Take help of the Po
 
 The last problem that you may face is the slow-going Gmail app. In simple words, you may experience that Gmail app is operating extremely slowly. To fix this, following solutions will help you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Restart the Phone
 
 It is a universal method to fix minor Android system issues. And here too, we would like you to restart your Samsung Galaxy A23 5G in the first place when you find that Gmail is not responding due to the sluggish behavior.
@@ -640,7 +569,6 @@ Fix all Gmail issues caused by Android system:
 - Gmail app crashing or stopping
 - Gmail app not responding
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -653,9 +581,26 @@ Fix all Gmail issues caused by Android system:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-step-into-the-world-of-high-quality-lenovo-screen-recordings/"><u>[New] 2024 Approved Step Into the World of High-Quality Lenovo Screen Recordings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-sculpt-your-vision-editing-videos-using-story-remix-and-windows-photos/"><u>[Updated] 2024 Approved Sculpt Your Vision Editing Videos Using Story Remix and Windows Photos</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-redmi-13c-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi Redmi 13C Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unveiling-youtubes-monetization-process/"><u>2024 Approved Unveiling YouTube's Monetization Process</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-12-pro-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme 12 Pro 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-access-denied-saves-on-your-computer-windows/"><u>Clearing Up Access Denied Saves on Your Computer Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-your-razer-mamba-drivers-now/"><u>Effortless Installation: Get Your Razer Mamba Drivers Now</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-12-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi 12 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gopro-max-360-vs-hero-11-which-takes-the-lead/"><u>GoPro Max 360 vs Hero 11 Which Takes the Lead?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-analysis-western-digital-data-lifeguard-a-comprehensive-software-tool-evaluation/"><u>In-Depth Analysis: Western Digital Data Lifeguard - A Comprehensive Software Tool Evaluation</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-gmail-substitutes-to-try/"><u>Top 8 Gmail Substitutes to Try</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-fullscreen-capturing-software-pcmac-edition/"><u>Top Fullscreen Capturing Software, PC/Mac Edition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlocking-video-potential-essential-courses-for-new-creators/"><u>Unlocking Video Potential Essential Courses for New Creators</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-11-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme 11 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Motorola Edge 2023 | Dr.fone
-date: 2024-07-30T13:19:22.664Z
-updated: 2024-07-31T13:19:22.664Z
+date: 2024-10-24T16:36:51.520Z
+updated: 2024-10-28T16:29:20.041Z
 tags: 
   - problems
 categories:
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
 Smartphones nowadays contribute to our daily workflow, whether you’re a student or a professional. They get more sophisticated and add new features every year, making them more attractive with each new release. However, users sometimes deal with their **screen touch not working** on Android, raising various concerns.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![fix unresponsive android/ios touchscreen intro](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-01.jpg)
 
 If you are facing a similar issue, this page has all the solutions to teach you **what to do if your phone screen is not working.** By exploring the different methods below, you will be able to know how to fix a frozen phone touch screen as an Android user. Read on for more information.
@@ -34,9 +30,6 @@ Here are some of the top causes why your **phone screen stopped working,** main
 
 If your Android **phone is not responding to touch,** it can be due to a cracked LCD causing temperature variants or magnetic fields to malfunction on your Motorola Edge 2023.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![cracked screen iphone](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-02.jpg)
 
 For iOS users, your iPhone will temporarily stop working if it detects extreme temperatures such as a too-hot or too-cold reading. You should turn off your iPhone and let it cool down or warm to a normal temperature.
@@ -55,9 +48,6 @@ It may not respond properly when an Android device is dirty due to water, sweat,
 
 ![dirty samsung screen](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: What To Do When Your Smartphone Is Not Responding to Touch
 
 Here is a list of things you should do **how to fix a frozen phone touch screen,** whether you’re using an iPhone or an Android smartphone.
@@ -68,16 +58,23 @@ Your **screen touch not working** can sometimes get fixed by simply cleaning the
 
 ![cleaning iphone with cloth](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Remove Extra Peripherals
 
 Unplug any external device connected to your iPhone’s Lightning port or USB-C if your **phone screen stops working**. For Android users, meanwhile, disconnect any accessories like chargers or wireless headphones. After that, try using the touchscreen. If it works, the outcome proves that the fault appeared due to the external device.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Force Restart Your Device
 
 If your **phone screen is still unresponsive**,maybe it **is o**verloaded. You should force restart your Motorola Edge 2023. It doesn’t delete any data. Here’s how.
@@ -98,9 +95,6 @@ If your Motorola Edge 2023 Redmi **phone is stuck on loading screen** or “thi
 
 **Step 2:** Choose **Restart,** then **Accept** if a confirmation message spears. Then wait a few seconds or minutes when your device is performing the reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reboot xiaomi redmi options](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-06.jpg)
 
 ### 4\. Update Your Software
@@ -110,9 +104,6 @@ Your smartphone may behave erratically due to software bugs. While these are out
 - For iOS users, go to your iPhone **Settings**\> **General** > **Software Update** > **Download and Install**.
 - For Android owners, go to **Settings > Software Update.** Tap the **Check for software updates**to see if a new update is available.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![ios software update](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-07.jpg)
 
 ### 5\. Perform a Factory Reset
@@ -137,9 +128,6 @@ The methods outlined above usually solve issues on your **smartphone not respond
 
 ![dr.fone main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Features
 
 The key features of Wondershare Dr.Fone for iOS and Android are listed below.
@@ -152,9 +140,6 @@ Wondershare Dr.Fone for Android and iOS allows you to fix your smartphone within
 
 The program supports all iOS versions, including the latest iOS 16 and iOS 16 beta. Compared to the iTunes store or other methods, the app can quickly fix any iPhone issues without data loss. For Android users, meanwhile, Dr.Fone supports up to 1000+ Android smartphones making it highly versatile even if you’re using an older Android device or the latest models.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Tech Specs
 
 Here are the minimum system requirements of Wondershare Dr.Fone (iOS) for your computer.
@@ -170,9 +155,6 @@ Meanwhile, here are the tech specs for Wondershare Dr.Fone (Android)’s minimum
 | --- | --- |
 | Windows 7, 8, 8.1, 10, 11 | Android 2.1 and up |
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pros and Cons
 
 Here are the pros and cons of using Wondershare Dr.Fone (Android)
@@ -215,25 +197,23 @@ In this step-by-step guide below, you can fix your **unresponsive phone screen**
 
 **Step 2B (For Android)**: Choose the correct **Brand, Name, Model, Country,** as well as **Carrier**, then click **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone fix unresponsive touchscreen 02](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step 3**: Follow the on-screen instructions provided on the main program window and wait for the repair process to complete.
 
 ![dr.fone fix unresponsive touchscreen 03](https://images.wondershare.com/drfone/drfone/android-repair-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: People Also Ask
 
 Some common questions you should know when taking care of an unresponsive phone touchscreen are listed below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Why Did My iPhone Screen Go Black After Not Responding to Touch?
 
 Your iPhone screen with a **touch issue** will sometimes go black after not responding to touch due to several issues. It could be hardware, software, issues with a particular app, software crash, or you have a low battery. If it’s a drained battery, you’re in luck; all you have to do is charge it. Otherwise, you’ll have to perform a force restart on your iPhone to try to reboot it.
@@ -242,9 +222,6 @@ Your iPhone screen with a **touch issue** will sometimes go black after not res
 
 Keeping your apps updated should help you solve app crashing issues that can impact your Android OS. These apps build up large caches throughout your normal usage. Clearing cached data from time to time can drastically improve your smartphone’s performance and prevent **touch issues**. To remove your app cache, go to **Settings** \> **Storage** and tap **Cached Data**.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Can I Use Dr.Fone for Free?
 
 Wondershare Dr.Fone for iOS and Android is free to download and install. You can also test the first few steps and see if the program supports your device. However, when you click the **Fix Now** button to start the repair process, you will be required to enter a valid license to activate the program.
@@ -257,9 +234,6 @@ Knowing the common causes of an **unresponsive phone touchscreen** is the first
 
 Wondershare Dr.Fone works on almost all modern smartphones today and can fix a **stop-working phone screen** within less than 10 minutes. It’s beginner-friendly and doesn’t require advanced technical know-how to use right away.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Motorola Edge 2023 Not Connecting to Wi-Fi? 12 Quick Ways to Fix
 
 Nowadays, it’s pretty much essential to have your Motorola Edge 2023 or smartphone connected to the internet. Whether you’re watching videos, looking something up, or using any kind of app, you need the internet for these applications to function correctly.
@@ -274,10 +248,14 @@ Luckily, despite there being so many problems out there, there are also many sol
 
 Begin by powering off your Motorola Edge 2023 and unplugging your router. Wait for about a minute before plugging in the router and turning on your device. This simple reset can often restore stable connections and fix Android wifi not working.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![restart android](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Turn on Airplane mode and turn off
 
@@ -285,9 +263,6 @@ Turn on Airplane Mode for a few seconds, then turn it off. This maneuver refresh
 
 ![turn on airplane mode](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. Check Wi-Fi Router settings
 
 The third step you’ll want to take is making sure the internet router in your house is working properly and is actually sending internet data to your Motorola Edge 2023. Of course, if you have other internet-enabled devices connected to the same router and they’re working fine, you know this isn’t the problem.
@@ -315,11 +290,15 @@ The best way to do this is to boot your device in Safe Mode. The process for doi
 
 If your device connects to the internet while in Safe Mode, you’ll know you have a problem with an app or service that’s running on your device. If this is the case, you’ll need to go through your apps and delete them and then reinstall them one at a time until you find the app or service that is causing your internet problems.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5. Check the Android Wi-Fi adapter
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi not working on android - check adapter](https://images.wondershare.com/drfone/article/2019/04/android-wifi-adapter.jpeg)
 
 If you’re using a Wi-Fi adapter on your device to connect to the internet, you’ll need to make sure this is working. This could be an adapter on your Motorola Edge 2023 itself, especially if you’re using an older device, or if you’re using an adapter to boost the ranger of your router network.
@@ -330,9 +309,6 @@ You need to check both of these to make sure your connection is working properly
 2. If you’re using a router adapter, make sure it’s set up properly, and your Motorola Edge 2023 is connected to the adapter using the correct passwords. Try connecting another device to see if the internet connection is working on there
 3. Whichever method you’re using, try disconnecting your Motorola Edge 2023 and forgetting the network, and then reconnecting and entering the right password to refresh the connection
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 6. Check SSID and IP address on Android
 
 To make a Wi-Fi connection work, your Motorola Edge 2023 needs to match two codes that connect and relate to your router to establish the connection and work correctly. These are known as the SSID and the IP address.
@@ -346,20 +322,12 @@ Every wireless device will have its own codes and making sure they’re matched 
 
 When these numbers are matching, if your Android is still not connecting to wifi, you’ll know this wasn’t the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 7. Fix Android system issues in one click
 
 If none of the solutions above are working, this could indicate a real problem with the firmware and operating system of your Motorola Edge 2023. Fortunately, a fast solution to get everything working again is to completely repair the software of your phone.
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 A one-click tool to fix Wi-Fi not working on Android
@@ -378,9 +346,6 @@ To help you have the best and the most accurate experience when using the Dr.Fon
 
 Once installed, connect your Motorola Edge 2023 to your computer using a USB cable, and open the software, click "System Repair".
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi slow on android - get a tool to fix](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step Two** Click the "Android" option in the menu and then click "Start" to begin the Repair process.
@@ -389,30 +354,25 @@ Once installed, connect your Motorola Edge 2023 to your computer using a USB cab
 
 **Step Three** On the next screen, go through the options and use the drop-down menus to make sure the information is correct for your individual device. Accept the terms and conditions of the software, and then click the "Next" button.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi slow on android - select info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step Four** Confirm you want the software to carry out the repair process by typing the ‘000000’ code into the pop-up box and pressing Confirm. Make sure you read everything displayed in this box beforehand to know what’s happening.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi not working on android - confirm the repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step Five** Now put your phone into Download Mode by following the on-screen instructions, so your device is ready for the repair process. The method for getting your phone into Download Mode will vary depending on your device, so make sure you’re following the right instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![wifi not working on android - boot in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step Six** Once the software has detected your device in Download Mode, it will automatically begin the repair process. You need to make sure your device stays connected throughout this time, and your computer stays on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![wifi not working on android - begin repairing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 The whole process is automatic, so you won’t need to do anything until it’s finished. Once completed, you can disconnect your phone and start connecting it to the internet as normal!
@@ -440,6 +400,13 @@ Of course, if you’re already using another phone on your Wi-Fi network, you kn
 
 ![android phone not connecting to wifi - password settings](https://images.wondershare.com/drfone/article/2019/04/android-wifi-password.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Each Wi-Fi network router will give the opportunity to choose and change the password you have to let devices connect to your network. It’s important you try changing this because you never know if someone else has accessed your network and could be blocking your device. Here’s how it works;
 
 1. Log onto your computer and open your Wi-Fi settings
@@ -463,15 +430,16 @@ Here’s how you can do this easily on your Motorola Edge 2023;
 5. If you need to, enter the PIN number or passcode for the Android device, and the Motorola Edge 2023 device will confirm the reset has taken place
 6. Reconnect your Motorola Edge 2023 to your Wi-Fi network for the changes to take effect
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 11. Clear partition cache in recovery mode
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi not working on android - clear partition](https://images.wondershare.com/drfone/article/2019/04/android-reset-partitioncache.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As you continue to use your Motorola Edge 2023, the partition cache will fill up with data your device needs and doesn’t need. However, by clearing your device’s partition cache, you can make clear up some space which should help your device have enough memory to connect to the internet.
 
@@ -497,13 +465,7 @@ However, by factory resetting your device, you can start again from the factory 
 5. Wait for your phone to complete the process
 6. Restart your device and connect to the internet
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-
 
 ## 7 Solutions to Fix Chrome Crashes or Won’t Open on Motorola Edge 2023
 
@@ -511,9 +473,6 @@ Google Chrome is one of the most popular web browsers in the world. It is fast, 
 
 Being one of the widely used browsers, Chrome is always our rescue whenever vital information is our need. Imagine, you launched Chrome for some urgent work and all of a sudden, got “Unfortunately Chrome has stopped” error. You re-opened it thinking about proper functioning of it now but to no avail. Does this situation sound familiar? Are you in a same problem as well? Fret not! We will discuss in this article why your Chrome is crashing on Android and the potential solutions to do away with the problem. Please read the article attentively and know what helps you best.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Part 1: Too many tabs opened
 
 One of the main reasons why Chrome keeps crashing could be the multiple opened tabs. If you keep open the tabs, it may slow down the performance of Chrome and the app will use RAM. As a result, it will obviously get stopped midway. Therefore, we suggest you to close the tabs which are opened. And once you do that, exit the app and then launch it again.
@@ -530,9 +489,6 @@ When Chrome or any other app keeps running on the background, issues like “Unf
 
 3\. The app will be force quit now. You can then start it again to check if thing get back to normal.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: Chrome cache overflowing
 
 While using any app for long, the temporary files for those gets collected in the form of cache. And when cache is not getting cleared, one may face the freezing, crashing or sluggish apps. And this could also be the cause why your Chrome keeps stopping. Hence, the following steps will show you how to clear cache and make Chrome work as before.
@@ -549,18 +505,10 @@ While using any app for long, the temporary files for those gets collected in th
 
 Most probably Chrome is not able to support the website you are trying to access. We doubt if the particular website you are making use of is the culprit and making Chrome keeps stopping. In such case, we would like to recommend you to make use of another browser and try to access the website from there. See if this works or not. If now, please follow the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 5: Android firmware corruption
 
 Another reason why your Chrome has stopped could be the corrupted software. You can’t expect anything normal when your firmware corruption occurs and so in the case of Chrome. If this is the case, the re-flashing the stock ROM is the most recommended solution. And the best that can help you in this is none other than [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). Within one click, it vows to help users in flashing the ROM without any complications. Read the advantages offered by this tool.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix crashing Chrome
@@ -587,6 +535,13 @@ Now, you need to connect your Motorola Edge 2023 with the computer using USB cor
 
 ![fix Chrome crashing on Android - connect android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Enter Details
 
 On the following screen, you need to select the right phone brand, name model and enter career details. Check once to confirm and hit on “Next”.
@@ -610,16 +565,10 @@ While you were trying to download from internet, the file didn’t download prop
 - Go to “Settings” and tap on “Apps”.
 - Select “Chrome” and tap on “Uninstall Updates”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Chrome crashing on Android by uninstalling updates](https://images.wondershare.com/drfone/article/2019/05/uninstall-updates.jpg)
 
 - Now, you need to re-install it from Play Store. From the “My Apps” section, tap on Chrome and update it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 7: Clashes between Chrome and system
 
 Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it might be because of the incompatibility between the Chrome and system. Maybe your device is not updated and therefore is at odds with the Chrome app. So, the last tip that we would like give you is to update your Motorola Edge 2023. Following are the steps for it. Follow them and stop the Chrome crashing on Android issue.
@@ -627,11 +576,7 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 - Go to “Settings” and tap on “System”/”About Phone”/”About Device”.
 - Now, choose “Software Update”/”System Update” and your device will detect if there is any update present on your device. Proceed accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Chrome crashing by updating android](https://images.wondershare.com/drfone/article/2019/05/update-android.jpg)
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -645,9 +590,22 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-integrating-ai-in-video-production-game-streaming-edition/"><u>[New] 2024 Approved Integrating AI in Video Production Game Streaming Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-360-streaming-tech-reviews/"><u>[New] Professional 360° Streaming Tech Reviews</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2023s-leading-youtube-engagement-tools/"><u>[Updated] 2023'S Leading YouTube Engagement Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-quick-photovideo-recovery-on-snapchat/"><u>[Updated] In 2024, Quick Photo/Video Recovery on Snapchat</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-polity-playground-quintessential-politic-simulators-review/"><u>[Updated] Polity Playground Quintessential Politic Simulators Review</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-battle-royale-can-chatgpt-outperform-gemini-in-software-development-tasks/"><u>AI Battle Royale: Can ChatGPT Outperform Gemini in Software Development Tasks?</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-camon-30-pro-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Camon 30 Pro 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oneplus-open-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix OnePlus Open Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-check-out-e-books-from-the-library-onto-your-kindle-device/"><u>Step-by-Step Instructions: Check Out E-Books From the Library Onto Your Kindle Device</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-a15-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy A15 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-x100-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo X100 Screen | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>Updated In 2024, Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
+</ul></div>
 

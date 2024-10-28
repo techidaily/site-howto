@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Honor Magic 6 | Dr.fone
-date: 2024-10-19T18:14:19.835Z
-updated: 2024-10-22T16:51:18.307Z
+date: 2024-10-23T17:13:33.068Z
+updated: 2024-10-28T16:02:02.388Z
 tags: 
   - problems
 categories:
@@ -42,13 +42,6 @@ There might be much more reasons for the camera failed error, but these are the 
 
 If you are experiencing some kind of issues in your Honor Magic 6s such as Honor Magic 6 camera failed, the Honor Magic 6 device stopped working, black screen, play store not working, etc. There is a special software is designed for such kind of issues in Android devices, i.e. dr. fone. The tool enables the users to fix various kinds of issues in the Honor Magic 6 devices and perform a complete system repair so the Honor Magic 6 device starts working normally.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One-click solution to fix camera failed on Honor Magic 6 devices
@@ -76,6 +69,13 @@ One-click solution to fix camera failed on Honor Magic 6 devices
 
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4.** As soon as the firmware is downloaded, the software will automatically initiate the repair process. You will be able to see the ongoing repair.
 
 ![fixing samsung camera failed](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -97,6 +97,13 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
 ![clear data](https://images.wondershare.com/drfone/article/2017/07/14997066321127.jpg "clear data")
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
 
@@ -126,6 +133,13 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![power off device](https://images.wondershare.com/drfone/article/2017/07/14997067521730.jpeg "power off device")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Now, press and hold the power on/off, home and volume up button simultaneously. Your device will now vibrate. This a signal to let go of the power button (only).
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14997067742072.jpg "boot in recovery mode")
@@ -133,6 +147,13 @@ This method might seem tedious and time-consuming and you may also lose your dat
 3\. Once the Recovery Screen appears, leave all buttons and use the volume down key till you reach “Wipe Cache Partition”.
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
@@ -184,19 +205,6 @@ Note: You will have to set up your Honor Magic 6 device from scratch once it is 
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Honor Magic 6 devices.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor Magic 6
 
 Google Play Store is a necessary and bundled service of any Android device. This app is required to download or even run any apps. So, getting an error like Play store not working or Play Store crashing is very unfortunate and a matter of a headache. Here we tried to put the best solution to overcome this issue. Keep reading this article for all the 11 best solutions.
@@ -237,19 +245,6 @@ A most effective method to fix Google Play Store not working
 1. After entering the Download mode, the Dr.Fone tool starts to download the correct firmware to your Android.
 
 ![download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. The downloaded firmware will be loaded and flashed to your Honor Magic 6 to fix the Google Play Store not working issue.
 
@@ -319,19 +314,6 @@ Step 2 – Upon opening the option, select “Google”. Now you can see your Gm
 
 ![select “Google”](https://images.wondershare.com/drfone/article/2017/06/14985033604000.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3 – Now click on the top right side three dots or “more” option. Here you can find the “Remove account” option. Select it to remove the Google Account from your Mobile.
 
 ![“more”](https://images.wondershare.com/drfone/article/2017/06/14985033797108.jpg)
@@ -398,6 +380,13 @@ Step 3 – Here click on “Force Stop”. This allows the Google Play Store to 
 
 Now, try to open Google Play store again and this time the service is being restarted and might work properly. If not, try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 9\. Try a Soft Reset of your device
 
 This easy to use solution will remove all the unnecessary temporary files of your device, close all recent apps, and make it clean. This is just rebooting your device. It won’t delete any data from your device.
@@ -426,13 +415,6 @@ This will take a while to reset your device completely. After completion, start 
 
 The above methods are the best 11 among all the solutions you can get for your Play Store not working on wifi or Play Store crashing error. Try one by one and you might get rid of this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Effective Methods on How To Take Viruses Off Your Phone
 
 Cell phones have become a part of a person’s daily life. It offers convenience and connectivity at your fingertips. Yet, these handy devices are prone to viruses when used carelessly. Viruses can infiltrate your phone through unverified downloads, unsecured networks, or malicious links. This can compromise your data and device performance.
@@ -440,13 +422,6 @@ Cell phones have become a part of a person’s daily life. It offers convenience
 In this article, you’ll explore practical methods on **h ow to take a virus off your phone**. From simple preventive measures to specific solutions, this guide aims to equip you with practical strategies, ensuring a safer and smoother mobile experience by safeguarding your phone against the perils of viruses.
 
 ![phone with virus logo](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Why You Get Mobile Viruses in the First Place
 
@@ -507,6 +482,13 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![firmware download complete](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 8:** Once the process is completed, choose **Done.** Your phone should be virus-free by now.
 
 ![repair complete](https://images.wondershare.com/drfone/guide/ios-system-repair-8.png)
@@ -532,26 +514,6 @@ For iPhones, here’s how you can do it:
 
 ![ios safe mode](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-12.jpg)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Downloading Anti-Virus Software
 
 Anti-virus software works like a shield, protecting your phone from sneaky viruses and malware. Here are three recommended anti-virus apps that you should try out. They’re available on both the Google Play Store and App Store. So, regardless of what device you’re using, you’re sure to be safe with these:
@@ -568,11 +530,25 @@ Generally, the Factory Reset option should be in **Settings > General & Backup a
 
 ![miui factory reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 IOS devices should be under **Settings > General > Transfer or Reset iPhone**.
 
 ![ios transfer or reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-14.jpg)
 
 Remember, each method has its strengths and weaknesses. Dr.Fone is quick and effective, Safe Mode is limited but useful, anti-virus apps can protect, and a Factory Reset gives a clean slate. Try these methods to zap those viruses away!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Handy Prevention Tips To Avoid Future Infections
 
@@ -605,17 +581,17 @@ And, if you’re thinking, “**How do I get a virus off My Honor Magic 6?**” 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-minicam-record-evaluation-and-backup-software/"><u>[Updated] In 2024, MiniCam Record Evaluation & Backup Software</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nokia-g42-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nokia G42 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-color-balancer-suite/"><u>2024 Approved Prime Color Balancer Suite</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-14-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi 14 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/avoiding-the-samsung-gear-360-hurdle-top-camera-alternatives-of-2023/"><u>Avoiding the Samsung Gear 360 Hurdle - Top Camera Alternatives of 2023</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-realme-11-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme 11 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-speed-up-your-itunes-experience-a-complete-guide-with-10-effective-steps/"><u>How to Speed Up Your iTunes Experience: A Complete Guide with 10 Effective Steps</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-motorola-moto-g84-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Motorola Moto G84 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-top-10-no-cost-digital-photography-tools/"><u>In 2024, Explore Top 10 No-Cost Digital Photography Tools</u></a></li>
-<li><a href="https://win-hot.techidaily.com/recupera-la-cartella-perduta-sul-tuo-computer-windows-1011-passaggi-facili/"><u>Recupera La Cartella Perduta Sul Tuo Computer Windows 10/11 - Passaggi Facili</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-se-2020-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone SE (2020) without Password</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-excellence-a-review-of-the-40-hisense-tv-model-40h5590f-with-smart-technology/"><u>Affordable Excellence - A Review of the 40 Hisense TV Model 40H5590F with Smart Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-guide-two-simple-methods-for-downloading-songs-from-mixcloud/"><u>Effortless Guide: Two Simple Methods for Downloading Songs From Mixcloud</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-x50-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Honor X50 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 7 3 Ways To Unlock</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pursuing-peerless-speech-to-text-with-google-assistance/"><u>Pursuing Peerless Speech-to-Text with Google Assistance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/timing-analysis-of-a-20mb-film/"><u>Timing Analysis of a 20MB Film</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-poco-f5-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Poco F5 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-googles-next-gen-ai-breakthrough-palm-2-the-cutting-edge-language-model/"><u>Unveiling Google's Next-Gen AI Breakthrough: PaLM 2, the Cutting-Edge Language Model</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-itel-p40-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Itel P40 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

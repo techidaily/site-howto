@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Nokia G42 5G | Dr.fone
-date: 2024-07-30T13:19:36.163Z
-updated: 2024-07-31T13:19:36.163Z
+date: 2024-10-25T18:51:35.498Z
+updated: 2024-10-28T18:16:15.663Z
 tags: 
   - problems
 categories:
@@ -20,9 +20,6 @@ Smartphones nowadays contribute to our daily workflow, whether you’re a studen
 
 If you are facing a similar issue, this page has all the solutions to teach you **what to do if your phone screen is not working.** By exploring the different methods below, you will be able to know how to fix a frozen phone touch screen as an Android user. Read on for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Part 1: Top Causes of an Unresponsive Touchscreen
 
 Android has been the best-selling OS since 2011, with over three billion active users. With the release of Android 13, complaints over **touch issues** on certain Android phones have popped up over the internet. Meanwhile, software updates over the years can sometimes make their **phones stuck on the loading screen,** causing worry among Android users.
@@ -33,9 +30,6 @@ Here are some of the top causes why your **phone screen stopped working,** main
 
 If your Android **phone is not responding to touch,** it can be due to a cracked LCD causing temperature variants or magnetic fields to malfunction on your Nokia G42 5G.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![cracked screen iphone](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-02.jpg)
 
 For iOS users, your iPhone will temporarily stop working if it detects extreme temperatures such as a too-hot or too-cold reading. You should turn off your iPhone and let it cool down or warm to a normal temperature.
@@ -55,9 +49,12 @@ It may not respond properly when an Android device is dirty due to water, sweat,
 ![dirty samsung screen](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: What To Do When Your Smartphone Is Not Responding to Touch
 
 Here is a list of things you should do **how to fix a frozen phone touch screen,** whether you’re using an iPhone or an Android smartphone.
@@ -68,12 +65,16 @@ Your **screen touch not working** can sometimes get fixed by simply cleaning the
 
 ![cleaning iphone with cloth](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### 2\. Remove Extra Peripherals
 
 Unplug any external device connected to your iPhone’s Lightning port or USB-C if your **phone screen stops working**. For Android users, meanwhile, disconnect any accessories like chargers or wireless headphones. After that, try using the touchscreen. If it works, the outcome proves that the fault appeared due to the external device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Force Restart Your Device
 
@@ -85,9 +86,6 @@ Here’s how to force restart your smartphone to fix your **phone screen that’
 
 - Press and hold the **Power**and **Volume Down** buttons simultaneously for more than 7 seconds to force a reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![samsung force restart](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-05.jpg)
 
 **E****xample 2: For Nokia G42 5G Redmi**
@@ -100,6 +98,13 @@ If your Nokia G42 5G Redmi **phone is stuck on loading screen** or “thinking�
 
 ![reboot xiaomi redmi options](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-06.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Update Your Software
 
 Your smartphone may behave erratically due to software bugs. While these are out of your control, you can quickly fix **your phone not responding to touch** by simply updating your OS to the latest version. Here’s how.
@@ -109,9 +114,6 @@ Your smartphone may behave erratically due to software bugs. While these are out
 
 ![ios software update](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### 5\. Perform a Factory Reset
 
 If nothing helps, your remaining option is to try completing a Factory Reset. Doing this will erase all your data, but this is arguably the quickest way to restore your **screen-frozen phone** to its factory default settings. Factory Reset is available on Android devices with almost similar steps. Here’s how.
@@ -146,9 +148,6 @@ Wondershare Dr.Fone for Android and iOS allows you to fix your smartphone within
 
 The program supports all iOS versions, including the latest iOS 16 and iOS 16 beta. Compared to the iTunes store or other methods, the app can quickly fix any iPhone issues without data loss. For Android users, meanwhile, Dr.Fone supports up to 1000+ Android smartphones making it highly versatile even if you’re using an older Android device or the latest models.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Tech Specs
 
 Here are the minimum system requirements of Wondershare Dr.Fone (iOS) for your computer.
@@ -194,9 +193,6 @@ Wondershare Dr.Fone (Android) price plans are available for a 1-Year or Perpetua
 - Perpetual License (1-5 Mobile Devices) - $49.95
 - 1-Year Business License (Unlimited Devices) - $399.00
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### How To Fix Unresponsive Touchscreen With Wondershare Dr.Fone
 
 In this step-by-step guide below, you can fix your **unresponsive phone screen** using Wondershare Dr.Fone on iOS and Android.
@@ -211,34 +207,29 @@ In this step-by-step guide below, you can fix your **unresponsive phone screen**
 
 ![dr.fone fix unresponsive touchscreen 02](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3**: Follow the on-screen instructions provided on the main program window and wait for the repair process to complete.
 
 ![dr.fone fix unresponsive touchscreen 03](https://images.wondershare.com/drfone/drfone/android-repair-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: People Also Ask
 
 Some common questions you should know when taking care of an unresponsive phone touchscreen are listed below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### 1\. Why Did My iPhone Screen Go Black After Not Responding to Touch?
 
 Your iPhone screen with a **touch issue** will sometimes go black after not responding to touch due to several issues. It could be hardware, software, issues with a particular app, software crash, or you have a low battery. If it’s a drained battery, you’re in luck; all you have to do is charge it. Otherwise, you’ll have to perform a force restart on your iPhone to try to reboot it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. How Do I Keep My Android From Crashing?
 
 Keeping your apps updated should help you solve app crashing issues that can impact your Android OS. These apps build up large caches throughout your normal usage. Clearing cached data from time to time can drastically improve your smartphone’s performance and prevent **touch issues**. To remove your app cache, go to **Settings** \> **Storage** and tap **Cached Data**.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### 3\. Can I Use Dr.Fone for Free?
 
 Wondershare Dr.Fone for iOS and Android is free to download and install. You can also test the first few steps and see if the program supports your device. However, when you click the **Fix Now** button to start the repair process, you will be required to enter a valid license to activate the program.
@@ -262,8 +253,18 @@ We understand the inconvenience caused, therefore, here are ways to tell you how
 However, before moving on, let us learn a little about the causes for the Android boot loop error.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: What might cause the bootloop issue on Android?
 
 Android boot loop error might seem weird and unexplainable but it occurs because of some specific reasons.
@@ -282,34 +283,12 @@ Hence, if you are looking for ways to guide you about how to fix boot loop issue
 
 Read on to know more about how to fix the bootloop error without any data loss when your device suffers from the bootloop Android problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: One click to Fix Android Bootloop without factory reset
 
 If you are trying to figure out how to fix boot loop, the first option you have is the one-click fix to Android Bootloop which involves using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) software.
 
 This is designed to repair any data corruption on your device and restores your firmware to its usual working condition.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One click to fix boot loop of Android
@@ -339,48 +318,41 @@ Open the software and select the System Repair option from the main menu to fix 
 
 You’ll then need to input the Nokia G42 5G device information, such as your carrier info, device name, model, and country/region in order to ensure you’re downloading and repairing the correct firmware to your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![select info to fix android boot loop](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step #3** Now you’ll need to put your phone into Download Mode to remove the Android bootloop.
 
 For this, you can simply follow the onscreen instructions for both phones with and without home buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![fix android boot loop in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Click "Next", and the software will begin downloading the firmware repair files.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![firmware downloading to android](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step #4** Now you can sit back and watch the magic happen!
 
 Make sure your computer stays connected to the internet, and your device stays connected to your computer throughout the entire process. Once the firmware has been downloaded, it will be automatically installed onto your mobile device, removing the boot loop Android error.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixed android boot loop smoothly](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 You’ll be notified when the process is done and when you can remove your device and start using free from the boot loop Android error!
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Soft reset to fix Android bootloop issue
 
@@ -390,9 +362,6 @@ Follow the steps given below to soft reset your device:
 
 Turn the Nokia G42 5G device off and take out its battery.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![take out its battery](https://images.wondershare.com/drfone/article/2017/07/14994538333532.jpeg)
 
 If you cannot take the battery out, let the phone be off for about 3 to 5 minutes, and then turn it back on.
@@ -448,10 +417,14 @@ Press the volume down button and power button together until you see a screen wi
 
 When you are at the Recovery Mode screen, scroll down using the volume down key, and from the options given, select “Factory Reset” using the power key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Factory Reset](https://images.wondershare.com/drfone/article/2017/07/14994538843981.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Wait for your device to perform the task and then:
 
@@ -461,9 +434,6 @@ Reboot the phone in Recovery Mode by selecting the first option.
 
 This solution is known to fix the boot loop error 9 out of 10 times, but if you still can't start your Nokia G42 5G normally, consider using a CWM Recovery to resolve the Android boot loop issue.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: Use CWM Recovery to fix bootloop on rooted Android
 
 CWM stands for ClockworkMod and it is a very popular custom recovery system. To use this system to solve the boot loop Android error, your Nokia G42 5G must be rooted with CWM Recovery System which basically means CWM must be downloaded and installed on your device.
@@ -474,10 +444,6 @@ Press the home, power, and volume up buttons to launch the CWM Recovery screen.
 
 Note: you might have to use a different combination of keys to enter into Recovery Mode, depending on your device’s model.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![enter into Recovery Mode](https://images.wondershare.com/drfone/article/2017/07/14994539374814.jpg)
 
 Scroll down using” the volume key to select "Advanced".
@@ -498,12 +464,7 @@ So the bottom line is that boot loop Android issue may seem like an irreparable 
 
 An Android boot loop is a common phenomenon with all Android devices because we tend to tamper with our device’s internal settings. Once the ROM, firmware, kernel, etc are damaged or rendered incompatible with the Nokia G42 5G device’s software, you cannot expect it to function smoothly, hence, the boot loop error occurs. Since you are not the only one suffering from the Android boot loop problem, be rest assured that the ways, given above, to combat it are recommended by users facing similar troubles. So, don't hesitate and go ahead to try them on.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-
 
 ## How to Fix the Soft Bricked Nokia G42 5G?
 
@@ -541,9 +502,6 @@ Once you are the recovery mode screen, you will see a number of options as shown
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
 
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
@@ -552,9 +510,6 @@ This method will help you erase all the clogged up and unwanted files. You may l
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -565,9 +520,6 @@ Firstly, you must root your phone and unlock the Bootloader. Every phone’s mec
 
 Once the Bootloader is unlocked, take a backup of all your data by selecting “Backup” or “Android” back in recovery mode. The process should not take long and all you need to do is tap “OK” to config backup.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
 
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
@@ -580,24 +532,17 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -611,9 +556,20 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-capture-youtubes-iconic-icons-online-tools-desktop-software-and-commands/"><u>[New] 2024 Approved Capture YouTube's Iconic Icons Online Tools, Desktop Software & Commands</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-optimal-twitvid-saves-mastering-tweeted-media-downloads/"><u>[Updated] In 2024, Optimal TwitVid Saves Mastering Tweeted Media Downloads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-essential-watchers-the-1-10-fb-apps/"><u>2024 Approved Essential Watchers The #1-#10 FB Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-8-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 8 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-10t-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme 10T 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-entertainment-on-the-go-secure-your-favorite-media-for-offline-viewing/"><u>Download Entertainment On-the-Go – Secure Your Favorite Media for Offline Viewing</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-video-driver-issue-43-quickly/"><u>Solved Video Driver Issue #43 Quickly</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-play-8t-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor Play 8T? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

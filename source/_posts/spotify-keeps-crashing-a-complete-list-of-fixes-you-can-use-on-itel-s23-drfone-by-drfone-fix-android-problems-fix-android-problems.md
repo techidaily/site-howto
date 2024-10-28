@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Itel S23 | Dr.fone
-date: 2024-10-16T22:04:00.231Z
-updated: 2024-10-22T23:39:32.473Z
+date: 2024-10-26T16:30:35.274Z
+updated: 2024-10-28T19:10:15.709Z
 tags: 
   - problems
 categories:
@@ -47,6 +47,13 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![select system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Choose the **Android**
 
 ![pick android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
@@ -54,13 +61,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 4:** See which Android errors Wondershare Dr.Fone can fix and click **Start**.
 
 ![start system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5:** Select the **Brand,****Name, Model, Country,** and **Carrier** In the **Carrier** section, choose **OPEN** if your device is unlocked.
 
@@ -83,13 +83,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
 
 ![android system repair in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 12:** Once it finishes, click **Done**to complete the system repair.
 
@@ -148,10 +141,16 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4. Restart Your Device
@@ -162,6 +161,13 @@ Another way to stop Spotify from crashing can be restarting your Android. The st
 - **Step 2:** Tap **Restart**. That will restart your Android, and you can try opening Spotify again.
 
 ![restart android to fix spotify crashing](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5. Set Up Your Time and Date
 
@@ -208,6 +214,13 @@ If your system is updated, then Spotify might need an update. The app might malf
 
 ![update spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8. Free up Storage
 
 Spotify can start crashing if your Android’s storage space is at capacity. That can also cause other apps to crash, not only Spotify. Therefore, check the storage space and free up as much as possible. Follow these steps:
@@ -222,13 +235,6 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 ![available storage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-17.jpg)
 
 - **Step 4:** Then, you can go ahead and clear as much space as you can.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 9. Reinstall Spotify
 
@@ -261,13 +267,6 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
 ### 11. Clear the Cache
@@ -283,19 +282,6 @@ When using different apps and websites, your device caches data from those sourc
 
 ![spotify in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-23.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Tap **Storage**or **Storage usage**.
 
 ![spotify storage usage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-24.jpg)
@@ -305,13 +291,6 @@ When using different apps and websites, your device caches data from those sourc
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -363,6 +342,13 @@ Step 2 – You need to select “Android Repair” from the left panel and then 
 
 ![option to fix Android system UI not responding](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3 – Next, you need to select the correct information about your device (i.e., brand, name, model, country/region, and carrier details). Check the warning down below and hit “Next”.
 
 ![select android model info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -387,6 +373,13 @@ Step 2 – Once done, hit “Next” to initiate the downloading of the firmware
 
 ![firmware downloading](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3 – As soon as the download completes, the Android repair will automatically be started by the program.
 
 ![repair firmware to fix Android system UI stopping](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -394,13 +387,6 @@ Step 3 – As soon as the download completes, the Android repair will automatica
 Step 4 – In a just a matter of a few minutes, your Android system UI isn’t responding issue will be resolved.
 
 ![com.android.systemui stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Uninstall Google updates to fix Android SystemUI issue
 
@@ -524,6 +510,13 @@ Begin by scrutinizing your internet connection, as voice commands rely on a stab
 
 Understanding that these issues are inherent to any technology, Android Auto users can confidently navigate and troubleshoot these problems with the provided solutions. By addressing these commonplace concerns, users empower themselves to swiftly overcome hurdles, ensuring a seamless and gratifying driving experience with Android Auto.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3. A Quicker Solution: [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) – System Repair
 
 If navigating through various troubleshooting steps seems complicated, especially if the issue resides within your Itel S23, a swift and efficient solution comes in the form of Wondershare Dr.Fone - System Repair.
@@ -543,6 +536,13 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 - **Step 1:** Begin by launching Dr.Fone on your computer. From the left panel, access the Toolbox menu and click **System Repair**. Ensure your Itel S23 is connected.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4,014,082** people have downloaded it
 
@@ -594,17 +594,22 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-a-visual-hook-creating-captivating-youtube-thumbnails-to-drive-traffic/"><u>[New] A Visual Hook Creating Captivating YouTube Thumbnails to Drive Traffic</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-craft-visionary-videos-from-start-to-finish-using-youtube-studio-editor/"><u>2024 Approved Craft Visionary Videos From Start to Finish Using YouTube Studio Editor</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nubia-red-magic-9-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nubia Red Magic 9 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-14-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi 14 Pro Quickly | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722965445919-get-the-newest-epson-l3150-printer-drivers-for-windows-operating-systems-xenial-and-high-sierra-released/"><u>Get the Newest Epson L3150 Printer Drivers for Windows Operating Systems: Xenial & High Sierra Released!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-15-plus-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 15 Plus</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/step-up-your-fitness-game-with-these-excellent-yoga-channels/"><u>Step Up Your Fitness Game with These Excellent Yoga Channels</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-role-of-visuals-in-enhancing-facebook-engagement/"><u>The Role of Visuals in Enhancing Facebook Engagement</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangling-troubled-wires-effective-techniques-to-prevent-fallout-3-crashing-on-win10/"><u>Untangling Troubled Wires: Effective Techniques to Prevent Fallout 3 Crashing on Win10</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-v29-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo V29 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-methods-to-convert-instagram-video-to-mp3/"><u>[New] In 2024, Methods to Convert Instagram Video to Mp3</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmony-in-hues-and-beats-the-top-5-pioneering-professionals-in-visuals-and-audio/"><u>[Updated] Harmony in Hues and Beats The Top 5 Pioneering Professionals in Visuals & Audio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-moment-in-vr-infinity/"><u>[Updated] Ultimate Moment in VR Infinity</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-cutting-edge-audio-transition-tips-in-premier/"><u>2024 Approved Cutting-Edge Audio Transition Tips in Premier</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-probing-the-capabilities-of-ffmpeg-in-maintaining-audible-formats/"><u>2024 Approved Probing the Capabilities of FFmpeg in Maintaining Audible Formats</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-your-game-night-3-best-stream-networks-on-switch/"><u>Ace Your Game Night: 3 Best Stream Networks on Switch</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-narzo-60x-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme Narzo 60x 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-y100i-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y100i? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/gain-recognition-metas-paid-verification-badge/"><u>Gain Recognition: Meta's Paid Verification Badge</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-y55s-5g-2023-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo Y55s 5G (2023) 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-fix-strategies-for-error-0xc10100be-in-videos/"><u>Unlocking Fix Strategies for Error 0XC10100be in Videos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-hp-officejet-pro-8620-printer-drivers-on-windows-pcs-easily/"><u>Update Your HP OfficeJet Pro 8620 Printer Drivers on Windows PCs Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-13t-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi 13T Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-redmi-note-12-proplus-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Redmi Note 12 Pro+ 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

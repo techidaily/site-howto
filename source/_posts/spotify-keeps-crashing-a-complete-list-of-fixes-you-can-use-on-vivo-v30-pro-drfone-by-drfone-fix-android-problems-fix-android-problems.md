@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo V30 Pro | Dr.fone
-date: 2024-10-21T17:56:43.815Z
-updated: 2024-10-22T22:40:08.881Z
+date: 2024-10-23T17:59:27.955Z
+updated: 2024-10-28T17:24:07.682Z
 tags: 
   - problems
 categories:
@@ -29,6 +29,13 @@ Some people have encountered a problem with their Spotify accounts. Spotify can 
 Another reason the Spotify app keeps crashing could be an antivirus or a VPN blocking Spotify from working. Moreover, your device might be out of storage space, causing your phone to slow down and crash apps.
 
 Several other reasons for this problem include network issues, a weak Wi-Fi signal, or the battery saving mode. Furthermore, your apps and files might be corrupted, or an app on your phone might block Spotify from working correctly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. Spotify Keeps Crashing: Best Fixes
 
@@ -95,13 +102,6 @@ The steps for entering Download Mode on Android devices without the Home button 
 
 ![enter download mode without the home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 1:** Turn off your phone.
 - **Step 2:** Press and hold the **Volume Down**, **Bixby**, and**Power** buttons simultaneously.
 - **Step 3:** Press the **Volume Up**button to enter Download Mode.
@@ -116,10 +116,10 @@ You can force-close Spotify and open it again to make it work properly. That is 
 ![recent apps on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 3:** Find Spotify in **Recent Apps**and click **X** or swipe up over it to force-close it.
@@ -141,19 +141,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 - **Step 4:** Tap **Log In**.
 
 ![log into spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-6.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5:** Enter your login credentials.
 - **Step 6:** Tap **Login**again, and you’re in.
@@ -180,6 +167,13 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 
 ![set date on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** Go to **Set Time**and set the right time.
 
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
@@ -201,19 +195,6 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 
 ![install system update on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-13.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7. Update Your App
 
 If your system is updated, then Spotify might need an update. The app might malfunction if you’re using an older version. Thus, updating the app might solve the Spotify crashing problem. You can update Spotify by following these steps:
@@ -223,10 +204,10 @@ If your system is updated, then Spotify might need an update. The app might malf
 ![play store on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 2:** Search and open Spotify in the Play Store.
@@ -242,6 +223,13 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 - **Step 2:** Go to **Device Maintenance > Storage**or go directly to Storage.
 
 ![storage in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Here, you can see how much of your storage space is available and what’s taking up the most space.
 
@@ -264,13 +252,6 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 - **Step 6:** Tap **Install**to reinstall the app again.
 
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 7:** Once it installs, log in to test if it’s working.
 
@@ -301,13 +282,6 @@ When using different apps and websites, your device caches data from those sourc
 - **Step 3:** Find **Spotify** and tap it.
 
 ![spotify in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-23.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4:** Tap **Storage**or **Storage usage**.
 
@@ -465,6 +439,13 @@ However, keep in mind that this process can result in data loss, so it's essenti
 
 ![Perform a factory reset.](https://images.wondershare.com/drfone/article/2023/12/connection-private-android-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Most of the time, you won't need to go to the extreme of a factory reset. The simpler solutions mentioned earlier should take care of the Security Certificate Error on your Android.
 
 ## Conclusion
@@ -485,13 +466,6 @@ Trust me, once you face an error it’s frustrating until you find a solution to
 - (ii) Switching off and turning the wifi (cellular data) on
 - (iii) Clearing the cache and data of Google Play Store
 - (iv) Removing and adding back your Google account
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What is Error Code 920?
 
@@ -547,6 +521,13 @@ Then connect your Vivo V30 Pro using the official cable and select the ‘Androi
 
 ![fix error code 920 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dr.Fone will now download your firmware and automatically install it onto your device. Your phone will then reset, and you’ll be ready to use it without experiencing that annoying error 920 play store code!
 
 #### **METHOD 2: Re-installing the application**
@@ -601,6 +582,13 @@ Step 4 - Now you have successfully removed your account and after that re-add yo
 
 ![error code 920-remove account](https://images.wondershare.com/drfone/article/2017/06/14985022914137.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Again it is best if you follow the methods as illustrated above for removing error code 920 and this might have solved your problem by now. If now, you go for a complete factory reset, do it only at the extreme stage as this will delete all your personal data.
 
 Play Store error 920 is a pretty common error and its solutions are also very easy. Please do ensure that you follow each and every step in sync so that you can get the best result out of these methods and get over with the error code 920 on Google play store.
@@ -619,20 +607,14 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-boost-cash-flow-with-these-5-instagram-hacks/"><u>[New] 2024 Approved Boost Cash Flow with These 5 Instagram Hacks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-artful-adaptation-digital-tools-that-turn-pics-into-prose-online/"><u>[New] Artful Adaptation Digital Tools that Turn Pics Into Prose Online</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-art-of-dramatic-hdr-portraits-explained/"><u>[New] The Art of Dramatic HDR Portraits Explained</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-your-step-by-step-guide-to-youtube-studio-mastery-for-2024/"><u>[Updated] Your Step-by-Step Guide to YouTube Studio Mastery for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-realme-gt-5-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Realme GT 5 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/everlasting-impressions-save-instagram-stories-endlessly/"><u>Everlasting Impressions Save Instagram Stories Endlessly</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-honor-x9a-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Honor X9a Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-11-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme 11 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-accessing-command-line-interface-across-different-windows-operating-systems-win-11-win-10-win-8-win-7/"><u>Ultimate Tutorial on Accessing Command Line Interface Across Different Windows Operating Systems (Win 11, Win 10, Win 8, Win 7)</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-v29e-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo V29e Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-vivo-x-fold-2-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo X Fold 2 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-failed-to-create-opengl-context-for-format-qsurfaceformat/"><u>[FIXED] Failed to Create OpenGL Context for Format QSurFaceFormat</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-assembling-channel-summaries-that-attract-for-2024/"><u>[New] Assembling Channel Summaries That Attract for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-uncover-the-secret-correcting-mobile-video-sharing-on-fb-messenger/"><u>[Updated] 2024 Approved Uncover the Secret Correcting Mobile Video Sharing on FB Messenger</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-smart-zooms-on-snapchat-enhance-photo-and-video-quality/"><u>2024 Approved Smart Zooms on Snapchat Enhance Photo & Video Quality</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-google-pixel-7a-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Google Pixel 7a? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-a18-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo A18? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-v29e-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo V29e without App | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-poco-x5-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Poco X5 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

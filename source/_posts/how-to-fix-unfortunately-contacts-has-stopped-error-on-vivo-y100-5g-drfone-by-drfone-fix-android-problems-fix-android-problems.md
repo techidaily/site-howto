@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y100 5G | Dr.fone
-date: 2024-07-30T13:18:22.928Z
-updated: 2024-07-31T13:18:22.928Z
+date: 2024-10-27T18:55:48.135Z
+updated: 2024-10-28T16:31:03.801Z
 tags: 
   - problems
 categories:
@@ -22,12 +22,6 @@ It can occur while you launch the app or while you’re in the app already findi
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Fix Contacts app crashing on Android in one click
@@ -46,27 +40,18 @@ Step 1: Load program and draw connection of device
 
 Download Dr.Fone - System Repair (Android) on PC. While program installs, use USB cable to connect device with system. From interface, tap on “System Repair” main window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - download the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Opt for Android Repair option
 
 You’ll be directed to the “System Repair” screen where you have to opt for “Android Repair” options appearing over the left panel of the program. After that, do not forget to press “Start”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Key in device information
 
 From following screen, fill the fields of “Brand”, “Name”, “Model”, “Country” and several other parameters. Then, tap on “Next” option to proceed further.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - enter info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 4: Download Firmware package
@@ -103,10 +88,14 @@ The cache memory basically stashes the copies of the concerned application. It i
 3. Here, you need to browse for “Contacts” app and open it.
 4. On “Contacts” app, just tap on “CLEAR CACHE” and “CLEAR DATA” button. This will prompt the cache memory to be cleared.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.3 Wipe cache partition
 
@@ -135,9 +124,6 @@ The root cause for detecting any problem is not very easy. You never know the ov
 
 There will be a prompt stating that the application may misbehave. However, you must disable the feature and check whether it worked out for you or not.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
 
 ### 2.5 Update your device software
@@ -147,16 +133,10 @@ Many a times, we skip updating our device software thinking it is of less import
 1. First and foremost, head on to “Settings” menu. Over there, click on “About Device”.
 2. There, you need to tap over “Software Update”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.6 Reset App Preferences
 
 As stated, the malfunctioning of contacts can be due to be any unexpected reason. Hence, users can opt for resetting app preferences. This may prove to be helpful in brushing away the issue of “Contacts app won’t open”.
@@ -165,14 +145,8 @@ As stated, the malfunctioning of contacts can be due to be any unexpected reason
 - Just, tap over the three dots appearing at the upper right section and then tap on “Reset app preferences”.
 - At last, just select “Reset default apps”.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### 2.7 Delete voicemail
 
 Do you happen to exchange voicemails quite often? It can trigger to be the reason for contact app crashes. If your device happens to have a bulk of voicemails, you must get rid of them sooner or later. As, these might standout to be the prime reason for contacts stopping on Vivo Y100 5G. If you’re unaware about the procedure of removing all kinds of voicemails, you can proceed to make use of the following steps.
@@ -181,9 +155,6 @@ Do you happen to exchange voicemails quite often? It can trigger to be the reaso
 2. From there, duly opt for “Voicemail”.
 3. Just click on the press menu option and at last select “Delete” option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.8 Uninstall the downloaded apps
 
 Some applications contain some unwanted advertisements and some elements of malware. This can be enough for disrupting the functionality of the built-in contact app won’t open. It is crucial for your phone to be detoxed from such elements. You need to manually scrap off such applications. Do, ensure to download the application from the genuine source for future use.
@@ -195,14 +166,21 @@ Some applications contain some unwanted advertisements and some elements of malw
 
 Now, check whether you’ve fought the battle with the problem or not.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2.9 Reset to Factory Settings
 
 Last but not least, if all the methods falls flat to resolve the issue of contacts app won’t open. Then, it might be your device has some internal problem. This can be any software crash which might not be fixing with the aforementioned steps. That is where reset to factory settings may prove to be a good option. With this method, your phone will be cleared of all the components, settings and everything present in it. Here are is the comprehensive tutorial for biding bye to the problem of contacts app won’t open.
@@ -215,6 +193,19 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y100 5G
 
 The revolutionized world is about the internet, online life, and social media. You can get all the information you need from the internet. You are a click away from booking tickets, buying groceries, calling your loved ones, or even you can handle office meetings with the internet.
@@ -222,6 +213,13 @@ The revolutionized world is about the internet, online life, and social media. Y
 ![fix wifi keep disconnecting android](https://images.wondershare.com/drfone/article/2023/08/why-does-my-phone-keep-disconnecting-from-wifi.jpg)
 
 Since everything revolves around the internet, it's annoying if your WI-FI disconnects. You might question yourself **why does my Wi-Fi keep disconnecting from the phone**? To know the answer, read the article below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Why Does Your Phone Keep Disconnecting from WiFi?
 
@@ -265,34 +263,42 @@ If the Wi-Fi keeps disconnecting from your Vivo Y100 5G, but the internet is sta
 
 ![select reboot option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check Router Settings
 
 If your Android keeps disconnecting from Wi-Fi, you can also fix the problem by checking the router settings. This is because your phone might be blocked from connecting to the network, and if this is the scenario, your phone will never maintain the connection. You should check the Router’s admin panel or app to remove your phone from the blocklist.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check router settings](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Fix 3: Reconnect to Network
 
 To fix the annoying problem that your Wi-Fi keeps disconnecting, you should try forgetting the network and then reconnecting to it. This could be done easily by following the steps below:
 
 **Step 1**: First, you need to open the Wi-Fi settings menu. This could be done by pressing and holding the Wi-Fi option from the drop-down menu of your phone until the settings open up.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on your wifi option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2**: A list of all the Wi-Fi networks will appear on the screen. Select the network that is causing trouble from that list and hit the 'Forget Network' option.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![click on forgot network](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-4.jpg)
 
 **Step 3**: After that, you should reconnect to this Wi-Fi network by selecting it from the Wi-Fi list and entering its password.
@@ -311,21 +317,12 @@ The problem that your Wi-Fi keeps disconnecting can also occur because of the li
 
 **Step 1**: You should start by pressing and holding the Wi-Fi option from the drop-down menu on your phone until the Wi-Fi settings screen appears.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![open wifi settings](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-7.jpg)
 
 **Step 2**: You will see a list of all the Wi-Fi networks you have connected to previously. One by one, select each network and hit the 'Forget Network' button to remove it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![forgot unnecessary wifi connections](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6. Check Recently Installed Applications
 
 Sometimes, different installed applications can also cause trouble. If your Wi-Fi was fine, but suddenly it started disconnecting, then don’t forget to check the recently installed apps. This is because with not knowing the damage it can cause, you might have installed some VPNs, connections boosters, or firewalls. You can try and disable them but if that doesn’t resolve the problem, then uninstall the app.
@@ -334,10 +331,6 @@ Sometimes, different installed applications can also cause trouble. If your Wi-F
 
 ![tap on uninstall button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 7: Reset Network Settings on your Phone
 
 It’s annoying that your Wi-Fi keeps disconnecting while you are working or studying. Android users can easily get over this problem by resetting the network settings. The steps for this fix are as follows:
@@ -348,29 +341,16 @@ It’s annoying that your Wi-Fi keeps disconnecting while you are working or stu
 
 **Step 2**: As you progress onto a new screen, you will find the option of “Reset Wi-Fi, Mobile Networks, and Bluetooth” in the menu. Select the option to lead to the next window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open reset option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-11.jpg)
 
 **Step 3**: Click on the option of “Reset Settings” present on the bottom of the next screen that shows up. Provide confirmation of resetting these settings by inserting your device’s PIN, if any.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![click on reset settings button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-12.jpg)
 
 **Step 4**: After providing the appropriate clearances, you will be asked for another confirmation of resetting the Vivo Y100 5G device’s networks to default. Click “OK” to execute.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on ok button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 8: Check Routers Range
 
 If your Wi-Fi automatically disconnects and connects again while you are roaming in the house, then it is because of the router's range; you should check it. For this, you can consider changing and modifying your AP (Access Point) band on your router.
@@ -379,39 +359,25 @@ Although the 5GHz frequency band is recognized for providing better network spee
 
 ![change routers range](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9: Stay Connected while Asleep
 
 Most Android phones have a battery-saving feature. This feature disables the network connections to save the battery of the phone. If this is why the Wi-Fi keeps disconnecting, follow the steps shared below to fix it:
 
 **Step 1**: Start by opening the ‘Settings’ menu on your phone. Then scroll down until you find the 'Battery' option and open it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open battery settings](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-15.jpg)
 
 **Step 2**: Then, from the battery screen, hit the 'More Battery Settings' options. Then, you will see the 'Stay Connected while Asleep' option; turn it on.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![enable connected while asleep](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-16.jpg)
 
 ### Fix 10: Upgrade Router Firmware
 
 If none of the above-shared fixes work, the last fix to resolve the problem is upgrading your router firmware. For this, you should contact any professional who knows network operations as upgrading router firmware takes time and requires knowledge.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Wi-Fi Stay Connected
 
 The article above has discussed 10 solutions that offer a comprehensive toolkit to tackle the persistent issue of Wi-Fi keeps turning off Android. By toggling Airplane Mode, restarting your device, adjusting settings, and updating firmware, among other steps, you can effectively address and resolve this connectivity problem. With these solutions at your disposal, you can regain a stable and uninterrupted Wi-Fi experience on your Vivo Y100 5G.
-
-
 
 ## Vivo Y100 5G Screen Unresponsive? Here's How to Fix It
 
@@ -431,16 +397,33 @@ Below are some possible causes of Vivo Y100 5G screen unresponsiveness, along wi
 
 - **Touchscreen problems:**Sometimes, the touchscreen itself can become unresponsive for various reasons. For instance, Vivo Y100 5G Y2 and 5A users may face this issue if they have accidentally dropped their phone, exposed it to water, or used an incompatible screen protector. It can result in a damaged or malfunctioning touchscreen, making it difficult or impossible to operate the phone.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Common Solutions To Solve A Vivo Y100 5G Screen Unresponsive
 
 In the previous section, we identified the possible causes of Vivo Y100 5G screen unresponsiveness, including soft-bricked software, hardware problems, and touchscreen issues. While the underlying reasons for screen unresponsiveness can be varied and complex, some common solutions can help resolve the issue. Here are three of the most common solutions to address tablet screen unresponsiveness, no matter the Vivo Y100 5G model.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1. Restart The Device
 
 ![mui restart button](https://images.wondershare.com/drfone/article/2023/03/reset-button-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restarting the phone is typically the initial solution that comes to mind when we encounter the Vivo Y100 5G black screen problem. It's a simple and widely used method to address the issue, as the black screen problem could be caused by a software glitch, which can often be resolved by freeing up the phone's memory.
 
@@ -448,10 +431,6 @@ It is the most commonly used method to fix Vivo Y100 5G's touch screen and power
 
 ### 2. Leave The Phone And Let The Battery Drain Completely
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![low battery](https://images.wondershare.com/drfone/article/2023/03/drain-your-phone-battery.jpg)
 
 Sometimes, the tablet screen may become unresponsive due to a software issue preventing the Vivo Y100 5G device from functioning correctly. Leaving the Vivo Y100 5G device unused and draining the battery helps resolve these issues. After fully discharging the battery, the Vivo Y100 5G device can be recharged and turned back on, potentially resolving the issue.
@@ -464,9 +443,6 @@ If restarting the Vivo Y100 5G device or allowing the battery to drain doesn't r
 
 In addition to the common solutions we discussed earlier, some model-specific solutions can help resolve the screen unresponsiveness issue on Vivo Y100 5G Y2 and Vivo Y100 5G 5A.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4. Optimize Device Performance
 
 One solution is to optimize the Vivo Y100 5G device performance by clearing the cache, removing unwanted apps, and disabling unnecessary features. This method can help free up memory and resolve the issue.
@@ -478,9 +454,6 @@ You can clear your cached data using the default settings.
 
 ![clear cached data on xiaomi 5a](https://images.wondershare.com/drfone/article/2023/03/clear-cached-data-on-xiaomi5a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5. Back Up And Factory Reset
 
 Another solution is to back up the Vivo Y100 5G device and perform a factory reset, which can help reset the Vivo Y100 5G device to its original state and remove any software glitches that may be causing the screen unresponsiveness. The factory settings on your phone will restore any data saved by third-party applications and some of the phone's settings when it was first built. Note that this method erases all data from the Vivo Y100 5G device, so it should only be considered a last resort.
@@ -509,9 +482,6 @@ Here's how to fix repair screen unresponsiveness or any software-related issues 
 - Once you have entered the necessary information, **click** on the **'Next'** button to proceed.
 - **Follow** the on-screen instructions carefully to repair your Vivo Y100 5G.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![dr fone repair on xiaomi devices](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
 ## How To Avoid A Vivo Y100 5G Screen Unresponsive?
@@ -526,7 +496,6 @@ Encountering a Vivo Y100 5G screen unresponsive issue can be a common problem fo
 
 By using reliable software, like Dr.Fone Repair, you can ensure that your Vivo Y100 5G phone is well-maintained and operating smoothly. With these solutions and tips, you can enjoy the benefits of your Vivo Y100 5G phone without any interruptions.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -539,9 +508,20 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Vivo Y
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-shutters-symphony-top-techniques-for-exquisite-images/"><u>[New] 2024 Approved The Shutter's Symphony Top Techniques for Exquisite Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-create-a-live-stream-online-for-2024/"><u>[Updated] How to Create a Live Stream Online for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-enhance-your-digital-footprint-upload-tiktoks-on-twitter/"><u>[Updated] In 2024, Enhance Your Digital Footprint Upload TikToks on Twitter</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-a05s-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy A05s Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-14-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 14 Plus? Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-audio-troubles-how-to-restore-voice-chat-on-destiny-game/"><u>Solving Common Audio Troubles - How to Restore Voice Chat on Destiny ^Game</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-c33-2023-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme C33 2023? Here is How | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-c51-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme C51 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

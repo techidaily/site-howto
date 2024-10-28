@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Smart 7 | Dr.fone
-date: 2024-10-20T21:40:25.901Z
-updated: 2024-10-22T17:17:49.874Z
+date: 2024-10-27T16:28:11.549Z
+updated: 2024-10-28T19:17:22.490Z
 tags: 
   - problems
 categories:
@@ -69,13 +69,6 @@ If your Android has a Home button:
 - Turn off your device. Hold down “Volume Down + Home + Power” buttons altogether for about 10seconds. Let go of the buttons afterward and hit the Volume Up to boot in download mode.
 
 ![fix Android system UI stopping with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In case your Android has no Home button:
 
@@ -148,6 +141,13 @@ Follow the steps given below to factory reset your device to solve the Android S
 
 ![android system ui-Visit “Settings”](https://images.wondershare.com/drfone/article/2017/06/14985098633964.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Now select “Backup and Reset”.
 
 ![android system ui-select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/06/14985098813784.jpeg)
@@ -156,13 +156,6 @@ Follow the steps given below to factory reset your device to solve the Android S
 - Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
 
 ![android system ui-tap on “ERASE EVERYTHING”](https://images.wondershare.com/drfone/article/2017/06/14985099118666.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After the factory reset process is completed, your device will automatically restart, and you will have to set it up once again.
 
@@ -231,13 +224,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![confirm system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
 
 ![android system repair in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -298,6 +284,13 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4. Restart Your Device
 
 Another way to stop Spotify from crashing can be restarting your Android. The steps may vary slightly depending on the Infinix Smart 7 device, but they’re mostly the same. Follow these steps to restart your device:
@@ -321,13 +314,6 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 - **Step 5:** Go to **Set Time**and set the right time.
 
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6. Update Your System Software
 
@@ -368,6 +354,13 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 
 ![storage in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Here, you can see how much of your storage space is available and what’s taking up the most space.
 
 ![available storage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-17.jpg)
@@ -389,6 +382,13 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 - **Step 6:** Tap **Install**to reinstall the app again.
 
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 7:** Once it installs, log in to test if it’s working.
 
@@ -420,13 +420,6 @@ When using different apps and websites, your device caches data from those sourc
 
 ![spotify in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Tap **Storage**or **Storage usage**.
 
 ![spotify storage usage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-24.jpg)
@@ -444,10 +437,10 @@ If your Spotify app keeps crashing, several reasons might be behind it. For inst
 We’ve given you 11 solutions to fix the Spotify crashing problem. However, if your system needs repairing, you can try Wondershare Dr.Fone for quick and easy repair. This solution and all others will surely help you fix the crashing problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Home Button Not Working on Infinix Smart 7? Here Are Real Fixes
@@ -497,13 +490,6 @@ Step 4: After that, the software will download the appropriate firmware to repai
 Step 5: After downloading the firmware, the software will start the repair process. Wait for a few seconds, the problem should get fixed and your phone will get back to its normal state.
 
 ![home button not working android - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1.2 Force Restart your Android
 
@@ -562,6 +548,13 @@ Cons:
 
 URL: [https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en\_US](https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en_US)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.2 Button Savior app
 
 Button Savior app is one of the ultimate apps that can help you to fix the Android home button not working problem with ease. For this app, root and no root versions are available on the Google Play store. To fix the Home button not working issue, no root version is the right one. But, if you want to fix the Back button or other buttons, then you need to go for the root version.
@@ -600,16 +593,10 @@ Cons:
 URL: [https://play.google.com/store/apps/details?id=nu.nav.bar](https://play.google.com/store/apps/details?id=nu.nav.bar)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.4 Home Button app
@@ -630,6 +617,13 @@ Cons:
 - Sometimes, it shuts down automatically.
 
 URL: [https://play.google.com/store/apps/details?id=nu.home.button](https://play.google.com/store/apps/details?id=nu.home.button)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.5 Multi-action Home Button app
 
@@ -666,22 +660,15 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-bridge-the-gap-to-your-friends-live-broadcast-for-2024/"><u>[New] Bridge the Gap to Your Friend's Live Broadcast for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mov-in-the-cloud-top-six-techniques-for-windows-11-users/"><u>[New] In 2024, .MOV in the Cloud - Top Six Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-mastering-the-art-of-effective-interview-techniques-for-2024/"><u>[Updated] Mastering The Art Of Effective Interview Techniques for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-top-anime-elements-that-make-for-tiktok-success-for-2024/"><u>[Updated] Top Anime Elements That Make For TikTok Success for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/a-comprehensive-guide-to-penning-appealing-vlog-narratives-for-2024/"><u>A Comprehensive Guide to Penning Appealing Vlog Narratives for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/cleaning-up-clutter-removing-objectionable-pages-from-facebook/"><u>Cleaning Up Clutter: Removing Objectionable Pages From Facebook</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-f14-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy F14 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-navigating-the-hidden-paths-of-tiktok-unshrouding-techniques/"><u>In 2024, Navigating the Hidden Paths of TikTok Unshrouding Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/metaverse-musings-with-a-twist-of-augmented-reality/"><u>Metaverse Musings with a Twist of Augmented Reality</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-8-alternatives-to-fmovies-that-will-blow-your-mind/"><u>Top 8 Alternatives to Fmovies That Will Blow Your Mind</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-hot-30i-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Hot 30i Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-realme-12-proplus-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme 12 Pro+ 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-avoiding-files-enjoying-animated-gifs-youtube-video-mastery/"><u>[New] In 2024, Avoiding Files, Enjoying Animated GIFs YouTube Video Mastery</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-5-essential-ios-downloader-apps-for-your-favorite-facebook-videos/"><u>[Updated] In 2024, 5 Essential iOS Downloader Apps for Your Favorite Facebook Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-miniature-film-script-sketch/"><u>2024 Approved Miniature Film Script Sketch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamlined-screenshots-on-chrome-devices/"><u>2024 Approved Streamlined Screenshots on Chrome Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-14-ultra-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi 14 Ultra System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-lava-yuva-2-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Lava Yuva 2 Quickly | Dr.fone</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/haufigste-probleme-bei-der-installation-von-itunes-auf-windows-11-und-deren-effektive-losungen/"><u>Häufigste Probleme Bei Der Installation Von iTunes Auf Windows 11 Und Deren Effektive Lösungen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nokia-c12-plus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nokia C12 Plus Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 

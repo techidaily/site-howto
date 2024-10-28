@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy M54 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone
-date: 2024-10-21T21:46:09.465Z
-updated: 2024-10-22T22:33:10.132Z
+date: 2024-10-26T16:16:53.334Z
+updated: 2024-10-28T17:20:51.227Z
 tags: 
   - problems
 categories:
@@ -39,13 +39,6 @@ All-in-all, Android boot loop error is a direct outcome of when you try to tampe
 Hence, if you are looking for ways to guide you about how to fix boot loop issue, you will have to revamp the Samsung Galaxy M54 5G device internally by either resetting it or adopting a recovery method.
 
 Read on to know more about how to fix the bootloop error without any data loss when your device suffers from the bootloop Android problem.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: One click to Fix Android Bootloop without factory reset
 
@@ -103,19 +96,6 @@ Make sure your computer stays connected to the internet, and your device stays c
 You’ll be notified when the process is done and when you can remove your device and start using free from the boot loop Android error!
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Soft reset to fix Android bootloop issue
 
@@ -178,6 +158,13 @@ Press the volume down button and power button together until you see a screen wi
 
 ![a screen with multiple options](https://images.wondershare.com/drfone/article/2017/07/14994538648917.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When you are at the Recovery Mode screen, scroll down using the volume down key, and from the options given, select “Factory Reset” using the power key.
 
 ![Factory Reset](https://images.wondershare.com/drfone/article/2017/07/14994538843981.jpg)
@@ -203,16 +190,10 @@ Note: you might have to use a different combination of keys to enter into Recove
 ![enter into Recovery Mode](https://images.wondershare.com/drfone/article/2017/07/14994539374814.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Scroll down using” the volume key to select "Advanced".
@@ -235,13 +216,6 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Quick Fixes for Why Is My Samsung Galaxy M54 5G Black and White
 
 **Why is My Samsung Galaxy M54 5G in black and white?** This sudden shift in display colors can be perplexing and impact user experience. This issue affects various devices, including Samsung Galaxy M54 5G and other Android models. The abrupt shift to monochrome can impact your daily use. It can make apps and content appear dull.
@@ -256,6 +230,13 @@ Discovering your Samsung Galaxy M54 5G going monochrome can be annoying. The sec
 
 ![phone display in black and white](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Accessibility Settings
 
 Accidental activation of accessibility settings may turn your display monochromatic. The "**Grayscale**" or "**Color Inversion**" option in the **Accessibility** or **Vision** section of your phone's settings might be enabled. It can cause a black-and-white display. Here's the solution:
@@ -266,19 +247,19 @@ Accidental activation of accessibility settings may turn your display monochroma
 
 - **Step 2:** Disable the **Grayscale** or **Color** **Inversion** option.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### App Conflicts
 
 Certain third-party apps can cause conflicts, leading to a [black-and-white display](https://drfone.wondershare.com/iphone-problems/iphone-13-black-screen.html). Newly installed apps might be the culprit, affecting your device's color settings. Some apps also have grayscale modes that can impact the overall display. Here's how to fix it:
 
 - **Step 1**: Identify and uninstall recently installed apps.
 - **Step 2:** Check individual app settings for grayscale modes.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### System Glitches
 
@@ -288,14 +269,14 @@ System glitches or software bugs can trigger display issues. It can result in a 
 
 ![checking for system updates on android](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Update your device if there is a software update available. Ensure your device is running the latest software version.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Battery Saving Modes
 
@@ -361,13 +342,6 @@ Repair Android System Errors without Any Trouble.
 
 It's highly recommended to [back up your Android data](https://drfone.wondershare.com/backup/android-backup-software.html) before using Dr.Fone for repair.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How Dr.Fone Can Help You Beyond Display Issues
 
 Beyond resolving black-and-white display problems, Dr.Fone serves as a comprehensive tool for all Android issues. The platform can enhance your device functionality.
@@ -403,6 +377,13 @@ Below are additional functionalities of Dr.Fone that support your device to keep
 Maintaining a vibrant phone display enhances user experience and ensures optimal visual clarity. Follow these tips to keep your phone's display at its best:
 
 ![maintaining your device health vector](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Adjust Brightness Mindfully**
 
@@ -443,6 +424,13 @@ Many phones offer a night mode that reduces blue light emission. It promotes bet
 - **Implement App-Specific Settings**
 
 Some apps have specific display settings. Explore and adjust these settings within individual apps to enhance your visual experience and reduce strain.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -560,6 +548,13 @@ Follow the instructions to put your Samsung Galaxy M54 5G into Download Mode. On
 
 ![Activate Download mode to download the firmware.](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5.** Confirm Installation
 
 Remember, the repair may erase data. It's advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar.
@@ -590,13 +585,6 @@ However, keep in mind that this process can result in data loss, so it's essenti
 
 ![Perform a factory reset.](https://images.wondershare.com/drfone/article/2023/12/connection-private-android-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Most of the time, you won't need to go to the extreme of a factory reset. The simpler solutions mentioned earlier should take care of the Security Certificate Error on your Android.
 
 ## Conclusion
@@ -621,24 +609,14 @@ By prioritizing user safety and following the step-by-step approach in this guid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-fast-fixes-effortless-screenshots-and-captures-with-dell/"><u>[New] 2024 Approved Fast Fixes Effortless Screenshots & Captures with Dell</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-exciting-pc-clickers-you-cant-miss/"><u>[Updated] In 2024, The Ultimate List of Exciting PC Clickers You Can't Miss</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-principles-of-crafting-alluring-video-scripts/"><u>[Updated] Principles of Crafting Alluring Video Scripts</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-non-retweeted-video-tweet-guide-for-iphone-and-android-users/"><u>2024 Approved Non-Retweeted Video Tweet Guide for iPhone & Android Users</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-motorola-moto-g24-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Motorola Moto G24? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-tecno-phantom-v-flip-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Tecno Phantom V Flip Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-for-opening-the-command-prompt-in-multiple-windows-versions-a-guide-to-quick-navigation/"><u>Comprehensive Instructions for Opening the Command Prompt in Multiple Windows Versions: A Guide to Quick Navigation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-best-wedding-stories-online-youtube-plus-vimeos-selection-8/"><u>In 2024, The Best Wedding Stories Online YouTube + Vimeo's Selection (8)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/macbook-webcam-recording-tutorial/"><u>MacBook Webcam Recording Tutorial</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ratchet-and-clank-review/"><u>Ratchet & Clank Review</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-canon-mp250-with-the-latest-driver-downloads-easy-tutorial/"><u>Update Your Canon MP250 with the Latest Driver Downloads - Easy Tutorial</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-g2-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo G2 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-play-8t-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor Play 8T Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-oppo-reno-11f-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo Reno 11F 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/world-of-warcraft-stability-tweaks-solving-your-games-crash-problems/"><u>World of Warcraft Stability Tweaks: Solving Your Game's Crash Problems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-elevating-4k-video-output-on-your-devices-for-2024/"><u>[New] Elevating 4K Video Output on Your Devices for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-secrets-to-amassing-affordable-artistic-elements-for-2024/"><u>[New] Secrets to Amassing Affordable Artistic Elements for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-pc-data-collection-using-everywhereapp/"><u>Accelerated PC Data Collection Using EverywhereApp</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-gimbal-selection-tips-for-aerial-photography/"><u>Essential Gimbal Selection Tips for Aerial Photography</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-infinix-smart-8-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Infinix Smart 8 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nokia-xr21-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nokia XR21 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Gionee F3 Pro | Dr.fone</u></a></li>
 </ul></div>
 

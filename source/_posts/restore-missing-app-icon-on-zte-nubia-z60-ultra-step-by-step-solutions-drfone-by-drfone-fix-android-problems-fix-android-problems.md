@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on ZTE Nubia Z60 Ultra Step-by-Step Solutions | Dr.fone
-date: 2024-10-17T21:13:49.399Z
-updated: 2024-10-22T16:33:37.152Z
+date: 2024-10-27T16:18:34.140Z
+updated: 2024-10-28T17:52:02.595Z
 tags: 
   - problems
 categories:
@@ -50,13 +50,6 @@ However, as a general guide, you can follow these steps:
 
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Move the app to the home screen from the App Drawer
 
 If your **app icon disappeared on your Android**, you can also easily restore it by adding the app to the home screen from the app drawer. Follow the step-by-step guide below:
@@ -91,6 +84,13 @@ Please be mindful that performing a factory reset on Android will reset your And
 
 ![Perform a factory reset on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Fix System Error on Android Easily with Reliable Software
 
 **Missing app icons on Android** can sometimes be a result of errors in your Android system launcher, causing inconvenience and potential disruptions to your device's operation. To address this issue effectively, you can turn to Dr.Fone's advanced system repair tool. This tool is designed to handle various system issues, providing an easy and reliable solution.
@@ -103,7 +103,21 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4,136,839** people have downloaded it
 
@@ -112,13 +126,6 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 Click Start on the new screen to kick off the repair. Since you're dealing with the Android system, select System Damage.
 
 ![Select the problem and begin the repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3.** Fill in the ZTE Nubia Z60 Ultra device Details
 
@@ -145,13 +152,6 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 [<u>How to Fix Android App Not Installed Error Quickly?</u>](https://drfone.wondershare.com/android-issue/android-app-not-installed.html)
 
 [<u>Authentication Error Occurred? Here Are 10 Proven Fixes</u>](https://drfone.wondershare.com/android-issue/authentication-error.html)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -193,7 +193,27 @@ It is the most commonly used method to fix ZTE Nubia Z60 Ultra's touch screen an
 
 ![low battery](https://images.wondershare.com/drfone/article/2023/03/drain-your-phone-battery.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sometimes, the tablet screen may become unresponsive due to a software issue preventing the ZTE Nubia Z60 Ultra device from functioning correctly. Leaving the ZTE Nubia Z60 Ultra device unused and draining the battery helps resolve these issues. After fully discharging the battery, the ZTE Nubia Z60 Ultra device can be recharged and turned back on, potentially resolving the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3. Contact Custom Service
 
@@ -213,13 +233,6 @@ You can clear your cached data using the default settings.
 - To clear the cache, select **Clear Cache**.
 
 ![clear cached data on xiaomi 5a](https://images.wondershare.com/drfone/article/2023/03/clear-cached-data-on-xiaomi5a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5. Back Up And Factory Reset
 
@@ -256,13 +269,6 @@ Here's how to fix repair screen unresponsiveness or any software-related issues 
 To avoid facing a ZTE Nubia Z60 Ultra screen unresponsive issue, users can take several preventative measures. One important step is to update the ZTE Nubia Z60 Ultra phone regularly to ensure the software is up to date and all bugs and glitches are fixed. Users can also use tools like Dr. Fone to regularly manage and repair data, including clearing cache and removing unwanted apps. It is also important to use quality charging cables and avoid exposing the ZTE Nubia Z60 Ultra device to extreme temperatures or humidity, which can damage the internal components and potentially cause screen unresponsiveness. Finally, users can avoid dropping or mishandling the ZTE Nubia Z60 Ultra device, leading to physical damage and causing the screen to become unresponsive. Users can help prevent screen unresponsiveness by taking these steps and ensuring their ZTE Nubia Z60 Ultra device runs smoothly and reliably.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -340,13 +346,6 @@ If the format isn’t supported, installing the right video player with the nece
 
 ![pull-down bar on android showing wifi is turned off](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you’re having problems playing downloaded or online videos, check your internet connection to see if there’s an issue there. If your internet’s down, any downloaded videos might not have downloaded correctly, and any online videos that haven’t been loaded will not play.
 
 Make sure that you turn the Airplane mode off and your Wi-Fi on. Check the connection and test your internet speed to see if everything works properly.
@@ -364,6 +363,13 @@ On average, you should clear your phone’s cache every few months to ensure tha
 To clear the cache from your apps, you’ll want to go to **Settings > Apps.** From there, select the app you want to remove the cache from, scroll down to **Storage**, then choose **Clear Cache**.
 
 ![clear cache on android apps](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6. Update Android OS
 
@@ -390,13 +396,6 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your ZTE Nubia Z60
 - **Step 4**: In the new window, select **Start**.
 
 ![wondershare dr.fone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5**: Fill in information about your phone’s **Brand, Name, Model, Country,** and **Carrier**.
 - **Step 6**: Agree with the warning and select **Next**.
@@ -428,6 +427,13 @@ To check whether you’re using the latest version of your video player, go to *
 
 ![android app version](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 9. Clear Cookies and Browsing Data
 
 If online videos are causing problems, not your recorded or downloaded ones, you might be due for a quick cookie and browsing data clearing.
@@ -446,14 +452,20 @@ To reinstall it again, go to the Google Play Store, search for the video app you
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-**4,974,400** people have downloaded it
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**4,974,400** people have downloaded it
 
 ## Conclusion
 
@@ -475,15 +487,24 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-elevating-youtube-productions-with-effective-video-lighting/"><u>[New] In 2024, Elevating YouTube Productions with Effective Video Lighting</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-from-shoots-to-screens-dslr-setup-for-youtubefacebook-live/"><u>[New] In 2024, From Shoots to Screens DSLR Setup for YouTube/Facebook Live</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-essential-cloud-price-breakdown-guide/"><u>2024 Approved Essential Cloud Price Breakdown Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/airpods-not-recognizing-mic-in-windows-11-heres-what-to-do/"><u>AirPods Not Recognizing Mic in Windows 11? Here’s What to Do!</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-lava-blaze-pro-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Lava Blaze Pro 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-gpo-data-exploration-using-gpresult-techniques/"><u>Mastering GPO Data Exploration Using GPResult Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/speech-recorder-evaluation-guide-for-2024/"><u>Speech Recorder Evaluation Guide for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nokia-c300-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nokia C300 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-screen-sharing-on-skype-for-remote-collaboration-for-2024/"><u>[New] Mastering Screen Sharing on Skype for Remote Collaboration for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-tailored-techniques-for-logging-high-quality-roblox-sessions-on-a-mac/"><u>[Updated] 2024 Approved Tailored Techniques for Logging High-Quality Roblox Sessions on a Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-essentials-of-clear-coherent-ps3-game-recordings/"><u>[Updated] The Essentials of Clear, Coherent PS3 Game Recordings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-guide-easycapture-v2-analysis-for-2024/"><u>[Updated] Ultimate Guide EasyCapture V2 Analysis for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-magic-vs-2-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor Magic Vs 2? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-f04-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy F04? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-empty-directory-error-code-0x80070091-in-win11/"><u>Eliminating Empty Directory Error Code 0X80070091 in Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-tecno-pova-6-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Tecno Pova 6 Pro 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-apples-m1-pro-and-m1-max-key-distinctions/"><u>In 2024, Comparing Apple's M1 Pro and M1 Max Key Distinctions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-android-photography-alterations/"><u>In 2024, Premium Android Photography Alterations</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-straightforward-tips-for-mastering-simple-hdr-photography/"><u>In 2024, Straightforward Tips for Mastering Simple HDR Photography</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/on-the-road-again-amidst-undead-chaos-a-comprehensive-review-of-days-gone/"><u>On the Road Again Amidst Undead Chaos: A Comprehensive Review of 'Days Gone'</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-camon-20-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Camon 20 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-narzo-60x-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme Narzo 60x 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo S17t? | Dr.fone</u></a></li>
 </ul></div>
 

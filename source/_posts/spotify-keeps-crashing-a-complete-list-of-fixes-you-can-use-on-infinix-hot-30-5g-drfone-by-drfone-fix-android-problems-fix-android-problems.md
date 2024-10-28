@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Hot 30 5G | Dr.fone
-date: 2024-10-17T18:39:01.847Z
-updated: 2024-10-22T17:53:14.931Z
+date: 2024-10-22T18:28:48.300Z
+updated: 2024-10-28T17:17:12.288Z
 tags: 
   - problems
 categories:
@@ -69,13 +69,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![fix your android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 10:** Type “**000000**” in the dialog box and click **Confirm**.
 
 ![confirm system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -127,13 +120,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![settings in spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Scroll to the bottom of the settings and tap **Log Out**.
 
 ![log out of spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-5.jpg)
@@ -179,6 +165,13 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 
 ![settings on your android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:** Go to **System** or **About Phone**.
 
 ![about phone to find system update](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-12.jpg)
@@ -187,13 +180,6 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 - **Step 4:** If there’s an available update, tap
 
 ![install system update on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7. Update Your App
 
@@ -207,6 +193,13 @@ If your system is updated, then Spotify might need an update. The app might malf
 - **Step 3:** Tap Update
 
 ![update spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8. Free up Storage
 
@@ -264,28 +257,21 @@ When using different apps and websites, your device caches data from those sourc
 
 ![settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-22.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Go to **Apps**.
 - **Step 3:** Find **Spotify** and tap it.
 
 ![spotify in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Tap **Storage**or **Storage usage**.
 
 ![spotify storage usage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-24.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 5:** Tap **Clear Cache**.
 
@@ -333,6 +319,13 @@ Engaging with beta versions or unstable releases of an app can result in compati
 
 Facing the “**Play Store your device isn’t compatible with this version”** error is an all-too-familiar setback. However, fear not, as this article will be your guide in resolving this issue. Summarized below are the top 8 solutions to fix this error with ease:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Force Quit Google Play Store
 
 Force quitting the Google Play Store is a simple yet effective first step in resolving compatibility issues. Occasionally, the app may encounter glitches or background errors. These can hinder its proper functioning. Force quitting the Google Play Store and restarting it can often rectify these issues. You can use the following steps to force quit Google Play Store:
@@ -377,13 +370,6 @@ An outdated operating system is a common factor behind compatibility issues. Thi
 
 ![checking system update](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Uninstall the Google Play Store Updates
 
 In certain cases, issues with the [<u>Google Play Store</u>](https://drfone.wondershare.com/android-stopped/google-play-services-wont-update.html) itself may be contributing to compatibility errors. Uninstalling recent updates can revert the app to its default state. It can potentially resolve the problem. Follow these steps to uninstall updates for the Google Play Store and resolve “**device not compatible Play Store”** issues:
@@ -397,10 +383,10 @@ In certain cases, issues with the [<u>Google Play Store</u>](https://drfone.wond
 ![uninstall play store updates](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Sideload the Incompatible Android App
@@ -414,6 +400,19 @@ If all else fails and the compatibility issue persists, sideloading the app can 
 - **Step 2.** Afterward, access a reliable, trusted website where the APK for the targeted app is available. Download and install the app to resolve the compatibility issues.
 
 ![try installing apk](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-11.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Install a Custom ROM
 
@@ -445,13 +444,6 @@ The System Repair tool in Dr.Fone helps you to resolve this issue in your Androi
 4. With its easy-to-follow guide and steps, no technical expertise is required to use Dr.Fone's software.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -529,6 +521,13 @@ As the next step, you need to take the help of USB cable and then plug your devi
 
 ![whatsapp not opening - choose repair tab](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Enter Details**
 
 Next will be the information screen. Simply enter the model, brand and other details. Check everything once and click on “Next”.
@@ -556,6 +555,13 @@ The purpose of Cache in a device is to keep the track of frequently used data an
 - Click on “Storage” and tap “Clear Data”.
 
 ![whatsapp stopping - fix cache conflict](https://images.wondershare.com/drfone/article/2019/06/clear-whatsapp-data.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Cause 3: WhatsApp components corruption
 
@@ -632,22 +638,16 @@ Now that you have decided where to download the apk file, these are the followin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-10-proven-methods-for-boosting-fb-search-rankings/"><u>[New] In 2024, 10 Proven Methods for Boosting FB Search Rankings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-m1-innovation-elevating-smoothness-in-every-editors-toolkit/"><u>[New] M1 Innovation Elevating Smoothness in Every Editor's Toolkit</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decoding-youtubes-economics-how-to-quantify-watches-and-earnings/"><u>[Updated] In 2024, Decoding YouTube's Economics How to Quantify Watches and Earnings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-optimize-video-quality-with-expertise-in-studio-editor-use/"><u>[Updated] In 2024, Optimize Video Quality with Expertise in Studio Editor Use</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-path-stream-your-google-meet-chats-to-youtube/"><u>[Updated] Navigating the Path Stream Your Google Meet Chats to YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-kickboxing-and-karate-game-round-up/"><u>[Updated] Ultimate Kickboxing & Karate Game Round-Up</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-m14-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy M14 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-hot-40-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Hot 40 Pro System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-blurriness-9-ways-to-fine-tune-your-windows-display/"><u>Bypassing Blurriness: 9 Ways to Fine-Tune Your Windows Display</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-tecno-spark-20-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Tecno Spark 20 Quickly | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-magic-6-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor Magic 6 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/june-27th-insights-and-solutions-from-the-new-york-times-topic-382/"><u>June 27Th Insights & Solutions From the New York Times - Topic #382</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y100t-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100t Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-access-all-audio-extracted-top-free-youtube-to-mp3-converter-guide/"><u>[New] 2024 Approved Access All Audio Extracted Top Free YouTube to MP3 Converter Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spotlight-on-figure-skaters-2022-edition/"><u>[New] Spotlight on Figure Skaters 2022 Edition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-elevating-video-popularity-on-youtube/"><u>[Updated] Elevating Video Popularity on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-elevate-your-engagement-select-8-social-apps-for-facebook-fame/"><u>2024 Approved Elevate Your Engagement Select 8 Social Apps for Facebook Fame</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unleash-fun-top-10-binge-worthy-tiktok-challenges/"><u>In 2024, Unleash Fun Top 10 Binge-Worthy TikTok Challenges</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Why does the pokemon go battle league not available On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Magic5 Ultimate | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Xiaomi Redmi Note 12T Pro Safely | Dr.fone
-date: 2024-07-30T13:25:29.733Z
-updated: 2024-07-31T13:25:29.733Z
+date: 2024-10-22T17:55:10.452Z
+updated: 2024-10-28T17:34:31.636Z
 tags: 
   - problems
 categories:
@@ -27,41 +27,25 @@ Given below are eight techniques to flash your Xiaomi Redmi Note 12T Pro safely,
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ZqS8c3T65WI"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Can a Dead Phone Be Flashed?
 
 Flashing a dead Android phone might be skeptical for many users who have been in such a situation. Although it is possible to flash a dead Android phone, it is essential to be aware of the reasons that lead you into such a situation. Before a remedy, diagnosing the problem is a necessity for retaining the Xiaomi Redmi Note 12T Pro device.
 
 From battery issues to physical damage to the Xiaomi Redmi Note 12T Pro device, there can be many reasons your Xiaomi Redmi Note 12T Pro died. The reasons for a dead Android phone are not restricted to these points. There can be software-related issues or firmware issues that might cause such havoc on your Android.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Part 2: How to flash Xiaomi Redmi Note 12T Pro in one click
 
 While you are worried about how to flash Xiaomi Redmi Note 12T Pro instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Xiaomi Redmi Note 12T Pro logo.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One-click solution to flash Xiaomi Redmi Note 12T Pro
@@ -74,11 +58,6 @@ One-click solution to flash Xiaomi Redmi Note 12T Pro
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Step-by-step Tutorial
 
 We are going to explain how to flash a dead Android phone using a PC using Dr.Fone - System Repair (Android)
@@ -89,23 +68,14 @@ We are going to explain how to flash a dead Android phone using a PC using Dr.Fo
 
 Step 1: Once you have downloaded and installed Dr.Fone, launch it. From the main menu, tap on ‘System Repair’ and get your Xiaomi Redmi Note 12T Pro connected to it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to flash Dead Android phone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Click ‘Android Repair’ from the available options, and then press the ‘Start’ button to fix the Dead Android phone by flashing it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![android repair to flash dead phone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: On the Xiaomi Redmi Note 12T Pro device information screen, pick the appropriate device brand, name, model, and other details followed by tapping the ‘Next’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose brand info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Put the Android device in Download mode to start repair.**
@@ -114,14 +84,24 @@ Step 1: It is essential to boot your Xiaomi Redmi Note 12T Pro in Download mode 
 
 - If the Xiaomi Redmi Note 12T Pro device has a ‘Home’ button: Turn it off and then hold down the ‘Volume Down’, ‘Home’, and ‘Power’ buttons altogether for 5-10 seconds. Un-hold all of them and hit the ‘Volume Up’ button for entering ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![flash android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - In the absence of a ‘Home’ button: Switch off the Android device and hold the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons for 5 to 10 seconds, then release them. Hit the ‘Volume Up’ button for entering the ‘Download’ mode.
 
 ![flash android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Press the ‘Next’ button for initiating firmware download.
 
@@ -129,14 +109,8 @@ Step 2: Press the ‘Next’ button for initiating firmware download.
 
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Part 3: How to flash Xiaomi Redmi Note 12T Pro dead phone with Odin?
@@ -157,44 +131,34 @@ Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file ty
 
 Step 3: In this step, download the latest version of Odin on your PC and move it to the desktop, and then right-click on the downloaded Odin file to select “Run as Administrator”.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![download odin](https://images.wondershare.com/drfone/article/2017/07/14991896878336.jpg)
 
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
 
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![boot in download mode](https://images.wondershare.com/drfone/article/2017/07/14991897353612.jpg)
 
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![android download mode](https://images.wondershare.com/drfone/article/2017/07/14991897566586.jpg)
 
 Step 6: Now, you may use a USB to connect your Xiaomi Redmi Note 12T Pro to the PC. Odin will recognize your device, and in the Odin window, you will see a message saying “Added”.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect android device](https://images.wondershare.com/drfone/article/2017/07/14991897792616.jpg)
 
 Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA” or “AP” on the Odin window and then click “Start”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![open md5 file](https://images.wondershare.com/drfone/article/2017/07/14991898009725.jpg)
 
 Finally, once the flashing process is complete, your Xiaomi Redmi Note 12T Pro phone will reboot and start normally, and you may see a “Pass” or “Reset” message on the Odin window on the PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to flash MTK Android dead phone with SP Flash tool?
 
@@ -206,9 +170,6 @@ Step 1: To start with, download and install the MTK driver on your PC and then d
 
 Step 2: Once done, you should download the SP Flash tool and extract it on your PC and move on to launch the Flash\_tool.exe file to open the SP Flash tool window.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download sp flash tool](https://images.wondershare.com/drfone/article/2017/07/14991898618783.jpg)
 
 Step 3: Now, on the SP Flash tool window, click on “Download” and select “Scatter-loading”.
@@ -255,9 +216,6 @@ Lastly, just click on “Refurbish” and connect your phone to the PC using a U
 
 That was it, the flashing process may take up to a few minutes after which your dead Xiaomi Redmi Note 12T Pro  will restart automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 6: How to flash a dead phone that won’t turn on via factory reset?
 
 Using tools for flashing Android devices can be a solution; however, it is heavily restricted to the Xiaomi Redmi Note 12T Pro device models. For a generalized solution, there can be other options that you can go with. Factory resetting an Android device by putting it in Recovery Mode is one way. To know **how to flash a dead Android phone** using factory reset, go through the steps featured below:
@@ -276,24 +234,14 @@ The screen of your Xiaomi Redmi Note 12T Pro may be faulty, due to which it is n
 
 If the Android vibrates on restarting and the screen does not lighten up, the problem can be directed to a hardware fault. The screen is broken and needs physical assistance to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 8: How to fix a dead Android phone by changing the battery
 
 Another solution that can help you fix the dead Android phone is changing its battery. The battery of an Android device can last up to 3 years. When its capacity drops to a bare minimum, it is best to change the battery of your Android. Upon trying to restart your Xiaomi Redmi Note 12T Pro, if it does not, you might need to replace your battery. All Android phone batteries are removable, which should be regulated with proper supervision.
 
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Part 9: How to repair dead Android phone by contacting official support
 
 If you are unable to discover any proper solution for **how to flash dead Android phones,** you might have to consult the respective customer support of the Android phone manufacturers. Consult customer support to discover why the phone is dead and how it can be flashed. The respective personnel will assist you in resolving the issue, which might require monetary input from your side.
@@ -318,26 +266,16 @@ Despite all the worry that surrounds an unwanted Android system recovery screen,
 
 For these reasons, it is actually a good thing, although when it does happen unexpectedly, you may want to know how to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How to get to Android System recovery
 
 Now that you know how useful the Android System can be, you may want to know how to utilize this feature to get out of some of the problems we mentioned above. Here's how you can safely get to the Android recovery system on your Xiaomi Redmi Note 12T Pro.
 
 Step 1: Hold down the power key and then select "Power Off" from the options on the screen. If, however, your screen is unresponsive, keep holding the power key for several seconds until the Xiaomi Redmi Note 12T Pro device is completely turned off.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
 
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
 
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
@@ -346,9 +284,6 @@ Step 3: Press the Volume up and Volume down keys and use the Power key to select
 
 Step 4: The white Google logo will appear immediately followed by the Android logo again as well as the words "No Command" at the bottom of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
 
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
@@ -359,11 +294,6 @@ Step 5: Finally, press and hold both the Power and the Volume up Key for around 
 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One-stop solution to fix Android stuck at System recovery
@@ -383,16 +313,10 @@ One-stop solution to fix Android stuck at System recovery
 
 Once installed on your computer, open onto the main menu and connect your Xiaomi Redmi Note 12T Pro using the official USB cable. Select the System Repair option.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step #2** Select the 'Android Repair' option from the next screen.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Insert your device information, including the brand, carrier details, model and country and region you're in to ensure you're downloading the correct firmware.
@@ -411,12 +335,15 @@ Ensure your device, and your computer stays connected the entire time, and make 
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
@@ -461,18 +388,17 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How To Deal With the Xiaomi Redmi Note 12T Pro Screen Black But Still Works?
 
 With the advance of technology over the years, many of us rely on smartphones to communicate, work, and play. As such, it can be pretty concerning when your device begins to act strange like your **phone screen suddenly went blank**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![phone screen is black but still works intro](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-01.jpg)
 
 Whether you’re using an iPhone or an Android device, you’ll eventually encounter a problematic symptom like this. Therefore, this article will explore **what to do when your phone screen goes black**. After exploring below, you’ll learn the common causes of why your **phone screen went black** and how to fix it. Read on below to learn more.
@@ -485,21 +411,22 @@ Experiencing a **cell phone blank screen** is not exclusive to Android or iOS us
 
 The first thing that comes to mind when your **phone screen suddenly goes black** is you have a drained battery. Even though this is obvious, it’s still important to mention, as this is usually what most people encounter. To fix this problem, plug your smartphone into a charger and wait for your device to turn on again. If it works, then you just prevented a rather annoying experience.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![drained iphone battery](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-02.jpg)
 
 ### App Troubles
 
 If your **phone is working, but the screen is black,** there’s also a high probability that you are having an isolated issue with a particular application. An app could be loading something, which often happens for streaming apps such as YouTube, Netflix, Prime, and more, especially if you have slow internet connectivity.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Software Issues
 
 A potential reason why **your phone screen went black but still works** could be because of your smartphone’s software. This problem suggests that your Xiaomi Redmi Note 12T Pro is crashing, potentially freezing your device if not addressed immediately. If this is the cause, then your device is likely experiencing a critical system error, and you should directly try to reboot your phone.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Hardware Problem
 
@@ -507,13 +434,6 @@ If you dropped your phone, there’s a high chance the LCD connectors went loose
 
 ![loose samsung galaxy lcd](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Part 2: How To Fix Black Screen on Your Phone
 
 Here are four valuable methods you should know on **what to do when your phone screen goes black** on your iPhone or Android smartphone to get them working again.
@@ -528,9 +448,6 @@ Here is how you force restart an Android device when your **phone screen doesn�
 
 **Step 1**: Press and hold the **Power** and **Volume Down** buttons simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![force restart android device](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-04.jpg)
 
 **Step 2**: Hold the same buttons until your device restarts, and display the phone’s logo.
@@ -541,9 +458,6 @@ If you own the latest iPhone models, here are the method of restarting it from i
 
 **Step 1**: Press and immediately release **Volume Up**. Next, press and immediately release **Volume Down**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![force restart iphone 8 to 14](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-05.jpg)
 
 **Step 2**: Press and hold **Sleep/Wake** until you see the Apple logo.
@@ -555,6 +469,13 @@ If you own an iPhone 7, press and hold the **Side** button and **Volume Down** 
 ### Method 2: Uninstall or Update Outdated Applications
 
 In some cases, your **phone screen is black but still works** because of installing incompatible apps on your iOS/Android device. If the installed app is frequently crashing, it may be the source of a blank cell phone **screen.** Uninstall the problem app to see if the black screen disappears or not.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Inspect the LCD Connectors
 
@@ -586,9 +507,6 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 **Step 2**: Use the **Volume** buttons to navigate the choices and select **Wipe data/factory reset** and confirm your choice with the **Power** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![android recovery mode 02](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-07.jpg)
 
 **Step 3**: Simply wait for the process to complete and wait for your Xiaomi Redmi Note 12T Pro to restart automatically.
@@ -605,9 +523,6 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 **Step 4:** Tap **Erase iPhone** to confirm. You’ll be asked to type in your Apple ID and password if **Find My** is active. Enter your password and tap **Erase**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Part 3: How To Fix Black Screen Phone With an Alternative
 
 If **your phone screen went black but still works** and doing the methods above did not solve the issue, you can use Wondershare Dr.Fone for [<u>iOS</u>](https://drfone.wondershare.com/ios-system-repair.html) and [<u>Android</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) as a last resort. It’s one of the most popular smartphone repair tools today, enabling you to fix all kinds of annoying scenarios. These include black screen, boot loop, white screen of death, bricked iOS or Android device, and more.
@@ -615,8 +530,12 @@ If **your phone screen went black but still works** and doing the methods above 
 ![drfone system repair main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Features
 
 Dr.Fone – System Repair for iOS and Android has fantastic features you can immediately take advantage of. Here are its key features below.
@@ -676,22 +595,15 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 ![drfone system repair process complete](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,262,204** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Our increasing reliance on smartphones has led to amazing advancements in new technologies. However, lingering issues such as your **phone screen not turning on** or your **phone screen being black but still working** are ongoing problems to many. That’s why learning how to prevent these events is essential to take care of your smartphone.
 
 Doing all the recommended methods above usually solves the case. If the different fixes don’t work for you, Dr.Fone – System Repair for iOS and Android can help resolve all your problems within less than 10 minutes. You can download it for free on Windows and Mac to test it yourself.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -705,9 +617,17 @@ Doing all the recommended methods above usually solves the case. If the differen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-dissecting-screenflows-impact-on-mac-creatives-and-developers/"><u>[New] 2024 Approved Dissecting ScreenFlow's Impact on Mac Creatives and Developers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-finest-videography-tools/"><u>[Updated] The Finest Videography Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-12-proplus-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme 12 Pro+ 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-tecno-spark-20c-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Spark 20C Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c12-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C12 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-camon-20-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Camon 20 Pro 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-dauntless-for-pc-effective-strategies-to-prevent-crashing/"><u>Overcome Dauntless for PC: Effective Strategies to Prevent Crashing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-system-functionality-integrate-mtk-drivers-into-win1110/"><u>Streamline System Functionality - Integrate MTK Drivers Into Win11/10</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y27s-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y27s Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

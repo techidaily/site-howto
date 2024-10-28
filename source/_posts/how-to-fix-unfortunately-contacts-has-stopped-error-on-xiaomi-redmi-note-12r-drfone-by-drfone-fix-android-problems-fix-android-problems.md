@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi Note 12R | Dr.fone
-date: 2024-07-30T13:18:39.505Z
-updated: 2024-07-31T13:18:39.505Z
+date: 2024-10-23T16:55:10.561Z
+updated: 2024-10-28T17:12:44.847Z
 tags: 
   - problems
 categories:
@@ -18,14 +18,9 @@ Have you recently noticed a message stating “Contacts has stopped”? This is 
 
 It can occur while you launch the app or while you’re in the app already finding the required contact or when any other application is trying to gain access to it. So, to rage a battle with this issue, you need to seek help of some powerful methods in killing down the issue of contacts app crashes. And, the best part is that you’ve secured yourself by reaching the right place. We will be taking an in-depth discussion on several methods that may prove to be helpful. Let’s read them up here now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -47,6 +42,13 @@ Download Dr.Fone - System Repair (Android) on PC. While program installs, use US
 
 ![contacts stopping on samsung - download the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Opt for Android Repair option
 
 You’ll be directed to the “System Repair” screen where you have to opt for “Android Repair” options appearing over the left panel of the program. After that, do not forget to press “Start”.
@@ -57,19 +59,19 @@ Step 3: Key in device information
 
 From following screen, fill the fields of “Brand”, “Name”, “Model”, “Country” and several other parameters. Then, tap on “Next” option to proceed further.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - enter info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Download Firmware package
 
 Just follow the on-screen steps for booting your Xiaomi Redmi Note 12R into download mode. Then, hit the “Next” button to proceed with downloading the most suitable firmware package for your Xiaomi Redmi Note 12R.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 5: Repair Android phone
@@ -78,9 +80,6 @@ Once the software downloads, the program will automatically repair any issues ir
 
 ![contacts stopping on samsung - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: 9 Common ways to fix “Unfortunately, Contacts Has Stopped”
 
 ### 2.1 Restart Android system
@@ -134,6 +133,13 @@ There will be a prompt stating that the application may misbehave. However, you 
 
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.5 Update your device software
 
 Many a times, we skip updating our device software thinking it is of less importance. In fact, one must not miss out the updates that occurs in phone. As, without the updates, the scope of some applications are affected to some extent. For its better functioning and avoiding issues like “contacts keep stopping”, here is how you should update device software.
@@ -141,16 +147,10 @@ Many a times, we skip updating our device software thinking it is of less import
 1. First and foremost, head on to “Settings” menu. Over there, click on “About Device”.
 2. There, you need to tap over “Software Update”.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### 2.6 Reset App Preferences
 
 As stated, the malfunctioning of contacts can be due to be any unexpected reason. Hence, users can opt for resetting app preferences. This may prove to be helpful in brushing away the issue of “Contacts app won’t open”.
@@ -159,14 +159,8 @@ As stated, the malfunctioning of contacts can be due to be any unexpected reason
 - Just, tap over the three dots appearing at the upper right section and then tap on “Reset app preferences”.
 - At last, just select “Reset default apps”.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.7 Delete voicemail
 
 Do you happen to exchange voicemails quite often? It can trigger to be the reason for contact app crashes. If your device happens to have a bulk of voicemails, you must get rid of them sooner or later. As, these might standout to be the prime reason for contacts stopping on Xiaomi Redmi Note 12R. If you’re unaware about the procedure of removing all kinds of voicemails, you can proceed to make use of the following steps.
@@ -186,9 +180,6 @@ Some applications contain some unwanted advertisements and some elements of malw
 
 Now, check whether you’ve fought the battle with the problem or not.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
 
 ### 2.9 Reset to Factory Settings
@@ -201,16 +192,15 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 - You need to toggle on the option for performing the backup on your Google account.
 - Then, tap on “Reset” button and then tick mark the option for resetting your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Full Guide: How To Fix Connection Is Not Private on Xiaomi Redmi Note 12R
 
 Are you encountering the "your connection is not private" issue on your phone? We found many Android users have increasingly expressed their frustrations with this recurring problem while browsing on the internet.
@@ -267,18 +257,12 @@ This error code points to a discrepancy between your Xiaomi Redmi Note 12R's dat
 
 This is a more generic error message that indicates a problem with the website's SSL certificate without specifying the exact nature of the issue. It could indicate various issues, such as an expired certificate, a misconfiguration in the certificate chain, or other SSL-related problems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Part 3: How To Fix Your Connection Is Not Private on Android
 
 Encountering the **"your connection is not private" error on Android** can be a frustrating experience. Fortunately, there are various methods to address and fix this issue, depending on its underlying cause.
 
 In this section, we will explore some effective solutions to help you regain a secure and private connection.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Clear your cache
 
 When you use the internet, web browsers store information about your online activities in cached data and cookies to speed things up. However, having too much of this data can cause problems instead. It might even stop your browser from connecting securely.
@@ -289,16 +273,10 @@ So, [<u>clearing your browser cache and data </u>](https://drfone.wondershare.co
 - **Step 2:** Access the Menu (the three dots button) to open the Settings. Select Privacy and Security > Clear Browsing Data.
 - **Step 3:** Opt for the "All Time" option and click "Clear Data" to erase your cache.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Clear the browser's cache and data.](https://images.wondershare.com/drfone/article/2023/12/connection-private-android-2.jpg)
 
 After successfully clearing your browser cache and data, revisit the website to check if the problem persists.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Repair the Android system
 
 Addressing the **"your connection is not private" to fix on Android** involves examining both the Xiaomi Redmi Note 12R device and the website. If clearing browser data doesn't help, there might be an issue with your Android system. One solution is to use the [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) system repair tool to fix the issues safely.
@@ -311,10 +289,6 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![Open Dr.Fone System Repair tool.](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,322,863** people have downloaded it
@@ -356,6 +330,13 @@ The specific steps can vary based on your Android model, but the general approac
 
 ![Check and fix the Android's date and time.](https://images.wondershare.com/drfone/article/2023/12/connection-private-android-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 4: Perform factory reset
 
 If nothing else works, there might be malware on your phone causing trouble. It's crucial to eliminate this threat before further damage occurs. The recommended action is to [<u>perform a factory reset </u>](https://drfone.wondershare.com/reset-android/how-to-factory-reset-huawei-phone-when-locked.html) on your phone.
@@ -369,9 +350,6 @@ However, keep in mind that this process can result in data loss, so it's essenti
 
 Most of the time, you won't need to go to the extreme of a factory reset. The simpler solutions mentioned earlier should take care of the Security Certificate Error on your Android.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 By now, you should have a good grasp of the "Your Connection Is Not Private" problem on Android. This issue typically arises from complications with the SSL certificate of the website, designed to ensure a secure connection.
@@ -380,9 +358,6 @@ When you see the error message, it often comes with specific codes that indicate
 
 By prioritizing user safety and following the step-by-step approach in this guide, you can navigate and resolve this common internet browsing challenge on your Xiaomi Redmi Note 12Rs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Quick Fixes for Why Is My Xiaomi Redmi Note 12R Black and White
 
 **Why is My Xiaomi Redmi Note 12R in black and white?** This sudden shift in display colors can be perplexing and impact user experience. This issue affects various devices, including Xiaomi Redmi Note 12R and other Android models. The abrupt shift to monochrome can impact your daily use. It can make apps and content appear dull.
@@ -395,35 +370,32 @@ If you're asking **why is my Android phone in black and white**, then you're in 
 
 Discovering your Xiaomi Redmi Note 12R going monochrome can be annoying. The section below answers the question: **why did my Xiaomi Redmi Note 12R phone go black and white?** It involves a combination of software adjustments and careful troubleshooting. Follow the practical solutions below to restore vibrant colors to your device.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![phone display in black and white](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Accessibility Settings
 
 Accidental activation of accessibility settings may turn your display monochromatic. The "**Grayscale**" or "**Color Inversion**" option in the **Accessibility** or **Vision** section of your phone's settings might be enabled. It can cause a black-and-white display. Here's the solution:
 
 - **Step 1:** Open your phone's settings. Navigate to the **Accessibility** or **Vision** section.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![color inversion option turned on](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-03.jpg)
 
 - **Step 2:** Disable the **Grayscale** or **Color** **Inversion** option.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### App Conflicts
 
 Certain third-party apps can cause conflicts, leading to a [black-and-white display](https://drfone.wondershare.com/iphone-problems/iphone-13-black-screen.html). Newly installed apps might be the culprit, affecting your device's color settings. Some apps also have grayscale modes that can impact the overall display. Here's how to fix it:
@@ -437,9 +409,6 @@ System glitches or software bugs can trigger display issues. It can result in a 
 
 - **Step 1:** Go to your phone's settings. Check for software updates in the **Software** **update** or **System** **update** section.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![checking for system updates on android](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-04.jpg)
 
 - **Step 2:** Update your device if there is a software update available. Ensure your device is running the latest software version.
@@ -454,9 +423,6 @@ Battery-saving modes can also alter display settings to conserve energy. It can 
 
 - **Step 2:** Check and adjust battery-saving settings, including toggling power-saving modes on or off.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Hardware Issues
 
 In rare cases, [hardware issues](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html) may cause a black-and-white display. Physical damage, loose connectors, or problems with the display hardware can impact color reproduction. Identifying and addressing these hardware issues may be crucial for resolving the problem. Here's what you should do.
@@ -469,17 +435,10 @@ In rare cases, [hardware issues](https://drfone.wondershare.com/device-diagnosti
 
 Consider a reliable third-party tool if your phone persists in black and white despite troubleshooting attempts. Tools such as [Dr.Fone System Repair Android](https://drfone.wondershare.net/android-repair.html) offer advanced solutions for complex system issues. They ensure your phone regains its vibrant display without a hitch.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Part 2. Using a Dedicated Tool: Dr.Fone for Fixing Black and White Display Problems
 
 Dr.Fone is a reliable solution for addressing black-and-white display issues on Android devices. For a stress-free repair experience, follow these simple steps using Dr.Fone - System Repair (Android).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
@@ -500,37 +459,37 @@ Repair Android System Errors without Any Trouble.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3,601,336** people have downloaded it
 
 - **Step 2:** Provide accurate device information, including brand, name, model, country/region, and carrier details. Confirm the warning and click **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![dr.fone device details window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 3:** Follow the on-screen instructions and wait for the program to download the firmware. Once downloaded and verified, Dr.Fone automatically initiates the repair process on your Xiaomi Redmi Note 12R.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone downloading firmware window](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 4:** After a while, your Xiaomi Redmi Note 12R will have all system issues fixed. Click **Done** to complete the process or choose **Try** **again** if the problem persists, allowing you to repeat the steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![dr.fone done repairing window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 **Note**
 
 It's highly recommended to [back up your Android data](https://drfone.wondershare.com/backup/android-backup-software.html) before using Dr.Fone for repair.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### How Dr.Fone Can Help You Beyond Display Issues
 
 Beyond resolving black-and-white display problems, Dr.Fone serves as a comprehensive tool for all Android issues. The platform can enhance your device functionality.
@@ -561,16 +520,10 @@ Below are additional functionalities of Dr.Fone that support your device to keep
 - **Phone Backup**. The tool enables selective backup of Android data on a computer. It provides you with the flexibility to safeguard essential information. The selective backup feature ensures efficient use of storage and allows for easy restoration when needed.
 - **Screen Unlock Without Losing Data.**Fone offers a secure way to unlock the screen of Android devices without losing data. You can regain access to your devices without compromising valuable data, whether due to forgotten passwords, pattern locks, or PINs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Part 3. Tips for Maintaining Your Phone Display Brilliance
 
 Maintaining a vibrant phone display enhances user experience and ensures optimal visual clarity. Follow these tips to keep your phone's display at its best:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![maintaining your device health vector](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-12.jpg)
 
 **Adjust Brightness Mindfully**
@@ -619,7 +572,6 @@ The guide highlights the "**Why is My Xiaomi Redmi Note 12R black and white**" q
 
 The guide provided solutions for display issues and showcased the versatility of Dr.Fone System Repair Android. It's a holistic solution for users seeking a seamless and reliable Android experience, addressing diverse concerns with precision and efficiency.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -632,9 +584,26 @@ The guide provided solutions for display issues and showcased the versatility of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-zero-dollars-for-zero-limits-reviewing-apowersoft-recorder/"><u>[New] In 2024, Zero Dollars for Zero Limits - Reviewing Apowersoft Recorder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-streamline-your-fb-feeds-with-these-5-video-grabbers-for-2024/"><u>[New] Streamline Your FB Feeds with These 5 Video Grabbers for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-tis-the-tape-a-1992-rewind-at-goofys-cinema-for-2024/"><u>[Updated] 'Tis the Tape!' A 1992 Rewind at Goofy's Cinema for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unveiling-the-top-6-head-mount-options-for-dynamic-camera-use/"><u>[Updated] 2024 Approved Unveiling the Top 6 Head Mount Options for Dynamic Camera Use</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-infinix-smart-8-plus-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Smart 8 Plus? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-nokia-c12-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Nokia C12? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-writing-tips-crafting-better-chatgpt-prompts-for-the-fitness-community/"><u>Effective Writing Tips: Crafting Better ChatGPT Prompts for the Fitness Community</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-magic-v2-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Magic V2 Quickly | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oppo-a1-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Oppo A1 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-y36-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo Y36 FRP</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-smartphone-apps-the-best-for-gopro-editing-for-2024/"><u>Superior Smartphone Apps The Best for GoPro Editing for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-black-battery-compatibility-with-gopro-hero5/"><u>Ultimate Black Battery Compatibility with GoPro Hero5</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-x50-gt-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor X50 GT Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-itel-a05s-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Itel A05s Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

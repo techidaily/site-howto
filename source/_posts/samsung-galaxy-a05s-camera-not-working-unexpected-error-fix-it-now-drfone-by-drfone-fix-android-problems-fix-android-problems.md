@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy A05s Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-10-15T22:02:02.321Z
-updated: 2024-10-22T17:24:57.478Z
+date: 2024-10-24T17:36:24.816Z
+updated: 2024-10-28T17:36:58.229Z
 tags: 
   - problems
 categories:
@@ -86,6 +86,13 @@ Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### II.V: Clear The Photo Gallery App Cache
 
 The camera app is closely tied to the photo gallery app that comes baked in into Android OS. That is because photos that the camera app takes are stored in the photo gallery app. Consequently, if there were any issues in the photo gallery app, that could lead to the camera app not working on Android problem. Here’s how to clear the photo gallery app cache:
@@ -120,13 +127,6 @@ If this is the case, close all apps and let the phone cool down. You might even 
 
 You may want to tap your camera system (the lenses and surrounding area) gently to see if that gets the camera working. In case it did, this is indicative of a hardware issue, and you should get it checked at the service center at your earliest convenience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### II.IX: Fix Android Camera Not Working Issue In One Click (With Dr.Fone)
 
 Now, if the above fixes have not worked, you might want to repair your Android OS once before you make that appointment with the service centre. And, we have just the app to help you fix your camera not working on Android problem quickly.
@@ -139,13 +139,6 @@ Download Dr.Fone here.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
 ![wondershare drfone on windows](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -155,10 +148,10 @@ Step 2: Click System Repair module and then Android.
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: For now, don’t bother with the scenarios given and click Start to go to the next screen.
@@ -187,13 +180,6 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
@@ -213,6 +199,13 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.1 Open the Phone app in Safe Mode
 
 First and foremost, the thing that can let you get rid of this trouble is Safe Mode. It is a feature that will end any excessive background functioning of the Samsung Galaxy A05s device. For instance, your device will be able to run sans any third-party apps when in Safe mode. Since the important functions and the naïve apps will be running on the Samsung Galaxy A05s device, you will get to know if it’s really a software glitch or not by running the Phone app in Safe mode. And this is the first solution we would recommend you make use of when the Phone app has stopped. Here is how to enable Safe Mode.
@@ -231,6 +224,13 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 3. Now, click on "Storage" and choose "Clear Cache".
 
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.3 Update Google Play services
 
@@ -285,18 +285,24 @@ Click the "Start Download" button to download the tool on your computer, and the
 
 ![Phone app crashing - fix using a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Plug the Phone with PC**
 
 Take your original USB cord and then connect your Samsung Galaxy A05s to the computer. When the Samsung Galaxy A05s device is connected, click on "Android" from the two tabs > click "Start"
 
 ![Phone app crashing - connect phone to pc](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3: Enter the Details**
 
@@ -318,6 +324,13 @@ When you see the firmware has been downloaded, the issue will begin to get resol
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.7 Factory reset
 
 If none of the above methods worked for you, the last resort you are left with is a factory reset. This method will wipe everything from your device and make it function like normal. We also suggest you [make a backup of your data](https://drfone.wondershare.com/backup/android-backup-software.html) if it is important so as to prevent the loss. Here is how to do this to fix the crashing Phone app.
@@ -328,6 +341,13 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Strategies for Apps That Won't Download From Play Store On Samsung Galaxy A05s
@@ -337,13 +357,6 @@ The frustration of **apps not downloading in the Google Play Store** can annoy u
 The inconvenience can impact user trust and the overall perception of an app's reliability. Addressing these challenges is crucial to maintaining a satisfied user experience and ensuring the success of apps on the platform. Explore the article below to learn what to do when **apps not downloading from the Play Store** issue appears.
 
 ![downloading status on phone vector](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part I. 7 Usual Reasons Behind Apps Not Downloading in Google Play Store
 
@@ -374,6 +387,19 @@ Device settings or parental controls may impose restrictions on certain app down
 ### Incorrect Date and Time Settings
 
 Inaccurate date and time settings on the Samsung Galaxy A05s device can disrupt the Play Store's functionality. You'll face obstacles in downloading apps due to authentication errors or syncing issues. It can have a negative impact on the overall user experience.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Play Store Bugs and Glitches
 
@@ -464,19 +490,6 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Verify Google Account
 
 Authentication issues with your Google account can prevent app downloads. Confirm that your Google account is properly verified. Go to the Samsung Galaxy A05s device settings, select **Accounts**, and ensure your Google account is active and synced.
@@ -499,13 +512,6 @@ Device settings or parental controls might impose restrictions on certain app do
 
 Sometimes, a simple restart can resolve various issues. Power off your device, wait a few seconds and then power it back on. This can help refresh system processes and eliminate temporary glitches.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Ensuring a smooth app download experience demands attention to various factors. From connectivity to storage management, each step contributes to resolving download challenges. The careful review of date/time settings and download restrictions further enhances the process when you **cannot download from the Play Store**.
@@ -526,18 +532,17 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-revolutionize-your-play-with-top-tips-for-ps4-gameplay-recording/"><u>[Updated] 2024 Approved Revolutionize Your Play with Top Tips for PS4 Gameplay Recording</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-innovating-mukbang-content-with-fresh-creative-ideas/"><u>[Updated] In 2024, Innovating Mukbang Content with Fresh, Creative Ideas</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-preserving-sound-integrity-with-ffmpeg-extract/"><u>[Updated] Preserving Sound Integrity with FFmpeg Extract</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-infallible-steps-to-tiktok-bio-link-integration-without-error/"><u>2024 Approved Infallible Steps to TikTok Bio-Link Integration Without Error</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-zte-blade-a73-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your ZTE Blade A73 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-12plus-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme 12+ 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-a79-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo A79 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-optimize-your-virtual-folder-configuration-for-maximum-seo-benefit/"><u>How to Optimize Your Virtual Folder Configuration for Maximum SEO Benefit</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-safaris-picture-in-picture-for-mobiledesktop/"><u>In 2024, Navigating Safari’s Picture in Picture for Mobile/Desktop</u></a></li>
-<li><a href="https://extra-information.techidaily.com/simple-guide-turning-favorite-tiktok-beats-into-cellphone-signals/"><u>Simple Guide Turning Favorite TikTok Beats Into Cellphone Signals</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-itel-p55-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Itel P55 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-learn-the-tricks-of-the-trade-for-flipping-films-in-vlc/"><u>[New] In 2024, Learn the Tricks of the Trade for Flipping Films in VLC</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-integrating-video-conferencing-within-gmail-ecosystem-with-zoom-for-2024/"><u>[New] Integrating Video Conferencing Within Gmail Ecosystem with Zoom for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-complete-guide-to-recording-flawless-zoom-based-podcasts-for-2024/"><u>[New] The Complete Guide to Recording Flawless Zoom-Based Podcasts for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mastering-srt-output-from-adobe-premiere-for-2024/"><u>[Updated] Mastering SRT Output From Adobe Premiere for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-compelling-arguments-for-enterprises-dismissing-gpt/"><u>5 Compelling Arguments for Enterprises Dismissing GPT</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-blues-clearing-up-error-0x0000001e-on-your-computer/"><u>Blue Screen Blues: Clearing Up Error 0X0000001E on Your Computer</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-s23plus-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy S23+ Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-lava-blaze-2-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Lava Blaze 2 Pro?</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Smart 8 Plus | Dr.fone</u></a></li>
 </ul></div>
 

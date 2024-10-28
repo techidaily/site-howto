@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Xiaomi Redmi 12 5G Safely | Dr.fone
-date: 2024-07-30T13:25:24.121Z
-updated: 2024-07-31T13:25:24.121Z
+date: 2024-10-25T16:42:32.986Z
+updated: 2024-10-28T17:48:35.729Z
 tags: 
   - problems
 categories:
@@ -27,14 +27,8 @@ Given below are eight techniques to flash your Xiaomi Redmi 12 5G safely, depend
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ZqS8c3T65WI"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Part 1: Can a Dead Phone Be Flashed?
 
 Flashing a dead Android phone might be skeptical for many users who have been in such a situation. Although it is possible to flash a dead Android phone, it is essential to be aware of the reasons that lead you into such a situation. Before a remedy, diagnosing the problem is a necessity for retaining the Xiaomi Redmi 12 5G device.
@@ -45,11 +39,6 @@ From battery issues to physical damage to the Xiaomi Redmi 12 5G device, there c
 
 While you are worried about how to flash Xiaomi Redmi 12 5G instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Xiaomi Redmi 12 5G logo.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One-click solution to flash Xiaomi Redmi 12 5G
@@ -61,6 +50,13 @@ One-click solution to flash Xiaomi Redmi 12 5G
 - It is one of its kind and the first one-click Android repair software on the market.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step-by-step Tutorial
 
@@ -74,11 +70,15 @@ Step 1: Once you have downloaded and installed Dr.Fone, launch it. From the main
 
 ![how to flash Dead Android phone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Click ‘Android Repair’ from the available options, and then press the ‘Start’ button to fix the Dead Android phone by flashing it.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![android repair to flash dead phone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: On the Xiaomi Redmi 12 5G device information screen, pick the appropriate device brand, name, model, and other details followed by tapping the ‘Next’ button.
@@ -95,16 +95,10 @@ Step 1: It is essential to boot your Xiaomi Redmi 12 5G in Download mode before 
 
 - In the absence of a ‘Home’ button: Switch off the Android device and hold the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons for 5 to 10 seconds, then release them. Hit the ‘Volume Up’ button for entering the ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![flash android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2: Press the ‘Next’ button for initiating firmware download.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![flashing samsung galaxy](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
@@ -113,9 +107,6 @@ Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to flash Xiaomi Redmi 12 5G dead phone with Odin?
 
 In this segment, we will learn how to fix the dead Android phone, i.e., Xiaomi Redmi 12 5G phones using Odin software. Odin is software used internally by Xiaomi Redmi 12 5G to generally unblock devices and perform a more utility-based job, namely, flashing new firmware in place of the old one. There are different variants available, so choose the one which is supported by your Galaxy phone. Here is a step-by-step explanation of how to flash dead Android phone (Xiaomi Redmi 12 5G) using Odin software.
@@ -124,14 +115,18 @@ Step 1: Install the driver software on the computer. You can find the best drive
 
 Step 2: Now download suitable firmware for your device in the form of a zip folder that you can open and store on your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download suitable firmware](https://images.wondershare.com/drfone/article/2017/07/14991894766699.jpg)
 
 Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file types recognized by Odin.
 
 ![firmware zip file](https://images.wondershare.com/drfone/article/2017/07/14991896515887.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![firmware md5 file](https://images.wondershare.com/drfone/article/2017/07/14991896708947.jpg)
 
@@ -143,9 +138,6 @@ Step 3: In this step, download the latest version of Odin on your PC and move it
 
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![boot in download mode](https://images.wondershare.com/drfone/article/2017/07/14991897353612.jpg)
 
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
@@ -158,16 +150,10 @@ Step 6: Now, you may use a USB to connect your Xiaomi Redmi 12 5G to the PC. Odi
 
 Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA” or “AP” on the Odin window and then click “Start”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![open md5 file](https://images.wondershare.com/drfone/article/2017/07/14991898009725.jpg)
 
 Finally, once the flashing process is complete, your Xiaomi Redmi 12 5G phone will reboot and start normally, and you may see a “Pass” or “Reset” message on the Odin window on the PC.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to flash MTK Android dead phone with SP Flash tool?
 
 SP Flash tool, also known as SmartPhone Flash tool is a popular freeware tool used to flash custom ROM or firmware in MTK Android phones. It is a very successful tool and is extremely easy to use.
@@ -182,9 +168,6 @@ Step 2: Once done, you should download the SP Flash tool and extract it on your 
 
 Step 3: Now, on the SP Flash tool window, click on “Download” and select “Scatter-loading”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![scatter loading](https://images.wondershare.com/drfone/article/2017/07/14991898892877.jpg)
 
 Step 4: The last step would be to locate the file downloaded by you and click “Open” and then finally, select “Download” on the SP Flash tool window.
@@ -207,10 +190,6 @@ First, download and install the Xiaomi Redmi 12 5G PC Suite driver on your PC. T
 
 Now, on the toolbar, click “Tools” and select “Data Package Download” from the drop-down list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![data package download](https://images.wondershare.com/drfone/article/2017/07/14991899684185.jpg)
 
 Then move to download the firmware for your dead Xiaomi Redmi 12 5G  and save it in a new Folder. Once done, go back to the Phoenix tool window and click on “File” and select “Open Product”.
@@ -225,10 +204,14 @@ After this, click on “Flashing” and select “Firmware update” and then br
 
 Then move on to select “Dead Phone USB Flashing” from the Firmware Update Box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dead phone usb flashing](https://images.wondershare.com/drfone/article/2017/07/14991900551025.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lastly, just click on “Refurbish” and connect your phone to the PC using a USB cable.
 
@@ -246,28 +229,26 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Part 7: How to flash a dead Android phone by checking screen faulty
 
 The screen of your Xiaomi Redmi 12 5G may be faulty, due to which it is not launching. While seeking the right way of **how to fix a dead Android phone,** you can force restart your phone using the Volume buttons according to your device model.
 
 If the Android vibrates on restarting and the screen does not lighten up, the problem can be directed to a hardware fault. The screen is broken and needs physical assistance to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
 
 ## Part 8: How to fix a dead Android phone by changing the battery
 
 Another solution that can help you fix the dead Android phone is changing its battery. The battery of an Android device can last up to 3 years. When its capacity drops to a bare minimum, it is best to change the battery of your Android. Upon trying to restart your Xiaomi Redmi 12 5G, if it does not, you might need to replace your battery. All Android phone batteries are removable, which should be regulated with proper supervision.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 9: How to repair dead Android phone by contacting official support
 
@@ -281,11 +262,6 @@ It has been observed that Wondershare Dr.Fone – System Repair (Android) assist
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi 12 5G
 
 Google Play Store is a necessary and bundled service of any Android device. This app is required to download or even run any apps. So, getting an error like Play store not working or Play Store crashing is very unfortunate and a matter of a headache. Here we tried to put the best solution to overcome this issue. Keep reading this article for all the 11 best solutions.
@@ -295,8 +271,12 @@ Google Play Store is a necessary and bundled service of any Android device. This
 If you search on the internet, you may find various tricks dealing with Google Play Store not working issue. However, either to try each of them or choose several to follow would certainly cost a lot of time. What's more, we are not sure whether they will really work. Therefore, we would recommend you with a more effective and fast way, that is to use [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), a dedicated Android repair tool to fix Google Play Store, not working issues just in one click.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 A most effective method to fix Google Play Store not working
@@ -316,23 +296,14 @@ A most effective method to fix Google Play Store not working
 
 1. Select the option "System Repair". In the new interface, click on the "Android Repair" tab.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix google play store not working by selecting the repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 1. Start fixing Google Play Store not working by clicking "Start". Select and confirm the correct model details as instructed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![fix google play store not working in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 1. Activate the Download mode from your Xiaomi Redmi 12 5G.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![fix google play store not working in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 1. After entering the Download mode, the Dr.Fone tool starts to download the correct firmware to your Android.
@@ -341,21 +312,12 @@ A most effective method to fix Google Play Store not working
 
 1. The downloaded firmware will be loaded and flashed to your Xiaomi Redmi 12 5G to fix the Google Play Store not working issue.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix google play store stopping by flashing firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 1. Wait until the Android repair process is complete. Start your Android and Google Play Store, you can then find that the Google Play Store not working issue no longer exists.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google play store stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Video tutorial to fix Google Play Store not working
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -372,9 +334,6 @@ Step 1 – First, go to the “Settings” of your device. Find ‘Date and time
 
 Step 2 – Now you can see several options. Select “Automatic date and time”. This should override the wrong date and time your device have. Else, deselect the tick beside that option and select the date and time manually.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select “Automatic date and time”](https://images.wondershare.com/drfone/article/2017/06/14985032658893.jpg)
 
 Step 3 – Now, go to the Play store and try to connect again. This should be working without any problem now.
@@ -395,10 +354,6 @@ Step 4 – Now, you can find a screen like below. Tap on “Clear cache” to re
 
 Now, again try to open Google Play Store and you may successfully overcome the Play Store not working issue. If not, check the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### 3\. Reset Play store by Clear data
 
 If the above solution is not working for you, you might try this option instead. This step will erase all the app data, settings, etc so that it can be set up a fresh one. This will also fix the Google Play store not working issue. For this solution, use the following method step by step.
@@ -409,9 +364,6 @@ Step 2 – Now find “Google Play Store” and open it.
 
 Step 3 – Now, instead of tapping “Clear cache”, tap on “Clear data”. This will erase all the data and settings from the Google Play store.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on “Clear data”](https://images.wondershare.com/drfone/article/2017/06/14985033317238.jpg)
 
 After this, open “Google Play Store” and now your problem might be solved now.
@@ -428,9 +380,6 @@ Step 2 – Upon opening the option, select “Google”. Now you can see your Gm
 
 Step 3 – Now click on the top right side three dots or “more” option. Here you can find the “Remove account” option. Select it to remove the Google Account from your Mobile.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![“more”](https://images.wondershare.com/drfone/article/2017/06/14985033797108.jpg)
 
 Now, go back and try to open Google Play Store again. This should work now and enter your Google ID and password again to continue. If it’s still not working, move to the next solution.
@@ -465,6 +414,13 @@ Step 3 – Now, tap on “Clear cache”. And you are done.
 
 ![tap on “Clear cache”](https://images.wondershare.com/drfone/article/2017/06/14985037595737.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now go back and try to open Google Play store again. This might solve the Google Play Store has stopped the problem by now. If not, check the next solution.
 
 ### 7\. Disable the VPN
@@ -477,9 +433,6 @@ Step 2 – Under the “networks”, click on “More”.
 
 Step 3 – Here you can find “VPN”.  Tap on it and turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![find “VPN”](https://images.wondershare.com/drfone/article/2017/06/14985037252898.jpg)
 
 Now, again go back and try to open the Google Play Store. This may solve your problem now. If not, check the next solution.
@@ -494,9 +447,6 @@ Step 2 – Now find “Google Play Store” and click on it.
 
 Step 3 – Here click on “Force Stop”. This allows the Google Play Store to stop.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![click on “Force Stop”](https://images.wondershare.com/drfone/article/2017/06/14985037034838.jpg)
 
 Now, try to open Google Play store again and this time the service is being restarted and might work properly. If not, try the next solution.
@@ -509,16 +459,10 @@ Step 1 – Long press the “Power” button on your device.
 
 Step 2 – Now, click on ‘Reboot’ or ‘Restart’ option. Your device will restart in some time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![click on ‘Reboot’](https://images.wondershare.com/drfone/article/2017/06/14985035964108.jpg)
 
 After restarting, try to open the Google Play Store again and this time you should succeed. If any case, it's not opening, try the last (but not the least) method by hard reset your Android.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 10\. Hard reset your device
 
 If you have done with all of the above solutions and still Play Store crashing, and you are aggressive to get it, then only try this method. Using this method will delete all the data of your device. So take a backup of the whole. Follow the step by step instruction below.
@@ -529,9 +473,6 @@ Step 2 – Click on it. And then Click on the “Factory data reset” option.
 
 Step 3 – Now confirm your action and tap on the “Reset device”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on “Reset device”](https://images.wondershare.com/drfone/article/2017/06/14985039036497.jpg)
 
 This will take a while to reset your device completely. After completion, start the Google Play Store and set up as a new device.
@@ -544,9 +485,6 @@ The above methods are the best 11 among all the solutions you can get for your P
 
 Screenshots can be misused to steal money or pirate copyrighted content. By prohibiting screenshots, apps and websites can help to protect your data and privacy. If you want to learn more, keep reading. This article will explain why apps and websites prevent screenshot capture and why it’s important for security. We’ll also give you tips on how to take photos of apps and websites that don’t let you take screenshots.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Can’t Take Screenshots Due to Security Policy on Android? Here’s Why
 
 Why can’t you take a screenshot of something on your phone and get the error message that says, “**Can’t take screenshot due to security policy**”? Apps and websites turn off or remove the screenshot feature for a variety of reasons, including:
@@ -609,9 +547,6 @@ If you are using this Android device, you can enable the screen capture feature 
 
 - **Step 2:** Choose **Special access** > **All files access**.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android apps special access settings](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-05.jpg)
 
 - **Step 3:** Enable **Xiaomi Redmi 12 5G capture**.
@@ -626,16 +561,10 @@ Apps and websites may prohibit screenshots in incognito mode to protect your pri
 
 - **Step 1:** Open Chrome on your Xiaomi Redmi 12 5G and type “chrome://flags” in the address bar.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chrome experimental flags](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-07.jpg)
 
 - **Step 2:** Search for Incognito Screenshot and choose **Enabled** from the drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![incognito screenshot enabled](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-08.jpg)
 
 - **Step 3:** Tap **Relaunch** on the lower right corner of the screen.
@@ -646,9 +575,6 @@ Use Google Assistant
 
 With Google Assistant, taking screenshots on your Xiaomi Redmi 12 5G is now easier than ever. Just say, “Hey, Google, take a screenshot,” Google Assistant will capture the screen and save it to your gallery.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google assistant command](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-09.jpg)
 
 Use a Third-Party App To Take Screenshots
@@ -695,9 +621,6 @@ There are a few ways to bypass screenshot restrictions on Android apps and websi
 
 You can use a third-party tool like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) without rooting your device. It is easy to use and supports many Android smartphones. You can try Dr.Fone for free to test if it supports your device and can fix the underlying system issues.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. Dr.Fone: A Comprehensive Solution for Fixing Android System Issues
 
 Dr.Fone’s System Repair tool for Android cannot bypass the security apps of banking apps and video streaming apps like Netflix. This is because these apps use sophisticated security measures to protect their users’ data.
@@ -712,9 +635,6 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 1:** Once you have downloaded Dr.Fone, install it and launch it on your desktop. Then, connect your Xiaomi Redmi 12 5G to your desktop using a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,567,199** people have downloaded it
@@ -725,9 +645,6 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 3:** Click **Start** on the new window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone system repair solutions](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 4:** Select an option from the **Name**, **Model**, **Country**, and **Carrier** in the drop-down lists. Next, select the checkbox to agree with the warning, then click **Next** in the bottom right corner.
@@ -736,9 +653,6 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 5:** Follow the in-app instructions to put your Xiaomi Redmi 12 5G on Download mode, then click **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![put android on download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - **Step 6:** Wait while the firmware automatically downloads.
@@ -751,16 +665,10 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 8:** Read the dialogue box note, enter the code in the input box, and click **Confirm**.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter code in the dialogue box](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 9:** Keep your smartphone connected and avoid using it while Dr.Fone is repairing it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![repairing android device in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 - **Step 10:** If your device has started properly, click **Done** to close this app. Otherwise, click **Try again**.
@@ -768,8 +676,12 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 ![android system issue repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 You can fix the “**Can’t take screenshot due to security policy**” error on Android in different ways. But it depends on the cause of the error. If an app is causing the error, you can try two things. First, remove the app’s screenshot restriction. Second, download a different screenshot app or a different device to take screenshots.
@@ -777,7 +689,6 @@ You can fix the “**Can’t take screenshot due to security policy**” error o
 Although there are ways to bypass the “**Can’t take screenshot due to security policy**” error message, it’s crucial to know why screenshots are not allowed. Many apps and websites do not permit it to protect sensitive information, prevent piracy, and follow regulations. They also do it to prevent fraud, protect user privacy, and safeguard intellectual property.
 
 If you think the issue is with your Android system, or your device becomes bricked after trying other methods, experiencing app crashes, or otherwise malfunctioning, try using the Dr.Fone System Repair tool. It is worth trying and can fix most Android system issues in a few minutes.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -791,9 +702,22 @@ If you think the issue is with your Android system, or your device becomes brick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-quick-and-reliable-mp4-file-capture-tool/"><u>[New] 2024 Approved Quick & Reliable MP4 File Capture Tool</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unleash-potential-mastering-minecraft-recordings-with-macos-technology/"><u>[Updated] 2024 Approved Unleash Potential Mastering Minecraft Recordings with macOS Technology</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-carryminati-unmasked-the-monetary-milestones/"><u>[Updated] CarryMinati Unmasked The Monetary Milestones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-grandest-picture-tweaker-suite/"><u>[Updated] Grandest Picture Tweaker Suite</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fcps-ultimate-editing-aid-best-10-plug-ins/"><u>2024 Approved FCP's Ultimate Editing Aid Best 10 Plug-Ins</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-note-30-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Note 30 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-xiaomi-redmi-k70-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Xiaomi Redmi K70 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-15-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 15?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/smart-guide-top-picks-for-6-fb-lite-videos-for-2024/"><u>Smart Guide Top Picks for 6 FB Lite Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-poco-m6-pro-4g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Poco M6 Pro 4G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

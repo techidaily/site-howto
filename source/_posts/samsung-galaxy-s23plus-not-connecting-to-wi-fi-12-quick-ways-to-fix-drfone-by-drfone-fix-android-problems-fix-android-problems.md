@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy S23+ Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone
-date: 2024-10-19T19:08:21.830Z
-updated: 2024-10-22T21:53:53.625Z
+date: 2024-10-24T16:36:05.409Z
+updated: 2024-10-28T19:15:48.114Z
 tags: 
   - problems
 categories:
@@ -61,6 +61,13 @@ The best way to do this is to boot your device in Safe Mode. The process for doi
 
 If your device connects to the internet while in Safe Mode, you’ll know you have a problem with an app or service that’s running on your device. If this is the case, you’ll need to go through your apps and delete them and then reinstall them one at a time until you find the app or service that is causing your internet problems.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5. Check the Android Wi-Fi adapter
 
 ![wifi not working on android - check adapter](https://images.wondershare.com/drfone/article/2019/04/android-wifi-adapter.jpeg)
@@ -72,19 +79,6 @@ You need to check both of these to make sure your connection is working properly
 1. If using an Android Wi-Fi adapter, make sure all the Samsung Galaxy S23+ device drivers are up to date, and if you’re using an app, make sure the app is updated, and all the settings allow an internet connection
 2. If you’re using a router adapter, make sure it’s set up properly, and your Samsung Galaxy S23+ is connected to the adapter using the correct passwords. Try connecting another device to see if the internet connection is working on there
 3. Whichever method you’re using, try disconnecting your Samsung Galaxy S23+ and forgetting the network, and then reconnecting and entering the right password to refresh the connection
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6. Check SSID and IP address on Android
 
@@ -137,27 +131,20 @@ Once installed, connect your Samsung Galaxy S23+ to your computer using a USB ca
 
 ![wifi not working on android - confirm the repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step Five** Now put your phone into Download Mode by following the on-screen instructions, so your device is ready for the repair process. The method for getting your phone into Download Mode will vary depending on your device, so make sure you’re following the right instructions.
 
 ![wifi not working on android - boot in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step Six** Once the software has detected your device in Download Mode, it will automatically begin the repair process. You need to make sure your device stays connected throughout this time, and your computer stays on.
 
 ![wifi not working on android - begin repairing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The whole process is automatic, so you won’t need to do anything until it’s finished. Once completed, you can disconnect your phone and start connecting it to the internet as normal!
 
@@ -179,6 +166,13 @@ Of course, if you’re already using another phone on your Wi-Fi network, you kn
 4. Open a web browser on the phone and try loading a web page
 5. If the page loads, you know the Wi-Fi network isn’t the problem
 6. If the page doesn’t load, you know you’ve got a problem with your Wi-Fi network
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 9. Change the password of the Wi-Fi
 
@@ -206,13 +200,6 @@ Here’s how you can do this easily on your Samsung Galaxy S23+;
 4. Tap the Reset Network option
 5. If you need to, enter the PIN number or passcode for the Android device, and the Samsung Galaxy S23+ device will confirm the reset has taken place
 6. Reconnect your Samsung Galaxy S23+ to your Wi-Fi network for the changes to take effect
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 11. Clear partition cache in recovery mode
 
@@ -290,10 +277,10 @@ Then plug in with your device to the computer. When your devic is detected, clic
 ![connect android phone to computer](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3. Select the file types to backup
@@ -301,6 +288,13 @@ Then plug in with your device to the computer. When your devic is detected, clic
 The program will display all the file types it can support to backup. Just select the ones you would like to backup and hit Backup.
 
 ![select the data types to backup](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4. Start backing up your device to the computer
 
@@ -315,6 +309,13 @@ Note: You can use the feature of "Restore From Backup" to restore the backup fil
 From the above parts, you are well aware about what is factory mode. As we discussed, this mode fixes most troubles with Android devices.
 
 But for situations when your Samsung Galaxy S23+ gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on Samsung Galaxy S23+ logo or factory mode or blue screen of death with a single click.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -339,13 +340,6 @@ Step 1: Installation completion needs to be followed by running Dr.Fone on your 
 Step 2: Select the ‘Android Repair’ option from the list to fix Android stuck in factory modeissue. Hit the ‘Start’ button soon after.
 
 ![start fixing Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Select Android device details on the Samsung Galaxy S23+ device information window, followed by tapping the ‘Next’ button.
 
@@ -491,6 +485,13 @@ Step 3: Agree with the conditions and hit the Next button. The software will dow
 
 It won’t take long, and your Samsung Galaxy S23+ will be repaired. Now you will be able to receive and send text messages without any hassle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Remove and Insert the SIM
 
 The easiest thing that you can try if your Samsung Galaxy S23+ is not receiving any text messages is because the SIM is not inserted right. If your SIM card is inserted wrong, then it is obvious you can't receive text messages on Android. Simply take out the SIM card, see how it must be inserted, and do it correctly. Once the SIM is inserted in the right way, you will receive the pending text messages immediately unless there is another issue preventing it.
@@ -523,13 +524,6 @@ Step 2: Click on the Clear Cache button and wait as the Samsung Galaxy S23+ devi
 
 Once the cache is cleared, you can also clear the data if you want to and you’ll instantly receive the text messages on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 7: Delete Useless Messages to Free Up Space
 
 Sometimes, if you are not receiving text messages on Samsung Galaxy S23+, it means that you need to clean up the clutter of useless messages from your phone and SIM both. The phone messages can be deleted directly from your phone. But the SIM card messages needed to be deleted separately. The SIM cards don’t have enough memory to hold plenty of messages. Therefore, once the storage is full, you will stop receiving messages entirely.
@@ -540,18 +534,18 @@ Step 1: Open the messages app and open settings. Look for an option that says �
 
 Step 2: There, you will see the existing messages on the SIM. You can either delete all the messages or perform a selective deletion to free up space.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 8: Try a Third-party Messaging App
 
 If you can’t receive messages on your default app, then you can try installing a third-party messaging app. Nowadays, most people use social media messaging apps like WhatsApp, Skype, etc. for messaging. So, if somehow, the Android is not receiving texts, then the new apps can help you to send and receive messages with a non-native network.
 
 _Further Reading: [15 Best Free Chat Apps in 2022. Chat Now!](https://drfone.wondershare.com/topsoftware/best-free-chat-apps.html)_
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 9: Ensure your Phone is Fully Charged
 
@@ -589,18 +583,22 @@ Now you know several methods that can work if the Android messaging app is not w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-free-pc-screen-capture-tools-a-comprehensively-assessed-list/"><u>[Updated] 2024 Approved Free PC Screen Capture Tools - A Comprehensively Assessed List</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-cinematic-crafts-win8/"><u>[Updated] In 2024, Cinematic Crafts Win8</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfect-pixels-in-a-minute-quick-fixes-with-studio-editor/"><u>2024 Approved Perfect Pixels in a Minute Quick Fixes with Studio Editor</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/evaluating-the-significance-of-audio-device-isolation-in-windows/"><u>Evaluating the Significance of Audio Device Isolation in Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-poco-x5-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Poco X5 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-trending-tiktoks-of-tomorrow/"><u>In 2024, Trending TikToks of Tomorrow</u></a></li>
-<li><a href="https://win-studio.techidaily.com/no-itunes-needed-easy-methods-for-shifting-images-from-pc-straight-to-iphone/"><u>No iTunes Needed: Easy Methods for Shifting Images From PC Straight to iPhone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-11-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 11 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-asus-rog-phone-7-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Asus ROG Phone 7 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-learn-how-to-mute-instagram-recommendations/"><u>[New] 2024 Approved Learn How to Mute Instagram Recommendations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-getting-started-guide-to-instagrams-live-feature-for-2024/"><u>[New] Getting Started Guide to Instagram's Live Feature for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-record-audio-from-youtube/"><u>[Updated] How to Record Audio From YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamline-your-youtube-experience-manage-video-comments/"><u>[Updated] Streamline Your YouTube Experience Manage Video Comments</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-reno-8t-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo Reno 8T 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-lava-blaze-2-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Lava Blaze 2 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-blistering-pace-with-bamboo-labs-a1-bed-slinger-coming-soon-december-14th/"><u>Experience Blistering Pace with Bamboo Lab's A1 Bed Slinger - Coming Soon, December 14Th</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-engaging-youtube-videos-using-finalcut-pro-expertise/"><u>In 2024, Crafting Engaging YouTube Videos Using FinalCut Pro Expertise</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-x90s-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo X90S Phone that is Locked?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-nokia-130-music-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Nokia 130 Music? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/wiederherstellung-von-daten-auf-einer-externen-seagate-festplatte-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Daten Auf Einer Externen Seagate-Festplatte: Schritt-Für-Schritt-Anleitung</u></a></li>
 </ul></div>
 

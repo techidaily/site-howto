@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Realme GT 5 Pro Step-by-Step Solutions | Dr.fone
-date: 2024-10-19T20:37:12.388Z
-updated: 2024-10-22T16:15:42.167Z
+date: 2024-10-23T18:08:27.427Z
+updated: 2024-10-28T17:49:31.369Z
 tags: 
   - problems
 categories:
@@ -31,6 +31,13 @@ Before proceeding with troubleshooting the **missing app icon on your Android** 
 ![Check if the missing app is installed](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-1.jpg)
 
 Now, see whether you can find the **app icon that disappeared on your Android.** If you can’t find it, it means the app has been accidentally deleted, and you can install it back on your device. However, if it’s confirmed to be installed on your Android but remains missing from your home screen, you can continue the following practice.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How To Find the Missing App Icon on Android
 
@@ -151,6 +158,19 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 - Data crashes can be another reason why this error shows up.
 - Infection through malware and virus on your phone is also included when the Phone app might crash.
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
 ### 2.1 Open the Phone app in Safe Mode
@@ -171,13 +191,6 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 3. Now, click on "Storage" and choose "Clear Cache".
 
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.3 Update Google Play services
 
@@ -211,13 +224,6 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -265,6 +271,13 @@ When you see the firmware has been downloaded, the issue will begin to get resol
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.7 Factory reset
 
 If none of the above methods worked for you, the last resort you are left with is a factory reset. This method will wipe everything from your device and make it function like normal. We also suggest you [make a backup of your data](https://drfone.wondershare.com/backup/android-backup-software.html) if it is important so as to prevent the loss. Here is how to do this to fix the crashing Phone app.
@@ -293,6 +306,13 @@ The first thing you can do to fix Gmail not responding issue is to clear the cac
 
     ![gmail not working android - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Now, from the apps list, search “Gmail” and tap on it.
 
     ![gmail not working android - search gmail](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-2.jpg)
@@ -304,19 +324,6 @@ The first thing you can do to fix Gmail not responding issue is to clear the cac
 ### Restart the Realme GT 5 Pro device
 
 Restarting the Realme GT 5 Pro device in the first place simply resolves many problems and so in the instance when Gmail keeps stopping. Simply long press the power button of your device and restart the Realme GT 5 Pro device. See of the problem gets vanished or not.
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Factory Reset the Realme GT 5 Pro device
 
@@ -353,13 +360,6 @@ When still the Gmail not working issue persists and you can’t sync, make sure 
 
 ![Gmail crashing on Android - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Restart the Realme GT 5 Pro device
 
 Again, restarting can also be helpful in this situation. When you boot the Realme GT 5 Pro device again, check if your Gmail can sync or not.
@@ -368,16 +368,16 @@ Again, restarting can also be helpful in this situation. When you boot the Realm
 
 In case you are using the Gmail over your web browser and it has tested your patience in loading, here are the solutions that could prove to be fruitful for you. Please check these out.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Ensure to Use Gmail Supported Browser
 
 First of all, you need to make sure that the browser you are using works with Gmail or not. Gmail can smoothly perform in Google Chrome, Firefox, Safari, Internet Explorer and Microsoft Edge. However, the browsers should be updated. So, please make sure that these browsers are running on the latest versions. Moreover, in case you use Chromebook, don’t forget to update the operating system in order to let it support Gmail.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clear Cache of web browser
 
@@ -387,29 +387,22 @@ If you tried the above method but to no avail, try to clear the cache and cookie
 
  If not the above one, try this tip. It encourages you to check your browser extensions. Perhaps these are interfering with the Gmail and due to this conflict, Gmail won’t load. You can either turn off these extensions and plug-ins temporarily or make use of the incognito mode of the browser where there are no such things like extensions and plug-ins.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Problem 4: Gmail can’t send or receive
 
 Gmail also gives you problem in sending or receive mails and messages. And to troubleshoot such issue, following are the solutions mentioned.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Check the Latest Version of Gmail
 
 This issue is likely to emerge when you are using an outdated version of Gmail. And therefore, the first solution says you to check if the Gmail update is available. You can go to the Play Store and from the “My apps & games” option, you can see if Gmail needs to be updated or not.
 
 ![Gmail crashing on Android - check version](https://images.wondershare.com/drfone/article/2019/04/check-update-gmail.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Verify Internet Connection
 
@@ -423,6 +416,13 @@ If still Gmail keeps stopping you to go ahead, make sure to once sign out from i
 
     ![Gmail crashing on Android - open gmail](https://images.wondershare.com/drfone/article/2019/04/remove-account-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Now, tap on the account you are working with. Tap on “REMOVE ACCOUNT” thereafter. After this, you can again sign in and then check if the problem is gone or not.
 
 ![Gmail crashing on Android - remove account](https://images.wondershare.com/drfone/article/2019/04/remove-account-2.jpg)
@@ -430,13 +430,6 @@ If still Gmail keeps stopping you to go ahead, make sure to once sign out from i
 ## Problem 5: Stuck in sending
 
 Now, here is another annoying problem that doesn’t let Gmail working on Android properly. This problem addresses the situation where users send a mail but it gets stuck on sending. If this is the problem that you are going through, the following solutions will help you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Try Alternative Gmail Address
 
@@ -459,6 +452,19 @@ Large attachments can also be the reason for this issue. We would here like to s
 ## Problem 6: “Account not synced” issue
 
 Many times, the users get the error that says “Account not synced” while they try to work with Gmail. And this is the 6<sup>th</sup> problem we are introducing. The ways mentioned below will assist to get out of the trouble.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Make Space in the Phone
 
@@ -525,20 +531,17 @@ Fix all Gmail issues caused by Android system:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-exploring-screen-capture-with-apowersoft-no-cost-involved-in-2024/"><u>[New] Exploring Screen Capture with Apowersoft, No Cost Involved, In 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-top-tier-android-video-and-image-recording-tools-reviewed/"><u>[New] In 2024, Top-Tier Android Video & Image Recording Tools Reviewed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-professional-perception-pioneering-hdr-art-with-photoshop/"><u>[New] Professional Perception Pioneering HDR Art with PhotoShop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-trailblazers-in-auditory-and-visual-creation-list/"><u>[New] Trailblazers in Auditory & Visual Creation List</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-civi-3-disney-100th-anniversary-edition-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Civi 3 Disney 100th Anniversary Edition System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-infinix-smart-8-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Smart 8 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-tecno-pova-5-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Pova 5 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/fixing-issues-with-sccm-pxe-boot-failure-solutions-uncovered/"><u>Fixing Issues with SCCM PXE Boot Failure - Solutions Uncovered</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-ai-driven-verse-creation-in-book-formations/"><u>Introducing AI-Driven Verse Creation in Book Formations</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-6s-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 6s</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y36i-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y36i Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-top-strategies-for-finding-and-using-a-lost-iphone-x/"><u>[New] In 2024, Top Strategies for Finding & Using a Lost iPhone X</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-driving-force-gt-wheel-simulator-downloads-for-pc-windows-7-10-and-11/"><u>Free Logitech Driving Force GT Wheel Simulator Downloads for PC - Windows 7, 10 & 11</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-nubia-red-magic-9-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nubia Red Magic 9 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-6-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 6 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile-for-2024/"><u>The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed/"><u>Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed</u></a></li>
 </ul></div>
 

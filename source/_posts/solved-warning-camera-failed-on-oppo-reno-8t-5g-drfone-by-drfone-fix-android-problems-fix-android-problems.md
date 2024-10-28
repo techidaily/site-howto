@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Oppo Reno 8T 5G | Dr.fone
-date: 2024-10-17T20:28:28.122Z
-updated: 2024-10-22T19:56:59.349Z
+date: 2024-10-26T17:41:32.090Z
+updated: 2024-10-28T16:30:11.768Z
 tags: 
   - problems
 categories:
@@ -87,16 +87,16 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 
 ![camera app](https://images.wondershare.com/drfone/article/2017/07/14997065904511.jpg "camera app")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
 ![clear data](https://images.wondershare.com/drfone/article/2017/07/14997066321127.jpg "clear data")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
 
@@ -111,13 +111,6 @@ Simply, follow the instructions given below to remove Apps from Oppo Reno 8T 5G 
 2\. You will see that a list of downloaded and built-in Apps will open up before you as follows.
 
 ![installed apps](https://images.wondershare.com/drfone/article/2017/07/14997066916915.jpg "installed apps")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Now, once you select the App you want to uninstall, the App Info screen will appear. Tap on “Uninstall” option and then tap on “Uninstall” again on the pop-up message.
 
@@ -137,16 +130,16 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14997067742072.jpg "boot in recovery mode")
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Once the Recovery Screen appears, leave all buttons and use the volume down key till you reach “Wipe Cache Partition”.
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
@@ -172,6 +165,13 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 Once done, go back to the Home Screen and start the camera App again to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 7: How to fix Camera Failed error by Factory Reset?
 
 Lastly, if the above-mentioned techniques do not help you in fixing the camera failed error, you can consider performing a Factory Reset. Note: This method will delete all your saved data so it is advised to backup before you start the process.
@@ -186,16 +186,16 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/07/14997069833129.jpg "backup and reset")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Now you must first select “Factory data reset” and then tap on “Reset Device” as shown in the screenshot below.
 
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4\. Finally, you have to click on “Erase Everything” and wait for the Oppo Reno 8T 5G device to reboot itself.
 
@@ -237,13 +237,6 @@ Any error that occurs during downloading or installation process not only hinder
 #### **Solution 1: One click to make error code 505 disappear**
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -353,13 +346,6 @@ Due to continuous updation of new apps and services Google Play store used to be
 
 ![Google Play store](https://images.wondershare.com/drfone/article/2017/06/14976277251819.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - \>Go to Settings
 - \>Visit Application Manager or Apps
 - \>Select Google Play Store
@@ -460,22 +446,15 @@ Your **screen touch not working** can sometimes get fixed by simply cleaning the
 ![cleaning iphone with cloth](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Remove Extra Peripherals
 
 Unplug any external device connected to your iPhone’s Lightning port or USB-C if your **phone screen stops working**. For Android users, meanwhile, disconnect any accessories like chargers or wireless headphones. After that, try using the touchscreen. If it works, the outcome proves that the fault appeared due to the external device.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Force Restart Your Device
 
@@ -498,6 +477,13 @@ If your Oppo Reno 8T 5G Redmi **phone is stuck on loading screen** or “thinki
 **Step 2:** Choose **Restart,** then **Accept** if a confirmation message spears. Then wait a few seconds or minutes when your device is performing the reboot.
 
 ![reboot xiaomi redmi options](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Update Your Software
 
@@ -605,6 +591,13 @@ In this step-by-step guide below, you can fix your **unresponsive phone screen**
 
 ![dr.fone fix unresponsive touchscreen 03](https://images.wondershare.com/drfone/drfone/android-repair-09.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: People Also Ask
 
 Some common questions you should know when taking care of an unresponsive phone touchscreen are listed below.
@@ -622,6 +615,13 @@ Keeping your apps updated should help you solve app crashing issues that can imp
 Wondershare Dr.Fone for iOS and Android is free to download and install. You can also test the first few steps and see if the program supports your device. However, when you click the **Fix Now** button to start the repair process, you will be required to enter a valid license to activate the program.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -643,22 +643,20 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-disabling-recommended-podcast-episodes-in-spotify-app/"><u>[New] Disabling Recommended Podcast Episodes in Spotify App</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-from-still-shots-to-movies-mastering-logitech-webcam-videos/"><u>[New] In 2024, From Still Shots to Movies Mastering Logitech Webcam Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beyond-audience-counting-the-intricacies-of-youtubes-metrics/"><u>[Updated] In 2024, Beyond Audience Counting The Intricacies of YouTube’s Metrics</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-from-raw-footage-to-polished-highlights/"><u>[Updated] In 2024, From Raw Footage to Polished Highlights</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-unlocking-money-potential-a-beginners-guide-on-periscope/"><u>[Updated] Unlocking Money Potential A Beginner's Guide on Periscope</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-spark-20c-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Spark 20C Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-oppo-find-x6-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo Find X6 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-the-official-ricoh-c4503-printer-software-downloads-fast-latest-version/"><u>Find the Official Ricoh C4503 Printer Software Downloads Fast | Latest Version</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/from-sideways-to-symmetry-the-instagram-chronicles-of-flipping-photos/"><u>From Sideways to Symmetry The Instagram Chronicles of Flipping Photos</u></a></li>
-<li><a href="https://techidaily.com/how-to-confirm-if-your-laptop-comes-with-bluetooth-connectivity-a-two-step-guide/"><u>How to Confirm if Your Laptop Comes with Bluetooth Connectivity: A Two-Step Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-k11-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo K11 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-pop-8-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pop 8 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-oppo-reno-11-pro-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo Reno 11 Pro 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-ensuring-flawless-images-avoid-watermarks/"><u>[Updated] In 2024, Ensuring Flawless Images Avoid Watermarks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-obs-supreme-vs-streamlabs-empire-for-2024/"><u>[Updated] OBS Supreme vs Streamlabs Empire for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-reno-10-pro-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo Reno 10 Pro 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728471418987-3/"><u>学习文件恢复策略：在没有备份情形下，3个方法来挽救数据</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-blaze-2-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Blaze 2 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-yuva-2-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Yuva 2 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/becoming-a-final-cut-pro-expert-your-quick-reference/"><u>Becoming a Final Cut Pro Expert – Your Quick Reference</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-y77t-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y77t Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-the-benefits-of-sleep-mode-in-messenger-kids/"><u>Deciphering the Benefits of Sleep Mode in Messenger Kids</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-permission-grants-the-trustedguardian-of-windows-11-demystified/"><u>Mastering Permission Grants: The TrustedGuardian of Windows 11 Demystified</u></a></li>
+<li><a href="https://win-special.techidaily.com/mastering-system-stability-effective-strategies-for-correcting-life-threatening-windows-malfunctions/"><u>Mastering System Stability: Effective Strategies for Correcting Life-Threatening Windows Malfunctions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-performance-with-precaution-how-to-accurately-assess-cpu-heat-on-your-windows-11-pc/"><u>Protecting Performance with Precaution: How to Accurately Assess CPU Heat on Your Windows 11 PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-young-cinematographer-empowering-kids-to-tell-their-stories/"><u>The Young Cinematographer Empowering Kids to Tell Their Stories</u></a></li>
 </ul></div>
 
