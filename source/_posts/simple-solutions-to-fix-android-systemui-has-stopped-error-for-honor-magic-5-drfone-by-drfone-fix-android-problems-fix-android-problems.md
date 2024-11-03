@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor Magic 5 | Dr.fone
-date: 2024-10-21T16:26:31.208Z
-updated: 2024-10-28T16:14:25.858Z
+date: 2024-11-01T11:00:57.430Z
+updated: 2024-11-03T08:48:41.278Z
 tags: 
   - problems
 categories:
@@ -51,6 +51,19 @@ It’s now time to understand how to fix Android ‘unfortunately, the process c
 Step 1 – Download the Dr.Fone toolkit over your PC. Install it and launch it over. Opt for the “System Repair” tab from the main screen and get your Honor Magic 5 connected to the PC.
 
 ![fix Android system UI stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2 – You need to select “Android Repair” from the left panel and then hit the ‘Start’ button.
 
@@ -123,6 +136,19 @@ Different Android devices have different ways to put it in recovery mode. Refer 
 
 ![android system ui-”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14985098383121.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
 This method will help you de-clutter your device and erase all the clogged up unwanted files. You may lose App related data too, but that is a small price to pay to fix the Android SystemUI isn't responding error.
@@ -144,6 +170,13 @@ Follow the steps given below to factory reset your device to solve the Android S
 - Now select “Backup and Reset”.
 
 ![android system ui-select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/06/14985098813784.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - In this step, select “Factory data reset” and then “Reset Device”.
 - Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
@@ -180,19 +213,6 @@ If your Honor Magic 5 screen is unresponsive, the first thing to try is a force 
 
 ![drain the battery of oppo device](https://images.wondershare.com/drfone/article/2023/03/oppo-a3s-touch-not-working-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If force restarting doesn't work, let the battery drain completely. This can help reset the Honor Magic 5 device and clear any temporary files or processes causing the issue.
 
 **Step 1. Leave** your Honor Magic 5 device on until the battery completely drains and the Honor Magic 5 device shuts down.
@@ -211,6 +231,13 @@ Sometimes, an unresponsive Honor Magic 5 screen can be caused by outdated softwa
 
 **Step 3.** If an update is available, **tap** "**Download and Install**."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Using Dr. Fone Repair
 
 ![dr fone system repair feature](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -218,6 +245,13 @@ Sometimes, an unresponsive Honor Magic 5 screen can be caused by outdated softwa
 Dr. Fone Repair is a professional tool that can help fix a wide range of software issues on your Honor Magic 5 device. Dr. Fone Repair can be a good option to protect your data and files while troubleshooting an unresponsive Honor Magic 5 screen.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 1. Download and install** Dr. Fone Repair software on your computer.
 
@@ -238,6 +272,13 @@ Dr. Fone Repair is a professional tool that can help fix a wide range of softwar
 ### 5\. Contact Customer Service
 
 ![oppo device customer service support](https://images.wondershare.com/drfone/article/2023/03/oppo-a3s-touch-not-working-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If none of the above solutions work, it may be time to contact Honor Magic 5 customer service. They can provide additional support and help troubleshoot the issue.
 
@@ -273,19 +314,6 @@ Honor Magic 5 Screen unresponsiveness can be a frustrating issue to deal with, b
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Strategies for Apps That Won't Download From Play Store On Honor Magic 5
 
 The frustration of **apps not downloading in the Google Play Store** can annoy users. A seamless download experience is crucial for user satisfaction and app success. When you encounter such issues, they disrupt the interaction expected from your device.
@@ -300,13 +328,6 @@ The reasons below collectively contribute to the frustration users experience wh
 
 ![confused about apps not downloading](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Connectivity Issues
 
 Slow or unstable internet connections can interfere with the download process. It often leads to failed or delayed app installations. You will experience frustration when faced with connectivity issues, impacting your ability to access desired apps.
@@ -315,23 +336,9 @@ Slow or unstable internet connections can interfere with the download process. I
 
 Limited available storage on the Honor Magic 5 device prevents the installation of new apps. Users may find it challenging to manage their storage effectively. It can hinder the expansion of your app library and impact the overall device functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Outdated Play Store Version
 
 Running an outdated version of the Play Store can cause compatibility issues with the newest versions of apps. You'll miss out on new features and improvements, affecting the overall user experience and the efficiency of the Play Store.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Google Account Authentication Problems
 
@@ -408,13 +415,6 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 If you can't download Dr.Fone for some reason, you can try these common fixes to try to resolve your app download issues on your device
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part IV. 8 Other Methods of Resolving Common App Downloading Issues
 
 Here are 8 other methods to troubleshoot and resolve common app downloading problems:
@@ -435,6 +435,13 @@ An outdated Play Store version may lead to compatibility issues. Open the Google
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Clear Play Store Cache and Data
 
 Cached data in the Play Store can sometimes cause download problems. Head to the Honor Magic 5 device settings and open **Apps** or **Application Manager**. Locate Google Play Store, and tap **Storage**. Clear both the cache and data to refresh the app.
@@ -454,17 +461,10 @@ Incorrect date and time settings may disrupt the authentication process. Verify 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Review Download Restrictions
@@ -497,20 +497,22 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-masterful-motorsports-discover-the-5-leading-racers-simulators/"><u>[New] 2024 Approved Masterful Motorsports Discover the 5 Leading Racers Simulators</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-step-by-step-subtitle-insertion-for-vimeo-videos/"><u>[Updated] 2024 Approved Step-by-Step Subtitle Insertion for Vimeo Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-g54-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola G54 5G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhancing-your-gaming-experience-optimizing-avatars-frontiers-of-pandora-performance/"><u>Enhancing Your Gaming Experience: Optimizing Avatar’s Frontiers of Pandora Performance</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-oppo-find-x7-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo Find X7 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721471561512-how-to-restore-auto-brightness-functionality-on-your-iphone-7-proven-strategies/"><u>How To Restore Auto-Brightness Functionality on Your iPhone: 7 Proven Strategies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-rotation-recording-versus-stereo-capture/"><u>In 2024, Complete Rotation Recording Versus Stereo Capture</u></a></li>
-<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-crashing-on-pc-solved/"><u>Oddworld: Soulstorm Crashing On PC [SOLVED]</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/prime-picks-for-classroom-audio-for-2024/"><u>Prime Picks for Classroom Audio for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-iphone-update-and-restore-issue-a-step-by-step-guide-to-overcome-error-4013/"><u>Resolving iPhone Update and Restore Issue: A Step-by-Step Guide to Overcome Error 4013</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-google-pixel-8-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Google Pixel 8 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-magic-v2-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor Magic V2? Here is How | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/winx-dvd-copy-pro-rip-your-dvds-easily-and-create-iso-images/"><u>WinX DVD Copy Pro - Rip Your DVDs Easily & Create ISO Images</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-essential-list-for-screen-clarity-top-7-android-adblockers/"><u>[New] 2024 Approved The Essential List for Screen Clarity Top 7 Android AdBlockers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-creative-uses-for-home-webcams/"><u>[New] Creative Uses for Home Webcams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-flawless-filming-ipad-timelapse-techniques-for-2024/"><u>[New] Flawless Filming IPad Timelapse Techniques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-leading-edge-vr-developers/"><u>[New] Unveiling Leading-Edge VR Developers</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-infinix-note-30-vip-racing-edition-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Infinix Note 30 VIP Racing Edition Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-honor-100-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Honor 100 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-s24-ultra-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy S24 Ultra Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-oneplus-nord-ce-3-lite-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked OnePlus Nord CE 3 Lite 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-harmonizing-scores-with-cinematic-vision-in-film-trailers/"><u>In 2024, Harmonizing Scores with Cinematic Vision in Film Trailers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-leveraging-frameworks-like-bootstrap-for-rapid-prototyping/"><u>In 2024, Leveraging Frameworks Like Bootstrap for Rapid Prototyping</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tutorial-quickly-convert-youtube-audio-to-mp3-on-mac/"><u>In 2024, Tutorial Quickly Convert YouTube Audio to MP3 on Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-s23-tactical-edition-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy S23 Tactical Edition ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/surviving-apples-push-to-upgrade-a-testers-journey-with-iphone-longevity/"><u>Surviving Apple's Push to Upgrade: A Tester's Journey with iPhone Longevity</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-controlling-windows-key-status/"><u>Understanding and Controlling Windows Key Status</u></a></li>
 </ul></div>
 

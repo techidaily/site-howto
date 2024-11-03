@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Xiaomi Redmi 12 | Dr.fone
-date: 2024-10-21T18:41:52.376Z
-updated: 2024-10-28T16:42:22.808Z
+date: 2024-10-28T03:53:47.447Z
+updated: 2024-11-03T03:51:44.661Z
 tags: 
   - problems
 categories:
@@ -61,16 +61,16 @@ One-click solution to fix camera failed on Xiaomi Redmi 12 devices
 
 ![fix samsung camera failed by repairing samsung system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** You will have to provide the Xiaomi Redmi 12 device details accurately to ensure that the software provides a precise firmware package to be downloaded. Enter brand, name, model, country, and carrier of your device and agree to the terms and condition.
 
 ![select the details of samsung device](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3**. Now put your device in the download mode. The software will provide you with a guide to put the phone in download mode to begin the downloading process.
 
@@ -148,6 +148,13 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 ![tap on camera](https://images.wondershare.com/drfone/article/2017/07/14997068859206.jpg "tap on camera")
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Then go to Camera “Settings” by tapping on the circular gear like icon.
 
 ![camera settings](https://images.wondershare.com/drfone/article/2017/07/14997069036741.jpeg "camera settings")
@@ -222,13 +229,6 @@ Device settings or parental controls may impose restrictions on certain app down
 
 Inaccurate date and time settings on the Xiaomi Redmi 12 device can disrupt the Play Store's functionality. You'll face obstacles in downloading apps due to authentication errors or syncing issues. It can have a negative impact on the overall user experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Play Store Bugs and Glitches
 
 Technical issues within the Play Store, such as bugs or glitches, can lead to failed downloads. You may encounter unexpected errors, causing uncertainty and potential distrust in the reliability of the app platform.
@@ -279,13 +279,6 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![dr.fone choosing a device type](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Follow the on-screen instructions until the app downloads the correct firmware for your device. As it downloads, Dr.Fone will verify it and put your device details on display. You can [<u>install the firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) on your Xiaomi Redmi 12 by choosing **Fix Now**.
 
 ![dr.fone firmware download successfully](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
@@ -300,22 +293,15 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 If you can't download Dr.Fone for some reason, you can try these common fixes to try to resolve your app download issues on your device
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part IV. 8 Other Methods of Resolving Common App Downloading Issues
 
 Here are 8 other methods to troubleshoot and resolve common app downloading problems:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Check Internet Connection
 
@@ -332,6 +318,13 @@ A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u
 An outdated Play Store version may lead to compatibility issues. Open the Google Play Store, go to **Settings**, and tap the **Play Store version**. If an update is available, install it to ensure compatibility with the latest apps.
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clear Play Store Cache and Data
 
@@ -351,13 +344,6 @@ Incorrect date and time settings may disrupt the authentication process. Verify 
 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Review Download Restrictions
 
 Device settings or parental controls might impose restrictions on certain app downloads. Examine the download restrictions in the Xiaomi Redmi 12 device settings and adjust them accordingly to allow for the installation of desired apps.
@@ -373,6 +359,13 @@ Sometimes, a simple restart can resolve various issues. Power off your device, w
 Ensuring a smooth app download experience demands attention to various factors. From connectivity to storage management, each step contributes to resolving download challenges. The careful review of date/time settings and download restrictions further enhances the process when you **cannot download from the Play Store**.
 
 For persistent issues, consider Dr.Fone - System Repair. The app is a viable option, providing a comprehensive approach. Embracing these measures ensures you can easily fix apps that won't download from the Play Store. Having a reliable tool beside you also fosters an uninterrupted and enjoyable downloading journey from the Play Store.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Troubleshooting Guide: How to Fix an Unresponsive Xiaomi Redmi 12 Screen
 
@@ -420,6 +413,13 @@ Sometimes, an unresponsive screen can be caused by a dead battery or a faulty ch
 
 ![realme customer service](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the above solutions don't work, contacting a professional is best. A trained technician can diagnose and fix the problem. Contact the phone manufacturer or an authorized repair center to get help with your phone.
 
 For different Xiaomi Redmi 12 models, there may be additional solutions to consider:
@@ -434,6 +434,13 @@ Sometimes, a Xiaomi Redmi 12 phone's screen, specifically Xiaomi Redmi 12 8 Pro,
 
 **Step 2:** If the phone is overheating, let it cool down before using it again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reset to Factory Settings
 
 ![realme reset factory settings](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-5.jpg)
@@ -443,6 +450,13 @@ A factory reset may help fix the problem if none of the above solutions work. No
 **Step 1:** Go to **Settings** \> **Additional Settings** > **Backup and Reset** > **Erase All Data**.
 
 **Step 2:** Follow the on-screen instructions to reset the phone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Replace a New Screen
 
@@ -455,13 +469,6 @@ If the phone's screen is physically damaged or cracked, it may need to be replac
 ## How to avoid Xiaomi Redmi 12 Screen being unresponsive?
 
 To avoid Xiaomi Redmi 12 screen being unresponsive, here are some suggestions based on the possible causes:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Check Software Updates on Time
 
@@ -482,13 +489,6 @@ Dirt and debris on the screen can cause it to become unresponsive. Use a microfi
 ### Reduce the number of running apps
 
 Running too many apps at once can overload the system and cause the screen to become unresponsive. Close any apps you're not using to free up system resources.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use Wondershare Dr.Fone to Repair or Manage Your Data
 
@@ -518,24 +518,20 @@ To deal with an unresponsive screen, users can try restarting the Xiaomi Redmi 1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/reate-memorable-videos-with-the-right-thumbnail-font-for-2024/"><u>[New] Create Memorable Videos with the Right Thumbnail Font for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-daily-vlogging-ideas-what-to-talk-about-while-vlogging/"><u>[New] In 2024, Daily Vlogging Ideas What to Talk About While Vlogging?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-share-the-moment-how-to-post-on-twitter/"><u>[Updated] In 2024, Share the Moment How To Post on Twitter</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unveil-the-potential-of-instagram-footage-comprehensive-guide-to-mp4-conversion-software-windowsosx/"><u>[Updated] In 2024, Unveil the Potential of Instagram Footage Comprehensive Guide to MP4 Conversion Software [Windows/OSX]</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-ios-psp-games-and-emulators-revealed-in-2024/"><u>[Updated] Top iOS PSP Games & Emulators Revealed, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1-get-your-favorite-tumblr-sounds-without-spending-a-penny-two-simple-extraction-techniques/"><u>1. 'Get Your Favorite Tumblr Sounds Without Spending a Penny: Two Simple Extraction Techniques'</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-narzo-60-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme Narzo 60 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y100-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y100 5G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-driver-installation-for-msi-bravo-15-laptop/"><u>New Driver Installation for MSI Bravo 15 Laptop</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/perfect-printing-the-definitive-steps-to-assemble-and-install-an-epson-printer-with-precision/"><u>Perfect Printing: The Definitive Steps to Assemble & Install an Epson Printer with Precision</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/unleashing-creativity-a-guide-to-music-infused-videos-for-tiktok/"><u>Unleashing Creativity A Guide to Music-Infused Videos for TikTok</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-poco-m6-pro-4g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Poco M6 Pro 4G Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-m34-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy M34 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-oneplus-ace-2-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your OnePlus Ace 2 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-realme-10t-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme 10T 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-12-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi 12 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-ideal-soundtrack-for-unboxing-content/"><u>[New] Finding the Ideal Soundtrack for Unboxing Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-youtube-video-upgrades-how-to-add-precise-times-for-2024/"><u>[New] YouTube Video Upgrades How to Add Precise Times for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-beyond-fbx-cutting-edge-options-for-game-recorders/"><u>[Updated] 2024 Approved Beyond FBX Cutting-Edge Options for Game Recorders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-best-practices-to-avoid-missed-frames-during-video-capture-for-2024/"><u>[Updated] Best Practices to Avoid Missed Frames During Video Capture for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flavor-forge-30-epicurean-titles-that-resonate-for-2024/"><u>[Updated] Flavor Forge 30 Epicurean Titles That Resonate for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-gamings-finest-top-10-gpu-picks-for-clear-online-broadcasts/"><u>[Updated] Gaming's Finest Top 10 GPU Picks for Clear Online Broadcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-virtual-landscape-an-overview/"><u>2024 Approved Navigating the Virtual Landscape An Overview</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Xiaomi Civi 3 Disney 100th Anniversary Edition? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-lava-yuva-2-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Lava Yuva 2? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/critical-concerns-a-deep-dive-into-chatgpts-obstacles-and-limitations/"><u>Critical Concerns: A Deep Dive Into ChatGPT's Obstacles and Limitations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-se-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone SE</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-civi-3-disney-100th-anniversary-edition-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi Civi 3 Disney 100th Anniversary Edition Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-lava-yuva-3-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Lava Yuva 3 Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-honor-play-40c-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor Play 40C Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
