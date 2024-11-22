@@ -1,7 +1,7 @@
 ---
 title: Maximize Graphics Power & Performance - Elevate Your Build Using Our DIY Kit's PCIe Connection Between Mini PC and eGPU, Outpacing Thunderbolt 4 Speeds
-date: 2024-11-05T00:14:28.251Z
-updated: 2024-11-12T15:02:49.685Z
+date: 2024-11-18T06:33:55.924Z
+updated: 2024-11-22T07:22:00.139Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,6 +49,10 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The StreamPlay X is a remarkably compact eGPU, but an attractive one. It allows you to see your card through a wrap-around plastic window and it has a case fan to help cool your graphics card. The device is available with different power supply capacities: 250, 350 or 400 watts.
@@ -52,6 +60,10 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  At the upper end of this power envelope, you could probably run an RTX 4080\. You'd probably need an adapter as there are two 8-pin connectors, but no 16-pin. The top, which has some air holes, easily pops off to allow you to install your card.
 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -76,29 +88,19 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-choosing-faithful-hymns-download-and-modify-guide/"><u>[New] Choosing Faithful Hymns Download and Modify Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-next-gen-patient-rehabilitation-tools/"><u>[New] Next-Gen Patient Rehabilitation Tools</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-how-to-blend-iphone-and-tiktok-seamlessly-mastering-siri-for-efficient-filming/"><u>[Updated] How to Blend iPhone and TikTok Seamlessly Mastering Siri for Efficient Filming</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-reverse-the-ordinary-turning-images-upside-down-for-2024/"><u>[Updated] Reverse the Ordinary Turning Images Upside Down for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-6-plus-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 6 Plus with 3 Methods</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-12-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 12 Waze | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-navigating-the-subreddit-terrain-essential-steps-uncovered/"><u>In 2024, Navigating the Subreddit Terrain Essential Steps Uncovered</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>New 2024 Approved Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-itel-a70-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Itel A70? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-realme-narzo-60-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme Narzo 60 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-g2-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo G2 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-windows-movie-maker-videos-into-mp4-format/"><u>Transform Your Windows Movie Maker Videos Into MP4 Format</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-rush-release-channeling-playlist-hits-online/"><u>[New] 2024 Approved Rush Release Channeling Playlist Hits Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ehind-the-scenes-of-carminatis-youtube-earnings-for-2024/"><u>[New] Behind the Scenes of Carminati’s YouTube Earnings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-garner-over-a-thousand-viewers-swiftly/"><u>[Updated] In 2024, Garner Over a Thousand Viewers Swiftly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-leading-edge-facebook-film-archives/"><u>[Updated] Leading Edge Facebook Film Archives</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-honor-x8b-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor X8b Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-v30t-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme V30T Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-nubia-z50-ultra-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nubia Z50 Ultra 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-14-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 14 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-edge-2023-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Motorola Edge 2023 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-guide-overcoming-itunes-error-codes-7-127-and-193-on-windows-1187-systems/"><u>Troubleshooting Guide: Overcoming iTunes Error Codes 7, 127, and 193 on Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/uncover-the-secrets-a-six-point-strategy-to-restore-webcam-audio-on-any-computer/"><u>Uncover the Secrets: A Six-Point Strategy to Restore Webcam Audio on Any Computer</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-nokia-130-music-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nokia 130 Music Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

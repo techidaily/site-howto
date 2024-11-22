@@ -1,7 +1,7 @@
 ---
 title: Expert Hardware Reviews and Buying Advice From Tom's Hardware Guide
-date: 2024-11-05T08:39:39.183Z
-updated: 2024-11-12T10:31:06.995Z
+date: 2024-11-20T22:50:21.765Z
+updated: 2024-11-22T07:37:00.449Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -62,22 +66,16 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-achieve-youtube-profitability-the-milestone-of-500plus-subscribers-unlocked/"><u>[Updated] 2024 Approved Achieve Youtube Profitability The Milestone of 500+ Subscribers Unlocked</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-integrating-a-subwoofer-into-your-samsung-acoustic-setup/"><u>Expert Advice on Integrating a Subwoofer Into Your Samsung Acoustic Setup</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-navigating-the-network-speedy-id-snooping-tips/"><u>In 2024, Navigating the Network Speedy ID Snooping Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-t2-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo T2 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/unifying-data-points-merging-text-from-various-excel-cells-into-a-single-cell/"><u>Unifying Data Points: Merging Text From Various Excel Cells Into a Single Cell</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y02t-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y02T Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-discovering-eastern-architectural-wonders-in-minecraft-for-2024/"><u>[New] Discovering Eastern Architectural Wonders in Minecraft for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-orientation-options-for-facebook-videos/"><u>2024 Approved Navigating Orientation Options for Facebook Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-scour-these-10-vectors-websites-for-exceptional-quality/"><u>2024 Approved Scour These 10 Vectors Websites for Exceptional Quality</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-play-7t-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor Play 7T System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-functionality-to-your-unresponsive-logitech-g733-mic/"><u>Expert Advice: Restoring Functionality to Your Unresponsive Logitech G733 Mic</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-sharing-tiktok-on-twitter-quickly/"><u>In 2024, Sharing TikTok on Twitter Quickly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-chatgpt-widget-on-android-tips-and-techniques/"><u>Mastering the ChatGPT Widget on Android: Tips and Techniques</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
