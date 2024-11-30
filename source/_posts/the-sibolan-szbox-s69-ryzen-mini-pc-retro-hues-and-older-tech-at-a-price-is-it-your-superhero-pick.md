@@ -1,7 +1,7 @@
 ---
 title: "The Sibolan SZBox S69 Ryzen Mini PC: Retro Hues and Older Tech at a Price - Is It Your Superhero Pick?"
-date: 2024-11-06T22:24:35.648Z
-updated: 2024-11-12T02:08:56.282Z
+date: 2024-11-27T13:54:42.151Z
+updated: 2024-11-30T06:16:56.021Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,6 +49,10 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The StreamPlay X is a remarkably compact eGPU, but an attractive one. It allows you to see your card through a wrap-around plastic window and it has a case fan to help cool your graphics card. The device is available with different power supply capacities: 250, 350 or 400 watts.
@@ -52,6 +60,10 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  At the upper end of this power envelope, you could probably run an RTX 4080\. You'd probably need an adapter as there are two 8-pin connectors, but no 16-pin. The top, which has some air holes, easily pops off to allow you to install your card.
 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -76,26 +88,18 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-essential-5-book-trailer-selections/"><u>[New] In 2024, Essential 5 Book Trailer Selections</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/outube-cover-pics-made-easy-top-5-free-downloader-lists/"><u>[New] YouTube Cover Pics Made Easy – Top 5 Free Downloader Lists</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-peeking-behind-the-screen-instagram-audience-explorer/"><u>2024 Approved Peeking Behind the Screen Instagram Audience Explorer</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-a79-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo A79 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y36i-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y36i</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ace-the-pre-prime-day-savings-top-bargains-at-best-buy-before-prime-day-2024-insights/"><u>Ace the Pre-Prime Day Savings: Top Bargains at Best Buy Before Prime Day 2024 - Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-y200e-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo Y200e 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-poco-m6-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Poco M6 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-leveraging-youtube-trailers-for-optimal-revenue-generation/"><u>In 2024, Leveraging YouTube Trailers for Optimal Revenue Generation</u></a></li>
-<li><a href="https://howto.techidaily.com/oneplus-12-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 12 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-nokia-g22-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia G22 Black and White | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-steal-with-over-60-savings-on-amazons-fire-hd-ebox-tablet-exclusive-deals-curated-by-zdnet/"><u>Score a Steal with Over 60% Savings on Amazon's Fire HD Ebox Tablet – Exclusive Deals Curated by ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/taming-machine-minds-for-mutual-benefit/"><u>Taming Machine Minds for Mutual Benefit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-packaging-growth-tactics/"><u>[New] Packaging Growth Tactics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-exploring-inshot-is-it-the-pinnacle-of-editing/"><u>[Updated] 2024 Approved Exploring InShot Is It the Pinnacle of Editing?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-multiplayer-metaverse-games-to-share-with-pals/"><u>[Updated] Best Multiplayer Metaverse Games to Share With Pals</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-motorola-moto-g23-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-note-30-vip-racing-edition-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Note 30 VIP Racing Edition Quickly | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-ai-names-for-podcasts-the-ultimate-guide/"><u>In 2024, Innovative AI Names for Podcasts – The Ultimate Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-fun-playthroughs-the-ultimate-guide-to-pokemon-shining-pearl/"><u>Mastering Fun Playthroughs: The Ultimate Guide to Pokémon Shining Pearl</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-methods-to-correctly-remove-the-bluish-hue-from-your-television-display/"><u>Top 8 Methods to Correctly Remove the Bluish Hue From Your Television Display</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-duckduckgo-a-secure-search-experience/"><u>Understanding DuckDuckGo: A Secure Search Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-z-flip-5-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy Z Flip 5 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

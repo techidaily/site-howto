@@ -1,7 +1,7 @@
 ---
 title: "Affordable MicroPython Tulip Creative System: A Musician's Dream Device for $59 - Now Available!"
-date: 2024-11-17T19:42:24.367Z
-updated: 2024-11-21T19:19:42.890Z
+date: 2024-11-24T08:52:03.902Z
+updated: 2024-11-30T14:07:06.899Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,20 +56,24 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-crafting-visual-narratives-with-premium-text-tools-in-ae/"><u>[New] Crafting Visual Narratives with Premium Text Tools in AE</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-delving-into-hdr-excellence-with-luminances-tools/"><u>[Updated] 2024 Approved Delving Into HDR Excellence with Luminance’s Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-x90s-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo X90S Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oneplus-nord-ce-3-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your OnePlus Nord CE 3 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/abbyy-softwares-role-in-advancing-deutsche-post-dhls-operational-excellence-unveiling-the-breakthroughs/"><u>ABBYY Software's Role in Advancing Deutsche Post DHL’s Operational Excellence: Unveiling the Breakthroughs</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-oppo-a18-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo A18 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/proven-sites-for-downloading-premier-pixel-tones/"><u>Proven Sites for Downloading Premier Pixel Tones</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-the-flashing-windows-10-problems/"><u>Solving the Flashing Windows 10 Problems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-vc-1-format-video-files-to-optimized-h264-streams/"><u>Step-by-Step Guide: Converting VC-1 Format Video Files to Optimized H.264 Streams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-pick-family-films-streaming-on-amazon-prime-video-this-july-2024/"><u>Top Pick Family Films Streaming on Amazon Prime Video This July 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-13c-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi 13C 5G Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-oneplus-nord-n30-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My OnePlus Nord N30 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-realistic-movement-rendering-for-images/"><u>[Updated] Realistic Movement Rendering for Images</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-compelling-narratives-through-supplemental-footage/"><u>2024 Approved Crafting Compelling Narratives Through Supplemental Footage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-tick-tock-tally-calculating-pewdiepies-cash/"><u>2024 Approved Tick-Tock Tally Calculating PewDiePie’s Cash</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-poco-x6-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Poco X6? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-the-gap-between-human-perception-and-photographic-capture/"><u>Bridging the Gap Between Human Perception and Photographic Capture</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-correcting-mystery-speaker-configurations-in-windows-11-tips-and-tricks/"><u>Guide to Correcting Mystery Speaker Configurations in Windows 11: Tips & Tricks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-the-dji-air-2s-revolutionizes-drone-technology-an-in-depth-product-review/"><u>How the DJI Air 2S Revolutionizes Drone Technology - An In-Depth Product Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unlock-windows-xp-professional-for-media-development/"><u>In 2024, Unlock Windows XP Professional for Media Development</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mlb-broadcasts-accessible-through-amazon-prime-the-ultimate-viewing-guide/"><u>MLB Broadcasts Accessible Through Amazon Prime – The Ultimate Viewing Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/pitch-perfect-how-to-add-songs-to-your-snapchat-content-for-2024/"><u>Pitch Perfect How to Add Songs to Your Snapchat Content for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y02t-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y02T Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-honor-x9a-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Honor X9a Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/whip-up-a-fresh-web-comedic-bite-sized-delight/"><u>Whip Up a Fresh Web Comedic Bite-Sized Delight</u></a></li>
 </ul></div>
 

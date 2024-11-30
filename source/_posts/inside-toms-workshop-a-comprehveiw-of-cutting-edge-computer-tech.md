@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom's Workshop: A Comprehveiw of Cutting-Edge Computer Tech"
-date: 2024-11-15T19:21:22.011Z
-updated: 2024-11-21T18:15:16.403Z
+date: 2024-11-27T05:14:10.260Z
+updated: 2024-11-30T14:19:21.955Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,17 +56,18 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/aking-an-impression-professional-pc-editing-strategies-for-youtube-for-2024/"><u>[New] Making an Impression Professional PC Editing Strategies for YouTube for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-dynamic-duo-of-yi-and-4k-in-action-video/"><u>[New] The Dynamic Duo of Yi and 4K in Action Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-professionals-blueprint-for-investing-in-high-definition-viewing-for-2024/"><u>[New] The Professional's Blueprint for Investing in High-Definition Viewing for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-verified-vids-the-reality-of-instas-self-validation/"><u>[Updated] 2024 Approved Verified Vids The Reality of Insta’s Self-Validation</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oneplus-12r-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your OnePlus 12R Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-honor-magic-5-lite-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor Magic 5 Lite? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exceptional-all-rounder-the-highly-praised-laptop-that-wows-with-robust-hardware-features-insights-from-zdnet/"><u>Exceptional All-Rounder: The Highly Praised Laptop That Wows With Robust Hardware Features - Insights From ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-realme-11-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Realme 11 Pro Device SIM</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-mastering-youtube-short-troubleshooting/"><u>In 2024, Mastering YouTube Short Troubleshooting</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revive-and-restore-exploring-the-top-freepaid-data-rescue-tools/"><u>Revive & Restore: Exploring the Top Free/Paid Data Rescue Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-boosting-income-with-effective-youtube-short-strategies/"><u>[New] 2024 Approved Boosting Income with Effective Youtube Short Strategies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-creating-accessible-multilingual-content-on-igtv/"><u>[New] 2024 Approved Creating Accessible Multilingual Content on IGTV</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-achieve-the-perfect-selfie-with-top-8-gear/"><u>[New] Achieve the Perfect Selfie with Top 8 Gear</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-basic-guide-to-modify-clown-voiceprint-in-windoze-pc/"><u>[New] Basic Guide to Modify Clown Voiceprint in Windoze PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-digital-stagecraft-unlocking-voice-manipulation-with-affordable-technology/"><u>[Updated] Digital Stagecraft Unlocking Voice Manipulation with Affordable Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-infinix-gt-10-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix GT 10 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-m34-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy M34 Quickly | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-innovations-for-crafting-striking-fb-video-ads/"><u>In 2024, Innovations for Crafting Striking FB Video Ads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/reversed-video-techniques-for-instagram-savvy-users-for-2024/"><u>Reversed Video Techniques for Instagram Savvy Users for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-y36-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo Y36 Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-14-ultra-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi 14 Ultra Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

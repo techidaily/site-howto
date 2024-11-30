@@ -1,7 +1,7 @@
 ---
 title: Revolutionary 'U'-Formed Chinese PC, Enhanced by Additional External PCIe Slot Support
-date: 2024-11-16T21:06:38.530Z
-updated: 2024-11-22T03:33:56.848Z
+date: 2024-11-26T17:48:23.568Z
+updated: 2024-11-30T08:19:18.186Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,24 +60,22 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/eading-the-way-in-video-production-comprerant-free-youtube-intro-makers/"><u>[New] Leading the Way in Video Production Compreran't Free YouTube Intro Makers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-android-mobas-a-decade-of-favorite-titles-top-10/"><u>[Updated] 2024 Approved Android MOBAs A Decade of Favorite Titles - Top 10</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-streamline-your-vlogs-sound-with-effective-tips/"><u>[Updated] 2024 Approved Streamline Your Vlog's Sound with Effective Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-manual-for-stunning-slow-motion-with-gopro-hero-10/"><u>[Updated] A Step-by-Step Manual for Stunning Slow Motion with GoPro Hero 10</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-exclusive-list-of-premium-screen-free-gaming-on-android-devices/"><u>[Updated] In 2024, Exclusive List of Premium Screen-Free Gaming on Android Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-z-flip-5-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy Z Flip 5 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-poco-f5-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Poco F5 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/bringing-social-networks-into-our-daily-shopping-experience/"><u>Bringing Social Networks Into Our Daily Shopping Experience</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-k70-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi K70 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-lava-blaze-curve-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Lava Blaze Curve 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-note-12-proplus-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi Note 12 Pro+ 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-15-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 15 iCloud Bypass</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-x-fold-2-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo X Fold 2 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-infinix-smart-8-hd-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Infinix Smart 8 HD Phone? Unlock It Now</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-gt-5-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme GT 5 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-realme-c55-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme C55 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-budget-friendly-miniature-aerials-review/"><u>[New] In 2024, Budget-Friendly Miniature Aerials Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-elevate-your-vimeo-media-with-well-defined-chapters/"><u>[Updated] Elevate Your Vimeo Media with Well-Defined Chapters</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-10t-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme 10T 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-sony-xperia-5-v-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Sony Xperia 5 V Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-newest-amd-radeon-r5-graphic-drivers-windows-111087-guide-and-downloads/"><u>How to Install the Newest AMD Radeon R5 Graphic Drivers: Windows 11/10/8/7 Guide and Downloads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-nokia-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Nokia ?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-full-spectrum-visionary-eizos-cg318-4k-reviewed-and-revealed/"><u>In 2024, Full Spectrum Visionary EIZO's CG318-4K Reviewed and Revealed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-proplus-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 Pro+ PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-x100-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo X100</u></a></li>
+<li><a href="https://win11.techidaily.com/shorten-or-lengthen-windows-sleep-timer/"><u>Shorten or Lengthen Windows Sleep Timer</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-12-pro-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme 12 Pro 5G Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 
