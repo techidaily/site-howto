@@ -1,7 +1,7 @@
 ---
 title: Revolutionary 4TBPS Optical Link Technology Integrated by Intel in Next-Gen CPU and GPU Chipsets
-date: 2024-10-21T16:25:27.046Z
-updated: 2024-10-28T17:34:15.892Z
+date: 2024-12-01T18:54:07.109Z
+updated: 2024-12-08T18:28:17.309Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -58,26 +62,18 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-safely-extract-youtube-audio-a-study-of-3-techniques/"><u>[New] 2024 Approved How to Safely Extract YouTube Audio A Study of 3 Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-swift-students-guide-to-bypassing-edgenuity-videos/"><u>[New] The Swift Student's Guide to Bypassing Edgenuity Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-youtube-editors-handbook-from-basics-to-pros/"><u>[New] The YouTube Editor's Handbook From Basics to Pros</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-editors-compendium-top-devices-transforming-media-projects/"><u>[Updated] 2024 Approved Editor's Compendium Top Devices Transforming Media Projects</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-z-flip-5-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy Z Flip 5? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-fixing-acrocefexe-errors-quickly-and-easily/"><u>Expert Advice on Fixing acrocef.exe Errors Quickly and Easily</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-your-lenovo-legion-5-pro-16ach6h-essential-driver-software-guide/"><u>How to Update Your Lenovo Legion 5 Pro (16ACH6H) - Essential Driver Software Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/photo-recovery-and-restoration-toolkit-enhance-and-fix-pictures-using-stellar-repair-v8-win/"><u>Photo Recovery & Restoration Toolkit: Enhance and Fix Pictures Using Stellar Repair V8 (Win)</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-itel-a60-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Itel A60 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/top-9-anime-streaming-sites-and-apps-compatible-with-playstation-4/"><u>Top 9 Anime Streaming Sites & Apps Compatible with PlayStation 4</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tickler-toolkit-image-mashup/"><u>[New] Tickler Toolkit Image Mashup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-online-photo-editing-tools-to-unblur-photos-effectively/"><u>[New] Top 10 Online Photo Editing Tools to Unblur Photos Effectively</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-create-an-awesome-valorant-thumbnail-for-youtube-videos/"><u>[Updated] 2024 Approved How To Create an Awesome Valorant Thumbnail for YouTube Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigating-youtube-success-through-strategic-studio-use/"><u>[Updated] In 2024, Navigating YouTube Success Through Strategic Studio Use</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-smart-8-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Smart 8 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-narzo-60-pro-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme Narzo 60 Pro 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-brio-webcam-driver-installation-guide-for-windows-versions-11-and-below/"><u>Latest Logitech Brio Webcam Driver Installation Guide for Windows Versions 11 and Below</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-best-budget-friendly-high-fidelity-webm-players/"><u>The Best Budget-Friendly, High-Fidelity WebM Players</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-lava-blaze-2-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Lava Blaze 2 Pro Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-i-prefer-classic-over-modern-gaming-insights-into-my-choice/"><u>Why I Prefer Classic Over Modern Gaming – Insights Into My Choice</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y77t-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y77t Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

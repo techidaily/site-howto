@@ -1,7 +1,7 @@
 ---
 title: Intel Elevates Processing Power with New Optical Connectivity Standard, Delivering Up to 4Tbps Data Transfer Rate for Chiplets
-date: 2024-11-09T09:41:57.654Z
-updated: 2024-11-12T05:42:50.576Z
+date: 2024-12-07T16:43:35.875Z
+updated: 2024-12-08T17:24:18.589Z
 tags:
   - desktop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/oPMXJGetzuURdNctz3AxRm-320-80.jpg
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
@@ -37,10 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,20 +67,20 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/-best-youtube-video-marketing-strategies-for-2024/"><u>[New] 5 Best YouTube Video Marketing Strategies for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-crafting-gopro-professionals-a-filmmaking-guide/"><u>[New] In 2024, Crafting GoPro Professionals A Filmmaking Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-instantpause-live-image-save-tips/"><u>[New] In 2024, InstantPause Live Image Save Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-plotting-the-pathway-for-engaging-youtube-content/"><u>[New] In 2024, Plotting the Pathway for Engaging YouTube Content</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-magic-in-managing-photos-with-magix/"><u>[Updated] Magic in Managing Photos with MAGIX</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-a05s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy A05s Quickly | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969553004-get-your-canon-imageclass-mf8200c-up-and-running-driver-downloads-for-win-7-81-and-e/"><u>Get Your Canon ImageCLASS MF8200C Up and Running: Driver Downloads for Win 7, 8.1 & E</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-safeguard-your-online-presence-from-robotic-indexing-tools-specifically-those-similar-to-openais-crawlers/"><u>How To Safeguard Your Online Presence From Robotic Indexing Tools, Specifically Those Similar to OpenAI's Crawlers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On OnePlus 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-tecno-pova-5-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Pova 5 Pro – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/pros-playbook-mastering-gameplay-logging-in-windows-10/"><u>Pro's Playbook Mastering Gameplay Logging in Windows 10</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-poco-f5-pro-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Poco F5 Pro 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oneplus-nord-n30-se-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My OnePlus Nord N30 SE Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-a-personalized-youtube-pathway-to-viewers/"><u>[New] In 2024, Crafting a Personalized YouTube Pathway to Viewers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-leading-screen-grabbers-top-picks-for-windows-11/"><u>[New] In 2024, Leading Screen Grabbers Top Picks for Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-potential-of-gopros-burst-functionality/"><u>[New] Unlocking the Potential of GoPro's Burst Functionality</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/implementing-precise-timing-features-for-engaged-youtube-audiences-for-2024/"><u>Implementing Precise Timing Features for Engaged YouTube Audiences for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-paying-for-verified-status-logical/"><u>Is Paying for Verified Status Logical?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/by-step-strategies-how-to-create-stellar-youtube-shorts-for-2024/"><u>Step-by-Step Strategies How to Create Stellar YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-to-store-your-data-in-icloud-from-iphone-try-these-9-fixes/"><u>Struggling to Store Your Data in iCloud From iPhone? Try These 9 Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-note-30-vip-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Note 30 VIP Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-iphone-16pro-cases-for-2-groovy-geniuses-our-picks-and-tests-zdnet/"><u>Ultimate Guide to iPhone 16/Pro Cases for 2 Groovy Geniuses! - Our Picks & Tests | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-excellence-with-google-play-games-beta-pc/"><u>Unlocking Gaming Excellence with Google Play Games Beta (PC)</u></a></li>
 </ul></div>
 
