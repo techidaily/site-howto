@@ -1,7 +1,7 @@
 ---
 title: "The Sibolan SZBox S69 Ryzen Mini PC: Retro Hues and Older Tech at a Price - Is It Your Superhero Pick?"
-date: 2024-12-05T21:21:14.377Z
-updated: 2024-12-08T22:01:43.450Z
+date: 2024-12-12T16:53:07.451Z
+updated: 2024-12-14T22:01:39.927Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,18 +88,19 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-real-time-engagement-strategies-for-online-streamers/"><u>[New] In 2024, Real-Time Engagement Strategies for Online Streamers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-highest-rated-10-non-game-screenshot-tools-for-2024/"><u>[Updated] Highest Rated 10 Non-Game Screenshot Tools for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a24-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy A24 support MOV videos ?</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-epson-xp-420-printer-software-update-and-download-instructions/"><u>Get the Newest Epson XP-420 Printer Software Update & Download Instructions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/illustration-giggles-memecrafterz-for-2024/"><u>Illustration Giggles MemeCrafterz for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ring-jump-cuts-for-dynamic-vlogging/"><u>Mastering Jump Cuts for Dynamic Vlogging</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/peeling-back-layers-of-the-apple-m1-chip-for-2024/"><u>Peeling Back Layers of the Apple M1 Chip for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pro-level-text-templates-for-adobe-ae-for-2024/"><u>Pro-Level Text Templates for Adobe AE for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-z-fold-5-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy Z Fold 5 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/the-social-diner-tiktoks-culinary-hotspots-for-2024/"><u>The Social Diner TikTok’s Culinary Hotspots for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-maximizing-your-virtual-meetings-expert-insights-on-using-zoom-win10-for-2024/"><u>[New] Maximizing Your Virtual Meetings Expert Insights on Using Zoom (Win10) for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-complying-with-aspect-ratios-in-tweets/"><u>2024 Approved Complying with Aspect Ratios in Tweets</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-enhancing-your-site-with-advanced-tracking-capabilities/"><u>Cookiebot-Enabled: Enhancing Your Site with Advanced Tracking Capabilities</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dota-2-optimization-tips-and-tricks-to-overcome-lag-challenges-in-the-new-year/"><u>Dota 2 Optimization Tips and Tricks to Overcome Lag Challenges in the New Year</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-updated-mpow-bluetooth-drivers-for-smooth-connectivity-on-windows-1187-systems-free/"><u>Get Updated MPOW Bluetooth Drivers for Smooth Connectivity on Windows 11/8/7 Systems - FREE</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-gionee-f3-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Gionee F3 Pro Phone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-smart-selections-the-premier-list-of-costless-streamers-apps-and-software/"><u>In 2024, Smart Selections The Premier List of Costless Streamers Apps & Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/lgs-ultrafine-4k-display-unpacked-a-detailed-analysis/"><u>LG's UltraFine 4K Display Unpacked A Detailed Analysis</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-lava-blaze-2-by-fonelab-android-recover-music/"><u>Undelete lost music from Lava Blaze 2</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
 </ul></div>
 

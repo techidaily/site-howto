@@ -1,7 +1,7 @@
 ---
 title: AMD Raises Projected Revenue for Instinct MI1300 Series to $4B, But Still Shadows Nvidia's Staggering $40B Estimate
-date: 2024-12-02T16:45:16.691Z
-updated: 2024-12-08T18:39:20.973Z
+date: 2024-12-12T17:11:08.756Z
+updated: 2024-12-14T17:45:32.928Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,22 +60,24 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-optimal-data-recorder-for-sony-a7c-model/"><u>[Updated] In 2024, Optimal Data Recorder for Sony A7C Model</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-12-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme 12 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-huawei-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Huawei Phone Screen?</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2020-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2020) without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-can-instagrams-video-selfies-be-trusted/"><u>In 2024, Can Instagram's Video Selfies Be Trusted?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-11-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 11 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-p40plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel P40+ to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/recuperation-gratuite-de-fichiers-effaces-decouvrez-ces-5-methodes-essentielles/"><u>Récupération Gratuite De Fichiers Effacés : Découvrez Ces 5 Méthodes Essentielles !</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-gt-3-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme GT 3 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y36-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y36 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-k70-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi K70 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-free-video-editing-software-for-newbies-for-2024/"><u>Updated Top-Rated Free Video Editing Software for Newbies for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-x100-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X100 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-4g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 4G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1728474675380-404/"><u>オンラインコンテンツにアクセスしようとすると見つからない：404エラー解析</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unleashing-video-potential-steps-to-become-a-staff-pick-favorite/"><u>[Updated] 2024 Approved Unleashing Video Potential Steps to Become a Staff Pick Favorite</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-cutting-edge-strategies-for-youtube-split-screen-videos/"><u>[Updated] In 2024, Cutting-Edge Strategies for YouTube Split-Screen Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/3dvd/"><u>「地域ブロック3に制限されたDVDのプレイバック手順とトラブルシューティング」</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mxfwindowsmac-osmov/"><u>簡単なガイド: MXF画像をWindows/Mac OS用MOVファイルに変更する方法</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-nokia-c02-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nokia C02 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-motorola-moto-g14-device-sim-by-drfone-android/"><u>Easily Unlock Your Motorola Moto G14 Device SIM</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-can-i-speed-up-my-computers-startup-process-expert-advice-from-yl-computing/"><u>How Can I Speed Up My Computer's Startup Process? - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-tech-professionals-can-overcome-burnout-with-positive-developments-discoveries-by-zdnet/"><u>How Tech Professionals Can Overcome Burnout with Positive Developments - Discoveries by ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-x90s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo X90S Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-oppo-find-x7-ultra-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Find X7 Ultra Safely | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maximize-your-savings-discover-premier-offers-on-high-quality-tribit-speakers-and-earbuds-during-prime-day-sales-events/"><u>Maximize Your Savings - Discover Premier Offers on High-Quality Tribit Speakers and Earbuds During Prime Day Sales Events</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/opusmp4movavi/"><u>OPUS到MP4转换：Movavi免费线上解码服务</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-oppo-f23-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo F23 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-high-cpu-consumption-in-god-of-war-game-tips-and-tricks/"><u>Resolving High CPU Consumption in God of War Game - Tips and Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v30-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-a15-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy A15 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-narzo-60x-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme Narzo 60x 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

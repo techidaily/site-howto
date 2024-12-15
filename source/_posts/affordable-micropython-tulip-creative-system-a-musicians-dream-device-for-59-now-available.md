@@ -1,7 +1,7 @@
 ---
 title: "Affordable MicroPython Tulip Creative System: A Musician's Dream Device for $59 - Now Available!"
-date: 2024-12-07T20:55:11.604Z
-updated: 2024-12-08T17:29:01.557Z
+date: 2024-12-11T22:45:23.443Z
+updated: 2024-12-14T17:53:33.018Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,17 +56,15 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-cloud-choice-best-value-in-data-safekeeping/"><u>[New] Cloud Choice Best Value in Data Safekeeping</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-quick-refresher-green-screen-film-tech-basics/"><u>[Updated] 2024 Approved Quick Refresher Green Screen Film Tech Basics</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-oppo-reno-10-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Oppo Reno 10 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-new-frontiers-in-technology-a-comprehensive-guide-to-samsung-devices-including-galaxy-ring-z-fold-and-flip-6-and-the-watch-ultra/"><u>Discover New Frontiers in Technology - A Comprehensive Guide to Samsung Devices Including Galaxy Ring, Z Fold & Flip 6, and the Watch Ultra.</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-complete-look-into-razers-streaming-hardware/"><u>In 2024, Complete Look Into Razer's Streaming Hardware</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/662447-9781780570297-the-jan-de-vries-guide-to-health-and-vitality/"><u>The Jan de Vries Guide to Health and Vitality | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y100i-power-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y100i Power 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/triggering-instant-play-for-youtube-videos-on-social-media/"><u>Triggering Instant Play for YouTube Videos on Social Media</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-instructions-for-installing-inf-drivers-across-various-windows-operating-systems-windows-1078xpvista/"><u>Ultimate Instructions for Installing Inf Drivers Across Various Windows Operating Systems (Windows 10/7/8/XP/Vista)</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-honor-play-40c-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor Play 40C Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-cutting-edge-easy-to-use-mastering-magix-vpxs-capabilities/"><u>[New] Cutting Edge, Easy to Use Mastering Magix VPX's Capabilities</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-off-switch-for-instagrams-igtv/"><u>[Updated] 2024 Approved Off Switch for Instagram's IGTV</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-design-your-digital-joke-for-2024/"><u>[Updated] Design Your Digital Joke for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-harnessing-the-power-of-animated-graphics-for-2024/"><u>[Updated] Harnessing the Power of Animated Graphics for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2024-vimeo6/"><u>「2024年に最適! Vimeoから安全で簡単な動画ダウンロードを手っ取り早く楽しむためのベスト6サイト」</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-infinix-hot-40i-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Infinix Hot 40i? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-s17-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo S17? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-infinix-note-30i-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Infinix Note 30i Location | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/lava-yuva-3-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 

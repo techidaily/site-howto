@@ -1,7 +1,7 @@
 ---
 title: Revolutionary 'U'-Formed Chinese PC, Enhanced by Additional External PCIe Slot Support
-date: 2024-12-06T20:29:50.545Z
-updated: 2024-12-08T17:34:19.700Z
+date: 2024-12-13T22:46:41.595Z
+updated: 2024-12-14T18:49:06.105Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,16 +60,19 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-scrutinizing-vsdc-screen-recording-capabilities/"><u>[New] In 2024, Scrutinizing VSDC Screen Recording Capabilities</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-delving-into-recmeisters-capabilities-for-quality-video-capture-for-2024/"><u>[Updated] Delving Into Recmeister’s Capabilities for Quality Video Capture for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-spectacular-photo-narrative-construction-suite/"><u>[Updated] Spectacular Photo Narrative Construction Suite</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-motorola-edge-40-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Edge 40 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-much-do-podcasters-earn-on-average/"><u>How Much Do Podcasters Earn on Average?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leading-speedy-visualizer-in-windows/"><u>In 2024, Leading Speedy Visualizer in Windows</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/mline-your-listening-exclusive-access-to-this-curated-list-of-24-free-rippers/"><u>Streamline Your Listening Exclusive Access to This Curated List of 24 Free Rippers</u></a></li>
-<li><a href="https://common-error.techidaily.com/surface-sync-successful/"><u>Surface Sync Successful</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-v30-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-mix-fold-3-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Mix Fold 3 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimal-strategies-for-enhancing-vhs-photos-digitally/"><u>[New] Optimal Strategies for Enhancing VHS Photos Digitally</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-optimizing-mac-ipad-iphone-browsing-via-pip/"><u>[Updated] 2024 Approved Optimizing Mac, iPad, iPhone Browsing via PIP</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-masterful-social-media-monitoring-expert-selection-of-analytics-software/"><u>2024 Approved Masterful Social Media Monitoring Expert Selection of Analytics Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-next-gen-wraps-for-virtual-reality-enthusiasts/"><u>2024 Approved Next-Gen Wraps for Virtual Reality Enthusiasts</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/boost-web-performance-using-the-power-of-cookiebot-technology/"><u>Boost Web Performance Using The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-pro-4g-bootloader-easily-by-drfone-android/"><u>How to Unlock Poco M6 Pro 4G Bootloader Easily</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-instantaneous-youtube-profit-projections/"><u>In 2024, Instantaneous YouTube Profit Projections</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-htc-u23-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on HTC U23 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/propel-views-up-top-hashtag-combinations-for-youtube-profit-for-2024/"><u>Propel Views Up Top Hashtag Combinations for YouTube Profit for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y28-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y28 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy S23 | Dr.fone</u></a></li>
 </ul></div>
 
