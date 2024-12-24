@@ -1,7 +1,7 @@
 ---
 title: Mastering PC Builds and Upgrades with Tom's Hardware Advice
-date: 2024-12-08T19:58:47.285Z
-updated: 2024-12-14T23:15:07.091Z
+date: 2024-12-17T22:13:25.614Z
+updated: 2024-12-23T23:18:42.564Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,18 +66,19 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-digital-deck-of-cards-youtubes-milestone-challenges/"><u>[New] In 2024, Digital Deck of Cards YouTube's Milestone Challenges</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-from-vast-views-to-virtual-visibility-sharing-immersive-content-online/"><u>[New] In 2024, From Vast Views to Virtual Visibility Sharing Immersive Content Online</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-unleash-the-power-of-engaging-headline-crafting-for-2024/"><u>[New] Unleash the Power of Engaging Headline Crafting for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-innovative-applications-of-chatgpt-for-wellness/"><u>9 Innovative Applications of ChatGPT for Wellness</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-full-review-for-gopro-hero4-sliver/"><u>In 2024, Full Review for GoPro Hero4 Sliver</u></a></li>
-<li><a href="https://howto.techidaily.com/infinix-zero-30-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Zero 30 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-creative-thinking-generating-topics-using-mind-maps-and-chatgpt/"><u>Mastering Creative Thinking: Generating Topics Using Mind Maps & ChatGPT</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-nokia-c300-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C300 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-smart-8-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Smart 8 Pro Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-best-3d-software-for-youtube-intro-creators/"><u>The Best 3D Software for YouTube Intro Creators</u></a></li>
-<li><a href="https://video-capture.techidaily.com/windows-best-video-talks-ranked-1-8/"><u>Windows' Best Video Talks Ranked #1-8</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-stealth-instagram-story-viewing-guide-for-desktops-android-and-ios/"><u>[Updated] 2024 Approved Stealth Instagram Story Viewing Guide for Desktops, Android & iOS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-say-no-to-youtube-shorts-forever-your-guide/"><u>[Updated] Say No to YouTube Shorts Forever Your Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-handbook-of-gopro-time-lapse-photography-excellence/"><u>[Updated] The Complete Handbook of GoPro Time-Lapse Photography Excellence</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-how-to-access-free-gaming-scores-legally-and-easily/"><u>2024 Approved How to Access Free Gaming Scores Legally and Easily</u></a></li>
+<li><a href="https://article-files.techidaily.com/affordable-wide-angle-vr-cameras-for-filmmaking-for-2024/"><u>Affordable Wide-Angle VR Cameras for Filmmaking for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-elevate-your-youtube-videos-popularity-through-persistent-cc-licensing-for-2024/"><u>How to Elevate Your YouTube Video's Popularity Through Persistent CC Licensing for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/poco-c50-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C50 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nubia-z50s-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nubia Z50S Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x90s-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X90S Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-nokia-c12-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nokia C12 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

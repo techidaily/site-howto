@@ -1,7 +1,7 @@
 ---
 title: Revolutionary 'U'-Formed Chinese PC, Enhanced by Additional External PCIe Slot Support
-date: 2024-12-13T22:46:41.595Z
-updated: 2024-12-14T18:49:06.105Z
+date: 2024-12-21T18:19:25.219Z
+updated: 2024-12-23T17:52:49.419Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,19 +60,22 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-optimal-strategies-for-enhancing-vhs-photos-digitally/"><u>[New] Optimal Strategies for Enhancing VHS Photos Digitally</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-optimizing-mac-ipad-iphone-browsing-via-pip/"><u>[Updated] 2024 Approved Optimizing Mac, iPad, iPhone Browsing via PIP</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-masterful-social-media-monitoring-expert-selection-of-analytics-software/"><u>2024 Approved Masterful Social Media Monitoring Expert Selection of Analytics Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-next-gen-wraps-for-virtual-reality-enthusiasts/"><u>2024 Approved Next-Gen Wraps for Virtual Reality Enthusiasts</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/boost-web-performance-using-the-power-of-cookiebot-technology/"><u>Boost Web Performance Using The Power of Cookiebot Technology</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-pro-4g-bootloader-easily-by-drfone-android/"><u>How to Unlock Poco M6 Pro 4G Bootloader Easily</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-instantaneous-youtube-profit-projections/"><u>In 2024, Instantaneous YouTube Profit Projections</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-htc-u23-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on HTC U23 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/propel-views-up-top-hashtag-combinations-for-youtube-profit-for-2024/"><u>Propel Views Up Top Hashtag Combinations for YouTube Profit for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y28-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y28 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-10-superior-youtube-mp3-extractors-for-2024/"><u>[New] 10 Superior YouTube Mp3 Extractors for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-laughoutloud-maker-get-funny-faces-on-the-web/"><u>[New] In 2024, LaughOutLoud Maker Get Funny Faces on the Web</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-saving-movies-effortlessly-pc-mac-and-iosandroid/"><u>[Updated] 2024 Approved Saving Movies Effortlessly PC, Mac & iOS/Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-transcribe-a-youtube-video-free/"><u>[Updated] How to Transcribe a YouTube Video [FREE]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-firefoxs-picture-in-picture-capabilities/"><u>[Updated] Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-navigating-new-user-registration-on-twitter/"><u>[Updated] Navigating New User Registration on Twitter</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unprecedented-engagement-reaching-for-a-million-audience-for-2024/"><u>[Updated] Unprecedented Engagement Reaching for a Million Audience for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware/"><u>Navigating the World of Electronics with Tom's Hardware</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-13-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 13 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/zte-nubia-z60-ultra-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Nubia Z60 Ultra Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
 

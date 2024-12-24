@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom's Workshop: A Comprehveiw of Cutting-Edge Computer Tech"
-date: 2024-12-07T16:14:49.182Z
-updated: 2024-12-14T22:07:55.897Z
+date: 2024-12-20T00:30:02.131Z
+updated: 2024-12-23T18:11:55.521Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,18 +56,24 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-laptoppc-when-speaker-plugged-in-but-silent/"><u>How to Restore Audio on Laptop/PC when 'Speaker Plugged In' But Silent?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-itel-a05s-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Itel A05s Location Settings | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y100a-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y100A Phone Hassle-Free</u></a></li>
-<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-how-to-save-your-favorite-the-daily-show-shows-as-mp4-mp3-avi-and-more/"><u>Step-by-Step Tutorial: How to Save Your Favorite 'The Daily Show' Shows as MP4, MP3, AVI, & More!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-work-utilizing-gpt-as-a-personal-aide/"><u>The Future of Work: Utilizing GPT as a Personal Aide</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-vivo-y28-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Vivo Y28 5G</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/transform-your-tiktok-profile-with-these-cutting-edge-pfps-for-2024/"><u>Transform Your TikTok Profile with These Cutting-Edge PFPs for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-t2-pro-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo T2 Pro 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oppo-a78-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo A78 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-realme-11-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme 11 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-savory-streamers-the-creme-de-la-cuisine/"><u>[New] 2024 Approved Savory Streamers The Crème De La Cuisine</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-cloud-consortium-choices-best-spaces-revealed/"><u>[Updated] In 2024, Cloud Consortium Choices Best Spaces Revealed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-step-by-step-wirecast-livestream-on-youtube-for-2024/"><u>[Updated] Step-by-Step WireCast Livestream on YouTube for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oneplus-11r-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your OnePlus 11R? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elite-index-of-public-domain-picture-sources-for-2024/"><u>Elite Index of Public Domain Picture Sources for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fb-profile-snap-intro-dimensions-file-type-duration-for-2024/"><u>FB Profile Snap Intro Dimensions, File Type, Duration for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-moto-g24-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Moto G24 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixcomputerscreensideup-issue/"><u>FixComputerScreensideUp Issue</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-v29-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo V29 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-becoming-a-video-wizard-with-screencast-insider-tips/"><u>In 2024, Becoming a Video Wizard with Screencast Insider Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/simplified-data-restoration-discover-the-latest-upgrades-to-stellars-consumer-focused-software/"><u>Simplified Data Restoration: Discover the Latest Upgrades to Stellar's Consumer-Focused Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-9plus-secure-unlocking-apps-with-fingerprint-recognition-for-android-smartphones/"><u>The Ultimate List: 9+ Secure Unlocking Apps with Fingerprint Recognition for Android Smartphones</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-a56s-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo A56s 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-discord-streaming-issues-and-crashes/"><u>Troubleshooting Guide: Overcoming Discord Streaming Issues and Crashes</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-zte-nubia-z60-ultra-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from ZTE Nubia Z60 Ultra? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-4g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 4G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 
