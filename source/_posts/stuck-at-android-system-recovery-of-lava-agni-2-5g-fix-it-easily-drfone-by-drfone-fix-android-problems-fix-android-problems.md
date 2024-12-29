@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Lava Agni 2 5G ? Fix It Easily | Dr.fone
-date: 2024-12-18T22:05:16.472Z
-updated: 2024-12-23T23:43:12.744Z
+date: 2024-12-22T02:50:18.859Z
+updated: 2024-12-28T23:45:33.693Z
 tags: 
   - problems
 categories:
@@ -52,6 +52,10 @@ Step 5: Finally, press and hold both the Power and the Volume up Key for around 
 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One-stop solution to fix Android stuck at System recovery
@@ -77,10 +81,6 @@ Once installed on your computer, open onto the main menu and connect your Lava A
 
 ![get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Insert your device information, including the brand, carrier details, model and country and region you're in to ensure you're downloading the correct firmware.
 
 ![select items to correctly fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -104,10 +104,6 @@ After downloading, the software will automatically start to repair your device b
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
@@ -155,6 +151,10 @@ There is no doubt that it is quite frustrating when your device buttons, such as
 
 Here, we are going to mention four common methods that you can try to resolve the home button problem on your Lava Agni 2 5G with ease.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.1 One click to fix Android Home Button Not Working
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>[Try It Free](https://download.wondershare.com/drfone_repair_full3371.exe)
@@ -179,10 +179,6 @@ Step 1: To begin with the process, launch the software on your computer and sele
 
 ![fix home button not working android](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Thereafter, connect your Lava Agni 2 5G to the computer using a USB cable and select the “Android Repair” tab from the left menu.
 
 ![home button not working android - connect device](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -194,10 +190,6 @@ Step 3: Next, you will navigate to a device information page where you have to p
 Step 4: After that, the software will download the appropriate firmware to repair your Android system.
 
 ![home button not working android - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: After downloading the firmware, the software will start the repair process. Wait for a few seconds, the problem should get fixed and your phone will get back to its normal state.
 
@@ -228,10 +220,6 @@ Step 2: Next, tap on “Erase all data”>” Reset phone” to factory reset on
 Once you are done with the above steps, restart your phone and restore your data and this might be fixed the problem for you. If not, then try the next solution.
 
 ![home button not working android - factory reset](https://images.wondershare.com/drfone/article/2019/02/factory-reset-phone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.4 Update Android Firmware
 
@@ -326,6 +314,10 @@ Is your Android physical home button is broken or dead? If yes, then the Multi-a
 
 ![home button not working android - Multi-action Home Button app](https://images.wondershare.com/drfone/article/2019/02/multi-action-home-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pros:
 
 - It provides various actions with the button.
@@ -336,6 +328,10 @@ Cons:
 - The app's very useful feature comes with its pro version.
 
 URL: [https://play.google.com/store/apps/details?id=com.home.button.bottom](https://play.google.com/store/apps/details?id=com.home.button.bottom)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -387,6 +383,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Three** Next, use the drop-down menus to make sure all the information about your specific device is correct, including your device, operating system number, and carrier information. Click Next to confirm your selections.
 
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -395,23 +395,19 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - download mode to fix issues](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step Five** The software will now begin the repair process. This will happen automatically, and all you’ll need to do is make sure your device doesn’t disconnect during this process, and your computer doesn’t turn off.
 
 ![bluetooth not working on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Lava Agni 2 5G and start using it and your Bluetooth features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.2 Restart Android and turn on Bluetooth again
 
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 One of the most common solutions in technology is simply to turn it on and off again, which is the case to happen here. By restarting your device, you can clear out any problems you may be suffering from to help it get up and running again. Here’s how;
 
@@ -421,12 +417,16 @@ One of the most common solutions in technology is simply to turn it on and off a
 4. Navigate Settings > Bluetooth and then enable the setting
 5. Try to connect your Bluetooth device to what you were trying to do before
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.3 Clear the Bluetooth cache
 
 ![android bluetooth problems - clear cache](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-cache.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Every service on your Lava Agni 2 5G using a feature called a cache. This is where information is stored to help the feature run properly and give you the best experience. However, over time this can get messy and can cause problems with your Bluetooth feature.
@@ -443,6 +443,10 @@ By clearing the cache, you can restart the service and hopefully clear up any is
 
 ![android bluetooth problems - remove paired devices](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-paried.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sometimes, you may have a problem with the Lava Agni 2 5G device you’re trying to connect to via Bluetooth, especially if this is a device you’ve updated. To counter and repair this, you’re going to need to remove the paired devices saved with your device and then reconnect them.
 
 Here’s how;
@@ -456,10 +460,6 @@ Here’s how;
 
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you’re having problems with your connection and paired devices, sometimes you may have conflicting software faults in your device that are causing the problems. If this is the case, you’ll need to boot your Lava Agni 2 5G in Safe Mode.
 
 This is an operating state in which your phone will run the bare minimum services it needs to perform. If your Bluetooth works in Safe Mode, you know you have an app or a service that’s causing the problem.
@@ -471,10 +471,6 @@ Here’s how to find out;
 3. The phone will automatically boot into Safe Mode
 4. Wait a minute on the Main Menu
 5. Now turn on your Bluetooth and connect it to your preferred device
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.6 Turn on the discoverable feature
 
@@ -488,6 +484,10 @@ Here’s how to turn on your Bluetooth discoverable feature;
 2. Toggle the Bluetooth switch, so it’s on
 3. Under the available settings, tick the box that allows your Bluetooth device to be discoverable
 4. Turn your Bluetooth feature on and connect to the Lava Agni 2 5G device you’re trying to connect too
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.7 Exclude Bluetooth issues of the other device
 
@@ -534,18 +534,18 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-record-and-share-every-victory-in-obs/"><u>2024 Approved Record & Share Every Victory in OBS</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capture-and-preserve-sound-on-windows-10-for-2024/"><u>Capture and Preserve Sound on Windows 10 for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-iphone-15-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your iPhone 15 Plus without Security Questions?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-mastering-chronos-shifts-using-phantoms-time-reversed-footage/"><u>In 2024, Mastering Chronos Shifts Using Phantom's Time-Reversed Footage</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/migracion-de-datos-entre-windows-10-y-11-tres-tecnicas-faciles-para-transferir-archivos-eficientemente/"><u>Migración De Datos Entre Windows 10 Y 11: Tres Técnicas Fáciles Para Transferir Archivos Eficientemente</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-vivo-x100-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo X100 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-12-vlogger-friendly-cameras-unveiled-in-2024/"><u>Top 12 Vlogger-Friendly Cameras Unveiled, In 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-intels-explanation-behind-frequent-desktop-cpu-failures/"><u>Understanding Intel's Explanation Behind Frequent Desktop CPU Failures</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-zero-30-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Zero 30 5G Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-civi-3-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Civi 3 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-honor-x7b-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor X7b Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nleashing-brand-potential-with-free-youtube-marketing-templates/"><u>[New] Unleashing Brand Potential with FREE YouTube Marketing Templates</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-digital-audio-streaming-and-recording/"><u>[Updated] 2024 Approved The Ultimate Guide to Digital Audio Streaming & Recording</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unlocking-kinemaster-potential-how-to-engage-and-top-alternatives-compared/"><u>[Updated] In 2024, Unlocking KineMaster Potential How To Engage and Top Alternatives Compared</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-ideal-internet-hubs-alarm-tunes-acquisition-spots/"><u>2024 Approved Ideal Internet Hubs Alarm Tunes Acquisition Spots</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-10-innovative-podcast-microphone-picks/"><u>2024 Approved Top 10 Innovative Podcast Microphone Picks</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-90-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor 90 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-13c-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi 13C Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/gamers-guide-to-high-quality-live-recording-for-2024/"><u>Gamers' Guide to High-Quality Live Recording for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-v30ts-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme V30Ts Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y100t-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y100t Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-selection-of-ideal-mobile-devices-for-children/"><u>ZDNet's Selection of Ideal Mobile Devices for Children</u></a></li>
 </ul></div>
 

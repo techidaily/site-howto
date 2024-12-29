@@ -1,7 +1,7 @@
 ---
 title: Sony Xperia 1 V Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone
-date: 2024-12-08T18:16:17.879Z
-updated: 2024-12-14T17:41:57.600Z
+date: 2024-12-24T20:37:24.256Z
+updated: 2024-12-28T20:42:10.743Z
 tags: 
   - problems
 categories:
@@ -21,6 +21,10 @@ It is very common that the Android messaging app is not working on many devices 
 You might find lots of people online stating I can't receive text messages on Android. And usually, people don’t find a legit solution for this issue. If you are also experiencing this sort of issue on your Sony Xperia 1 Vs, then don’t panic. We have a series of methods that can supposedly fix the problem. But at first, we will learn what the main reasons this problem arises are and how do you know that it is consistent not some random error.
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
@@ -49,6 +53,10 @@ Apart from all these reasons, some additional causes are also there that can lea
 If you are not willing to waste your precious time fixing the message problem, then you can switch to the top-rated Android repair tool, i.e., [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). With this software, you can easily fix issues like the black screen of death, crashing apps, can't receive text messages on Android, or failed download. If you have no idea what is causing the message app problem, you can simply think of repairing the whole Android system.
 
 You surely need to try the software as it can perform the following tasks:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -106,6 +114,10 @@ Step 1: Open the Settings and go to Apps. Find the Messages app from the list an
 
 ![android not receiving texts clear cache](https://images.wondershare.com/drfone/article/2019/02/clear-message-cache.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Click on the Clear Cache button and wait as the Sony Xperia 1 V device free up the memory of your device.
 
 Once the cache is cleared, you can also clear the data if you want to and you’ll instantly receive the text messages on your phone.
@@ -130,10 +142,6 @@ _Further Reading: [15 Best Free Chat Apps in 2022. Chat Now!](https://drfone.won
 
 Another possible fix to this problem might be your phone’s battery percentage. Sometimes, when the Android is in power saving mode, it disables the default apps too. As a result, you can't even receive text messages on Android. So, when you plug in the charger, the power saving mode will be disabled, and you will get your text messages.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 10: Ensure It’s Not An iMessage From iPhone
 
 If the Sony Xperia 1 V phone is not receiving texts from iPhone, then this might be a different issue. Usually, there is an option on the iPhone where they can send texts as iMessage and simple messages. If the iPhone user sends the text as iMessage, then it will not show up on the Android device. To resolve this, you have to follow the steps below:
@@ -142,11 +150,11 @@ Taking the iPhone in hand makes sure that you are connected to a network. Open s
 
 ![android not receiving texts - check iphone message](https://images.wondershare.com/drfone/article/2019/02/deactivate-imessages.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the FaceTime option is also on, you might have to deactivate that too to send messages and calls as regular ones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 11: [Update Your Android](https://drfone.wondershare.com/android-update/samsung-update.html)
 
@@ -155,6 +163,10 @@ Updating the operating system to the latest Android version can fix some system 
 ### Conclusion
 
 Now you know several methods that can work if the Android messaging app is not working.  If you experience this kind of issue with your Sony Xperia 1 V, then you are most likely to resolve them with these fixes. If none of the solutions seem to fix the issue, then you can take the help of Dr. Fone - System Repair (Android) feature. With this tool, you can resolve all kinds of working issues on your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Play Store Not Working On Sony Xperia 1 V? 8 Solutions Inside
 
@@ -173,10 +185,6 @@ The Google Play Store serves as the epicenter for Android users. It facilitates 
 ### Inability To Open the Play Store
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Crashing Issues
 
@@ -243,7 +251,7 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reset App Preferences
@@ -263,6 +271,10 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 - **Step 2:** Select **Google** and remove the account. Re-add the Google account and verify if the Play Store functions properly.
 
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Uninstall Play Store Updates
 
@@ -353,10 +365,6 @@ Lastly, you can also check if you use a protective cover for your phone. Sometim
 
 Now, once you have analyzed the problem, it is easier to move on to the solutions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Check the battery status on Android
 
 If your phone turns off now and then while you are using it and even refuses to start when you press the power button, we suspect that there is a problem with your phone's battery. Well, Luckily for Android users, there is a test that can be run on the phone to check the battery’s operations and health. Not many users are aware of it, and thus, we have compiled what you need to do the next time you wonder why does My Sony Xperia 1 V keeps shutting off itself.
@@ -364,6 +372,10 @@ If your phone turns off now and then while you are using it and even refuses to 
 First, open the dialer on your Sony Xperia 1 V shown in the screenshot below.
 
 ![open the dialer](https://images.wondershare.com/drfone/article/2017/07/14994528759955.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now dial \*#\*#4636#\*#\* just like dialing a usual phone number and wait for the “Battery Info” screen to pop up.
 
@@ -419,10 +431,6 @@ For a device with the ‘Home’ button – Turn off the mobile and then hold do
 
 ![fix phone keeps turning off with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For a device lacking ‘Home’ button – After switching off the Android mobile, hold down ‘Bixby’, ‘Power’, ‘Volume Down’ key still 10 seconds. Now, un-hold them and tap the ‘Volume Up’ button to enter the ‘Download’ mode.
 
 ![fix phone keeps turning off with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
@@ -447,10 +455,6 @@ Go to "Settings" on your Sony Xperia 1 V and navigate to the "System" or "Softwa
 
 ![update software](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5: Cool down your phone to avoid your phone keeps turning off
 
 When a phone overheats, it can trigger an automatic shutdown as a protective mechanism to prevent damage to the Sony Xperia 1 V device's internal components. Overheating occurs when the phone's internal temperature rises significantly, typically due to excessive heat generated by the processor and other hardware components during intensive tasks or prolonged usage.
@@ -458,6 +462,10 @@ When a phone overheats, it can trigger an automatic shutdown as a protective mec
 To prevent the phone from turning off due to overheating, you can take various measures, such as limiting intensive usage, avoiding direct sunlight and hot environments, and using the phone on hard surfaces to aid heat dissipation.
 
 ![cool down the phone](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: Narrow down the randomly turning off issue in Safe Mode
 
@@ -478,10 +486,6 @@ Once done, the phone will reboot and you will see “Safe Mode” on the main sc
 ![safe mode](https://images.wondershare.com/drfone/article/2017/07/14994529591962.jpg)
 
 That's all. Well, booting to Safe Mode is easy and it also helps you to identify the real problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 7: Back up your data and perform a factory reset
 
@@ -510,21 +514,17 @@ Now connect the Android phone to the PC and make sure that USB debugging is turn
 
 ![connect](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You will see the file types that will be backed up. Wait for the backup process to complete.
 
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There you go, you have successfully backed up data.
 
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
@@ -566,17 +566,18 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-creators-of-screenplay-world/"><u>[New] Prime Creators of Screenplay World</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-manycam-recorder-review/"><u>[Updated] In 2024, ManyCam Recorder Review</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-huawei-nova-y71-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Huawei Nova Y71 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-engaging-in-the-moment-of-a-tiktok-life/"><u>2024 Approved Engaging in the Moment of a TikTok Life</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/filme-auf-dvd-mit-optionaler-synchronisation-oder-erzwungener-untertitelunterstutzung/"><u>Filme Auf DVD Mit Optionaler Synchronisation Oder Erzwungener Untertitelunterstützung</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nokia-c02-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C02 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-13c-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi 13C ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-honor-x50iplus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Honor X50i+ Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-affordable-gaming-companion-an-in-depth-look-at-the-nintendo-switch-lite-edition/"><u>The Affordable Gaming Companion: An In-Depth Look at the Nintendo Switch Lite Edition</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-infinix-note-30-vip-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Infinix Note 30 VIP to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-angled-artistry-elevating-youtube-video-editing-skills/"><u>[New] 2024 Approved Angled Artistry Elevating YouTube Video Editing Skills</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-path-to-professional-presence-youtube-tips-and-tricks/"><u>[New] 2024 Approved The Path to Professional Presence YouTube Tips & Tricks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ow-to-download-youtube-thumbnail-in-3-waysonlinewinmac/"><u>[New] How to Download Youtube Thumbnail in 3 Ways[Online/Win/Mac]</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-youtube-audio-uploads-for-2024/"><u>[New] Mastering YouTube Audio Uploads for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outubes-video-editing-power-plus-professional-equivalents-for-2024/"><u>[New] YouTube's Video Editing Power + Professional Equivalents for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-boosting-social-reach-top-facebook-video-engagement-techniques/"><u>[Updated] Boosting Social Reach Top Facebook Video Engagement Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-google-pixel-8-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Google Pixel 8 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/cookiebot-enhanced-sites-power-your-online-presence/"><u>Cookiebot-Enhanced Sites: Power Your Online Presence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-determining-the-exact-macbook-model-reference-for-your-device/"><u>Guide to Determining the Exact MacBook Model Reference for Your Device</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-learn-youtube-live-streaming-with-easy-obs-guide/"><u>In 2024, Learn YouTube Live Streaming with Easy OBS Guide</u></a></li>
 </ul></div>
 

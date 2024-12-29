@@ -1,7 +1,7 @@
 ---
 title: Essential Alterations for an Enhanced User Experience in GPT Plugins Store
-date: 2024-12-17T22:38:29.714Z
-updated: 2024-12-24T00:31:14.339Z
+date: 2024-12-23T12:21:48.408Z
+updated: 2024-12-28T19:15:21.880Z
 tags:
   - chatgpt
   - open-ai
@@ -20,16 +20,12 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
  While some of the extensions improve the ChatGPT app, others use the AI's abilities in other webapps (such as Gmail) to improve the experience there. Do note that all but of one of these extensions require you to have a registered free account on OpenAI's ChatGPT portal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. WebChatGPT
 
 ![WebChatGPT takes your ChatGPT prompt and performs a search query with it first, and then instructs ChatGPT to use those search results while answering your query so that its data is more updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-chatgpt-browser-extensions-chrome-webchatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As impressive as ChatGPT's answers are, it's still limited. If you know[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) , you'll know that it isn't scraping the internet for the latest information about any topic or news. The AI works on older data and doesn't search the internet. WebChatGPT is an innovative workaround for this problem that adds web search results to ChatGPT.
 
@@ -68,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
@@ -87,15 +83,15 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
 
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
  Talk-to-ChatGPT is an open-source extension that lets you fiddle around with the settings. You can choose from different AI voices, the voice pitch, and the speed at which text is read. It also supports voice command shortcuts of "Stop" and "Pause" to control playback.
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. ChatGPT for Search Engines
 
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Awesome, But Be Realistic…
@@ -152,22 +152,20 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-ps5-external-hard-drives/"><u>[New] In 2024, Top 10 PS5 External Hard Drives</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-journey-through-animated-expression-your-guide-to-snapface-magic/"><u>[New] Journey Through Animated Expression Your Guide to Snapface Magic</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-value-oriented-pc-screen-recorders-for-2024/"><u>[New] Value-Oriented PC Screen Recorders for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-front-rows-of-recreation-beyond-the-sports-arena/"><u>[Updated] Front Rows of Recreation Beyond the Sports Arena</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-simplified-guide-to-mobile-video-capture-for-2024/"><u>[Updated] Simplified Guide to Mobile Video Capture for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-tips-for-disconnecting-unfollowing-on-instagram-for-2024/"><u>[Updated] Tips for Disconnecting Unfollowing on Instagram for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-metaverse-versus-multimetase-analyzing-their-core-disparities/"><u>2024 Approved Metaverse Versus MultiMetase Analyzing Their Core Disparities</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-theyoucamguidetoeffectivewebcapture/"><u>2024 Approved TheYouCamGuideToEffectiveWebCapture</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y56-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y56 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-oppo-a79-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo A79 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-vivo-y100-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y100 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/realme-12-pro-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 Pro 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-pokemon-shiny-guidebook-for-scv-85/"><u>The Ultimate Pokémon Shiny Guidebook for SCV (85)</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-zestful-user-sign-up-routine/"><u>[New] In 2024, Zestful User Sign-Up Routine</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-game-capture-windows-11-edition/"><u>[Updated] Mastering Game Capture Windows 11 Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-a2plus-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi A2+ Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/blades-and-boards-olympians-on-ice-for-2024/"><u>Blades & Boards Olympians on Ice for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rmation-techniques-for-youtube-accounts/"><u>Confirmation Techniques for Youtube Accounts</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-play-40c-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor Play 40C to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ftc-crackdown-penalties-imposed-on-businesses-using-fraudulent-customer-testimonials/"><u>New FTC Crackdown: Penalties Imposed on Businesses Using Fraudulent Customer Testimonials</u></a></li>
+<li><a href="https://facebook.techidaily.com/outsmart-facebook-scams-find-the-14-predicaments-quickly/"><u>Outsmart Facebook Scams: Find the 14 Predicaments Quickly</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/step-by-step-guide-transferring-iso-images-onto-your-usb-device/"><u>Step-by-Step Guide: Transferring ISO Images Onto Your USB Device</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-f54-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy F54 5G? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

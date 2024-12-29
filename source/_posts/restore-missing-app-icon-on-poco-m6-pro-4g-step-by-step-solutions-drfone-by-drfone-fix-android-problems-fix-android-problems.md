@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Poco M6 Pro 4G Step-by-Step Solutions | Dr.fone
-date: 2024-12-18T23:37:59.224Z
-updated: 2024-12-23T18:44:44.104Z
+date: 2024-12-22T16:11:58.688Z
+updated: 2024-12-29T06:32:12.285Z
 tags: 
   - problems
 categories:
@@ -50,10 +50,6 @@ However, as a general guide, you can follow these steps:
 
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Move the app to the home screen from the App Drawer
 
 If your **app icon disappeared on your Android**, you can also easily restore it by adding the app to the home screen from the app drawer. Follow the step-by-step guide below:
@@ -101,10 +97,6 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4,136,839** people have downloaded it
 
@@ -198,17 +190,9 @@ If your Poco M6 Pro 4G is running slow and freezing, the Poco M6 Pro 4G device�
 
 Operating systems and device software serve as the main component of all smartphones. Sometimes, it runs into inevitable problems caused by computer bugs and other glitches. When it happens, the Poco M6 Pro 4G device’s overall performance is affected. So that can be the reason why sometimes your Poco M6 Pro 4G is running slow and freezing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Your Internet Connection is Unstable
 
 Of course, a slow internet connection can make the Android phone runs slow too. Most apps today rely heavily on the internet to execute some tasks like communicating and streaming. So don’t panic when your Poco M6 Pro 4G is running slow and freezing. It’s possible that your internet connection is messing up with you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What to Do When My Poco M6 Pro 4G Lags?
 
@@ -223,6 +207,10 @@ Sometimes, minor bugs can give your device a hard time. It can be the reason why
 ![android phone restarts](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-1.JPG)
 
 - **Step 2:** Several options will manifest on the screen. From there, click **Restart.** Wait until your device completely shuts off and restarts again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Uninstall the Unused Apps to Free Up Some Storage
 
@@ -287,10 +275,6 @@ _Here’s how to back up your Poco M6 Pro 4G using Wondershare Dr.Fone:_
 
 ![start wondershare drfone backup](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _Here’s how to reset your Poco M6 Pro 4G to factory settings:_
 
 - **Step 1:** Go to **Settings.**
@@ -301,6 +285,10 @@ _Here’s how to reset your Poco M6 Pro 4G to factory settings:_
 - **Step 6:** Your Android device will ask you to confirm the procedure. From there, click **Erase Everything.**
 
 ![reset to factory settings](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-6.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 6: Fix the System Issue Using Wondershare Dr.Fone
 
@@ -316,7 +304,7 @@ The device’s operating system may sometimes run into unexpected problems. That
 ![android system repair](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4:** Wondershare Dr.Fone will give you a list of the Android problems that this procedure will fix. From there, click **Start.**
@@ -327,6 +315,10 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![confirm device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** At this point, you need to put your device into **Download Mode. Power off** your device. And then hold these three buttons altogether: **Volume Down, Home** (or **Bixby** if you’re using a newer model)**,** and **Power** buttons. Finally, press the **Volume Up** button.
 
 ![put device into download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
@@ -335,21 +327,21 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![firmware download](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 8:** Thereafter, the details about the newly downloaded firmware package will be displayed on the screen. From there, click **Fix Now.**
 
 ![new firmware is ready](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 9:**  Before initiating the installation process, Wondershare Dr.Fone will ask you to review and confirm the firmware details. It will also let you know that this procedure will erase the phone’s data. If you agree to the terms, enter **000000** into the input box and click **Confirm.**
 
 ![confirm firmware details](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 10:** Wait while Wondershare Dr.Fone installs the new firmware to your device.
 
@@ -410,10 +402,6 @@ Then connect your Poco M6 Pro 4G to the computer and make sure that it can be re
 
 ![Android. Process. Media - recognize phone](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3. Begin to backup
 
 When your device is displayed on the window of the program, click "Back Up Now " to begin. The rest will be done by the program.
@@ -460,6 +448,10 @@ Step 5: Next you need to open Google Play and when presented with an error, clic
 
 Step 6: Turn off the Poco M6 Pro 4G device and then turn it back on. Go to the Google Services framework again and turn it on to see if the issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Check Google Sync & Media Storage settings
 
 Step 1: Go to Settings > Accounts and Personal> Google Sync and uncheck all the checkboxes to stop the Google Synchronization.
@@ -475,6 +467,10 @@ This Should clear the error message for good.
 ### Method 5: Boot your device into safe mode
 
 [Safe mode](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html) can temporarily disable third-party apps, allowing only core system apps. This detects if a third-party app causes the "Android process media keeps stopping" error. If the problem disappears in safe mode, a third-party app might be the cause. Uninstalling it can restore normal function. If the problem persists in safe mode, a deeper system issue might exist, needing further investigation or support.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Fix the error by using a dedicated repair tool
 
@@ -494,10 +490,6 @@ Fix Android process media has stopped issue in one click
 After launching Dr.Fone, click on "System Repair" from the main window.
 
 ![fix android.process.media stopping by drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Then connect your Poco M6 Pro 4G with the correct cable and choose "Android" > click "Start".
 
@@ -525,11 +517,19 @@ It may take a while, so you could have a cup of coffee to wait for the repair pr
 
 ![android.process.media stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### Method 7: Factory Reset your device
 
 If the above steps fail, you might need to perform a factory reset. A factory reset restores the Poco M6 Pro 4G device to its initial state, which can eliminate many problems, but it will also erase all data. Ensure you back up your important data before proceeding.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 8: Seek Manufacturer Support
 
@@ -553,16 +553,24 @@ It is our hope that when faced with this fairly common error, you will not panic
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-efficient-methods-photoshopping-background-out-of-shots/"><u>[Updated] 2024 Approved Efficient Methods Photoshopping Background Out of Shots</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-easy-steps-for-achieving-facebooks-prestigious-blue-badge/"><u>2024 Approved Easy Steps for Achieving Facebook's Prestigious Blue Badge</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-sony-xperia-10-v-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Sony Xperia 10 V</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-s23plus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy S23+ Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/contagion-film-guide-how-to-legally-stream-or-download-the-complete-movie/"><u>Contagion Film Guide: How to Legally Stream or Download the Complete Movie</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/free-facebook-linker-top-8-options-available-online-for-2024/"><u>Free Facebook Linker Top 8 Options Available Online for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/league-of-legends-speech-problems-heres-how-you-can-solve-them/"><u>League of Legends Speech Problems? Here's How You Can Solve Them</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-reno-8t-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Reno 8T Device</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-obscurity-to-stardom-trendsetting-tactics-for-videos/"><u>[New] From Obscurity to Stardom Trendsetting Tactics for Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-breaking-the-mold-pushing-a-video-into-hot-water/"><u>[New] In 2024, Breaking the Mold Pushing a Video Into Hot Water</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-the-art-of-restoring-past-reddit-articles-for-2024/"><u>[New] Mastering the Art of Restoring Past Reddit Articles for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-youtube-subscriber-milestones/"><u>[Updated] Mastering YouTube Subscriber Milestones</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/access-soundcloud-music-legally-uncomplicated-no-cost-download-solutions/"><u>Access SoundCloud Music Legally - Uncomplicated, No-Cost Download Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-y100i-power-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo Y100i Power 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-a1x-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo A1x 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-lava-yuva-3-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Lava Yuva 3? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-realme-11-proplus-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme 11 Pro+? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/continuous-screenshot-providers-for-2024/"><u>Continuous Screenshot Providers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-samsung-galaxy-f04-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Samsung Galaxy F04 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nokia-g42-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nokia G42 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-skullduggery-scribblers-den/"><u>In 2024, Skullduggery Scribbler's Den</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-entry-into-warzone-20-innovative-strategies-for-launching-on-pc-without-a-hitch/"><u>Seamless Entry Into Warzone 2.0: Innovative Strategies for Launching on PC without a Hitch</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-y200-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y200 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oppo-a1-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo A1 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

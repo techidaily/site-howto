@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Oppo A78 Step-by-Step Solutions | Dr.fone
-date: 2024-12-17T23:01:47.369Z
-updated: 2024-12-23T17:40:15.292Z
+date: 2024-12-24T06:10:04.769Z
+updated: 2024-12-29T13:07:39.600Z
 tags: 
   - problems
 categories:
@@ -49,10 +49,6 @@ However, as a general guide, you can follow these steps:
 - **Step 3.** Once you find the "Hidden app" settings, watch the list to see if the missing app is there. If it is, you can toggle off the switch to unhide it.
 
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Move the app to the home screen from the App Drawer
 
@@ -116,10 +112,6 @@ The platform will detect your Oppo A78's brand. Confirm the Name, Model, Country
 
 ![Confirm your Oppo A78’s details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4.** Activate Download de
 
 Follow the instructions to put your Oppo A78 into Download Mode. Once you are in Download Mode, the firmware will be downloaded automatically.
@@ -139,6 +131,10 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 [<u>How to Fix Android App Not Installed Error Quickly?</u>](https://drfone.wondershare.com/android-issue/android-app-not-installed.html)
 
 [<u>Authentication Error Occurred? Here Are 10 Proven Fixes</u>](https://drfone.wondershare.com/android-issue/authentication-error.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -202,13 +198,13 @@ Here’s how to fix it.
 
     ![wipe cahce of snapchat crashing - step 4](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-four.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Tap the Confirm option to clear your cache preference completely
 
     ![wipe cahce of snapchat crashing - step 5](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-five.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4. Fix the system issues that caused Snapchat stopping
 
@@ -240,10 +236,6 @@ Once completed, open the software, so you’re on the main menu.
 
 ![snapchat crashing - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: Confirm details.
 
 On the next screen, use the drop-down menus to confirm the model, brand, operating system, and carrier of your device. Click Next to confirm the details are correct.
@@ -264,15 +256,15 @@ The method will slightly differ depending on whether your device has a home butt
 
 ![snapchat crashing - fixed issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Part 5. Check for the Android update
 
 ![snapchat stopping - check for android update](https://images.wondershare.com/drfone/article/2019/04/android-update-firmware.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Similar to some of the other solutions we’ve listed above, if you’re using an outdated version of the Android operating system, but the latest version of Snapchat is coded to the most recent, this can be a cause for the Snapchat crashing on Android problem to occur.
 
@@ -281,10 +273,6 @@ Fortunately, it’s easy to check to make sure you’re running the latest versi
 **Step 1:** Open the Settings menu on your Oppo A78 and select the About Phone option.
 
 **Step 2:** Tap the ‘Check for Updates’ option. If an update is available, you’ll then have the option to Install Now or Install Overnight. If no update is available, you’ll see a notification stating your device is up to date and no action is needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 6. Connect to another Wi-Fi
 
@@ -296,21 +284,29 @@ To resolve this, you can simply try connecting to another Wi-Fi network or a dat
 
 ![snapchat stopping - connect to wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Tap the new Wi-Fi network you’re currently connected to, and then tap the ‘Forget’ option, to stop your phone connecting to it.
 
 ![snapchat stopping - forget wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Now tap the new Wi-Fi network you want to connect to. Insert the Wi-Fi security code and connect. Now try reopening and using the Snapchat to see if you can use it.
 
 ![snapchat stopping - reconnect wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7. Stop using the custom ROM
 
 ![snapchat stopping - stop rom](https://images.wondershare.com/drfone/article/2019/04/android-custom-rom.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you’re running a custom Android ROM on your device, with some versions of the ROM and some apps, you’re going to experience errors simply because of the way the apps and the ROMs are coded and designed.
 
@@ -378,6 +374,10 @@ However, if you’ve got a problem with Wi-Fi not working on your Android and ot
 
 ![wifi not working on android - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-safe-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you’re unable to connect to the internet, but other devices have no issues, you may find the issues is coming from within your Oppo A78 itself. Fortunately, there are ways you can see whether this is the problem.
 
 The best way to do this is to boot your device in Safe Mode. The process for doing this will depend on the make and model of your Oppo A78, but the basic process goes as follows;
@@ -388,6 +388,10 @@ The best way to do this is to boot your device in Safe Mode. The process for doi
 4. Now you will be booted in Safe Mode. Try connecting to the internet again to see if it works
 
 If your device connects to the internet while in Safe Mode, you’ll know you have a problem with an app or service that’s running on your device. If this is the case, you’ll need to go through your apps and delete them and then reinstall them one at a time until you find the app or service that is causing your internet problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Check the Android Wi-Fi adapter
 
@@ -419,10 +423,6 @@ When these numbers are matching, if your Android is still not connecting to wifi
 If none of the solutions above are working, this could indicate a real problem with the firmware and operating system of your Oppo A78. Fortunately, a fast solution to get everything working again is to completely repair the software of your phone.
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -470,10 +470,6 @@ The whole process is automatic, so you won’t need to do anything until it’s 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 8. Check the Wi-Fi connectivity on another phone
 
 ![android phone not connecting to wifi - connectivity on another phone](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
@@ -494,7 +490,7 @@ Of course, if you’re already using another phone on your Wi-Fi network, you kn
 ![android phone not connecting to wifi - password settings](https://images.wondershare.com/drfone/article/2019/04/android-wifi-password.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Each Wi-Fi network router will give the opportunity to choose and change the password you have to let devices connect to your network. It’s important you try changing this because you never know if someone else has accessed your network and could be blocking your device. Here’s how it works;
@@ -537,6 +533,10 @@ As you continue to use your Oppo A78, the partition cache will fill up with data
 
 ![wifi not working on android - factory settings](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If worse comes to worst, another option you have is to factory reset your Oppo A78. As we’ve spoken about above, while using your phone from the day you started using it, your device will fill up with files and data which can become messy and causes bugs.
 
 However, by factory resetting your device, you can start again from the factory default from which you first received it, ultimately clearing the bugs. Make sure you back up your device before proceeding because it will erase your personal files.
@@ -564,21 +564,17 @@ However, by factory resetting your device, you can start again from the factory 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-experts-choice-top-8-proven-video-marketing-actions/"><u>[Updated] 2024 Approved Expert's Choice Top 8 Proven Video Marketing Actions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-navigating-the-art-of-youtube-thumbnails/"><u>[Updated] In 2024, Navigating the Art of YouTube Thumbnails</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-foundations-of-a-youtube-venture-a-comprehensive-guide/"><u>[Updated] The Foundations of a YouTube Venture A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-your-first-leap-onto-youtubes-platform-for-2024/"><u>[Updated] Your First Leap Onto YouTube's Platform for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oneplus-nord-3-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your OnePlus Nord 3 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-oneplus-ace-2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for OnePlus Ace 2 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-s23-fe-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy S23 FE? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-technical-marvels-of-amds-latest-gpus-xt-series/"><u>Exploring the Technical Marvels of AMD's Latest GPUs: XT Series</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-a2-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi A2 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-f04-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy F04 FRP</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-mastering-mac-screenshots-and-screen-recording/"><u>In 2024, Mastering Mac Screenshots & Screen Recording</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/overlay-images-online-come-unire-due-fotografie-con-la-tua-app-o-sul-tuo-pc/"><u>Overlay Images Online - Come Unire Due Fotografie Con La Tua App O Sul Tuo PC</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-xiaomi-redmi-12-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Redmi 12? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-a05s-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy A05s Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/seamless-screenshot-synergy-for-pc-users/"><u>Seamless Screenshot Synergy for PC Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-cost-effective-pc-video-capturing-essentials-checklist/"><u>[New] Cost-Effective PC Video Capturing Essentials Checklist</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-harness-the-power-of-picture-in-progressive-screen-with-chrome-for-2024/"><u>[Updated] Harness the Power of Picture in Progressive Screen with Chrome for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-tecno-pova-5-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Pova 5 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dynamic-dialogue-driven-decks/"><u>Dynamic Dialogue Driven Decks</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/focused-frames-eliminating-jitterbugs/"><u>Focused Frames Eliminating Jitterbugs</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero5-session-review/"><u>In 2024, GoPro Hero5 Session Review</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/master-photo-editing-on-os-x-and-linux-discover-the-freebie-darktables-advanced-raw-manipulation-tool/"><u>Master Photo Editing on OS X and Linux: Discover the Freebie - Darktable's Advanced RAW Manipulation Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stay-informed-about-xbox-live-checking-server-uptime-and-system-performance/"><u>Stay Informed About Xbox Live: Checking Server Uptime and System Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Motorola G24 Power | Dr.fone</u></a></li>
 </ul></div>
 

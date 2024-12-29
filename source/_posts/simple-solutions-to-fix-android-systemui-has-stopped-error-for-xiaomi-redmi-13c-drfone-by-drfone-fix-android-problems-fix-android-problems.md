@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi 13C | Dr.fone
-date: 2024-12-20T17:31:33.256Z
-updated: 2024-12-23T23:45:13.988Z
+date: 2024-12-21T17:51:14.874Z
+updated: 2024-12-29T10:17:40.299Z
 tags: 
   - problems
 categories:
@@ -60,6 +60,10 @@ Step 3 – Next, you need to select the correct information about your device (i
 
 ![select android model info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Phase 2: Boot Android in ‘Download’ mode to perform the repair.**
 
 Step 1 –You’re now required to boot your Android in Download mode. Here’s what you need to do to put your Android in DFU mode.
@@ -69,6 +73,10 @@ If your Android has a Home button:
 - Turn off your device. Hold down “Volume Down + Home + Power” buttons altogether for about 10seconds. Let go of the buttons afterward and hit the Volume Up to boot in download mode.
 
 ![fix Android system UI stopping with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In case your Android has no Home button:
 
@@ -83,10 +91,6 @@ Step 2 – Once done, hit “Next” to initiate the downloading of the firmware
 Step 3 – As soon as the download completes, the Android repair will automatically be started by the program.
 
 ![repair firmware to fix Android system UI stopping](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4 – In a just a matter of a few minutes, your Android system UI isn’t responding issue will be resolved.
 
@@ -123,16 +127,12 @@ Different Android devices have different ways to put it in recovery mode. Refer 
 
 ![android system ui-wipe data reset](https://images.wondershare.com/drfone/article/2017/06/14985470953716.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![android system ui-”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14985098383121.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
@@ -161,6 +161,10 @@ Follow the steps given below to factory reset your device to solve the Android S
 - Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
 
 ![android system ui-tap on “ERASE EVERYTHING”](https://images.wondershare.com/drfone/article/2017/06/14985099118666.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After the factory reset process is completed, your device will automatically restart, and you will have to set it up once again.
 
@@ -198,10 +202,6 @@ Download Dr.Fone - System Repair (Android) on PC. While program installs, use US
 
 ![contacts stopping on samsung - download the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Opt for Android Repair option
 
 You’ll be directed to the “System Repair” screen where you have to opt for “Android Repair” options appearing over the left panel of the program. After that, do not forget to press “Start”.
@@ -214,25 +214,21 @@ From following screen, fill the fields of “Brand”, “Name”, “Model”, 
 
 ![contacts stopping on samsung - enter info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Download Firmware package
 
 Just follow the on-screen steps for booting your Xiaomi Redmi 13C into download mode. Then, hit the “Next” button to proceed with downloading the most suitable firmware package for your Xiaomi Redmi 13C.
 
 ![contacts stopping on samsung - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Repair Android phone
 
 Once the software downloads, the program will automatically repair any issues irking over your phone. Now, your phone is all free from contacts error.
 
 ![contacts stopping on samsung - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 9 Common ways to fix “Unfortunately, Contacts Has Stopped”
 
@@ -258,6 +254,10 @@ The cache memory basically stashes the copies of the concerned application. It i
 
 ![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.3 Wipe cache partition
 
 As we know the cache memories are the temporary files build by the firmware. These are of little importance as they are bound to become a bit more corrupted in nature. And sometimes, may indirectly become a hurdle for the working of contacts app. It is good if the Xiaomi Redmi 13C device is cleared off from the caches. Instead of manually wiping down the cache memory, we will understand how to clear off the cache partition in the following steps.
@@ -271,6 +271,10 @@ As we know the cache memories are the temporary files build by the firmware. The
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
 
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the Xiaomi Redmi 13C device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.4 Disable Google+ app
 
@@ -286,10 +290,6 @@ The root cause for detecting any problem is not very easy. You never know the ov
 There will be a prompt stating that the application may misbehave. However, you must disable the feature and check whether it worked out for you or not.
 
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.5 Update your device software
 
@@ -333,10 +333,6 @@ Now, check whether you’ve fought the battle with the problem or not.
 
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.9 Reset to Factory Settings
 
 Last but not least, if all the methods falls flat to resolve the issue of contacts app won’t open. Then, it might be your device has some internal problem. This can be any software crash which might not be fixing with the aforementioned steps. That is where reset to factory settings may prove to be a good option. With this method, your phone will be cleared of all the components, settings and everything present in it. Here are is the comprehensive tutorial for biding bye to the problem of contacts app won’t open.
@@ -348,10 +344,6 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 - Then, tap on “Reset” button and then tick mark the option for resetting your phone.
 
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi Redmi 13C
 
@@ -406,6 +398,10 @@ Step 1 – To begin fixing error 963, run Dr.Fone after downloading and installi
 
 ![fix google play error 963 using repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ and then click the ‘Start’ button.
 
 ![select the android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -424,6 +420,10 @@ If the Xiaomi Redmi 13C device contains Home button:
 
 ![fix google play error 963 on android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the Xiaomi Redmi 13C device contains no Home button:
 
 - Switch off your phone/tablet and press the ‘Volume Down’, ‘Bixby’ and ‘Power’ buttons for 10 seconds. Leave the buttons and then press the ‘Volume Up’ button for entering download mode.
@@ -435,7 +435,7 @@ Step 2 – Press the ‘Next’ button and then the program will commence the fi
 ![firmware downloaded](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3 – Upon successful downloading and verification of the firmware, the process of Android device repairing will begin automatically.
@@ -570,21 +570,19 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/eciphering-content-control-youtube-vs-creative-commons-license/"><u>[New] Deciphering Content Control YouTube Vs. Creative Commons License</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-formulating-gripping-narratives-for-your-vlogs/"><u>[New] Formulating Gripping Narratives for Your Vlogs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-free-screen-recorder-for-mac/"><u>[Updated] 2024 Approved Free Screen Recorder for Mac</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-captivate-audiences-with-this-essential-guide-to-making-youtube-shorts-for-2024/"><u>[Updated] Captivate Audiences with This Essential Guide to Making YouTube Shorts for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-a56s-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo A56s 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-note-30-vip-racing-edition-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Note 30 VIP Racing Edition System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/windows-11mirrorfolder/"><u>搭配Windows 11的MirrorFolder鏡庫管理工具，提高效率並保持一致性</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/dissecting-obs-technology-for-top-level-recording/"><u>Dissecting OBS Technology for Top-Level Recording</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-nokia-g310-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia G310 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-xiaomi-redmi-note-12r-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi Note 12R Safely | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/oppo-reno-11-pro-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 11 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-online-obstacles-mastering-windows-browser-fixes-for-sites/"><u>Overcoming Online Obstacles: Mastering Windows Browser Fixes for Sites</u></a></li>
-<li><a href="https://fox-that.techidaily.com/safari-and-full-pages-shot-issues-proven-methods-for-smooth-saving/"><u>Safari and Full Pages Shot Issues: Proven Methods for Smooth Saving</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-new-horizons-the-absolute-top-9-no-cost-language-websites-to-learn-languages-effortlessly/"><u>Unlocking New Horizons: The Absolute Top 9 No-Cost Language Websites to Learn Languages Effortlessly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-a-comprehensive-look-at-vrs-strengths-and-weaknesses/"><u>[New] 2024 Approved A Comprehensive Look at VR's Strengths and Weaknesses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flawless-free-download-of-youtube-video-covers-no-hurdles-for-2024/"><u>[New] Flawless Free Download of YouTube Video Covers - No Hurdles for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shaping-stories-the-art-of-deformed-photographyvideo-words/"><u>[New] Shaping Stories The Art of Deformed Photography/Video Words</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/martphone-strategies-launching-successful-youtubers-from-the-start-for-2024/"><u>[New] Smartphone Strategies Launching Successful YouTubers From the Start for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-your-journey-to-instagram-dominance-started-here/"><u>[New] Your Journey to Instagram Dominance, Started Here</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-annual-roundup-top-no-money-video-editing-software-reviewed/"><u>[Updated] 2024 Approved Annual Roundup Top No-Money Video Editing Software Reviewed</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-x50-gt-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor X50 GT Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oneplus-12-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My OnePlus 12 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rapidly-acquire-japanese-numbers-today/"><u>Rapidly Acquire Japanese Numbers Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-keep-your-thunder-game-stable-and-crash-free-during-high-level-play-on-pc/"><u>Steps to Keep Your Thunder Game Stable and Crash-Free During High-Level Play on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nubia-z50-ultra-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nubia Z50 Ultra Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Maximize Graphics Power & Performance - Elevate Your Build Using Our DIY Kit's PCIe Connection Between Mini PC and eGPU, Outpacing Thunderbolt 4 Speeds
-date: 2024-12-17T22:19:40.294Z
-updated: 2024-12-23T17:47:20.128Z
+date: 2024-12-26T19:11:31.431Z
+updated: 2024-12-29T00:01:33.115Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,14 +88,21 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-ios-gamers-top-5-ps2-emulators-unveiled-for-2024/"><u>[Updated] IOS Gamers' Top 5 PS2 Emulators Unveiled for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nokia-c12-plus-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nokia C12 Plus Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-retrieve-deleted-facetime-pictures-on-your-iphone-or-ipad/"><u>How to Retrieve Deleted FaceTime Pictures on Your iPhone or iPad</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/mythos-makers-mecca-prime-pantheon-seven/"><u>Mythos Makers’ Mecca - Prime Pantheon Seven</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/windowspxe/"><u>Windows上PXEブートサーバのセットアップ:安全且び簡易手順ガイド</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-access-tons-of-free-vocal-textures/"><u>[New] 2024 Approved Access Tons of Free Vocal Textures</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-mastering-animation-in-instagram-stories-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Animation in Instagram Stories A Step-by-Step Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-webcam-advancements-revolutionizing-video-capture-at-home/"><u>[Updated] In 2024, WebCam Advancements Revolutionizing Video Capture at Home</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-a34-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy A34 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ally-x-endgame-for-handheld-tech-predicaments/"><u>Ally X: Endgame for Handheld Tech Predicaments</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-redmi-k70-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi Redmi K70 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-of-the-best-hexacopter-drone-reviews-for-2024/"><u>Best of the Best Hexacopter Drone Reviews for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/connecting-on-the-go-effortless-apple-watch-friend-and-family-messaging-guide/"><u>Connecting on the Go: Effortless Apple Watch Friend & Family Messaging Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y100i-power-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y100i Power 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-in-zoom-for-desktop-users/"><u>How to Restore Audio Functionality in Zoom for Desktop Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-best-concealed-vids-2023s-selective-8-software-guide/"><u>In 2024, Best Concealed Vids - 2023'S Selective 8 Software Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-12-best-animal-simulator-games-for-android-for-2024/"><u>Top 12 Best Animal Simulator Games for Android for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-90-gt-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor 90 GT Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-civi-3-disney-100th-anniversary-edition-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Civi 3 Disney 100th Anniversary Edition Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
 

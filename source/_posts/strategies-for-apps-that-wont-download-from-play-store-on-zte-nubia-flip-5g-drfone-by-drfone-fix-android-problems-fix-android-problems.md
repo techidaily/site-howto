@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On ZTE Nubia Flip 5G | Dr.fone
-date: 2024-12-12T19:00:48.979Z
-updated: 2024-12-14T18:45:36.138Z
+date: 2024-12-27T00:08:51.987Z
+updated: 2024-12-29T00:05:23.388Z
 tags: 
   - problems
 categories:
@@ -66,10 +66,6 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 
 **4,307,222** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Features
 
 The summarized points show why Dr.Fone is a flexible and powerful tool for Android users with various phone models.
@@ -131,10 +127,6 @@ A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u
 
 ![android internal storage menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Update the Play Store
 
 An outdated Play Store version may lead to compatibility issues. Open the Google Play Store, go to **Settings**, and tap the **Play Store version**. If an update is available, install it to ensure compatibility with the latest apps.
@@ -147,10 +139,6 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Verify Google Account
 
 Authentication issues with your Google account can prevent app downloads. Confirm that your Google account is properly verified. Go to the ZTE Nubia Flip 5G device settings, select **Accounts**, and ensure your Google account is active and synced.
@@ -158,7 +146,7 @@ Authentication issues with your Google account can prevent app downloads. Confir
 ![syncing google account on device](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Check Date and Time Settings
@@ -172,6 +160,10 @@ Incorrect date and time settings may disrupt the authentication process. Verify 
 Device settings or parental controls might impose restrictions on certain app downloads. Examine the download restrictions in the ZTE Nubia Flip 5G device settings and adjust them accordingly to allow for the installation of desired apps.
 
 ![download restrictions on android](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart the ZTE Nubia Flip 5G device
 
@@ -193,10 +185,6 @@ Trust me, once you face an error it’s frustrating until you find a solution to
 - (ii) Switching off and turning the wifi (cellular data) on
 - (iii) Clearing the cache and data of Google Play Store
 - (iv) Removing and adding back your Google account
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What is Error Code 920?
 
@@ -278,6 +266,10 @@ Step 2 - Now after doing this go to your Play Store application and download the
 
 ![error code 920-turn off wifi](https://images.wondershare.com/drfone/article/2017/06/14985022435219.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **METHOD 4: Clearing the cache and data of Google Play Store**
 
 This is a little more complicated (complicated as in you will need to do a little more than the previous two methods). What you need to do is clear the cache and clear the data of the play store. This will get rid of the error code 920 the next time you download or update any application from the Google Play store.
@@ -314,9 +306,17 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 
 ![spotify logo](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Does your **Spotify keep crashing**? You’re not alone. This problem is widespread and can happen to anyone. Fortunately, there are ways to rectify it quickly and easily. We’ve prepared a guide to fixing your Spotify crashing problem.
 
 In our guide, you’ll find out why your Spotify keeps crashing. Moreover, you’ll get a list of fixes for your **Spotify closing** problem and detailed instructions. Once you’ve read our guide, you’ll successfully solve the problem of **Spotify crashing on Android**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why Spotify Keeps Crashing
 
@@ -371,10 +371,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![confirm system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
 
 ![android system repair in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -384,7 +380,7 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 ![completed android system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 There are two ways to enter Download Mode: one for Android devices with the Home button and another for those without it.
@@ -433,10 +429,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 - **Step 4:** Tap **Log In**.
 
 ![log into spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** Enter your login credentials.
 - **Step 6:** Tap **Login**again, and you’re in.
@@ -510,11 +502,11 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 
 ![available storage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-17.jpg)
 
-- **Step 4:** Then, you can go ahead and clear as much space as you can.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+- **Step 4:** Then, you can go ahead and clear as much space as you can.
 
 ### 9. Reinstall Spotify
 
@@ -526,17 +518,21 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 ![uninstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Press **OK**.
 - **Step 5:** Then, open the PlayStore and find Spotify.
 - **Step 6:** Tap **Install**to reinstall the app again.
 
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
 
-- **Step 7:** Once it installs, log in to test if it’s working.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+- **Step 7:** Once it installs, log in to test if it’s working.
 
 ### 10. Check if Spotify Is Down
 
@@ -550,6 +546,10 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 - **Step 3:** You’ll see several websites that check real-time app servers and if they’re down.
 
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
@@ -596,22 +596,20 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-expert-tips-top-6-apps-that-make-storing-linkedin-videos-simple/"><u>[New] 2024 Approved Expert Tips Top 6 Apps That Make Storing LinkedIn Videos Simple</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-framefinder-pro-a-treasure-trove-for-every-twitterscape-enthusiast/"><u>[New] FrameFinder Pro A Treasure Trove for Every Twitterscape Enthusiast</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-sparkle-with-style-animating-text-in-your-insta-stories/"><u>[Updated] Sparkle with Style Animating Text in Your Insta Stories</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-showcasing-creativity-an-assortment-of-top-5-book-vtts/"><u>2024 Approved Showcasing Creativity An Assortment of Top 5 Book VTTs</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo S18 Pro? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nokia-c22-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nokia C22? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-realme-c33-2023-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme C33 2023 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-finalcut-pro-tutorials-for-top-tier-youtube-video-editing/"><u>In 2024, FinalCut Pro Tutorials for Top-Tier YouTube Video Editing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-tecno-camon-20-premier-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Camon 20 Premier 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/1722848735563-while-ipv6-is-designed-with-ipsec-support-actual-implementation-may-vary-security-measures-should-not-solely-rely-on-protocol-design-assumptions/"><u>While IPv6 Is Designed with IPsec Support, Actual Implementation May Vary; Security Measures Should Not Solely Rely on Protocol Design Assumptions</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-c67-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme C67 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fb-streams-save-as-mp3-beat-for-easy-playback/"><u>2024 Approved FB Streams Save as MP3 Beat for Easy Playback</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-maximizing-wealth-with-smart-advertising-tactics-on-vimeo/"><u>2024 Approved Maximizing Wealth with Smart Advertising Tactics on Vimeo</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/android-and-iphone-video-creators-best-music-integrated-options/"><u>Android and iPhone Video Creators Best Music-Integrated Options</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-honor-70-lite-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor 70 Lite 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-lava-yuva-3-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Lava Yuva 3 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-repair-and-update-your-hp-laserjet-query-what-is-the-meaning-of-the-word-contempt-in-english/"><u>How to Repair and Update Your HP LaserJet # Query: What Is the Meaning of the Word 'Contempt' In English?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-are-there-restrictions-in-saving-youtube-videos/"><u>In 2024, Are There Restrictions in Saving YouTube Videos?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-play-8ts-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honor Play 8Ts Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-powered-precision-pearsons-new-gsl-approach/"><u>Mondly-Powered Precision: Pearson's New GSL Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-successful-data-transfer-on-windows-os/"><u>Unlocking Successful Data Transfer on Windows OS</u></a></li>
 </ul></div>
 

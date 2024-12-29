@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on ZTE Nubia Z60 Ultra Step-by-Step Solutions | Dr.fone
-date: 2024-12-20T23:25:07.812Z
-updated: 2024-12-23T22:35:37.327Z
+date: 2024-12-22T20:53:42.995Z
+updated: 2024-12-29T06:03:36.338Z
 tags: 
   - problems
 categories:
@@ -20,6 +20,10 @@ After all, the presence of app icons on our Android device's home screen is impo
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your ZTE Nubia Z60 Ultra.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Make Sure if the Missing App Is Installed
 
 Before proceeding with troubleshooting the **missing app icon on your Android** device, it's essential to confirm whether the app is still installed or if it has been accidentally deleted. To do it, you can have a quick check on Google Play:
@@ -29,6 +33,10 @@ Before proceeding with troubleshooting the **missing app icon on your Android** 
 - **Step 3:** Open Manage and select the “Installed” tab.
 
 ![Check if the missing app is installed](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, see whether you can find the **app icon that disappeared on your Android.** If you can’t find it, it means the app has been accidentally deleted, and you can install it back on your device. However, if it’s confirmed to be installed on your Android but remains missing from your home screen, you can continue the following practice.
 
@@ -50,10 +58,6 @@ However, as a general guide, you can follow these steps:
 
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Move the app to the home screen from the App Drawer
 
 If your **app icon disappeared on your Android**, you can also easily restore it by adding the app to the home screen from the app drawer. Follow the step-by-step guide below:
@@ -64,6 +68,10 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 - **Step 4.** Release to drop the app icon onto the home screen.
 
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Re-enable disabled app
 
@@ -100,6 +108,10 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,136,839** people have downloaded it
@@ -110,19 +122,11 @@ Click Start on the new screen to kick off the repair. Since you're dealing with 
 
 ![Select the problem and begin the repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3.** Fill in the ZTE Nubia Z60 Ultra device Details
 
 The platform will detect your ZTE Nubia Z60 Ultra's brand. Confirm the Name, Model, Country, and Carrier. If your device is unlocked, choose OPEN in the Carrier section. Agree to the warning, click Next, and proceed with the repair.
 
 ![Confirm your ZTE Nubia Z60 Ultra’s details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4.** Activate Download de
 
@@ -176,23 +180,19 @@ In the previous section, we identified the possible causes of ZTE Nubia Z60 Ultr
 
 ![mui restart button](https://images.wondershare.com/drfone/article/2023/03/reset-button-android-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Restarting the phone is typically the initial solution that comes to mind when we encounter the ZTE Nubia Z60 Ultra black screen problem. It's a simple and widely used method to address the issue, as the black screen problem could be caused by a software glitch, which can often be resolved by freeing up the phone's memory.
 
 It is the most commonly used method to fix ZTE Nubia Z60 Ultra's touch screen and power button issues, such as unresponsiveness. By restarting the ZTE Nubia Z60 Ultra device, background processes are disabled, and memory is freed up, allowing programs to run smoothly and potentially resolve the problem. To restart a ZTE Nubia Z60 Ultra device, press the Power and Volume Up buttons simultaneously, and release the Power button once the ZTE Nubia Z60 Ultralogo appears.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2. Leave The Phone And Let The Battery Drain Completely
 
 ![low battery](https://images.wondershare.com/drfone/article/2023/03/drain-your-phone-battery.jpg)
 
 Sometimes, the tablet screen may become unresponsive due to a software issue preventing the ZTE Nubia Z60 Ultra device from functioning correctly. Leaving the ZTE Nubia Z60 Ultra device unused and draining the battery helps resolve these issues. After fully discharging the battery, the ZTE Nubia Z60 Ultra device can be recharged and turned back on, potentially resolving the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3. Contact Custom Service
 
@@ -201,6 +201,10 @@ Sometimes, the tablet screen may become unresponsive due to a software issue pre
 If restarting the ZTE Nubia Z60 Ultra device or allowing the battery to drain doesn't resolve the issue, seeking professional assistance is recommended. The manufacturer may provide additional troubleshooting steps or recommend sending the ZTE Nubia Z60 Ultra device in for repair or replacement. It's important to check the warranty before contacting customer service, which may affect repair or replacement options.
 
 In addition to the common solutions we discussed earlier, some model-specific solutions can help resolve the screen unresponsiveness issue on ZTE Nubia Z60 Ultra Y2 and ZTE Nubia Z60 Ultra 5A.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4. Optimize Device Performance
 
@@ -242,10 +246,6 @@ Here's how to fix repair screen unresponsiveness or any software-related issues 
 - **Follow** the on-screen instructions carefully to repair your ZTE Nubia Z60 Ultra.
 
 ![dr fone repair on xiaomi devices](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Avoid A ZTE Nubia Z60 Ultra Screen Unresponsive?
 
@@ -309,6 +309,10 @@ Though there could be slight variations between different phones, you can usuall
 
 ![factory reset on android](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Restart Your ZTE Nubia Z60 Ultra
 
 While a factory reset is all but guaranteed to fix the issues you’re encountering with your videos, sometimes a simple restart might do the trick just fine. A restart works by clearing your RAM (Random Access Memory).
@@ -326,7 +330,7 @@ As a general rule of thumb, the videos you capture should be in a format your de
 If the format isn’t supported, installing the right video player with the necessary compatibility is the most straightforward fix. Some of the most popular video players for Android include VLC for Android, GOM Player, MX Player, Bsplayer, and RealPlayer. You can easily find all of them in the Google Play Store.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4. Check the Internet Connection
@@ -387,10 +391,6 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your ZTE Nubia Z60
 
 ![dr.fone downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 9**: When the download is complete, select **Fix Now** to install it.
 - **Step 10**: Type **000000**, then select **Confirm**to continue fixing your device.
 
@@ -412,7 +412,11 @@ To check whether you’re using the latest version of your video player, go to *
 ![android app version](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 9. Clear Cookies and Browsing Data
@@ -435,10 +439,6 @@ To reinstall it again, go to the Google Play Store, search for the video app you
 
 **4,974,400** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Like other smartphones, Android devices occasionally encounter glitches when playing video files. In most instances, the solution can be as simple as restarting your device. In others, you might have to perform a full factory reset or use software like Wondershare Dr.Fone to repair your Android OS.
@@ -459,22 +459,15 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-unlock-follower-growth-secrets-on-facebook-in-10-simple-ways-for-2024/"><u>[New] Unlock Follower Growth Secrets on Facebook in 10 Simple Ways for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-budget-friendly-edits-made-easy-with-vimeos-free-tools/"><u>[Updated] 2024 Approved Budget-Friendly Edits Made Easy with Vimeo's Free Tools</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-creative-composite-imagery-for-a-brighter-tomorrow/"><u>[Updated] In 2024, Creative Composite Imagery for a Brighter Tomorrow</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-directing-dialogues-art-of-screenwriting/"><u>[Updated] In 2024, Directing Dialogues Art of Screenwriting</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/xvideos/"><u>「安全かつ簡単に高品質映像のXVIDEOSダウンロード＆セーブガイド」</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-beyond-illusions-demystifying-the-tri-fold-of-digital-experiences-mr-ar-and-vr/"><u>2024 Approved Beyond Illusions Demystifying the Tri-Fold of Digital Experiences (MR, AR, and VR)</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-chatgpt-can-be-your-ally-in-achieving-professional-fulfillment-and-job-satisfaction/"><u>How ChatGPT Can Be Your Ally in Achieving Professional Fulfillment and Job Satisfaction</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-samsung-galaxy-f14-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy F14 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-tecno-camon-20-premier-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Tecno Camon 20 Premier 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/iphone-video-compression-techniques-a-complete-guide/"><u>IPhone Video Compression Techniques - A Complete Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-find-n3-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo Find N3 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-oneplus-11r-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your OnePlus 11R Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-shaping-imagery-the-most-innovative-vector-designers-ranked/"><u>[New] 2024 Approved Shaping Imagery The Most Innovative Vector Designers Ranked</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-secret-photoshop-photo-editing-tips-for-beginners/"><u>10 Secret Photoshop Photo Editing Tips for Beginners</u></a></li>
+<li><a href="https://fox-that.techidaily.com/accelerate-your-iphones-safari-essential-tips-to-increase-browsing-speed/"><u>Accelerate Your iPhone's Safari: Essential Tips to Increase Browsing Speed</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-x50iplus-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor X50i+? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-audiences-how-to-link-a-pinterest-tab-directly-from-your-facebook-profile/"><u>Connecting Audiences: How to Link a Pinterest Tab Directly From Your Facebook Profile</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-steps-to-enable-and-utilize-apples-facetime-feature-on-windows-systems/"><u>Easy Steps to Enable and Utilize Apple's FaceTime Feature on Windows Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-motorola-g54-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Motorola G54 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
 </ul></div>
 
