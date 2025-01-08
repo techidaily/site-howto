@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo Y78t | Dr.fone
-date: 2024-12-27T07:20:19.058Z
-updated: 2024-12-28T23:00:07.882Z
+date: 2025-01-02T17:17:36.647Z
+updated: 2025-01-08T00:42:33.783Z
 tags: 
   - problems
 categories:
@@ -47,6 +47,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![select system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Choose the **Android**
 
 ![pick android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
@@ -55,9 +59,17 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![start system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Select the **Brand,****Name, Model, Country,** and **Carrier** In the **Carrier** section, choose **OPEN** if your device is unlocked.
 
 ![select your android model in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Tick the **“I agree with the warning, and I am ready to proceed”**checkbox and click **Next**.
 - **Step 7:** Put your Android in **Download Mode**. You can find the steps below these instructions.
@@ -76,10 +88,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
 
 ![android system repair in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 12:** Once it finishes, click **Done**to complete the system repair.
 
@@ -114,10 +122,6 @@ You can force-close Spotify and open it again to make it work properly. That is 
 
 - **Step 3:** Find Spotify in **Recent Apps**and click **X** or swipe up over it to force-close it.
 - **Step 4:** Try opening Spotify again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3. Re-Login to Your Spotify
 
@@ -190,14 +194,14 @@ If your system is updated, then Spotify might need an update. The app might malf
 
 ![play store on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Search and open Spotify in the Play Store.
 - **Step 3:** Tap Update
 
 ![update spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8. Free up Storage
 
@@ -211,10 +215,6 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 - **Step 3:** Here, you can see how much of your storage space is available and what’s taking up the most space.
 
 ![available storage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-17.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** Then, you can go ahead and clear as much space as you can.
 
@@ -235,6 +235,10 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
 
 - **Step 7:** Once it installs, log in to test if it’s working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10. Check if Spotify Is Down
 
@@ -264,6 +268,10 @@ When using different apps and websites, your device caches data from those sourc
 
 ![spotify in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-23.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Tap **Storage**or **Storage usage**.
 
 ![spotify storage usage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-24.jpg)
@@ -271,6 +279,10 @@ When using different apps and websites, your device caches data from those sourc
 - **Step 5:** Tap **Clear Cache**.
 
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
@@ -309,10 +321,6 @@ If any of the outlined reasons above are the cause of your **touch screen malfun
 Some phone cases and screen protectors cause **touch problems** on your Android screen. This issue is prevalent if you recently changed your phone case or screen protector. It may be due to incompatibility, but you should remove them to see if your phone starts responding again.
 
 ![android remove screen protector](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Clean Your Android Smartphone
 
@@ -360,10 +368,6 @@ Placing your Android into **Recovery Mode** is different depending on your Andro
 
 ![android recovery mode 02](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: Wait for the process to complete and for your Vivo Y78t to restart automatically.
 
 ### Method 7: Replace Your Android Touchscreen
@@ -375,6 +379,10 @@ If doing all the earlier workarounds and fixes couldn’t resolve the **touchscr
 ### Method 8: Bring it to an Authorized Service Center
 
 Your **phone touch problem** might not be caused by the screen, even when you had it replaced. If your Android is still unresponsive, it’s best to bring your smartphone to an authorized service center or directly to the phone manufacturer, especially when all efforts are exhausted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Fix Android Touch Problem With an Alternative
 
@@ -394,6 +402,10 @@ Wondershare Dr.Fone allows you to fix all **touchscreen problems** on your smart
 
 The program supports almost all Vivo Y78t models and other Android devices, whether unlocked or from a carrier. Dr.Fone is equipped with all the proper firmware to flash your Vivo Y78t with just a few clicks. In addition, it has handy on-screen instructions to help you complete the whole process with ease.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros and Cons
 
 Here are the pros and cons of using Dr.Fone – System Repair (Android) to know if you’re still undecided.
@@ -407,10 +419,6 @@ Here are the pros and cons of using Dr.Fone – System Repair (Android) to know 
 
 - The free version only works until you see if your Vivo Y78t is compatible with the app. You will be required to enter a valid license once you initiate the repair process.
 - If you own an iOS device, you’ll have to get the iOS version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Fix Black Phone Screen With Wondershare Dr.Fone
 
@@ -511,10 +519,6 @@ After choosing the file's type for backup, click "Backup" to begin backing up yo
 
 ![android factory mode](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Note: You can use the feature of "Restore From Backup" to restore the backup file to your device, when you have the need later.
 
 ## Part 3: One Click Solution to fix Android stuck in factory mode
@@ -543,10 +547,6 @@ Step 1: Installation completion needs to be followed by running Dr.Fone on your 
 
 ![fix Android stuck in factory mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Select the ‘Android Repair’ option from the list to fix Android stuck in factory modeissue. Hit the ‘Start’ button soon after.
 
 ![start fixing Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -554,10 +554,6 @@ Step 2: Select the ‘Android Repair’ option from the list to fix Android stuc
 Step 3: Select Android device details on the Vivo Y78t device information window, followed by tapping the ‘Next’ button.
 
 ![model info selection](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Enter ‘000000’ for confirmation then proceed.
 
@@ -570,6 +566,10 @@ Step 1: It’s important to put the Android device in ‘Download’ mode, here 
 - On a ‘Home’ button-less device – turn off the Vivo Y78t device and push down the ‘Volume Down’, ‘Power’ and ‘Bixby’ buttons for about 10 seconds and un-hold. Now, hit the ‘Volume Up’ button to get into ‘Download’ mode.
 
 ![fix Android stuck in factory mode on android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - For a device with ‘Home’ button – switch it off and hold down the ‘Power’, ‘Volume Down’ and ‘Home’ buttons together for 10 seconds and release. Click the ‘Volume Up’ button for entering ‘Download’ mode.
 
@@ -647,15 +647,20 @@ As much as factory mode can be a useful solution to a number of problems, it can
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/create-slide-masking-effect-intro/"><u>Create Slide Masking Effect Intro</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-c12-plus-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia C12 Plus 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-vital-tips-to-preserve-lol-competitions/"><u>In 2024, Vital Tips to Preserve LOL Competitions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/instale-windows-11-23h2-sin-necesidad-de-hardware-compatible-dos-metodos-faciles/"><u>Instale Windows 11 23H2 Sin Necesidad De Hardware Compatible: Dos Métodos Fáciles</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/short-vid-star-spotlight-check/"><u>Short Vid Star Spotlight Check</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-for-joining-and-contributing-to-an-xtwitter-event/"><u>The Ultimate Checklist for Joining & Contributing to an X/Twitter Event</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-k11-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo K11 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-s24-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy S24 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/yl-software-explains-easy-steps-to-connect-a-scannerprinter-on-windows-11/"><u>YL Software Explains: Easy Steps to Connect a Scanner/Printer on Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-detailed-methods-for-seamless-wirecast-livestreams-on-youtube-for-2024/"><u>[New] Detailed Methods for Seamless WireCast Livestreams on YouTube for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unlock-discord-networking-on-pcandroid-and-ios-for-2024/"><u>[Updated] Unlock Discord Networking on PC/Android & iOS for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-k11-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo K11 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/amplify-tray-graphics-windows-resource-indicators-displayed/"><u>Amplify Tray Graphics: Windows Resource Indicators Displayed</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-infinix-smart-8-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Infinix Smart 8 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-g2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo G2 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-4-versus-chatgpt-35-why-is-there-a-noticeable-speed-discrepancy/"><u>ChatGPT-4 Versus ChatGPT-3.5: Why Is There a Noticeable Speed Discrepancy?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/cutting-edge-camera-capabilities-unleashing-potential-on-iphone-for-2024/"><u>Cutting-Edge Camera Capabilities Unleashing Potential on iPhone for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-connect-three-screens-to-your-m1-mac-using-a-premium-ugreen-usb-c-docking-station-exclusive-tips-by-zdnet/"><u>How to Connect Three Screens to Your M1 Mac Using a Premium Ugreen USB-C Docking Station – Exclusive Tips by ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-bring-life-to-stills-motion-blur-technique/"><u>In 2024, Bring Life to Stills Motion Blur Technique</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-v29-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo V29 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-redmi-note-12-pro-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Redmi Note 12 Pro 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy Z Flip 5 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-10-21T19:06:55.058Z
-updated: 2024-10-28T16:22:47.541Z
+date: 2025-01-03T06:00:58.411Z
+updated: 2025-01-08T08:35:58.305Z
 tags: 
   - problems
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf24
 For all its glory and goodness, the Android OS often has its users pulling their hair in frustration at just how buggy the OS can be at times. So, if you’re having one of those days today, we are here to help. Camera app is one of the most used apps on smartphones today. People only launch the app when they want to take a photo, for everything else there’s a dedicated photo gallery app. What happens when you launch the camera app only to realize it threw an error and you missed your photo moment? Don’t throw the phone, not yet. Let us help you out.
 
 ![camera not working error in android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I: Why Is Android Camera Not Working?
 
@@ -57,6 +61,10 @@ If the camera app (or any app for that matter) has been in the background for a 
 Step 1: Launch the app switcher on your specific Android device the way your device manufacturer suggests you to. Usually, it is a swipe up and hold gesture to get into the app switcher.
 
 ![closing apps in app switcher](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
 
@@ -110,13 +118,6 @@ Step 2: Tap Manage Apps and Device.
 
 Step 3: If there are updates available, Tap Update All to update all apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### II.VII: Cool The Phone Down
 
 We do not realize the immense power that is packed into the thin smartphone form factor these days. If you have been using the phone to video chat for a while now, you might not realize that the phone has become hot, especially if you are using a desk stand. Same for shooting high-resolution videos; the phone does get quite hot shooting high-resolution videos.
@@ -126,6 +127,10 @@ If this is the case, close all apps and let the phone cool down. You might even 
 ### II.VIII: Nudge The Camera System
 
 You may want to tap your camera system (the lenses and surrounding area) gently to see if that gets the camera working. In case it did, this is indicative of a hardware issue, and you should get it checked at the service center at your earliest convenience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.IX: Fix Android Camera Not Working Issue In One Click (With Dr.Fone)
 
@@ -158,13 +163,6 @@ Step 4: Your Android device will be detected by Dr.Fone. If anything seems incor
 Step 5: Your phone needs to be put into Download mode before it can be repaired. Follow the instructions shown onscreen and click Next.
 
 ![set phone in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 6: Dr.Fone automatically downloads the most recent firmware for your device and when it is ready, waits for your input. Click Fix Now to start the repair process.
 
@@ -327,13 +325,6 @@ However, if the Android crash problem is such that your phone has frozen, become
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14988992495864.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Once you are on the Recovery Mode screen, use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14988992704405.jpeg)
@@ -422,13 +413,6 @@ Whatsoever Android you own, you need to put it in Download Mode, depending on th
 
 ![download the android os firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5: Fix the Firmware of Android**
 
 Once it downloads and is verified, click the "Fix Now" button to repair the Android successfully. You may need to provide a PIN to confirm the process. Once provided, the next screen shows the progress of the repair process. As it completes, click the "Done" button to conclude fixing the Android system crash issue.
@@ -436,20 +420,6 @@ Once it downloads and is verified, click the "Fix Now" button to repair the Andr
 ![android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 11: Factory reset the Samsung Galaxy Z Flip 5 device to fix the Android crash issue
 
@@ -501,13 +471,6 @@ There are several reasons why this error can occur repeatedly and it is worth no
 
 It is always a good idea to back up your data especially before embarking on any attempt to fix any problem with your device. This way you will always have your data with you just in case something goes wrong and you lose all your data. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) will help you easily back up your Samsung Galaxy Z Flip 5. The application will allow you to back up your device with a few clicks and you can restore what you want from your backup .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexibly Back up and Restore Android Data
@@ -527,6 +490,10 @@ Click the "Start Download" button above to get the software installed on your co
 
 ![Android. Process. Media - backup android](https://images.wondershare.com/drfone/guide/connect-my-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2. Connect your device
 
 Then connect your Samsung Galaxy Z Flip 5 to the computer and make sure that it can be recognized by your computer. Then click on "My Backup" on Dr.Fone.
@@ -539,24 +506,19 @@ When your device is displayed on the window of the program, click "Back Up Now "
 
 ![Android. Process. Media - select data types](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to Fix "Android. Process. Media" Error
 
 With a full backup of your Samsung Galaxy Z Flip 5, you can now embark on a mission to fix the error. There are several methods to clear this error. We have outlined three of the most effective solutions here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Ensure app and system updates
 
@@ -585,6 +547,10 @@ Step 2: Next, find Google Play from the same Manage Applications page.
 Step 3: Tap on it and then Tap on clear cache.
 
 ![clear crash](https://images.wondershare.com/drfone/others/android-process-media-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Press the back button to go back to the Google Services framework and then choose Force stop > clear cache > OK
 
@@ -639,15 +605,27 @@ To confirm the Android repair may erase all data on your device, you need to typ
 
 ![fix android.process.media stopping by entering code](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Repair your Samsung Galaxy Z Flip 5 in Download mode.**
 
 Read and follow the [guide here](https://drfone.wondershare.com/guide/android-repair.html) to boot your Samsung Galaxy Z Flip 5 in Download mode.
 
 ![fix android.process.media stopping in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then click "Next" to start downloading the firmware.
 
 ![start downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It may take a while, so you could have a cup of coffee to wait for the repair process completed.
 
@@ -681,20 +659,16 @@ It is our hope that when faced with this fairly common error, you will not panic
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-guide-to-utilizing-siri-on-tiktok-videos/"><u>[New] 2024 Approved Guide to Utilizing Siri on TikTok Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-essential-tips-for-making-youtube-introductory-trailers/"><u>[New] In 2024, Essential Tips for Making YouTube Introductory Trailers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/4k-fernsehtechnologie-verstehen-kaufempfehlung-und-vorteile-eines-neuen-ultra-hochauflosenden-bildschirms/"><u>4K Fernsehtechnologie Verstehen - Kaufempfehlung Und Vorteile Eines Neuen Ultra Hochauflösenden Bildschirms</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-nokia-xr21-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Nokia XR21 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-y100-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo Y100 5G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-vivo-s17t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo S17t Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-motorola-edge-40-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Edge 40 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2000-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel 2000 Found a Problem with One or more Formula</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-enhancing-your-live-viewing-experience-on-facebook/"><u>In 2024, Enhancing Your Live Viewing Experience on Facebook</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/reimagine-video-narratives-with-windows-10s-story-remix-tool/"><u>Reimagine Video Narratives with Windows 10'S Story Remix Tool</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1726224589837-tsflv-movavi/"><u>オンラインで無料TSからFLVに容易に変換: Movaviの専門家ガイド</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-exquisite-home-designs-unlocked-in-blocky-landscapes/"><u>[New] 2024 Approved Exquisite Home Designs Unlocked in Blocky Landscapes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-the-secrets-acquiring-attractive-pexel-photos/"><u>[New] 2024 Approved Unveiling the Secrets Acquiring Attractive Pexel Photos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-vocal-variance-for-visuals-dynamic-voiceover-strategies-on-slides/"><u>[New] In 2024, Vocal Variance for Visuals Dynamic Voiceover Strategies on Slides</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-generating-attention-grabbing-video-teasers/"><u>[Updated] In 2024, Generating Attention-Grabbing Video Teasers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quintessential-vr-cinematic-treasures/"><u>[Updated] Quintessential VR Cinematic Treasures</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-g54-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola G54 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oppo-find-x7-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo Find X7 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-google-pixel-8-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Google Pixel 8 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Hot 30i | Dr.fone</u></a></li>
 </ul></div>
 

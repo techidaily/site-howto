@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor Play 7T ? Fix It Easily | Dr.fone
-date: 2024-12-27T09:48:08.613Z
-updated: 2024-12-29T11:11:35.933Z
+date: 2025-01-06T08:57:18.307Z
+updated: 2025-01-07T22:47:20.096Z
 tags: 
   - problems
 categories:
@@ -87,15 +87,15 @@ Your device should already be in this mode but follow the instructions to make s
 
 ![fix Android stuck at System recovery in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step #4** The firmware will now start downloading. You'll be able to track this process in the window.
 
 Ensure your device, and your computer stays connected the entire time, and make sure your internet connection remains stable.
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
@@ -104,10 +104,6 @@ After downloading, the software will automatically start to repair your device b
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
@@ -124,6 +120,10 @@ Step 4: Press the Volume down key to select the "Wipe Data/ Factory Reset option
 Step 5: Next, you need to press the Volume down button to highlight "Delete All User Data" and then press the Power button to select it. The device will reset and present the "Reboot System Now" option.
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Backup and Restore Android System
 
@@ -147,13 +147,13 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Fixes for "Unfortunately, Phone Has Stopped" on Honor Play 7T
 
 Encountering issues with the Phone app is never welcoming. Being one of the useful apps, seeing it crashing and unresponsive gives sheer despondency. If talked about the triggering points, they are numerous. But the central point is what to do when the Phone app keeps crashing. In this article, we have discussed this issue in detail. To know this and more about why the "Unfortunately, Phone has stopped" error crops up, read this article and get the problem sorted on your own.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: When can the "Unfortunately, Phone has stopped" error come?
 
@@ -166,10 +166,6 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.1 Open the Phone app in Safe Mode
 
 First and foremost, the thing that can let you get rid of this trouble is Safe Mode. It is a feature that will end any excessive background functioning of the Honor Play 7T device. For instance, your device will be able to run sans any third-party apps when in Safe mode. Since the important functions and the naïve apps will be running on the Honor Play 7T device, you will get to know if it’s really a software glitch or not by running the Phone app in Safe mode. And this is the first solution we would recommend you make use of when the Phone app has stopped. Here is how to enable Safe Mode.
@@ -178,6 +174,10 @@ First and foremost, the thing that can let you get rid of this trouble is Safe M
 2. Now keep pressing the "Power" button until you see the Honor Play 7T logo on the screen.
 3. Release the button and immediately press and hold the "Volume Down" key.
 4. Leave the key once the Honor Play 7T device is in Safe mode. Now, the third-party apps will be disabled and you can check if the Phone app is still not responding or everything is fine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Clear the cache of the Phone app
 
@@ -189,17 +189,9 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.3 Update Google Play services
 
 Since Android is created by Google, there must be some Google Play services that are crucial to run several system functions. And if attempting the previous methods isn’t of any use, try updating Google Play services when you find the Phone app stopped. For doing this, you need to make sure that automatic updates are turned on in Google settings. If not, enable it and get the apps including Google Play services updated for smoother functions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.4 Update the Honor Play 7T firmware
 
@@ -211,6 +203,10 @@ When the firmware is not updated, it may conflict with some apps and maybe that�
 ![Phone app crashing - update firmware](https://images.wondershare.com/drfone/article/2023/05/samsung-android-update-shot.jpg)
 
 1. Download and install it and then try to use the Phone app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.5 Clear partition cache
 
@@ -224,19 +220,15 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 
 ![Phone app crashing - cache partition clearance](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.6 Get the Honor Play 7T system repaired in one click
 
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -258,6 +250,10 @@ Click the "Start Download" button to download the tool on your computer, and the
 
 ![Phone app crashing - fix using a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Plug the Phone with PC**
 
 Take your original USB cord and then connect your Honor Play 7T to the computer. When the Honor Play 7T device is connected, click on "Android" from the two tabs > click "Start"
@@ -265,7 +261,7 @@ Take your original USB cord and then connect your Honor Play 7T to the computer.
 ![Phone app crashing - connect phone to pc](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Enter the Details**
@@ -288,6 +284,14 @@ When you see the firmware has been downloaded, the issue will begin to get resol
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.7 Factory reset
 
 If none of the above methods worked for you, the last resort you are left with is a factory reset. This method will wipe everything from your device and make it function like normal. We also suggest you [make a backup of your data](https://drfone.wondershare.com/backup/android-backup-software.html) if it is important so as to prevent the loss. Here is how to do this to fix the crashing Phone app.
@@ -297,10 +301,6 @@ If none of the above methods worked for you, the last resort you are left with i
 3. Within a while, your device will go through resetting and boot up to normalcy.
 
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
@@ -313,19 +313,20 @@ If none of the above methods worked for you, the last resort you are left with i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-premier-video-communication-tools-the-top-10-for-ios-and-android-for-2024/"><u>[New] Premier Video Communication Tools The Top 10 for iOS & Android for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-smooth-transition-from-iphones-jpegpng-files-to-pdf-format-for-2024/"><u>[New] Smooth Transition From iPhone's JPEG/PNG Files to PDF Format for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mp4-video-download-companion-booklet/"><u>[Updated] 2024 Approved MP4 Video Download Companion Booklet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-insights-adjusting-tempo-for-optimal-snapchat-viewing/"><u>[Updated] Expert Insights Adjusting Tempo for Optimal Snapchat Viewing</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-nokia-c22-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nokia C22 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-review-of-the-blade-e-flite-mcx3-rtf-helicopter-a-revolutionary-addition-to-your-hobby-collection/"><u>Expert Review of the Blade E-Flite mCX^3 RTF Helicopter - A Revolutionary Addition to Your Hobby Collection</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/le-piu-innovative-soluzioni-di-tracciamento-familiare-nel-2024-scopri-le-opzioni-ideali-con-movavi/"><u>Le Più Innovative Soluzioni Di Tracciamento Familiare Nel 2024 – Scopri Le Opzioni Ideali Con Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/online-electronic-signature-for-pdf-v12-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Online electronic signature for PDF v1.2 document</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-m14-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy M14 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-enhanced-audio-visual-sync-subtitle-addition-to-wmp/"><u>Unlock Enhanced Audio-Visual Sync Subtitle Addition to WMP</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y78-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-end-vision-booster-convert-with-clarity/"><u>[Updated] High-End Vision Booster Convert with Clarity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-holistic-mobility-inspection-study-for-2024/"><u>[Updated] Holistic Mobility Inspection Study for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-expert-tips-extracting-audio-from-youtube-video-playback/"><u>[Updated] In 2024, Expert Tips Extracting Audio From YouTube Video Playback</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-tecno-camon-30-pro-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Tecno Camon 30 Pro 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/alter-your-social-media-identity-a-compreenas-guide-to-facebook-renaming/"><u>Alter Your Social Media Identity: A Compreenas Guide to Facebook Renaming</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-lenovo-thinkpad-x260-driver-updates-for-windows-10-users/"><u>Find and Install Lenovo ThinkPad X260 Driver Updates for Windows 10 Users</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/immerse-in-galactic-beauty-premium-1080p-star-wars-themes-photos-and-graphics-courtesy-of-yl-computing/"><u>Immerse in Galactic Beauty: Premium 1080P Star Wars Themes, Photos & Graphics Courtesy of YL Computing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-a-step-by-step-guide-through-youtubes-aspect-ratio-landscapes/"><u>In 2024, A Step-by-Step Guide Through YouTube's Aspect Ratio Landscapes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-proven-strategies-for-implementing-visual-enhancements-in-media/"><u>In 2024, Proven Strategies for Implementing Visual Enhancements in Media</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-reno-9a-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo Reno 9A ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-lava-yuva-2-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Lava Yuva 2 Pro Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12t-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12T Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

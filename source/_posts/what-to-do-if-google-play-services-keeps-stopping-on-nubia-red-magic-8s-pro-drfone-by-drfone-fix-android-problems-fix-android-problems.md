@@ -1,7 +1,7 @@
 ---
 title: What to Do if Google Play Services Keeps Stopping on Nubia Red Magic 8S Pro | Dr.fone
-date: 2024-07-30T12:18:44.034Z
-updated: 2024-07-31T12:18:44.034Z
+date: 2024-12-31T21:37:47.526Z
+updated: 2025-01-08T00:34:20.331Z
 tags: 
   - problems
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
 ## What to Do if Google Play Services Keeps Stopping on Nubia Red Magic 8S Pro
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google play services app keeps stopping](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-1.jpg)
 
 Is the annoying Google Play Services error constantly popping up on your phone? Is it happening while reading, gaming, or browsing social media?
@@ -35,6 +32,10 @@ There’s also the issue of wrong app versions. Although each Android phone uses
 
 That’s also the case with Google Play Store and Google Play Services.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Google Play Services Keeps Stopping
 
 The Google Play Services keeps stopping error is an infamous one, and it can appear for various reasons and even on brand new phones. However, these causes can be categorized into three groups, which are:
@@ -45,22 +46,10 @@ The Google Play Services keeps stopping error is an infamous one, and it can app
 
 Regardless of what’s causing the issue on your phone, we’ve compiled a list of ten possible solutions, and you can find those below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Solutions to Try When Google Play Services Keeps Stopping
 
 There are many solutions for the issue of Google Play Services that keeps stopping. We’ve listed the most famous and effective ones, and you’ll find them below in no particular order. Try them out and see whether they fix the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1. Do a Factory Reset
 
 A factory reset on any smartphone removes all your data on the phone’s internal storage and can even wipe your SD card clean if you select the option. Before you reset your phone to factory settings, ensure you’ve backed up all your essential apps and files. When you’re ready, you can do a factory reset by following these steps:
@@ -75,23 +64,6 @@ A factory reset on any smartphone removes all your data on the phone’s interna
 
 Your phone will now restart and start the reset process. Once the factory reset completes, your phone will look brand new, and you’ll need to install all your apps again. Moreover, your Google Play Services app will likely get fixed by this, too.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### 2. Update Your System
 
 As keeping your phone’s system and apps updated to the latest possible version is essential and recommended for the best performance and highest efficiency, you can try updating it to see whether it fixes your Google Play Services error. Here’s how:
@@ -102,9 +74,6 @@ As keeping your phone’s system and apps updated to the latest possible version
 
 Restarting your phone after an update, even if it doesn’t restart itself, is highly advisable, ensuring that the new updates apply without issues.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3. Revert to the Previous Version
 
 As we’ve discussed the wrong Play Services versions above, it’s worth noting that sometimes even the developers can make mistakes and roll out the wrong version for your phone. So, if you notice that the phone is getting the error after you’ve updated Google Services or the Play Store, you can quickly revert to the previous version, and here’s how:
@@ -136,9 +105,6 @@ Believe it or not, one of the leading causes of the Google Play Services issue i
 
 Head into your phone’s Settings and select Storage to see how your phone’s doing storage-wise. Deleting a few apps you don’t use and transferring your photo and video library to a PC is highly advisable if your phone’s storage space lacks gigabytes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 6. Do a System Repair
 
 Although the other solutions here are general fixes that might help, a system repair might take a bit longer but will undoubtedly fix your issue. You can use the Wondershare Dr.Fone app to repair the system and eliminate the annoying “Unfortunately, Google Play Services has stopped working” error.
@@ -147,14 +113,15 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
 - **Step 1**: Launch the Wondershare Dr.Fone app on your PC and head into **Toolkit**\> **System Repair** > **Android**.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![start the wondershare dr.fone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 2**: Select the type of issue you want to fix > **Start**.
 
     ![start the android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3**: Select the make and model of your phone so that Dr.Fone can find the appropriate Android software.
 
@@ -162,9 +129,6 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
 - **Step 4**: Connect the phone to the PC via a USB cable and follow the on-screen instructions to put the phone into **Download Mode**. The instructions are available for both phones with and without the home button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
     ![put the phone into download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - **Step 5**: Select the appropriate Android firmware, download it, and hit **Fix Now**after it downloads.
@@ -177,9 +141,6 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
 That’s all it takes to do a system repair with Wondershare Dr.Fone. Give the software a few minutes to complete, during which your phone might restart a few times. Once it’s done, your Google Play Services app will undoubtedly work.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### 7. Clear Cache
 
 The easiest and the most obvious fix for many Android apps is clearing the app’s cache. Here’s how you can do that for Google Play Services and Google Play Store:
@@ -193,6 +154,10 @@ The easiest and the most obvious fix for many Android apps is clearing the app�
 
 If this doesn’t work, move on to another possible fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8. Check Date and Time Settings
 
 Oddly enough, the Google Play Services app is prone to failure because of an incorrectly set time or date. That’s because Google’s servers constantly check these settings before issuing updates to the Nubia Red Magic 8S Pro devices, so you’ll need to ensure they’re correct beforehand. Here’s how:
@@ -200,18 +165,12 @@ Oddly enough, the Google Play Services app is prone to failure because of an inc
 - **Step 1**: Head into **Settings**\> **System** > **Date & Time**.
 - **Step 2**: Ensure that both “**_Use network–provided time_**” and “**_Use network-provided time zone_**” are toggled on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
     ![check date and time settings](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-11.jpg)
 
 - **Step 3**: If this doesn’t work, you can try repeating the process and manually setting the time and the time zone.
 
 Once you check or change these settings, try using the Google Play Store app and check whether the issue is fixed. Restarting the phone after changing the settings is also highly advisable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### 9. Troubleshoot Your Internet Connection
 
 Another regularly overlooked troublemaker is a poor internet connection. That’s because most apps nowadays are meant to work in online mode only, and losing connection or using a bad one interferes with the app’s functionality.
@@ -224,16 +183,10 @@ Although permissions rarely change, they can cause issues if you change them acc
 
 Once inside Permission Settings, check whether the Google Play Services and Play Store apps have sufficient permission to do their jobs and whether any required permissions were recently removed. If so, grant these two apps their permissions back.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,953,228** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Although it’s an incredibly frustrating error, the “Unfortunately, Google Play Services has stopped” message is more annoying than serious. We’ve explained why it happens, but we’ve also given you a list of solutions to fix it.
@@ -241,10 +194,9 @@ Although it’s an incredibly frustrating error, the “Unfortunately, Google Pl
 Our list includes various fixes, from simple ones, like deleting the app’s cache and ensuring your network works fine, to more serious ones, like doing a factory reset. Alternatively, you can do a system repair with the help of Wondershare Dr.Fone, which will certainly fix the problem, but it might be a bit more complicated than cache deletion.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Solved] Warning: Camera Failed on Nubia Red Magic 8S Pro
 
 In this article, you will learn why camera fails on Nubia Red Magic 8S Pro devices, how to make camera work again, as well as a system repair tool to fix this issue in few clicks.
@@ -257,9 +209,6 @@ The error message reads as follows: “Warning: Camera Failed”.
 
 Once you click on “OK” the app shuts down abruptly and your Nubia Red Magic 8S Pro camera is failed. We understand this is not a very pleasing situation, thus, here are ways to tackle the camera failed Nubia Red Magic 8S Pro issue. Let us now move ahead and find out why exactly you experience Warning: Camera Failed error and how to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Why Nubia Red Magic 8S Pro phone has Warning: Camera Failed error?
 
 We are all aware that no device runs smoothly, without any glitches. We also know that there is a cause behind every problem. Listed below are a few reasons behind camera failed error, especially on Nubia Red Magic 8S Pro devices:
@@ -278,11 +227,6 @@ There might be much more reasons for the camera failed error, but these are the 
 
 If you are experiencing some kind of issues in your Nubia Red Magic 8S Pros such as Nubia Red Magic 8S Pro camera failed, the Nubia Red Magic 8S Pro device stopped working, black screen, play store not working, etc. There is a special software is designed for such kind of issues in Android devices, i.e. dr. fone. The tool enables the users to fix various kinds of issues in the Nubia Red Magic 8S Pro devices and perform a complete system repair so the Nubia Red Magic 8S Pro device starts working normally.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One-click solution to fix camera failed on Nubia Red Magic 8S Pro devices
@@ -300,9 +244,6 @@ One-click solution to fix camera failed on Nubia Red Magic 8S Pro devices
 
 **Step 1.** Download the software on your computer and launch it. Connect your device and select the System Repair option from the main interface. In the next screen, select Android Repair module.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![fix samsung camera failed by repairing samsung system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** You will have to provide the Nubia Red Magic 8S Pro device details accurately to ensure that the software provides a precise firmware package to be downloaded. Enter brand, name, model, country, and carrier of your device and agree to the terms and condition.
@@ -311,16 +252,10 @@ One-click solution to fix camera failed on Nubia Red Magic 8S Pro devices
 
 **Step 3**. Now put your device in the download mode. The software will provide you with a guide to put the phone in download mode to begin the downloading process.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **Step 4.** As soon as the firmware is downloaded, the software will automatically initiate the repair process. You will be able to see the ongoing repair.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![fixing samsung camera failed](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 When the software is done repairing the system, you will be notified. Thus, the Camera failed Nubia Red Magic 8S Pro error in your phone will be fixed.
@@ -335,14 +270,15 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 
 2\. Now a list of all Apps will appear before you. Keep scrolling down until your find “Camera”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![camera app](https://images.wondershare.com/drfone/article/2017/07/14997065904511.jpg "camera app")
 
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
 ![clear data](https://images.wondershare.com/drfone/article/2017/07/14997066321127.jpg "clear data")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
 
@@ -356,16 +292,10 @@ Simply, follow the instructions given below to remove Apps from Nubia Red Magic 
 
 2\. You will see that a list of downloaded and built-in Apps will open up before you as follows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![installed apps](https://images.wondershare.com/drfone/article/2017/07/14997066916915.jpg "installed apps")
 
 3\. Now, once you select the App you want to uninstall, the App Info screen will appear. Tap on “Uninstall” option and then tap on “Uninstall” again on the pop-up message.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14997067161727.jpg "uninstall app")
 
 The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
@@ -384,10 +314,11 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 3\. Once the Recovery Screen appears, leave all buttons and use the volume down key till you reach “Wipe Cache Partition”.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
@@ -395,9 +326,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 You may try to use the camera app once the process completes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Part 6: How to fix Camera Failed error by Reset Settings?
 
 Resetting the camera settings solves the problem 9 out of 10 times and thus is worth a try.
@@ -408,9 +336,6 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 2\. Then go to Camera “Settings” by tapping on the circular gear like icon.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![camera settings](https://images.wondershare.com/drfone/article/2017/07/14997069036741.jpeg "camera settings")
 
 3\. Now look for “Reset Settings” options and click on it.
@@ -419,9 +344,6 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 Once done, go back to the Home Screen and start the camera App again to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 7: How to fix Camera Failed error by Factory Reset?
 
 Lastly, if the above-mentioned techniques do not help you in fixing the camera failed error, you can consider performing a Factory Reset. Note: This method will delete all your saved data so it is advised to backup before you start the process.
@@ -432,26 +354,29 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![phone settings](https://images.wondershare.com/drfone/article/2017/07/14997069645058.jpg "phone settings")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Now from the list of options before you, select “Backup and reset” and move ahead.
 
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/07/14997069833129.jpg "backup and reset")
 
 3\. Now you must first select “Factory data reset” and then tap on “Reset Device” as shown in the screenshot below.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
 
 4\. Finally, you have to click on “Erase Everything” and wait for the Nubia Red Magic 8S Pro device to reboot itself.
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/07/14997070554687.jpg "erase everything")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: You will have to set up your Nubia Red Magic 8S Pro device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Nubia Red Magic 8S Pro devices.
-
-
 
 ## Why Is My Nubia Red Magic 8S Pro Offline? Troubleshooting Guide
 
@@ -483,13 +408,6 @@ In some cases, a firewall on your Nubia Red Magic 8S Pro might be overly restric
 
 Now, you have understood the potential causes as the first step toward resolving the issue. Next, we'll guide you through the process of troubleshooting and getting your Nubia Red Magic 8S Pro back online.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Phone offline on Android](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-1.jpg)
 
 ## Part 2: How To Fix “Phone Offline” With Internet Connection Problem
@@ -533,10 +451,6 @@ To reset your network settings, the steps may differ depending on the phone mode
 
 ![Reset the network settings on Android](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Solution 4: Restart your Wi-Fi router
 
 Sometimes, the problem might not be with your phone but rather with the [<u>Wi-Fi router</u>](https://drfone.wondershare.com/root/wifi-hacker-without-root.html). Restarting it can refresh the connection and potentially resolve the connectivity problem.
@@ -549,6 +463,10 @@ How to restart your Wi-Fi router:
 - **Step 4:** Allow the router to restart and establish a connection. Then, check if your phone still shows the "Phone Offline" message.
 
 These solutions should cover the most common connectivity issues. If the problem persists, we'll explore further steps in the following sections.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Fix “Phone Offline” Despite Having an Internet Connection
 
@@ -572,8 +490,9 @@ Now, restart Google Chrome and check if the offline error persists.
 ![Clear Google Chrome’s cache and data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Re-install Google Chrome
 
 If [<u>clearing the cache and data</u>](https://drfone.wondershare.com/erase-iphone/clear-iphone-cache.html) didn't solve the offline issue, reinstalling Google Chrome can be the next step. A fresh installation can eliminate any underlying glitches or corrupted files that might be causing the persistent offline status.
@@ -585,14 +504,8 @@ How to re-install Google Chrome:
 - **Step 3:** Wait until it has finished uninstalling your app. Then, tap "Install" to start reinstalling the app.
 - **Step 4:** Once the installation is complete, open Google Chrome and check if the offline error persists while browsing.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Re-install Google Chrome on Google Play Store](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 3: Repair the system to fix the phone showing offline
 
 When persistent offline issues seem deeply rooted in your device's system, a comprehensive system repair may be the solution. Wondershare Dr. Fone's system repair tool is designed to address a range of system problems, providing a reliable way to fix any problem you have with your phone.
@@ -613,9 +526,6 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![Open Dr.Fone System Repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,189,324** people have downloaded it
@@ -624,27 +534,18 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 Click Start on the new screen to kick off the repair. Since you're dealing with an offline connection issue on Android, select System Damage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select the problem and begin the repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 3:** Confirm your device details
 
 The platform will detect your Nubia Red Magic 8S Pro's brand. Confirm the Name, Model, Country, and Carrier. If your device is unlocked, choose OPEN in the Carrier section. Agree to the warning, click Next, and proceed with the repair.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Confirm your Nubia Red Magic 8S Pro’s details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 4:** Download firmware.
 
 Follow the instructions to put your Nubia Red Magic 8S Pro into Download Mode. Once in Download Mode, you will start downloading the firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![Activate Download mode to download the firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 5:** Confirm Installation
@@ -653,24 +554,11 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Dealing with the "Phone Offline" hiccup on your Nubia Red Magic 8S Pro can be a real headache. But fear not – we've covered a range of solutions to get you back online smoothly. From troubleshooting internet connection problems to addressing browser and app-related glitches, the solutions provided in this guide are designed to cater to a variety of scenarios. If you find it troublesome to try solutions one by one, then we recommend using Dr.Fone directly which is a full toolkit for your phone and can help resolve most device glitches one-off.
 
 Remember, technology can sometimes be tricky. But with patience and the right guidance, you can overcome these challenges.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -684,7 +572,21 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-immediate-harmony-videos-on-youku-toujiang/"><u>[New] 2024 Approved Immediate Harmony Videos on Youku Toujiang</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2023-update-sony-bdp-s3700-in-depth-analysis/"><u>2023 Update Sony BDP-S3700 in Depth Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-nubia-z50s-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Nubia Z50S Pro System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-step-by-step-solution-correcting-crashes-in-armored-core-6-fires-of-rubicon-for-windows-pcs/"><u>A Step-by-Step Solution: Correcting Crashes in Armored Core 6: Fires of Rubicon for Windows PCs</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-x9b-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor X9b Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-70-lite-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor 70 Lite 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a56s-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo A56s 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-itel-s23plus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Itel S23+ Data? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/little-wheels-whirlwind-games-for-2024/"><u>Little Wheels Whirlwind Games for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-windows-media-connections-a-comprehhavisive-fix-for-peripheral-connectivity-problems/"><u>Reviving Your Windows Media Connections: A Comprehhavisive Fix for Peripheral Connectivity Problems</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oneplus-12-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your OnePlus 12 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

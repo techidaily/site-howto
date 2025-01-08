@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo K11x | Dr.fone
-date: 2024-10-22T16:42:08.583Z
-updated: 2024-10-28T18:14:22.490Z
+date: 2025-01-01T22:05:38.249Z
+updated: 2025-01-08T07:20:58.900Z
 tags: 
   - problems
 categories:
@@ -65,13 +65,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![downloading firmware in progress](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
 
 ![fix your android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
@@ -83,6 +76,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
 
 ![android system repair in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 12:** Once it finishes, click **Done**to complete the system repair.
 
@@ -118,6 +115,10 @@ You can force-close Spotify and open it again to make it work properly. That is 
 - **Step 3:** Find Spotify in **Recent Apps**and click **X** or swipe up over it to force-close it.
 - **Step 4:** Try opening Spotify again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3. Re-Login to Your Spotify
 
 The Spotify app may be working fine. Maybe you’re having problems with your Spotify account. If so, you can try logging out and logging in again to see if that works. That isn’t a big problem; sometimes Spotify accounts start bugging. You can re-login to your Spotify account by following these steps:
@@ -139,13 +140,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 - **Step 6:** Tap **Login**again, and you’re in.
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4. Restart Your Device
 
@@ -182,6 +176,10 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 - **Step 2:** Go to **System** or **About Phone**.
 
 ![about phone to find system update](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Select **System Update**.
 - **Step 4:** If there’s an available update, tap
@@ -234,19 +232,6 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 - **Step 7:** Once it installs, log in to test if it’s working.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 10. Check if Spotify Is Down
 
 If your Spotify keeps crashing and closing, it might not be your device’s problem. Sometimes, Spotify’s server can be down, and many people face the same issue. If that’s the case, you can check with your friends if their Spotify is working or check online if Spotify is down. To do that, follow these steps:
@@ -262,6 +247,10 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 11. Clear the Cache
 
 When using different apps and websites, your device caches data from those sources. Since there’s no need to pile up your Spotify cache, you can clear it. Follow these steps:
@@ -276,15 +265,16 @@ When using different apps and websites, your device caches data from those sourc
 ![spotify in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4:** Tap **Storage**or **Storage usage**.
 
 ![spotify storage usage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-24.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Tap **Clear Cache**.
 
@@ -312,6 +302,10 @@ If you have been using your Oppo K11x for a while now and its performance to be 
 
 It is however important to note that a factory reset or factory mode does often result in the loss of all your data. Therefore a backup is necessary to protect against this data loss risk.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Backup your Android Device First
 
 Before we can see how to safely enter and exit factory mode, it is important to have a full backup of your device. We mentioned that a factory mode will likely erase all the data on your device. A backup will ensure that you can get your phone back to its original state before the factory mode.
@@ -337,6 +331,10 @@ Run the software on your computer and you can see all features displayed in the 
 
 ![backup android before enter in recovery mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2. Plug in with your device
 
 Then plug in with your device to the computer. When your devic is detected, click on Backup.
@@ -348,19 +346,6 @@ Then plug in with your device to the computer. When your devic is detected, clic
 The program will display all the file types it can support to backup. Just select the ones you would like to backup and hit Backup.
 
 ![select the data types to backup](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 4. Start backing up your device to the computer
 
@@ -375,6 +360,10 @@ Note: You can use the feature of "Restore From Backup" to restore the backup fil
 From the above parts, you are well aware about what is factory mode. As we discussed, this mode fixes most troubles with Android devices.
 
 But for situations when your Oppo K11x gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on Oppo K11x logo or factory mode or blue screen of death with a single click.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -400,6 +389,10 @@ Step 2: Select the ‘Android Repair’ option from the list to fix Android stuc
 
 ![start fixing Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Select Android device details on the Oppo K11x device information window, followed by tapping the ‘Next’ button.
 
 ![model info selection](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -419,13 +412,6 @@ Step 1: It’s important to put the Android device in ‘Download’ mode, here 
 - For a device with ‘Home’ button – switch it off and hold down the ‘Power’, ‘Volume Down’ and ‘Home’ buttons together for 10 seconds and release. Click the ‘Volume Up’ button for entering ‘Download’ mode.
 
 ![fix Android stuck in factory mode on android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: Press ‘Next’ for initiating firmware downloading.
 
@@ -567,13 +553,6 @@ After this method, you can successfully get rid of the safe mode on Android. Res
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iiA3E-Oj_pk"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to put the phone in safe mode?
 
 If some apps or programs create a problem on your device, the solution is safe mode. Safe mode allows you to uninstall the app or the program out of your device safely. So, safe mode on Android is quite useful sometimes. Let’s have a look at how to turn on safe mode in Android.
@@ -600,13 +579,6 @@ Step  1 – First of all, long press the power button and let the Power options
 Step 2 – Now, long press on the "Power off” option. This will instantly ask you if you want to reboot into safe mode. Select the option and your device will reboot in safe mode.
 
 ![‘Power off” ](https://images.wondershare.com/drfone/article/2017/06/14986728022827.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you are using Android version 4.2 or earlier, turn off the Oppo K11x device and turn it on the back by tapping the power button. When the logo appears, tap and hold the volume down button. This will allow the Oppo K11x device to boot in safe mode.
 
@@ -642,14 +614,17 @@ The safe mode is a very useful program for any Android device. But it limits the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-audio-recording-101-from-youtube-playback-to-files/"><u>[New] In 2024, Audio Recording 101 From YouTube Playback To Files</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-techniques-for-perfecting-instagram-video-loops/"><u>[Updated] In 2024, The Ultimate Techniques for Perfecting Instagram Video Loops</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-on-the-go-motion-dampener-for-videography/"><u>[Updated] On-the-Go Motion Dampener for Videography</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-magic-6-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor Magic 6 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oneplus-open-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of OnePlus Open ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-80-pro-straight-screen-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor 80 Pro Straight Screen Edition Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-demystifying-periscope-your-ultimate-learning-resource/"><u>[New] In 2024, Demystifying Periscope Your Ultimate Learning Resource</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-chronicles-that-captivate-top-youtube-storytelling-channels-2023/"><u>[Updated] 2024 Approved Chronicles that Captivate Top YouTube Storytelling Channels 2023</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/t-download-and-mp3-creation-for-streaming-video-files/"><u>Direct Download & MP3 Creation for Streaming Video Files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-file-recovery-recover-corrupt-excel-files-easily-by-stellar-guide/"><u>Excel File Recovery – Recover Corrupt Excel Files Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-g2-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo G2 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-7-plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 7 Plus Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-latest-amd-graphics-card-drivers/"><u>Install Latest AMD Graphics Card Drivers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-video-compression-made-easy-5-free-apps-for-iphone-and-ipad/"><u>New 2024 Approved Video Compression Made Easy 5 Free Apps for iPhone and iPad</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-x100-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo X100 Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-lava-yuva-3-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Lava Yuva 3 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-11-beta-unveils-microsofts-latest-innovations-revamped-start-menu-and-integrated-advertising/"><u>Windows 11 Beta Unveils Microsoft's Latest Innovations: Revamped Start Menu and Integrated Advertising</u></a></li>
 </ul></div>
 

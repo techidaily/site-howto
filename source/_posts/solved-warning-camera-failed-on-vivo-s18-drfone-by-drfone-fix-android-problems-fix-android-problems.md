@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Vivo S18 | Dr.fone
-date: 2024-12-22T01:23:24.754Z
-updated: 2024-12-29T04:08:07.672Z
+date: 2025-01-07T02:13:06.255Z
+updated: 2025-01-07T22:20:28.556Z
 tags: 
   - problems
 categories:
@@ -29,10 +29,6 @@ Once you click on “OK” the app shuts down abruptly and your Vivo S18 camera 
 We are all aware that no device runs smoothly, without any glitches. We also know that there is a cause behind every problem. Listed below are a few reasons behind camera failed error, especially on Vivo S18 devices:
 
 ![camera failed](https://images.wondershare.com/drfone/article/2017/07/14997493927963.jpg "camera failed")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. If you have recently updated your OS version, there are chances that certain bugs are preventing the camera App from functioning normally. Also, if the update is interrupted and not downloaded completely, certain apps may suffer.
 2. There are chances of your internal storage being cluttered with unwanted Apps and files leaving no space for the camera App to save its data and work smoothly.
@@ -77,7 +73,15 @@ One-click solution to fix camera failed on Vivo S18 devices
 
 ![fixing samsung camera failed](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the software is done repairing the system, you will be notified. Thus, the Camera failed Vivo S18 error in your phone will be fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to fix Camera Failed error by clearing camera data?
 
@@ -131,6 +135,10 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
@@ -146,7 +154,7 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 ![tap on camera](https://images.wondershare.com/drfone/article/2017/07/14997068859206.jpg "tap on camera")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2\. Then go to Camera “Settings” by tapping on the circular gear like icon.
@@ -158,10 +166,6 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 ![reset settings](https://images.wondershare.com/drfone/article/2017/07/14997069347307.jpg "reset settings")
 
 Once done, go back to the Home Screen and start the camera App again to use it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 7: How to fix Camera Failed error by Factory Reset?
 
@@ -177,10 +181,6 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/07/14997069833129.jpg "backup and reset")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Now you must first select “Factory data reset” and then tap on “Reset Device” as shown in the screenshot below.
 
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
@@ -188,10 +188,6 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 4\. Finally, you have to click on “Erase Everything” and wait for the Vivo S18 device to reboot itself.
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/07/14997070554687.jpg "erase everything")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Note: You will have to set up your Vivo S18 device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
@@ -213,6 +209,10 @@ If you accidentally dropped your phone or knocked it on a hard surface, you coul
 
 If you are 100% certain that your phone has gone through physical damage, you should seek professional help to have your phone repaired or checked. It is advised not to fix this problem yourself as your phone’s internal parts are complicated and delicate. Look for an official phone repair store and get your phone fixed for issues like your ****phone getting stuck on the logo.****
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Liquid Damage
 
 It is not common for your phone to expose to water. Rain or water splashes are unavoidable; sometimes, your phone gets wet. Little exposure to water on the surfaces of your phone is fine. However, if you fall into a pool with your phone or drop it in a puddle of water, your phone will likely suffer from liquid damage.
@@ -223,15 +223,15 @@ For iPhone users, look for the water damage indicator. If you see that it has tu
 
 ![iphone water indicator](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Software Issues
 
 Software issues are probably the most common reason your ****phone is stuck on the logo**** screen. Eight times out of ten, software issues are either caused by a failed software update, using an older version of the operating system, or having a jailbroken phone. When the software does not successfully update, the phone will have no operating system, as the old system was erased before the new software was installed.
 
 The older operating system is also not desired as your phone typically will send periodic updates to make sure your phone is up-to-date and free from bugs. Running applications on an older operating system might lead to issues like the ****phone being stuck on the boot screen or the logo.**** Hence, updating your phone to the latest software version would be better.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. 3 Helpful Ways To Fix Phones Stuck on Boot Screen
 
@@ -244,6 +244,10 @@ To quickly fix any of your phone issues, especially when stuck on the startup sc
 Here is an example of performing a hard reboot for an Android phone such as Vivo S18. Preess and hold the Power and Volume Down buttons simultaneously for more than 7 seconds to perform the hard reboot.
 
 ![hard reboot of samsung](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Put your phone in recovery mode
 
@@ -300,10 +304,6 @@ The following steps will show you how to use Dr.Fone to perform system repair on
 ****Step 5****: Connect your device to your computer and follow the instructions on the screen to enter ****Download mode****. Click on ****Next**** to proceed to the next step.
 
 ****Step 6****: Wait for the process to complete, and a new firmware will be updated on your device. Power on your phone and check if the issue still exists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Frequently Asked Questions
 
@@ -366,13 +366,13 @@ Step 1: Download and install Wondershare Dr.Fone to your PC. Launch the program 
 
 ![bricked android phone data recovery-Install Wondershare Dr.Fone ](https://images.wondershare.com/drfone/drfone/android-recover-broken-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2. Select the issue type for your phone. Choose from "Touch screen not responsive or cannot access the phone" or "Black/broken screen".
 
 ![bricked android phone data recovery-Select the issue type](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: In the next step, you need to select your device model. If you don’t know the model of your device click on “How to check the Vivo S18 device model” to get help.
 
@@ -382,19 +382,23 @@ Step 4: The next screen will provide instructions on how to enter “Download mo
 
 ![bricked android phone data recovery-Download Mode](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: The program will begin an analysis of your device and then download the recovery package.
 
 ![bricked android phone data recovery-download the recovery package](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 6: Then Dr.Fone will display all the recoverable file types. You can click on the files to preview them. Select the ones you need and click on "Recover to Computer" to save them to your computer.
 
 ![bricked android phone data recovery-click on Recover](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
 <iframe width="750" height="415" src="https://www.youtube.com/embed/m12WULZ-6aA" frameborder="0" allowfullscreen=""></iframe>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fix Your Bricked Android Phone
 
@@ -421,10 +425,6 @@ Step 2: Go to “Advanced” which will bring up a number of options to choose f
 Step 3: One of the options should be “Wipe Dalvik cache” select this option and then follow the instructions. When finished select “Go Back” to return to the main menu.
 
 ![bricked android phone data recovery-Go Back](https://images.wondershare.com/drfone/others/fix-bricked-android-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Go to the “Wipe Cache Partition” and select it.
 
@@ -470,17 +470,18 @@ While installing Custom ROM can actually be a great way to customize your device
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-dive-deep-into-obs-advanced-techniques-for-game-capture/"><u>[Updated] In 2024, Dive Deep Into OBS Advanced Techniques for Game Capture</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-diving-deeper-into-webcam-possibilities/"><u>[Updated] In 2024, Diving Deeper Into Webcam Possibilities</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-ultimate-live-streaming-mic-guide-choosing-from-the-best-6/"><u>[Updated] In 2024, The Ultimate Live-Streaming Mic Guide Choosing From the Best 6</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-expert-timekeeping-tools-without-a-price/"><u>2024 Approved Expert Timekeeping Tools Without a Price</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-sourav-joshi-mastered-youtube-earnings-by-2024/"><u>How Sourav Joshi Mastered YouTube Earnings by 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo T2x 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-must-try-video-editing-tools-expert-picks-and-reviews/"><u>Top 5 Must-Try Video Editing Tools: Expert Picks and Reviews</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-lava-agni-2-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Lava Agni 2 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y27s-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y27s Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-oppo-reno-10-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo Reno 10 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-beats-and-bits-the-art-of-adding-soundtracks-in-windows-11-media/"><u>[New] Beats & Bits The Art of Adding Soundtracks in Windows 11 Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sonic-kickstarts-curated-playlist-powerhouses/"><u>[New] Sonic Kickstarts Curated Playlist Powerhouses</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-premium-mac-graphics-collector/"><u>[Updated] 2024 Approved Premium Mac Graphics Collector</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-professional-steps-for-high-quality-powerpoint-replays/"><u>[Updated] 2024 Approved Professional Steps for High-Quality PowerPoint Replays</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-oppo-a59-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Oppo A59 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proofing-your-privacy-the-next-generation-of-cryptography/"><u>Future-Proofing Your Privacy: The Next Generation of Cryptography</u></a></li>
+<li><a href="https://howto.techidaily.com/google-pixel-7a-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Pixel 7a Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy S23+</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-defenses-choose-just-one-antivirus-on-windows/"><u>Streamline Your Defenses: Choose Just One Antivirus on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-honor-x50i-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor X50i Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What to Do if Google Play Services Keeps Stopping on Huawei Nova Y91 | Dr.fone
-date: 2024-07-30T12:16:58.883Z
-updated: 2024-07-31T12:16:58.883Z
+date: 2024-12-31T20:12:55.787Z
+updated: 2025-01-07T23:13:39.885Z
 tags: 
   - problems
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ## What to Do if Google Play Services Keeps Stopping on Huawei Nova Y91
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google play services app keeps stopping](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-1.jpg)
 
 Is the annoying Google Play Services error constantly popping up on your phone? Is it happening while reading, gaming, or browsing social media?
@@ -36,8 +33,9 @@ There’s also the issue of wrong app versions. Although each Android phone uses
 That’s also the case with Google Play Store and Google Play Services.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Google Play Services Keeps Stopping
 
 The Google Play Services keeps stopping error is an infamous one, and it can appear for various reasons and even on brand new phones. However, these causes can be categorized into three groups, which are:
@@ -60,18 +58,16 @@ A factory reset on any smartphone removes all your data on the phone’s interna
 - **Step 2**: Choose **Factory reset**.
 - **Step 3**: Tap the **Erase all data**or **Reset device** at the bottom, whichever button is there.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![android factory reset](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-2.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4**: Input your password and confirm the action.
 
 Your phone will now restart and start the reset process. Once the factory reset completes, your phone will look brand new, and you’ll need to install all your apps again. Moreover, your Google Play Services app will likely get fixed by this, too.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### 2. Update Your System
 
 As keeping your phone’s system and apps updated to the latest possible version is essential and recommended for the best performance and highest efficiency, you can try updating it to see whether it fixes your Google Play Services error. Here’s how:
@@ -82,9 +78,6 @@ As keeping your phone’s system and apps updated to the latest possible version
 
 Restarting your phone after an update, even if it doesn’t restart itself, is highly advisable, ensuring that the new updates apply without issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### 3. Revert to the Previous Version
 
 As we’ve discussed the wrong Play Services versions above, it’s worth noting that sometimes even the developers can make mistakes and roll out the wrong version for your phone. So, if you notice that the phone is getting the error after you’ve updated Google Services or the Play Store, you can quickly revert to the previous version, and here’s how:
@@ -102,9 +95,6 @@ Like reverting to the previous version, you can also try reinstalling updates to
 - **Step 1**: Go into **Settings**\> **Apps** and find **Google Play Services**.
 - **Step 2**: Tap it and press **Uninstall Updates**at the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
     ![uninstall google play services updates](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-3.jpeg)
 
 - **Step 3**: Exit the **Settings**app and restart the phone.
@@ -119,9 +109,6 @@ Believe it or not, one of the leading causes of the Google Play Services issue i
 
 Head into your phone’s Settings and select Storage to see how your phone’s doing storage-wise. Deleting a few apps you don’t use and transferring your photo and video library to a PC is highly advisable if your phone’s storage space lacks gigabytes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### 6. Do a System Repair
 
 Although the other solutions here are general fixes that might help, a system repair might take a bit longer but will undoubtedly fix your issue. You can use the Wondershare Dr.Fone app to repair the system and eliminate the annoying “Unfortunately, Google Play Services has stopped working” error.
@@ -130,14 +117,15 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
 - **Step 1**: Launch the Wondershare Dr.Fone app on your PC and head into **Toolkit**\> **System Repair** > **Android**.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![start the wondershare dr.fone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 2**: Select the type of issue you want to fix > **Start**.
 
     ![start the android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3**: Select the make and model of your phone so that Dr.Fone can find the appropriate Android software.
 
@@ -146,6 +134,10 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 - **Step 4**: Connect the phone to the PC via a USB cable and follow the on-screen instructions to put the phone into **Download Mode**. The instructions are available for both phones with and without the home button.
 
     ![put the phone into download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5**: Select the appropriate Android firmware, download it, and hit **Fix Now**after it downloads.
 
@@ -157,9 +149,6 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
 That’s all it takes to do a system repair with Wondershare Dr.Fone. Give the software a few minutes to complete, during which your phone might restart a few times. Once it’s done, your Google Play Services app will undoubtedly work.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 7. Clear Cache
 
 The easiest and the most obvious fix for many Android apps is clearing the app’s cache. Here’s how you can do that for Google Play Services and Google Play Store:
@@ -167,18 +156,12 @@ The easiest and the most obvious fix for many Android apps is clearing the app�
 - **Step 1**: Go into **Settings**\> **Apps** and find the **Google Play Store**
 - **Step 2**: Tap **Storage**and hit the **Clear cache**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
     ![clear app cache](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-10.jpg)
 
 - **Step 3**: Repeat the process for the **Google Play Services**
 
 If this doesn’t work, move on to another possible fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### 8. Check Date and Time Settings
 
 Oddly enough, the Google Play Services app is prone to failure because of an incorrectly set time or date. That’s because Google’s servers constantly check these settings before issuing updates to the Huawei Nova Y91 devices, so you’ll need to ensure they’re correct beforehand. Here’s how:
@@ -186,18 +169,12 @@ Oddly enough, the Google Play Services app is prone to failure because of an inc
 - **Step 1**: Head into **Settings**\> **System** > **Date & Time**.
 - **Step 2**: Ensure that both “**_Use network–provided time_**” and “**_Use network-provided time zone_**” are toggled on.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![check date and time settings](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-11.jpg)
 
 - **Step 3**: If this doesn’t work, you can try repeating the process and manually setting the time and the time zone.
 
 Once you check or change these settings, try using the Google Play Store app and check whether the issue is fixed. Restarting the phone after changing the settings is also highly advisable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### 9. Troubleshoot Your Internet Connection
 
 Another regularly overlooked troublemaker is a poor internet connection. That’s because most apps nowadays are meant to work in online mode only, and losing connection or using a bad one interferes with the app’s functionality.
@@ -210,18 +187,10 @@ Although permissions rarely change, they can cause issues if you change them acc
 
 Once inside Permission Settings, check whether the Google Play Services and Play Store apps have sufficient permission to do their jobs and whether any required permissions were recently removed. If so, grant these two apps their permissions back.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,953,228** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Although it’s an incredibly frustrating error, the “Unfortunately, Google Play Services has stopped” message is more annoying than serious. We’ve explained why it happens, but we’ve also given you a list of solutions to fix it.
@@ -232,9 +201,6 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 
 We often find people complaining, “Unfortunately Youtube has stopped”, “Unfortunately the internet has stopped” or “Unfortunately Netalpha has stopped”. An error that causes Apps to randomly stop working is experienced by users daily. This is a strange error as it occurs while you are using an App, and it suddenly stops working or crashes. You are brought back from the App screen to the Home Screen of your device with an error message saying: “Unfortunately, it has stopped working.”
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Unfortunately,has stopped working](https://images.wondershare.com/drfone/article/2017/06/14984194476852.jpg)
 
 Apps not working or stopped while working, such as unfortunately Netalpha has stopped or unfortunately the internet has stopped, is a very confusing error because one moment your App is running smoothly and the next moment it shuts down automatically with an error message. Unfortunately, Youtube has stopped working, Netalpha has stopped. Unfortunately, the internet has stopped, and many more such examples of Apps stopping while working normally are witnessed by users all over the world, and they are constantly on a lookout for solutions to fix such an error.
@@ -253,10 +219,6 @@ There may be many more reasons for them; unfortunately, App has stopped error to
 
 Therefore it is important for us to carefully examine the problem and choose from the solutions given below to fix Unfortunately, Youtube has stopped; unfortunately, Netalpha has stopped; unfortunately, the internet has stopped and many other similar unfortunately App has stopped working errors.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: A One-Click Fix to ‘Unfortunately App has Stopped’
 
 Fortunately, while this is an annoying problem that stops you from doing what you’re doing, the best way to eliminate this error is simply to repair the data glitch, thus preventing it from happening.
@@ -265,10 +227,6 @@ The easiest solution is to use a software application known as [Dr.Fone - System
 
 If this sounds like the option you need to alleviate your, unfortunately, YouTube has stopped errors; this is how to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### How to Use Dr.Fone -Repair to Fix Unfortunately App has Stopped Error
 
 **_Note:_** _Please note that using this solution_ _may rewrite and repair all data on your phone, meaning there is the potential to lose data during the process. Make sure you [back up your device](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before continuing._
@@ -281,9 +239,6 @@ Head over to [the Dr.Fone - System Repair website](https://tools.techidaily.com/
 
 Launch Dr.Fone and click the System Repair option from the main menu. Now connect your Huawei Nova Y91 using the official cable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![fix unfortunately youtube has stopped or other app stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 From the next menu, select the ‘Android Repair’ option and press ‘Start’.
@@ -294,10 +249,11 @@ From the next menu, select the ‘Android Repair’ option and press ‘Start’
 
 Tap in your phone information. This is to make sure your device is repaired correctly while minimizing the risk of bricking your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![select device info](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Follow the on-screen instructions on how to then boot your Huawei Nova Y91 in Download mode.
 
@@ -333,9 +289,6 @@ Follow the steps given below to learn how to clear App cache:
 
 Clearing App cache is always a good idea as it prevents any errors which may be caused due to the cache being corrupt or too full. This method is likely to help you, but if the problem persists, read on to find out about 2 more solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Fix your App has unfortunately stopped by the fresh installation
 
 Sometimes, unfortunately, Youtube has stopped; unfortunately, the internet has stopped, and such errors are caused due to improper or inappropriate App installation. It is mandatory to completely download the App from the Google Play Store and use it after it is successfully installed on your device.
@@ -346,13 +299,14 @@ Firstly, to uninstall all an existing App from your device, follow the instructi
 
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984195406104.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 • Select the App you wish to uninstall, say, for example, “Messenger”.
 
 • From the options that appear before you, click on “Uninstall” to delete the App from your device.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![Uninstall](https://images.wondershare.com/drfone/article/2017/06/14984195579235.jpg)
 
 You may also uninstall an app directly from the Home Screen (only possible in certain devices) or the Play Store.
@@ -362,8 +316,9 @@ To re-install the App, visit Google Play Store, search for the App name and clic
 This method has helped many and will be useful to you too. So don't hesitate to try it. It may sound tedious and time-consuming, but it hardly takes 5 minutes of your time.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 5: Fix your App has unfortunately stopped by factory reset
 
 Factory Reset must be used only when nothing else works. Please remember to take a back-up of all your data and contents on the cloud or an external memory device, such as a pen drive before adopting this method because the one you perform a factory reset on your device, all media, contents, data and other files are wiped out, including device settings. Do remember to back up [the data on an Android device](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before performing a factory reset.
@@ -387,8 +342,6 @@ Follow the step-by-step explanation given below to factory reset your device to 
 Note: Once the factory reset process is complete, your device will automatically restart and you will have to set it up once again.
 
 Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has stopped, unfortunately, the internet has stopped working and so on are very common these days. They disrupt the normal functioning of an App/Apps and prevent you from using the App/Apps smoothly. Unfortunately, App has stopped error is not a serious problem and does not mean there is a problem with the App, your Android OS version, or your handset. It is a random error which occurs due to various reasons in a given situation. If you experience such an error while sign in your favorite App/Apps, DO NOT panic as unfortunately, App has stopped error can be fixed easily. All you need to do is be patient with the App’s software and not try to launch it again and again once it crashes, and an error message pops-up. Just follow the methods listed and explained in detail in the previous segments to solve the problem of unfortunately App has stopped.
-
-
 
 ## Home Button Not Working on Huawei Nova Y91? Here Are Real Fixes
 
@@ -428,16 +381,10 @@ Step 2: Thereafter, connect your Huawei Nova Y91 to the computer using a USB cab
 
 Step 3: Next, you will navigate to a device information page where you have to provide your device information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![home button not working android  - check device info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 4: After that, the software will download the appropriate firmware to repair your Android system.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![home button not working android - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 5: After downloading the firmware, the software will start the repair process. Wait for a few seconds, the problem should get fixed and your phone will get back to its normal state.
@@ -445,8 +392,9 @@ Step 5: After downloading the firmware, the software will start the repair proce
 ![home button not working android - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1.2 Force Restart your Android
 
 Whenever you encounter with Android virtual soft keys, not working problem, the first thing you should try is to force [restart your phone](https://www.wondershare.com/reset-android/restart-android-without-power-button.html). If the problem is due to a software issue, then it can be probably fixed by simply force restarting your Android.
@@ -457,14 +405,6 @@ Step 1: To begin with, press and hold the power button and either volume up or d
 
 Step 2: Next, press the power button for a few moments to force restart your device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![home button not working android - force restart](https://images.wondershare.com/drfone/article/2019/02/force-restart.jpg)
 
 ### 1.3 Restore Factory Settings
@@ -489,9 +429,6 @@ Step 1: Open the Settings and then, go to “About device”. Next, click “Sys
 
 Step 2: After that, click “Check for updates” and if updates are available, then download and install it to update your Android version.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![home button not working android - update android](https://images.wondershare.com/drfone/article/2019/02/update-firmware.jpg)
 
 ## Part 2: What if the Home Button fails due to hardware reasons?
@@ -502,9 +439,6 @@ When your Android home and back button not working because of hardware reasons, 
 
 The Simple Control app is the first and foremost solution to fix the Android home button not working issue. With the help of this app, you can fix many soft keys of your device. It is specially designed for Android users facing trouble using home, volume, back, and camera buttons. Plus, the app utilizes Accessibility service, but it doesn’t get access to your sensitive and personal information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![simple control app](https://images.wondershare.com/drfone/article/2019/02/simple-control-app.jpg)
 
 Pros:
@@ -519,15 +453,13 @@ Cons:
 URL: [https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en\_US](https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en_US)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2.2 Button Savior app
 
 Button Savior app is one of the ultimate apps that can help you to fix the Android home button not working problem with ease. For this app, root and no root versions are available on the Google Play store. To fix the Home button not working issue, no root version is the right one. But, if you want to fix the Back button or other buttons, then you need to go for the root version.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![button savior](https://images.wondershare.com/drfone/article/2019/02/button-savior-app.jpg)
 
 Pros:
@@ -565,9 +497,6 @@ URL: [https://play.google.com/store/apps/details?id=nu.nav.bar](https://play.goo
 
 Home button app is another remarkable solution to replace broken and failed home buttons for users having trouble while using buttons. With this app, it is quite easy to press or even long press on the home button as assistive touch.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![home button app](https://images.wondershare.com/drfone/article/2019/02/home-button-app.jpg)
 
 Pros:
@@ -587,10 +516,6 @@ URL: [https://play.google.com/store/apps/details?id=nu.home.button](https://play
 
 Is your Android physical home button is broken or dead? If yes, then the Multi-action Home Button app can help you to fix it with ease. With the help of it, you can create a button in centre-bottom of your device screen, and you can also add numerous actions to that button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![home button not working android - Multi-action Home Button app](https://images.wondershare.com/drfone/article/2019/02/multi-action-home-button.jpg)
 
 Pros:
@@ -605,12 +530,12 @@ Cons:
 URL: [https://play.google.com/store/apps/details?id=com.home.button.bottom](https://play.google.com/store/apps/details?id=com.home.button.bottom)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 Hopefully, the methods covered in this post helps you to fix Android home and back button not working problem for you. If it is a system issue, then the best thing you can do is to take advantage of Dr.Fone - System Repair (Android) software. It can surely help you to fix your Android system to normal within a few minutes.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -624,7 +549,22 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-premium-bargains-no-cost-screen-recorder-extensions-for-chromeos-for-2024/"><u>[New] Premium Bargains No-Cost Screen Recorder Extensions for ChromeOS for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-analyze-youtube-data-efficiently-with-social-blade-tools/"><u>[Updated] In 2024, Analyze YouTube Data Efficiently with Social Blade Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-no-software-required-youtube-file-retrieval/"><u>[Updated] No Software Required YouTube File Retrieval</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pro-video-practice-screen-record-on-various-devices/"><u>2024 Approved Pro Video Practice Screen Record on Various Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-12-proplus-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme 12 Pro+ 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oppo-f25-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo F25 Pro 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-z-fold-5-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy Z Fold 5 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamlessly-stay-connected-use-your-apple-watch-for-quick-chats-with-family-and-friends/"><u>Seamlessly Stay Connected: Use Your Apple Watch for Quick Chats With Family & Friends</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-running-gear-unveiled-the-garmin-forerunner-45-exposed/"><u>Top Running Gear Unveiled: The Garmin Forerunner 45 Exposed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-prevent-stardew-valley-from-crashing-on-your-windows-computer/"><u>Troubleshooting Steps to Prevent Stardew Valley From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/utilizing-alternate-shots-to-elevate-film-quality-for-2024/"><u>Utilizing Alternate Shots to Elevate Film Quality for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-m54-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy M54 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

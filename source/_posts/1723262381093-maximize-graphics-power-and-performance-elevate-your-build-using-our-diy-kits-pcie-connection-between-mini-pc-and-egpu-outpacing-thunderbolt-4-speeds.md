@@ -1,7 +1,7 @@
 ---
 title: Maximize Graphics Power & Performance - Elevate Your Build Using Our DIY Kit's PCIe Connection Between Mini PC and eGPU, Outpacing Thunderbolt 4 Speeds
-date: 2024-12-26T19:11:31.431Z
-updated: 2024-12-29T00:01:33.115Z
+date: 2025-01-01T20:46:34.304Z
+updated: 2025-01-08T01:32:22.693Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,21 +88,21 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-access-tons-of-free-vocal-textures/"><u>[New] 2024 Approved Access Tons of Free Vocal Textures</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-mastering-animation-in-instagram-stories-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Animation in Instagram Stories A Step-by-Step Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-webcam-advancements-revolutionizing-video-capture-at-home/"><u>[Updated] In 2024, WebCam Advancements Revolutionizing Video Capture at Home</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-a34-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy A34 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ally-x-endgame-for-handheld-tech-predicaments/"><u>Ally X: Endgame for Handheld Tech Predicaments</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-redmi-k70-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi Redmi K70 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-of-the-best-hexacopter-drone-reviews-for-2024/"><u>Best of the Best Hexacopter Drone Reviews for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/connecting-on-the-go-effortless-apple-watch-friend-and-family-messaging-guide/"><u>Connecting on the Go: Effortless Apple Watch Friend & Family Messaging Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y100i-power-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y100i Power 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-in-zoom-for-desktop-users/"><u>How to Restore Audio Functionality in Zoom for Desktop Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-best-concealed-vids-2023s-selective-8-software-guide/"><u>In 2024, Best Concealed Vids - 2023'S Selective 8 Software Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-12-best-animal-simulator-games-for-android-for-2024/"><u>Top 12 Best Animal Simulator Games for Android for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-90-gt-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor 90 GT Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-civi-3-disney-100th-anniversary-edition-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Civi 3 Disney 100th Anniversary Edition Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-s18e-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo S18e Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conducting-an-intuitive-in-place-windows-11-transition/"><u>Conducting an Intuitive, In-Place Windows 11 Transition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-a-broken-proximity-sensor-on-your-apple-device/"><u>Dealing With a Broken Proximity Sensor on Your Apple Device</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-power-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100i Power 5G Phone without PIN</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-integrating-interactive-features-for-enhanced-viewers-experience-on-youtube/"><u>In 2024, Integrating Interactive Features for Enhanced Viewers' Experience on Youtube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-lush-looks-and-flawless-filters-building-your-vlog-empire/"><u>In 2024, Lush Looks and Flawless Filters Building Your Vlog Empire</u></a></li>
+<li><a href="https://win-unique.techidaily.com/solving-windows-connectivity-issues-a-step-by-step-guide-to-speeding-up-your-internet-yl-tech-tips/"><u>Solving Windows Connectivity Issues: A Step-by-Step Guide to Speeding Up Your Internet - YL Tech Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-oneplus-nord-n30-se-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 OnePlus Nord N30 SE Android SIM Unlock APK</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-m54-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy M54 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-g2-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo G2 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy F04 | Dr.fone</u></a></li>
 </ul></div>
 

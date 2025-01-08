@@ -1,7 +1,7 @@
 ---
 title: AMD Raises Projected Revenue for Instinct MI1300 Series to $4B, But Still Shadows Nvidia's Staggering $40B Estimate
-date: 2024-12-27T08:44:28.941Z
-updated: 2024-12-28T20:44:25.284Z
+date: 2025-01-04T01:43:14.132Z
+updated: 2025-01-08T03:10:06.818Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,16 +60,21 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-a-comprehensive-guide-to-the-12-superior-vlogging-cameras-for-2024/"><u>[Updated] A Comprehensive Guide to the 12 Superior Vlogging Cameras for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor 70 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-f34-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy F34 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/final-fixes-tackling-cod-mws-multiplayer-bugs/"><u>Final Fixes: Tackling Cod: MW's Multiplayer Bugs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/image-ink-best-captioning-apps-for-photo-enthusiasts-iosandroid/"><u>Image Ink Best Captioning Apps for Photo Enthusiasts (iOS/Android)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-magic-vs-2frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Magic Vs 2FRP Lock</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-rejuvenating-sataahci-chipset-drivers/"><u>Step-by-Step Instructions for Rejuvenating SATA/AHCI Chipset Drivers</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-asus-rog-phone-8-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Asus ROG Phone 8 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/wake-up-to-convenience-activating-the-wake-on-lan-protocol-in-windows-11/"><u>Wake Up to Convenience: Activating the Wake-on-LAN Protocol in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y27-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y27 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-currencies-through-cosmetics-content/"><u>[New] In 2024, Flipping Currencies Through Cosmetics Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-win-audio-experience/"><u>2024 Approved Exclusive Win Audio Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-optimal-video-sizes-on-instagram-explained/"><u>2024 Approved Optimal Video Sizes on Instagram Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/avoiding-darkness-with-lightrooms-dynamic-range-technique/"><u>Avoiding Darkness with Lightroom’s Dynamic Range Technique</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-80-pro-straight-screen-edition-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor 80 Pro Straight Screen Edition 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-modify-page-colors-in-your-flipbooks-with-flipbuilder-a-comprehensive-guide/"><u>How to Modify Page Colors in Your Flipbooks with FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-effortlessly-embedding-visual-media-in-free-content-creation/"><u>In 2024, Effortlessly Embedding Visual Media in Free Content Creation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715860455513-in-2024-internal-device-recorder-to-capture-screens-on-mate-1020-and-p-series-phones-p2010/"><u>In 2024, Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10).</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-y100-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y100 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

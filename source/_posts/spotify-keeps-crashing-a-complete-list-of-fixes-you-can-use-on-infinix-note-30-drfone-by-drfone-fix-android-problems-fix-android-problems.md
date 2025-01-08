@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Note 30 | Dr.fone
-date: 2024-12-26T21:09:48.613Z
-updated: 2024-12-29T07:32:46.886Z
+date: 2025-01-05T00:19:53.982Z
+updated: 2025-01-08T01:12:42.499Z
 tags: 
   - problems
 categories:
@@ -81,10 +81,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![completed android system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There are two ways to enter Download Mode: one for Android devices with the Home button and another for those without it.
 
 The steps for entering Download Mode on an Android phone with the Home button are as follows:
@@ -124,10 +120,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![settings in spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Scroll to the bottom of the settings and tap **Log Out**.
 
 ![log out of spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-5.jpg)
@@ -135,6 +127,10 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 - **Step 4:** Tap **Log In**.
 
 ![log into spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Enter your login credentials.
 - **Step 6:** Tap **Login**again, and you’re in.
@@ -149,10 +145,6 @@ Another way to stop Spotify from crashing can be restarting your Android. The st
 - **Step 2:** Tap **Restart**. That will restart your Android, and you can try opening Spotify again.
 
 ![restart android to fix spotify crashing](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5. Set Up Your Time and Date
 
@@ -181,6 +173,10 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 
 ![about phone to find system update](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select **System Update**.
 - **Step 4:** If there’s an available update, tap
 
@@ -199,6 +195,10 @@ If your system is updated, then Spotify might need an update. The app might malf
 
 ![update spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8. Free up Storage
 
 Spotify can start crashing if your Android’s storage space is at capacity. That can also cause other apps to crash, not only Spotify. Therefore, check the storage space and free up as much as possible. Follow these steps:
@@ -208,17 +208,9 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 
 ![storage in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Here, you can see how much of your storage space is available and what’s taking up the most space.
 
 ![available storage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-17.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** Then, you can go ahead and clear as much space as you can.
 
@@ -240,6 +232,10 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 - **Step 7:** Once it installs, log in to test if it’s working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10. Check if Spotify Is Down
 
 If your Spotify keeps crashing and closing, it might not be your device’s problem. Sometimes, Spotify’s server can be down, and many people face the same issue. If that’s the case, you can check with your friends if their Spotify is working or check online if Spotify is down. To do that, follow these steps:
@@ -252,10 +248,6 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 - **Step 3:** You’ll see several websites that check real-time app servers and if they’re down.
 
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
@@ -271,6 +263,10 @@ When using different apps and websites, your device caches data from those sourc
 - **Step 3:** Find **Spotify** and tap it.
 
 ![spotify in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Tap **Storage**or **Storage usage**.
 
@@ -386,10 +382,6 @@ Click Start on the new screen to kick off the repair. Since you're dealing with 
 
 ![Select the problem and begin the repair.](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3.** Fill in the Infinix Note 30 device Details
 
 The platform will detect your Infinix Note 30's brand. Confirm the Name, Model, Country, and Carrier. If your device is unlocked, choose OPEN in the Carrier section. Agree to the warning, click Next, and proceed with the repair.
@@ -442,19 +434,11 @@ When you see the error message, it often comes with specific codes that indicate
 
 By prioritizing user safety and following the step-by-step approach in this guide, you can navigate and resolve this common internet browsing challenge on your Infinix Note 30s.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ways to Unbrick Your Android Device: Various Ways for Recovery
 
 When your Infinix Note 30 becomes unresponsive or frozen after mistakenly flashing a ROM or rooting, you are informed that the phone has been bricked. The most terrifying aspect will not just be gadget loss, but also data erasure. However, what exactly is a bricked phone, and, more importantly, how do you fix a bricked Android phone?
 
 This article will explain what a **bricked android phone** is, why an Android phone becomes bricked, how to unbrick an Android phone without losing data and a third-party application you can use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1. Causes of Bricked Phones
 
@@ -468,7 +452,7 @@ Here are some common reasons why your Infinix Note 30 is bricked:
 - **Installing harmful applications:**You installed harmful programs on your Infinix Note 30, or the phone was infected with a virus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. How to Fix a Bricked Phone
@@ -493,6 +477,10 @@ Trying to reboot your android device in safe mode is the first and easiest thing
 
 ![android safe mode](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Select the highlighted option by pressing the **Power button**. After that, wait for your device to reset normally.
 - **Note:** The steps for booting into recovery mode may change based on the manufacturer of your device. For further information, go to the user manual for your phone or tablet.
 
@@ -508,6 +496,10 @@ This issue, however, may be resolved by wiping the data and cache partitions in 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-2.jpg)
 
 - **Step 3:** Finally, on your smartphone, choose the Reboot system immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3. Perform a Factory Reset
 
@@ -538,6 +530,10 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 
 ![data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Choose the file types you wish to recover. Click “Next” and then select the type of damage your phone is experiencing. Select **“Touch screen not responsive, or cannot access the phone”** or **“Black/broken screen”.**
 
 ![select symptom of your phone](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
@@ -545,6 +541,10 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 - **Step 3:** Use the recovery wizard to enter your Android smartphone into Download Mode. Connect your Android handset to the computer after following the instructions to begin automatically analyzing your device.
 
 ![follow instructions](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** The program will provide a list of all recoverable files, organized by file type. To preview the file, highlight it. Choose the files you wish to recover and then click “Recover” to save all the data you want to restore.
 
@@ -584,16 +584,20 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/complete-guide-securely-backing-up-files-using-windows-11s-built-in-file-history-feature-tips-and-tricks-for-easy-recovery/"><u>Complete Guide: Securely Backing Up Files Using Windows 11'S Built-In File History Feature - Tips & Tricks for Easy Recovery</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/novice-to-vlogger-your-guide-to-creating-a-youtube-chanel/"><u>From Novice to Vlogger Your Guide to Creating a YouTube Chanel</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor X9b? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-razr-40-ultra-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Razr 40 Ultra Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-stay-steady-with-the-right-tripod-techniques-for-top-notch-video-content/"><u>In 2024, Stay Steady with the Right Tripod Techniques for Top-Notch Video Content</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-phantom-v-flip-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Phantom V Flip Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oneplus-nord-ce-3-lite-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive OnePlus Nord CE 3 Lite 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-auditory-precision-in-filmmaking-employing-audio-ducking-strategies/"><u>Updated In 2024, Auditory Precision in Filmmaking Employing Audio Ducking Strategies</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-12-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 12 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/acking-the-process-instant-deletion-on-youtube/"><u>[New] Hacking the Process Instant Deletion on Youtube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-step-beyond-excavating-the-best-vr-treadmill-experiences/"><u>[Updated] A Step Beyond Excavating the Best VR Treadmill Experiences</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-s23plus-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy S23+ Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-when-counter-strike-global-offensive-wont-launch/"><u>Effective Solutions When Counter-Strike Global Offensive Won't Launch</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-10t-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme 10T 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-narzo-60x-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme Narzo 60x 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/hassle-free-guide-to-single-and-bulk-mp4-to-swf-file-transformation/"><u>Hassle-Free Guide to Single and Bulk MP4 to SWF File Transformation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-resolve-compatibility-problems-with-ralink-rt3290-for-win10win8win7-users/"><u>How to Resolve Compatibility Problems with Ralink RT3290 for Win10/Win8/Win7 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-first-time-load-problems-fixing-the-black-screen-on-launch-for-helldivers-ii/"><u>Overcoming First-Time Load Problems: Fixing the Black Screen on Launch for Helldivers II</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-file-access-problems-with-microsofts-error-code-0x80004005-faq-and-guide/"><u>Troubleshoot File Access Problems with Microsoft's Error Code 0X80004005 (FAQ & Guide)</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a18-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A18 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-lava-blaze-2-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Lava Blaze 2 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

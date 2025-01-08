@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Vivo Y78+ Step-by-Step Solutions | Dr.fone
-date: 2024-12-24T16:04:00.754Z
-updated: 2024-12-28T16:11:43.640Z
+date: 2025-01-05T08:31:06.515Z
+updated: 2025-01-07T18:46:43.955Z
 tags: 
   - problems
 categories:
@@ -60,10 +60,6 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 - **Step 4.** Release to drop the app icon onto the home screen.
 
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Re-enable disabled app
 
@@ -148,6 +144,10 @@ For all its glory and goodness, the Android OS often has its users pulling their
 
 ![camera not working error in android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part I: Why Is Android Camera Not Working?
 
 There are a few reasons why the camera app is not working on your Vivo Y78+.
@@ -172,10 +172,6 @@ In the rarest cases, there might have developed an actual hardware issue with th
 
 So, how to get the Android camera not working problem solved? There are a few ways you can try fixing the camera not working issue on your Vivo Y78+ right where you are, without needing to take the Vivo Y78+ device to the manufacturer’s service center.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### II.I: Restart The Handset
 
 One of the first things to do any time an app or your phone or tablet does not work like it should, restarting the Vivo Y78+ device refreshes everything just enough to resolve most commonly occurring issues.
@@ -183,6 +179,10 @@ One of the first things to do any time an app or your phone or tablet does not w
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
 
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.II: Close And Relaunch The Camera App
 
@@ -193,10 +193,6 @@ Step 1: Launch the app switcher on your specific Android device the way your dev
 ![closing apps in app switcher](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-3.jpg)
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### II.III: Check App Permissions
 
@@ -210,11 +206,11 @@ Step 2: Tap Camera.
 
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.IV: Clear The Camera App Cache
 
@@ -258,6 +254,10 @@ We do not realize the immense power that is packed into the thin smartphone form
 
 If this is the case, close all apps and let the phone cool down. You might even want to shut the phone off to help cool it faster.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.VIII: Nudge The Camera System
 
 You may want to tap your camera system (the lenses and surrounding area) gently to see if that gets the camera working. In case it did, this is indicative of a hardware issue, and you should get it checked at the service center at your earliest convenience.
@@ -278,10 +278,6 @@ Step 1: Launch Dr.Fone app on your PC or Mac.
 
 ![wondershare drfone on windows](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Click System Repair module and then Android.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
@@ -291,7 +287,7 @@ Step 3: For now, don’t bother with the scenarios given and click Start to go t
 ![drfone system repair android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Your Android device will be detected by Dr.Fone. If anything seems incorrect, use the dropdown options to change it, and click Next.
@@ -317,7 +313,7 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -329,6 +325,10 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 Google Chrome is one of the most popular web browsers in the world. It is fast, secure, and easy to use. However, like any other app, it is not free from errors. Many users have reported that Chrome crashes or won’t open on their Vivo Y78+. If you are also facing this issue, then you have come to the right place. In this article, we will discuss the reasons behind this problem and provide you with 7 solutions to fix Chrome crashes or won’t open on Vivo Y78+.
 
 Being one of the widely used browsers, Chrome is always our rescue whenever vital information is our need. Imagine, you launched Chrome for some urgent work and all of a sudden, got “Unfortunately Chrome has stopped” error. You re-opened it thinking about proper functioning of it now but to no avail. Does this situation sound familiar? Are you in a same problem as well? Fret not! We will discuss in this article why your Chrome is crashing on Android and the potential solutions to do away with the problem. Please read the article attentively and know what helps you best.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Too many tabs opened
 
@@ -343,10 +343,6 @@ When Chrome or any other app keeps running on the background, issues like “Unf
 2\. Now simply swipe the app up/left/right (according to the Vivo Y78+ device).
 
 ![fix Chrome crashing on Android by force quiting](https://images.wondershare.com/drfone/article/2019/05/force-quit-chrome.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. The app will be force quit now. You can then start it again to check if thing get back to normal.
 
@@ -370,10 +366,6 @@ Most probably Chrome is not able to support the website you are trying to access
 
 Another reason why your Chrome has stopped could be the corrupted software. You can’t expect anything normal when your firmware corruption occurs and so in the case of Chrome. If this is the case, the re-flashing the stock ROM is the most recommended solution. And the best that can help you in this is none other than [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). Within one click, it vows to help users in flashing the ROM without any complications. Read the advantages offered by this tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix crashing Chrome
@@ -395,7 +387,7 @@ Start downloading it from there. Install it once downloading is completed and op
 ![fix Chrome crashing on Android - get the fixing tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Get Android Device Connected
@@ -431,6 +423,10 @@ While you were trying to download from internet, the file didn’t download prop
 
 - Now, you need to re-install it from Play Store. From the “My Apps” section, tap on Chrome and update it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: Clashes between Chrome and system
 
 Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it might be because of the incompatibility between the Chrome and system. Maybe your device is not updated and therefore is at odds with the Chrome app. So, the last tip that we would like give you is to update your Vivo Y78+. Following are the steps for it. Follow them and stop the Chrome crashing on Android issue.
@@ -439,6 +435,10 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 - Now, choose “Software Update”/”System Update” and your device will detect if there is any update present on your device. Proceed accordingly.
 
 ![fix Chrome crashing by updating android](https://images.wondershare.com/drfone/article/2019/05/update-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -454,17 +454,17 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-break-free-from-youtube-top-5-innovative-video-editing-tools/"><u>[New] In 2024, Break Free From Youtube Top 5 Innovative Video Editing Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-operate-srt-audio-on-windowsmacos-for-2024/"><u>[Updated] Operate SRT Audio on Windows/macOS for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-boot-routine-secrets/"><u>Breaking Down Windows Boot Routine Secrets</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-a14-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy A14 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-peeling-back-layers-of-xstudio-workshop-a-thorough-overview/"><u>In 2024, Peeling Back Layers of XStudio Workshop - A Thorough Overview</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-insiders-guide-to-slow-motion-with-photos-and-web-tools/"><u>In 2024, The Insider's Guide to Slow Motion with Photos & Web Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revealing-hidden-applications-a-step-by-step-guide-for-iphones/"><u>Revealing Hidden Applications: A Step-by-Step Guide for iPhones</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/vr-linguistics-redefined-by-mondlys-innovative-ar-app/"><u>VR Linguistics Redefined by Mondly's Innovative AR App</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-f14-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy F14 5G Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-tecno-phantom-v-fold-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Tecno Phantom V Fold Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-rapid-file-transformation-from-srt-to-text-in-minutes/"><u>[New] Rapid File Transformation From SRT to Text in Minutes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unlock-gaming-potential-your-complete-xbox-screenshot-guide/"><u>[New] Unlock Gaming Potential Your Complete Xbox Screenshot Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-make-killer-youtube-channel-art/"><u>[Updated] In 2024, How to Make Killer YouTube Channel Art</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-guide-to-selecting-a-premier-fb-cover-photo-designer-for-2024/"><u>[Updated] The Ultimate Guide to Selecting a Premier FB Cover Photo Designer for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unmatched-streaming-excellence-top-1enas-comparative-analysis/"><u>2024 Approved Unmatched Streaming Excellence Top 1Enas Comparative Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-for-tech-enthusiasts-insights-from-zdnet/"><u>5 for Tech Enthusiasts | Insights From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-y36i-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y36i Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-future-of-vr-with-metas-upcoming-october-headset-launch/"><u>Explore the Future of VR with Meta's Upcoming October Headset Launch</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-most-reliable-gopro-cases-1-10-showdown/"><u>The Most Reliable GoPro Cases - #1-10 Showdown</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-lava-blaze-curve-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Lava Blaze Curve 5G? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Nokia C12 Pro ? Fix It Easily | Dr.fone
-date: 2024-12-22T02:36:39.586Z
-updated: 2024-12-28T16:46:16.802Z
+date: 2025-01-05T02:45:58.648Z
+updated: 2025-01-08T02:15:31.138Z
 tags: 
   - problems
 categories:
@@ -32,13 +32,13 @@ Step 1: Hold down the power key and then select "Power Off" from the options on 
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
 
@@ -76,10 +76,6 @@ One-stop solution to fix Android stuck at System recovery
 Once installed on your computer, open onto the main menu and connect your Nokia C12 Pro using the official USB cable. Select the System Repair option.
 
 ![fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step #2** Select the 'Android Repair' option from the next screen.
 
@@ -160,10 +156,6 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 - Data crashes can be another reason why this error shows up.
 - Infection through malware and virus on your phone is also included when the Phone app might crash.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
 ### 2.1 Open the Phone app in Safe Mode
@@ -185,6 +177,10 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.3 Update Google Play services
 
 Since Android is created by Google, there must be some Google Play services that are crucial to run several system functions. And if attempting the previous methods isn’t of any use, try updating Google Play services when you find the Phone app stopped. For doing this, you need to make sure that automatic updates are turned on in Google settings. If not, enable it and get the apps including Google Play services updated for smoother functions.
@@ -197,6 +193,10 @@ When the firmware is not updated, it may conflict with some apps and maybe that�
 2. Now tap on "Software Updates" and check for the availability of the new update.
 
 ![Phone app crashing - update firmware](https://images.wondershare.com/drfone/article/2023/05/samsung-android-update-shot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Download and install it and then try to use the Phone app.
 
@@ -212,15 +212,15 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 
 ![Phone app crashing - cache partition clearance](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.6 Get the Nokia C12 Pro system repaired in one click
 
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -248,10 +248,6 @@ Take your original USB cord and then connect your Nokia C12 Pro to the computer.
 
 ![Phone app crashing - connect phone to pc](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Enter the Details**
 
 As the next step, enter some important details on the next screen. Be sure to enter the right name, brand, and model of the Nokia C12 Pro device. When done everything, verify once and click on "Next".
@@ -263,6 +259,10 @@ As the next step, enter some important details on the next screen. Be sure to en
 Downloading firmware will be the next step. Prior to this, you have to go through the instructions given onscreen to enter the DFU mode. Please click on "Next" and the program will bring the suitable firmware version and start downloading it.
 
 ![Phone app crashing - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Get the Nokia C12 Pro device Repaired**
 
@@ -282,7 +282,15 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Is My Nokia C12 Pro Offline? Troubleshooting Guide
 
@@ -322,6 +330,10 @@ Now that we've figured out why your phone says it's offline, let's tackle the is
 
 Here are some easy solutions to get your connection back.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Change connection to mobile data
 
 Switching to mobile data can be a quick fix if your Wi-Fi is acting up. It ensures a change in your connection source and might resolve the "Phone offline" issue. Follow these easy steps to change your connection to mobile data:
@@ -331,10 +343,6 @@ Switching to mobile data can be a quick fix if your Wi-Fi is acting up. It ensur
 - **Step 3:** Tap Mobile Data to turn it on.
 
 ![Change connection to mobile data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: On and off Airplane mode
 
@@ -348,6 +356,10 @@ How to on and off Airplane mode on Android:
 
 ![On and off the Airplane mode](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 3: Reset network settings
 
 Resetting network settings can help eliminate any configuration glitches that might be causing the phone offline problem. It's like giving your phone's connection settings a fresh start.
@@ -360,14 +372,6 @@ To reset your network settings, the steps may differ depending on the phone mode
 - **Step 4:** Reconnect to your Wi-Fi and check if the issue persists.
 
 ![Reset the network settings on Android](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 4: Restart your Wi-Fi router
 
@@ -403,10 +407,6 @@ Now, restart Google Chrome and check if the offline error persists.
 
 ![Clear Google Chrome’s cache and data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 2: Re-install Google Chrome
 
 If [<u>clearing the cache and data</u>](https://drfone.wondershare.com/erase-iphone/clear-iphone-cache.html) didn't solve the offline issue, reinstalling Google Chrome can be the next step. A fresh installation can eliminate any underlying glitches or corrupted files that might be causing the persistent offline status.
@@ -419,10 +419,6 @@ How to re-install Google Chrome:
 - **Step 4:** Once the installation is complete, open Google Chrome and check if the offline error persists while browsing.
 
 ![Re-install Google Chrome on Google Play Store](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 3: Repair the system to fix the phone showing offline
 
@@ -472,6 +468,10 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Dealing with the "Phone Offline" hiccup on your Nokia C12 Pro can be a real headache. But fear not – we've covered a range of solutions to get you back online smoothly. From troubleshooting internet connection problems to addressing browser and app-related glitches, the solutions provided in this guide are designed to cater to a variety of scenarios. If you find it troublesome to try solutions one by one, then we recommend using Dr.Fone directly which is a full toolkit for your phone and can help resolve most device glitches one-off.
@@ -492,19 +492,19 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-comprehensive-overview-utilizing-googles-automatic-transcription-service/"><u>[New] 2024 Approved Comprehensive Overview Utilizing Google's Automatic Transcription Service</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-and-accessing-your-personalized-musical-selection-zone-on-youtube/"><u>[New] 2024 Approved Finding and Accessing Your Personalized Musical Selection Zone on Youtube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-guide-shifting-your-profile-picture-on-global-platforms/"><u>[New] The Ultimate Guide Shifting Your Profile Picture on Global Platforms</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-spark-20-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Spark 20 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-recordevaluator-critique/"><u>2024 Approved RecordEvaluator Critique</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-infinix-smart-8-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Infinix Smart 8? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/elite-audit-the-updated-parrot-ar-drone/"><u>Elite Audit The Updated Parrot AR Drone</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-playtime-5-key-care-strategies-for-switch/"><u>Enhancing Playtime: 5 Key Care Strategies for Switch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-quality-action-captured-by-the-ion-pro-3-camera-for-2024/"><u>High-Quality Action Captured by the ION Pro 3 Camera for 2024</u></a></li>
-<li><a href="https://win-bits.techidaily.com/understanding-the-role-of-tpm-in-windows-11-a-comprehensive-guide/"><u>Understanding the Role of TPM in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y78-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-12-pro-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme 12 Pro 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-entering-a-new-era-with-htcs-immersive-vr-gaming/"><u>[New] 2024 Approved Entering a New Era with HTC's Immersive VR Gaming</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-maximizing-youtube-shorts-income-strategies/"><u>[New] 2024 Approved Maximizing YouTube Shorts Income Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-studio-review-profits-and-payments/"><u>[New] YouTube Studio Review Profits and Payments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-safe-online-video-conversion-from-youtube-to-mp4/"><u>[Updated] Safe Online Video Conversion - From YouTube to MP4</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-essential-downloads-leading-6-fb-lite-video-tools/"><u>2024 Approved Essential Downloads Leading 6 FB Lite Video Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-obs-vs-shadowplay-the-streaming-software-showdown/"><u>2024 Approved Obs vs ShadowPlay The Streaming Software Showdown</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-13t-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi 13T Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-advanced-terraria-modifications-guide/"><u>In 2024, Advanced Terraria Modifications Guide</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/ottimizza-i-tuoi-backup-globali-in-windows-utilizzando-il-potente-aomei-backupper/"><u>Ottimizza I Tuoi Backup Globali in Windows Utilizzando Il Potente AOMEI Backupper</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209911680-9780578624549-seeing-is-believing/"><u>Seeing Is Believing | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-asus-rog-phone-7-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Asus ROG Phone 7? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oneplus-ace-2v-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When OnePlus Ace 2V Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

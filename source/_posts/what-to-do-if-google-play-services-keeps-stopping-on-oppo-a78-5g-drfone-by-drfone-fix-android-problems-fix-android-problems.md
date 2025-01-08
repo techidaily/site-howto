@@ -1,7 +1,7 @@
 ---
 title: What to Do if Google Play Services Keeps Stopping on Oppo A78 5G | Dr.fone
-date: 2024-07-30T12:19:18.863Z
-updated: 2024-07-31T12:19:18.863Z
+date: 2025-01-04T22:45:57.982Z
+updated: 2025-01-08T01:34:21.753Z
 tags: 
   - problems
 categories:
@@ -70,6 +70,10 @@ As keeping your phone’s system and apps updated to the latest possible version
 
 Restarting your phone after an update, even if it doesn’t restart itself, is highly advisable, ensuring that the new updates apply without issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3. Revert to the Previous Version
 
 As we’ve discussed the wrong Play Services versions above, it’s worth noting that sometimes even the developers can make mistakes and roll out the wrong version for your phone. So, if you notice that the phone is getting the error after you’ve updated Google Services or the Play Store, you can quickly revert to the previous version, and here’s how:
@@ -80,10 +84,6 @@ As we’ve discussed the wrong Play Services versions above, it’s worth noting
 
 As these are system apps, you can’t remove them from the phone, and disabling them will only remove the updates, leaving you with a base version that came with your phone out of the box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 4. Uninstall the App’s Updates and Reinstall
 
 Like reverting to the previous version, you can also try reinstalling updates to fix the Google Play Services has stopped working error. The process is similar to the one above, but we’ve still included the steps. Here’s how you can do that:
@@ -91,9 +91,6 @@ Like reverting to the previous version, you can also try reinstalling updates to
 - **Step 1**: Go into **Settings**\> **Apps** and find **Google Play Services**.
 - **Step 2**: Tap it and press **Uninstall Updates**at the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
     ![uninstall google play services updates](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-3.jpeg)
 
 - **Step 3**: Exit the **Settings**app and restart the phone.
@@ -102,18 +99,12 @@ Like reverting to the previous version, you can also try reinstalling updates to
 
 As you’re already there, you might as well update all other apps after you tap **Manage apps & device**. That will ensure that older and not-up-to-date apps aren’t causing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5. Check Storage
 
 Believe it or not, one of the leading causes of the Google Play Services issue is a phone overfilled with apps. Namely, if you have insufficient storage, the Google Play Store app will likely crash and display errors such as “Unfortunately, Google Play Services has stopped working.”
 
 Head into your phone’s Settings and select Storage to see how your phone’s doing storage-wise. Deleting a few apps you don’t use and transferring your photo and video library to a PC is highly advisable if your phone’s storage space lacks gigabytes.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6. Do a System Repair
 
 Although the other solutions here are general fixes that might help, a system repair might take a bit longer but will undoubtedly fix your issue. You can use the Wondershare Dr.Fone app to repair the system and eliminate the annoying “Unfortunately, Google Play Services has stopped working” error.
@@ -124,11 +115,12 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
     ![start the wondershare dr.fone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Select the type of issue you want to fix > **Start**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
     ![start the android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 3**: Select the make and model of your phone so that Dr.Fone can find the appropriate Android software.
@@ -145,16 +137,14 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
 - **Step 6**: Enter the code and hit **Confirm**to continue the system repair process. When it’s done, click the **Done**
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![confirm android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 That’s all it takes to do a system repair with Wondershare Dr.Fone. Give the software a few minutes to complete, during which your phone might restart a few times. Once it’s done, your Google Play Services app will undoubtedly work.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7. Clear Cache
 
 The easiest and the most obvious fix for many Android apps is clearing the app’s cache. Here’s how you can do that for Google Play Services and Google Play Store:
@@ -162,9 +152,6 @@ The easiest and the most obvious fix for many Android apps is clearing the app�
 - **Step 1**: Go into **Settings**\> **Apps** and find the **Google Play Store**
 - **Step 2**: Tap **Storage**and hit the **Clear cache**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
     ![clear app cache](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-10.jpg)
 
 - **Step 3**: Repeat the process for the **Google Play Services**
@@ -178,10 +165,6 @@ Oddly enough, the Google Play Services app is prone to failure because of an inc
 - **Step 1**: Head into **Settings**\> **System** > **Date & Time**.
 - **Step 2**: Ensure that both “**_Use network–provided time_**” and “**_Use network-provided time zone_**” are toggled on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
     ![check date and time settings](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-11.jpg)
 
 - **Step 3**: If this doesn’t work, you can try repeating the process and manually setting the time and the time zone.
@@ -194,9 +177,6 @@ Another regularly overlooked troublemaker is a poor internet connection. That’
 
 To test the internet connection on your Oppo A78 5G, you should open a browser and head to a random internet page to see if it’s opening and whether there are any delays. If it’s working fine, your internet connection isn’t the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 10. Adjust Google Play Services Permissions
 
 Although permissions rarely change, they can cause issues if you change them accidentally. These settings can be found in the same place where you would uninstall updates or clear the app’s cache, so you can use some of the steps mentioned above to check them.
@@ -213,9 +193,6 @@ Although it’s an incredibly frustrating error, the “Unfortunately, Google Pl
 
 Our list includes various fixes, from simple ones, like deleting the app’s cache and ensuring your network works fine, to more serious ones, like doing a factory reset. Alternatively, you can do a system repair with the help of Wondershare Dr.Fone, which will certainly fix the problem, but it might be a bit more complicated than cache deletion.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## App Won't Open on Your Oppo A78 5G? Here Are All Fixes
 
 It is not a very rare phenomenon where an App won't open, crash abruptly or face trouble while launching on an Android device. Many Android phone users also add to the fact that whenever they try to launch an App, it keeps loading but does not run smoothly, as it should in normal circumstances.
@@ -227,8 +204,9 @@ Many people are also interested in knowing about the causes behind why an App wo
 Here are all the fixes you need if an App won’t open on your Oppo A78 5G. Read on to find out all about why Apps won't open on your Oppo A78 5G and solutions to overcome such a problem.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Possible reasons for Apps won't open
 
 If you are an Android phone user and face a problem while trying to open an App on your device, you will ask yourself “Why won't my App open?”. To answer your question and explain to you why an App won't open on your phone, here are some probable and simple reasons to make you understand the real problem.
@@ -238,6 +216,10 @@ It is appropriate to tag our generation as smartphone addicts because we use sma
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984182929893.jpg)
 
 ![Settings](https://images.wondershare.com/drfone/article/2017/06/14984583143306.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Another possible reason for Apps to crash or why an App won't open is a possible data crash. This may occur due to **an unstable internet connection** or **various other background software interruptions**.
 
@@ -249,11 +231,6 @@ You have already understood ‘why won't your app open?’ at the start of this 
 
 Well, in such a case [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can prove to be your savior. It resolves failed Android system update issues, crashing apps, and black screen of death. It can also get an unresponsive or bricked Android device or boot loop stuck device fixed with one click.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Why won't my app open? The quick fix is here!
@@ -274,20 +251,18 @@ Why won't my app open? The quick fix is here!
 
 Step 1: Post-installation and launch of Dr.Fone on your computer, you got to press the ‘System Repair’ tab. Connect the Android device later.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix App won't open by repairing android system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Hit the ‘Android Repair’ located on the left panel followed by tapping the ‘Start’ button.
 
 ![start to fix App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Feed your Oppo A78 5G details under the Oppo A78 5G device information screen. Please check the warning and press the ‘Next’ button right after that.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Repairing your Oppo A78 5G under ‘Download’ mode**
@@ -300,23 +275,18 @@ Step 1: You got to boot the Android device under Download mode, as it’s import
 
 - When there is no ‘Home’ button – Turn off the Oppo A78 5G device and then for 5 to 10 seconds, keep the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons pressed. Tap the ‘Volume Up’ button after releasing all the buttons to enter the ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![boot android in download mode without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2: Hitting the ‘Next’ button starts downloading the Android firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![fix App won't open in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Once Dr.Fone - System Repair (Android) verifies the downloaded firmware, it begins fixing the app won't open the issue asap.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixing App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Part 3: 3 Common fixes if a particular App won’t open
@@ -331,9 +301,6 @@ Follow the steps given below to update the app which won't open on your phone:
 
 • Visit Google Play Store on your Oppo A78 5G.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Visit Google Play Store](https://images.wondershare.com/drfone/article/2017/06/14984583996008.jpg)
 
 • Now select “My Apps & Games” from the main menu.
@@ -354,18 +321,12 @@ Closing the App completely which won't open on your phone is a good idea. To mak
 
 • Click on “Apps” to see a list of all the Apps on your Oppo A78 5G.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click on “Apps”](https://images.wondershare.com/drfone/article/2017/06/14984184003158.jpg)
 
 • Select the App which won't open.
 
 • Now click on “Force Stop” as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on “Force Stop”](https://images.wondershare.com/drfone/article/2017/06/14984184186018.jpg)
 
 3\. Clear App Cache and Data
@@ -412,9 +373,6 @@ Restarting your Oppo A78 5G to fix an error might sound old school but it gives 
 
 • Now click on “Restart”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![click on “Restart”](https://images.wondershare.com/drfone/article/2017/06/14984184913200.jpg)
 
 Your phone will automatically restart and once it does, you can try to launch the App. You may also restart your Oppo A78 5G by pressing the power button for about 15-20 seconds.
@@ -429,11 +387,12 @@ To Factory Reset your Oppo A78 5G, carefully follow the guidelines given below:
 
 ![Backup and reset](https://images.wondershare.com/drfone/article/2017/06/14984185141857.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 • Now click on “Factory Data Reset”>“Reset Device”>“Erase Everything”
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Erase Everything](https://images.wondershare.com/drfone/article/2017/06/14984185334400.jpg)
 
 Your phone will now reboot and will be required to set up from scratch.
@@ -441,8 +400,6 @@ Your phone will now reboot and will be required to set up from scratch.
 “Why Won’t my App open” is a question asked by many Android phone users who fear that the problem occurs due to a virus attack or a system failure. However, this is not the case. The reason for the error to the surface is quite minor and can be fixed by you, sitting at home, without resorting to any kind of technical or external assistance. The solutions listed above are easy to understand and not very time-consuming.
 
 So go ahead and try them out now!
-
-
 
 ## 8 Solutions to Solve YouTube App Crashing on Oppo A78 5G
 
@@ -460,9 +417,6 @@ The issues like YouTube keeps crashing are often get disappeared by just quittin
 
 - You can now restart your device and then launch the app again. Check if this works or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restart the Android
 
 Similar to the app, if you restart the Oppo A78 5G device, it will start operating properly making the YouTube app work better than before. So, as the next tip, please restart your device.
@@ -470,18 +424,12 @@ Similar to the app, if you restart the Oppo A78 5G device, it will start operati
 - Long press the “Power” key.
 - Press “Restart” and confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Youtube not working android - fix by restarting android](https://images.wondershare.com/drfone/article/2019/06/restart-device.jpg)
 
 ## Use a VPN
 
 There is a possibility that YouTube is prohibited in your region. Banning some apps is done for some safety reasons. And therefore, you need to check if this is done in your area or not. If yes, then we shouldn’t mention the reason why YouTube is not working on Android. In such a case, use a VPN to access YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Clear the Cache of YouTube
 
 When the stored cache files start getting crash, the “Unfortunately YouTube has stopped” sort of errors are likely to appear. And therefore, if the above method didn’t work, try this one to get the problem resolved. We are going to clear the cache of YouTube to make it run smoothly.
@@ -492,9 +440,6 @@ When the stored cache files start getting crash, the “Unfortunately YouTube ha
 
 ![Youtube not working android - clear cache](https://images.wondershare.com/drfone/article/2019/06/clear-cache-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reinstall YouTube from Play Store
 
 If YouTube keeps crashing, make sure to uninstall and reinstall it from Play Store. Doing this will make the app gets refreshed, remove the glitches, and make it normal as a result. Here are the steps for it.
@@ -514,17 +459,13 @@ The apps that run on the internet might start crashing due to connectivity issue
 **Note:** In some phones, you may find the option in “System” > “Advanced” > “Reset”.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Re-flash the stock ROM of Android in one click
 
 There are times when a corrupted system gives you such errors. And therefore, you should try re-flashing the stock ROM on your Oppo A78 5G. Before you wonder how we would like to introduce a highly recommended tool for this. It is Dr.Fone - System Repair (Android). It holds the proficiency to flash the stock ROM in just a click. So, when your YouTube is not responding due to a corrupted system, make use of this tool to get it solved. The benefits associated with this tool are as follows.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to flash the stock ROM of Android
@@ -541,18 +482,12 @@ Android repair tool to flash the stock ROM of Android
 
 Start with visiting the website on your PC and downloading the Dr.Fone toolkit. Install and open the tool. Now, from the main screen, choose “System Repair”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Youtube not responding - fix with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Connect Device**
 
 With the help of the USB cord, connect your Oppo A78 5G to the computer. Click on “Android Repair” now from the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Youtube not responding - connect device to pc](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step 3: Enter Information**
@@ -561,13 +496,14 @@ Now, as the next step, you need to make sure of the details of your device. Plea
 
 ![Youtube not responding - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Download Firmware**
 
 Now, follow the instructions given on the screen according to your device. Click on “Next” and the program will start downloading the firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Youtube crashing on Android - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 **Step 5: Repair the Issue**
@@ -585,7 +521,6 @@ When nothing works, the last resort you can go with is resetting the Oppo A78 5G
 
 ![Youtube crashing on Android - factory reset android](https://images.wondershare.com/drfone/article/2019/06/factory-reset.jpg)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -598,7 +533,24 @@ When nothing works, the last resort you can go with is resetting the Oppo A78 5G
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-guffaw-gazette-twitters-funniest-threads/"><u>[New] Guffaw Gazette Twitter's Funniest Threads</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevate-your-gopro-skills-with-this-tutorial/"><u>[New] In 2024, Elevate Your GoPro Skills with This Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-mechanics-of-modern-photography-auto-smart-hdr-3-and-4-unveiled/"><u>[New] The Mechanics of Modern Photography Auto, Smart HDR 3 & 4 Unveiled</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-virtual-mix-vs-real-cast-best-streaming-software-face-off/"><u>2024 Approved Virtual Mix Vs. Real Cast Best Streaming Software Face-Off</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-webinars-in-written-form/"><u>2024 Approved Webinars in Written Form</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-lava-yuva-2-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Lava Yuva 2 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-sony-xperia-5-v-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Sony Xperia 5 V Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comment-restaurer-des-images-deletees-sur-un-appareil-photo-samsung/"><u>Comment Restaurer Des Images Déletées Sur Un Appareil Photo Samsung</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/factors-shaping-the-careers-of-future-prompt-designers/"><u>Factors Shaping the Careers of Future Prompt Designers</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/how-to-create-and-grow-an-online-space-for-beauty-product-reviews-for-2024/"><u>How To Create and Grow an Online Space for Beauty Product Reviews for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-google-pixel-7a-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Google Pixel 7a to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-nubia-red-magic-9-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nubia Red Magic 9 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Edge+ (2023) | Dr.fone</u></a></li>
+</ul></div>
 

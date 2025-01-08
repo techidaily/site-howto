@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Samsung Galaxy S24+ | Dr.fone
-date: 2024-12-27T17:46:09.767Z
-updated: 2024-12-29T01:19:55.488Z
+date: 2025-01-03T00:35:34.529Z
+updated: 2025-01-08T05:21:12.056Z
 tags: 
   - problems
 categories:
@@ -29,10 +29,6 @@ Once you click on “OK” the app shuts down abruptly and your Samsung Galaxy S
 We are all aware that no device runs smoothly, without any glitches. We also know that there is a cause behind every problem. Listed below are a few reasons behind camera failed error, especially on Samsung Galaxy S24+ devices:
 
 ![camera failed](https://images.wondershare.com/drfone/article/2017/07/14997493927963.jpg "camera failed")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. If you have recently updated your OS version, there are chances that certain bugs are preventing the camera App from functioning normally. Also, if the update is interrupted and not downloaded completely, certain apps may suffer.
 2. There are chances of your internal storage being cluttered with unwanted Apps and files leaving no space for the camera App to save its data and work smoothly.
@@ -69,21 +65,17 @@ One-click solution to fix camera failed on Samsung Galaxy S24+ devices
 
 ![select the details of samsung device](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**. Now put your device in the download mode. The software will provide you with a guide to put the phone in download mode to begin the downloading process.
 
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** As soon as the firmware is downloaded, the software will automatically initiate the repair process. You will be able to see the ongoing repair.
 
 ![fixing samsung camera failed](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When the software is done repairing the system, you will be notified. Thus, the Camera failed Samsung Galaxy S24+ error in your phone will be fixed.
 
@@ -98,10 +90,6 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 2\. Now a list of all Apps will appear before you. Keep scrolling down until your find “Camera”.
 
 ![camera app](https://images.wondershare.com/drfone/article/2017/07/14997065904511.jpg "camera app")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
@@ -149,10 +137,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 You may try to use the camera app once the process completes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: How to fix Camera Failed error by Reset Settings?
 
 Resetting the camera settings solves the problem 9 out of 10 times and thus is worth a try.
@@ -171,6 +155,10 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 Once done, go back to the Home Screen and start the camera App again to use it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: How to fix Camera Failed error by Factory Reset?
 
 Lastly, if the above-mentioned techniques do not help you in fixing the camera failed error, you can consider performing a Factory Reset. Note: This method will delete all your saved data so it is advised to backup before you start the process.
@@ -185,6 +173,10 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/07/14997069833129.jpg "backup and reset")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Now you must first select “Factory data reset” and then tap on “Reset Device” as shown in the screenshot below.
 
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
@@ -196,6 +188,10 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 Note: You will have to set up your Samsung Galaxy S24+ device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Samsung Galaxy S24+ devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reasons for Samsung Galaxy S24+ Stuck on Boot Screen and Ways To Fix Them
 
@@ -225,6 +221,10 @@ When an update is disrupted or stopped before it completes, the existing Android
 
 ![updating software](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3. Malfunctioning Applications
 
 If you noticed that your ****Android phone is stuck on the logo**** page only after installing certain apps, there is a high chance that the app is not compatible with the existing apps in your phone or with the Android version. When an app conflicts with the Android system or other apps, this will run into problems with your phone.
@@ -235,6 +235,10 @@ To overcome this, locate the app that has been giving you issues and remove the 
 
 ![malfunctioning apps on android](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. 5 Helpful Ways To Fix Android Phones Stuck on Boot Screen
 
 After understanding the common problems on why your ****Android phone is stuck on the logo**** page, here are five easy solutions you can try solving at home.
@@ -244,14 +248,6 @@ After understanding the common problems on why your ****Android phone is stuck o
 When encountering problems with your Samsung Galaxy S24+, such as being stuck at the ****Android boot screen****, you should first try a forced reboot. This simple yet effective solution could be what you need to solve all your Android problems. It is essential to leave your device turned off for at least a minute or two before turning it back on.
 
 ![forcing rebooting android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2. Pull Out Battery
 
@@ -274,7 +270,7 @@ Cache refers to a software or hardware component of an Android device that store
 Wiping out the cache data from your Samsung Galaxy S24+ could free up more space, allow your device to function faster, and avoid problems such as being stuck at the ****Android boot screen****. Do not worry; wiping the cache data is entirely safe and will not lead to any loss of important data or programs on your phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5. Factory Reset
@@ -302,10 +298,6 @@ Refer to the tutorial below to solve your ****Android phone is stuck on the logo
 **Step 2**: Select the issue you face on the next page. If you use a Samsung Galaxy S24+ phone, select ****Stuck at Samsung Galaxy S24+ Logo****. Alternatively, you can click on ****Black Screen**** or ****Stuck in Boot Loop****.
 
 ![selecting issue from dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3**: Input the ****Brand****, ****Name****, ****Model****, ****Country,**** and ****Carrier**** of your phone and click on ****Next****.
 
@@ -351,6 +343,10 @@ Restarting the phone is typically the initial solution that comes to mind when w
 
 It is the most commonly used method to fix Samsung Galaxy S24+'s touch screen and power button issues, such as unresponsiveness. By restarting the Samsung Galaxy S24+ device, background processes are disabled, and memory is freed up, allowing programs to run smoothly and potentially resolve the problem. To restart a Samsung Galaxy S24+ device, press the Power and Volume Up buttons simultaneously, and release the Power button once the Samsung Galaxy S24+logo appears.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Leave The Phone And Let The Battery Drain Completely
 
 ![low battery](https://images.wondershare.com/drfone/article/2023/03/drain-your-phone-battery.jpg)
@@ -360,10 +356,6 @@ Sometimes, the tablet screen may become unresponsive due to a software issue pre
 ### 3. Contact Custom Service
 
 ![xiaomi contact customer service](https://images.wondershare.com/drfone/article/2023/03/xiaomi-customer-service-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If restarting the Samsung Galaxy S24+ device or allowing the battery to drain doesn't resolve the issue, seeking professional assistance is recommended. The manufacturer may provide additional troubleshooting steps or recommend sending the Samsung Galaxy S24+ device in for repair or replacement. It's important to check the warranty before contacting customer service, which may affect repair or replacement options.
 
@@ -380,6 +372,10 @@ You can clear your cached data using the default settings.
 
 ![clear cached data on xiaomi 5a](https://images.wondershare.com/drfone/article/2023/03/clear-cached-data-on-xiaomi5a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5. Back Up And Factory Reset
 
 Another solution is to back up the Samsung Galaxy S24+ device and perform a factory reset, which can help reset the Samsung Galaxy S24+ device to its original state and remove any software glitches that may be causing the screen unresponsiveness. The factory settings on your phone will restore any data saved by third-party applications and some of the phone's settings when it was first built. Note that this method erases all data from the Samsung Galaxy S24+ device, so it should only be considered a last resort.
@@ -393,6 +389,10 @@ In the following steps, we will show you how to format the Samsung Galaxy S24+ R
 - Select **All files on the phone**to make a complete format of the Samsung Galaxy S24+ Redmi 5A.
 
 ![factory reset on xiaomi 5a](https://images.wondershare.com/drfone/article/2023/03/factory-reset-on-xiaomi5a-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6. Using Dr. Fone Repair
 
@@ -436,18 +436,19 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Samsun
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-most-engaging-history-youtube-creators-for-students-for-2024/"><u>[Updated] The Most Engaging History YouTube Creators for Students for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-pros-approach-to-documenting-overwatch-battles/"><u>[Updated] The Pro's Approach to Documenting Overwatch Battles</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1-seamless-methods-for-moving-contacts-pc-to-ipad/"><u>1. Seamless Methods for Moving Contacts: PC to iPad</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-24-explained-ensuring-your-device-appears-in-windows-systems-ws-11-8-or-7/"><u>Error Code 24 Explained: Ensuring Your Device Appears in Windows Systems WS 11, 8 or 7</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210877314-9781632657893-exploring-candle-magick/"><u>Exploring Candle Magick | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-poco-m6-pro-4g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Poco M6 Pro 4G Quickly | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-x9a-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor X9a Device SIM</u></a></li>
-<li><a href="https://some-tips.techidaily.com/three-essential-steps-apple-needs-to-take-for-reviving-vision-pros-success-insights/"><u>Three Essential Steps Apple Needs to Take for Reviving Vision Pro's Success - Insights</u></a></li>
-<li><a href="https://fox-info.techidaily.com/transform-your-workspace-with-these-8-dynamic-backdrops-for-2024/"><u>Transform Your Workspace with These 8 Dynamic Backdrops for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-s18-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S18 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-tailored-interventions/"><u>[New] 2024 Approved Tailored Interventions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-steps-for-social-success/"><u>[New] From Novice to Pro Steps for Social Success</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-interplatform-video-uploading-twitter-and-tumblr-synced/"><u>[New] Interplatform Video Uploading Twitter & Tumblr Synced</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-full-motion-assessment-2023/"><u>[Updated] 2024 Approved Full Motion Assessment 2023</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tripping-up-heres-how-to-avoid-it/"><u>2024 Approved Tripping Up? Here's How to Avoid It</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-find-n3-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo Find N3? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-s18-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo S18 Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>In 2024, Rhythmic Reinvention The Art of Voice in Free Fire</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-tiktok-profile-boost-smartly-insert-linktree-into-about-section/"><u>In 2024, TikTok Profile Boost Smartly Insert Linktree Into About Section</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-display-at-operating-system-kickoff/"><u>Resolving Non-Display at Operating System Kickoff</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-fiscal-perspective-of-sony-dsc-w800-investing-in-quality-not-just-price/"><u>The Fiscal Perspective of Sony DSC-W800 - Investing in Quality, Not Just Price</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-defy-2-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Defy 2 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-honor-x9b-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor X9b Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on OnePlus 12R | Dr.fone
-date: 2024-10-26T19:18:58.867Z
-updated: 2024-10-28T18:27:39.508Z
+date: 2024-12-31T21:40:02.162Z
+updated: 2025-01-08T04:30:15.227Z
 tags: 
   - problems
 categories:
@@ -33,6 +33,10 @@ Several other reasons for this problem include network issues, a weak Wi-Fi sign
 ## Part 2. Spotify Keeps Crashing: Best Fixes
 
 As you can see, there are numerous reasons for your Spotify crashing. Fortunately, all of them are easy fixes, and there’s no need to worry. We’ve prepared a list of 11 ways to fix your Spotify. With these fixes and detailed instructions, you’ll be able to eliminate your Spotify problem with ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. Fix the Spotify Closing Issue by Repairing Your System
 
@@ -99,6 +103,10 @@ The steps for entering Download Mode on Android devices without the Home button 
 - **Step 2:** Press and hold the **Volume Down**, **Bixby**, and**Power** buttons simultaneously.
 - **Step 3:** Press the **Volume Up**button to enter Download Mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Force-Close the App
 
 You can force-close Spotify and open it again to make it work properly. That is an easy fix if your Spotify has developed a bug. If that is the case, follow the next steps:
@@ -133,6 +141,10 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4. Restart Your Device
 
 Another way to stop Spotify from crashing can be restarting your Android. The steps may vary slightly depending on the OnePlus 12R device, but they’re mostly the same. Follow these steps to restart your device:
@@ -165,6 +177,10 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 
 ![settings on your android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Go to **System** or **About Phone**.
 
 ![about phone to find system update](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-12.jpg)
@@ -173,6 +189,10 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 - **Step 4:** If there’s an available update, tap
 
 ![install system update on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7. Update Your App
 
@@ -252,13 +272,6 @@ When using different apps and websites, your device caches data from those sourc
 
 ![spotify storage usage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5:** Tap **Clear Cache**.
 
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
@@ -277,13 +290,6 @@ Like any other technological system, Android is not without its fair share of pr
 
 ![android process media has stopped](https://images.wondershare.com/drfone/article/2023/08/android-process-media-has-stopped.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1. Why this error pops up?
 
 There are several reasons why this error can occur repeatedly and it is worth noting the various reasons why this happens so that you can avoid the problem in the future. Some of the most common ones include:
@@ -295,10 +301,7 @@ There are several reasons why this error can occur repeatedly and it is worth no
 - 5\. Failure of certain apps such as the download manager and the media storage
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. Back up your Android Data First
@@ -350,6 +353,10 @@ Step 1: Visit the Google Play Store to check for available app updates.
 
 Step 2: In "Settings," go to "System" > "Software Update" to check for system updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Reset app preferences
 
 App preference settings might sometimes lead to conflicts or anomalies. Resetting these settings can revert apps to their default state, resolving potential issues.
@@ -375,6 +382,10 @@ Step 4: Press the back button to go back to the Google Services framework and th
 Step 5: Next you need to open Google Play and when presented with an error, click OK
 
 Step 6: Turn off the OnePlus 12R device and then turn it back on. Go to the Google Services framework again and turn it on to see if the issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Check Google Sync & Media Storage settings
 
@@ -411,13 +422,6 @@ After launching Dr.Fone, click on "System Repair" from the main window.
 
 ![fix android.process.media stopping by drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then connect your OnePlus 12R with the correct cable and choose "Android" > click "Start".
 
 ![select android repair to fix android.process.media stopping](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -439,6 +443,10 @@ Read and follow the [guide here](https://drfone.wondershare.com/guide/android-re
 Then click "Next" to start downloading the firmware.
 
 ![start downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It may take a while, so you could have a cup of coffee to wait for the repair process completed.
 
@@ -506,24 +514,15 @@ Just follow the on-screen steps for booting your OnePlus 12R into download mode.
 
 ![contacts stopping on samsung - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Repair Android phone
 
 Once the software downloads, the program will automatically repair any issues irking over your phone. Now, your phone is all free from contacts error.
 
 ![contacts stopping on samsung - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: 9 Common ways to fix “Unfortunately, Contacts Has Stopped”
 
@@ -578,13 +577,6 @@ There will be a prompt stating that the application may misbehave. However, you 
 
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.5 Update your device software
 
 Many a times, we skip updating our device software thinking it is of less importance. In fact, one must not miss out the updates that occurs in phone. As, without the updates, the scope of some applications are affected to some extent. For its better functioning and avoiding issues like “contacts keep stopping”, here is how you should update device software.
@@ -614,13 +606,6 @@ Do you happen to exchange voicemails quite often? It can trigger to be the reaso
 2. From there, duly opt for “Voicemail”.
 3. Just click on the press menu option and at last select “Delete” option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.8 Uninstall the downloaded apps
 
 Some applications contain some unwanted advertisements and some elements of malware. This can be enough for disrupting the functionality of the built-in contact app won’t open. It is crucial for your phone to be detoxed from such elements. You need to manually scrap off such applications. Do, ensure to download the application from the genuine source for future use.
@@ -633,13 +618,6 @@ Some applications contain some unwanted advertisements and some elements of malw
 Now, check whether you’ve fought the battle with the problem or not.
 
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.9 Reset to Factory Settings
 
@@ -667,20 +645,20 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/hannel-transformation-via-musical-additions/"><u>[New] Channel Transformation via Musical Additions</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-14-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi 14 Pro Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-best-collection-sites-for-quick-access-to-youtube-vids/"><u>2024 Approved Best Collection Sites for Quick Access to YouTube Vids</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-instability-a-comprehensive-fix-for-nox-player-crashes-in-windows-environments/"><u>Dealing with Instability: A Comprehensive Fix for Nox Player Crashes in Windows Environments</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-7-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 7</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-correctly-installing-an-ms-store-app/"><u>Steps for Correctly Installing an MS Store App</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-viewing-the-complete-indiana-jones-adventures-sequentially/"><u>The Ultimate Guide: Viewing The Complete Indiana Jones Adventures Sequentially</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-spark-20-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Spark 20 Screen | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>Updated In 2024, How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vr-todays-technological-scene/"><u>VR Today's Technological Scene</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-tecno-spark-20-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Tecno Spark 20? Here is How | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-tecno-phantom-v-fold-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Tecno Phantom V Fold Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-oppo-reno-11-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo Reno 11 Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unbeatable-screen-grabbers-for-modern-windows-pcs/"><u>[New] Unbeatable Screen Grabbers for Modern Windows PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/advanced-review-of-kooteks-cooling-pad-for-enhanced-computing-comfort/"><u>Advanced Review of Kootek's Cooling Pad for Enhanced Computing Comfort</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-commands-in-action-uncovering-windows-error-messages-using-command-line-knowledge/"><u>Expert Commands in Action: Uncovering Windows Error Messages Using Command Line Knowledge</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo Phone Screen?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-exclusive-offers-macbook-pros-and-mini-deals-of-the-month-for-january-2022-insider-tips/"><u>Snag Exclusive Offers: MacBook Pros and Mini Deals of the Month for January 2022 | Insider Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/steps-to-adjusting-and-sharing-your-gopro-videos-in-4k-on-youtube/"><u>Steps to Adjusting and Sharing Your GoPro Videos in 4K on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-camon-30-pro-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Camon 30 Pro 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-standout-instagram-captions-507-picks/"><u>The Ultimate Guide to Standout Instagram Captions - 507 Picks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-oppo-a18-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Oppo A18 Phone Pattern Lock</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oneplus-ace-2-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for OnePlus Ace 2 Pro Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

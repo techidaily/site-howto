@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Hot 30 5G | Dr.fone
-date: 2024-12-26T16:59:52.813Z
-updated: 2024-12-29T00:03:38.955Z
+date: 2025-01-05T03:19:36.891Z
+updated: 2025-01-08T05:30:20.629Z
 tags: 
   - problems
 categories:
@@ -47,6 +47,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![select system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Choose the **Android**
 
 ![pick android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
@@ -65,13 +69,13 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![downloading firmware in progress](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-- **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
-
-![fix your android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+- **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
+
+![fix your android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 - **Step 10:** Type “**000000**” in the dialog box and click **Confirm**.
 
@@ -124,10 +128,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![settings in spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Scroll to the bottom of the settings and tap **Log Out**.
 
 ![log out of spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-5.jpg)
@@ -165,6 +165,10 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6. Update Your System Software
 
 Your Spotify app might keep crashing because your system is outdated. Try updating it to the latest version to try and fix the crashing problem. The steps for the Android system update are as follows:
@@ -181,10 +185,6 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 - **Step 4:** If there’s an available update, tap
 
 ![install system update on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7. Update Your App
 
@@ -247,6 +247,10 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 11. Clear the Cache
 
 When using different apps and websites, your device caches data from those sources. Since there’s no need to pile up your Spotify cache, you can clear it. Follow these steps:
@@ -254,10 +258,6 @@ When using different apps and websites, your device caches data from those sourc
 - **Step 1:** Open **Settings**.
 
 ![settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-22.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2:** Go to **Apps**.
 - **Step 3:** Find **Spotify** and tap it.
@@ -273,10 +273,6 @@ When using different apps and websites, your device caches data from those sourc
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -310,10 +306,6 @@ Cache files are designed to enhance the speed and efficiency of app loading. Yet
 
 In certain cases, app developers or Google Play itself may impose geographic restrictions. This could lead to compatibility issues if your device is located in an area where the app is restricted. Understanding the geographical availability of an app is vital in finding the root cause.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Beta Versions and Unstable Releases
 
 Engaging with beta versions or unstable releases of an app can result in compatibility issues. These versions are typically in the testing phase. That's why their compatibility with a wide range of devices may not be guaranteed. If you find yourself facing compatibility errors, it's worth checking if you are in a beta program.
@@ -329,10 +321,6 @@ Force quitting the Google Play Store is a simple yet effective first step in res
 - **Step 1.** On your Infinix Hot 30 5G, find the Google Play Store and long-press its icon. Press "App info" from the pop-up menu to access the app information screen.
 
 ![play store app info](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2.** Here, tap the "Force Stop" option to force close the Google Play Store. After a while, relaunch the app to see if the issue is resolved.
 
@@ -359,7 +347,7 @@ The Google Services Framework plays a crucial role in your Infinix Hot 30 5G. It
 ![access system apps](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2.** Now, find and tap the "Google Services Framework" app and go on to press "Storage and Cache." Here, use "Clear Cache" and "Clear Storage" to clear its cache and data.
@@ -373,6 +361,10 @@ An outdated operating system is a common factor behind compatibility issues. Thi
 **Instructions.** You will need to start by accessing the Infinix Hot 30 5G device's “Settings.” Scroll down to find and press the "System" option. On the following screen, tap "Software Update" to check if an update is available. If there is one, follow the on-screen prompts to update your device's OS.
 
 ![checking system update](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Uninstall the Google Play Store Updates
 
@@ -413,10 +405,6 @@ The final solution to avoid compatibility issues on the Google Play Store is to 
 You can explore reputable third-party app stores such as Aptoide, Amazon Appstore, GetJar, or SlideME. Ensure the chosen app store is reputable and widely used, minimizing potential security risks. Exercise caution and ensure the legitimacy of the app store to avoid security risks.
 
 ![use other third-party app](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Is Your Play Store Not Working Properly? Fix It Now With Wondershare Dr.Fone
 
@@ -509,6 +497,10 @@ As the next step, you need to take the help of USB cable and then plug your devi
 
 ![whatsapp not opening - choose repair tab](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Enter Details**
 
 Next will be the information screen. Simply enter the model, brand and other details. Check everything once and click on “Next”.
@@ -516,7 +508,7 @@ Next will be the information screen. Simply enter the model, brand and other det
 ![whatsapp not opening - enter device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: Enter Download Mode**
@@ -541,6 +533,10 @@ The purpose of Cache in a device is to keep the track of frequently used data an
 
 ![whatsapp stopping - fix cache conflict](https://images.wondershare.com/drfone/article/2019/06/clear-whatsapp-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause 3: WhatsApp components corruption
 
 A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp. In such case, all you need to do is uninstall and install the WhatsApp again. This is how you do it.
@@ -550,6 +546,10 @@ A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp
 - Tap on it and start downloading followed by installing it.
 
 ![whatsapp stopping - fix component corruption](https://images.wondershare.com/drfone/article/2019/06/install-whatsapp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cause 4: Not Enough Storage on your Phone
 
@@ -616,18 +616,20 @@ Now that you have decided where to download the apk file, these are the followin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-digital-chromatic-conventions-in-media-production/"><u>[New] Digital Chromatic Conventions in Media Production</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-depth-guide-to-frozen-pleasure-viewing-tools-for-2024/"><u>[New] In-Depth Guide to Frozen Pleasure Viewing Tools for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-the-potential-effective-pip-use-on-microsoft-edge-browser/"><u>2024 Approved Unleash the Potential Effective PIP Use on Microsoft Edge Browser</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-asus-rog-phone-8-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Asus ROG Phone 8 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-f54-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy F54 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-zte-axon-40-lite-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your ZTE Axon 40 Lite to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pick-the-perfect-shield-for-your-iphone-13-mini-leading-case-picks-of-2024/"><u>Pick the Perfect Shield for Your iPhone 13 Mini - Leading Case Picks of 2024!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-ways-to-refresh-windows-battery-drivers-a-step-by-step-stress-free-guide/"><u>Seamless Ways to Refresh Windows Battery Drivers - A Step-by-Step, Stress-Free Guide!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016424663-solving-persistent-audio-disruptions-on-your-windows-11-pc-easy-fixes-inside/"><u>Solving Persistent Audio Disruptions on Your Windows 11 PC - Easy Fixes Inside</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-end-of-apple-pay-later-exploring-new-financial-services-by-apple-on-the-horizon/"><u>The End of Apple Pay Later? Exploring New Financial Services by Apple on the Horizon</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-s17-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-clip-of-fame-vimeo-quick-look/"><u>[Updated] 2024 Approved Clip of Fame Vimeo Quick Look</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-avoid-risks-secure-paths-to-get-gratis-vlc-for-mac-os-x/"><u>[Updated] Avoid Risks Secure Paths to Get Gratis VLC for Mac OS X</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-creative-camerawork-innovative-techniques-for-video-savvy-youtubers-for-2024/"><u>[Updated] Creative Camerawork Innovative Techniques for Video-Savvy YouTubers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-c53-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme C53 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-auto-coding-tools-7-alternatives-to-chatgpt-explored/"><u>Best Auto-Coding Tools: 7 Alternatives to ChatGPT Explored</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-s18-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo S18 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-metaverse-odyssey-a-list-of-sci-fi-films-taking-you-beyond-earth/"><u>In 2024, Metaverse Odyssey A List of Sci-Fi Films Taking You Beyond Earth</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-a-step-by-step-guide-for-language-translation-applications/"><u>Mastering ChatGPT: A Step-by-Step Guide for Language Translation Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oneplus-ace-2-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for OnePlus Ace 2 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership-for-2024/"><u>Updated Best Live Streaming Platforms To Engage Audiences and Increase Viewership for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s17-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

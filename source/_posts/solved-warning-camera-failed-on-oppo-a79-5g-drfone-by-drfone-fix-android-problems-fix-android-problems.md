@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Oppo A79 5G | Dr.fone
-date: 2024-10-21T17:52:11.923Z
-updated: 2024-10-28T16:54:53.513Z
+date: 2025-01-03T16:11:55.943Z
+updated: 2025-01-08T06:47:48.306Z
 tags: 
   - problems
 categories:
@@ -29,6 +29,10 @@ Once you click on “OK” the app shuts down abruptly and your Oppo A79 5G came
 We are all aware that no device runs smoothly, without any glitches. We also know that there is a cause behind every problem. Listed below are a few reasons behind camera failed error, especially on Oppo A79 5G devices:
 
 ![camera failed](https://images.wondershare.com/drfone/article/2017/07/14997493927963.jpg "camera failed")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. If you have recently updated your OS version, there are chances that certain bugs are preventing the camera App from functioning normally. Also, if the update is interrupted and not downloaded completely, certain apps may suffer.
 2. There are chances of your internal storage being cluttered with unwanted Apps and files leaving no space for the camera App to save its data and work smoothly.
@@ -60,6 +64,10 @@ One-click solution to fix camera failed on Oppo A79 5G devices
 **Step 1.** Download the software on your computer and launch it. Connect your device and select the System Repair option from the main interface. In the next screen, select Android Repair module.
 
 ![fix samsung camera failed by repairing samsung system](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** You will have to provide the Oppo A79 5G device details accurately to ensure that the software provides a precise firmware package to be downloaded. Enter brand, name, model, country, and carrier of your device and agree to the terms and condition.
 
@@ -131,6 +139,10 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You may try to use the camera app once the process completes.
 
 ## Part 6: How to fix Camera Failed error by Reset Settings?
@@ -140,19 +152,6 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 1\. To reset, first, launch the Camera App by tapping on its icon.
 
 ![tap on camera](https://images.wondershare.com/drfone/article/2017/07/14997068859206.jpg "tap on camera")
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2\. Then go to Camera “Settings” by tapping on the circular gear like icon.
 
@@ -198,13 +197,6 @@ If you're asking **why is my Android phone in black and white**, then you're in 
 
 ![girl pointing at phone with problem](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1. Phone Screen in Black and White? Easy Fixes for Android Devices
 
 Discovering your Oppo A79 5G going monochrome can be annoying. The section below answers the question: **why did my Oppo A79 5G phone go black and white?** It involves a combination of software adjustments and careful troubleshooting. Follow the practical solutions below to restore vibrant colors to your device.
@@ -238,6 +230,10 @@ System glitches or software bugs can trigger display issues. It can result in a 
 
 - **Step 2:** Update your device if there is a software update available. Ensure your device is running the latest software version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Battery Saving Modes
 
 Battery-saving modes can also alter display settings to conserve energy. It can sometimes result in a black-and-white screen. These modes limit power consumption by reducing color output. Reviewing and adjusting these settings can restore the normal color display. Follow the steps below.
@@ -259,6 +255,10 @@ In rare cases, [hardware issues](https://drfone.wondershare.com/device-diagnosti
 - **Step 2:** Seek professional assistance or contact the Oppo A79 5G device manufacturer if hardware problems are suspected.
 
 Consider a reliable third-party tool if your phone persists in black and white despite troubleshooting attempts. Tools such as [Dr.Fone System Repair Android](https://drfone.wondershare.net/android-repair.html) offer advanced solutions for complex system issues. They ensure your phone regains its vibrant display without a hitch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Using a Dedicated Tool: Dr.Fone for Fixing Black and White Display Problems
 
@@ -282,13 +282,14 @@ Repair Android System Errors without Any Trouble.
 
 ![dr.fone android repair window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3,601,336** people have downloaded it
@@ -338,6 +339,10 @@ Below are additional functionalities of Dr.Fone that support your device to keep
 - **Phone Manager.**Fone acts as a comprehensive phone manager. It allows you to transfer contacts, SMS, photos, videos, and more between your Oppo A79 5G and computer. The feature simplifies data management and ensures seamless organization.
 - **Phone Backup**. The tool enables selective backup of Android data on a computer. It provides you with the flexibility to safeguard essential information. The selective backup feature ensures efficient use of storage and allows for easy restoration when needed.
 - **Screen Unlock Without Losing Data.**Fone offers a secure way to unlock the screen of Android devices without losing data. You can regain access to your devices without compromising valuable data, whether due to forgotten passwords, pattern locks, or PINs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Tips for Maintaining Your Phone Display Brilliance
 
@@ -424,18 +429,15 @@ Flexibly Backup and Restore Android Data
 
 Follow these very simple steps to use this MobileTrans Phone Transfer software to create a full backup of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1. Launch Dr.Fone on your computer and choose "Backup & Restore"
 
 Run the software on your computer and you can see all features displayed in the primary window. Choose this one: Backup & Restore. It allows you to get your device backed up entirely with one click.
 
 ![backup android before enter in recovery mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2. Plug in with your device
 
@@ -450,10 +452,7 @@ The program will display all the file types it can support to backup. Just selec
 ![select the data types to backup](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4. Start backing up your device to the computer
@@ -514,34 +513,13 @@ Step 1: It’s important to put the Android device in ‘Download’ mode, here 
 
 ![fix Android stuck in factory mode on android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Press ‘Next’ for initiating firmware downloading.
 
 ![firmware download to fix ](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Dr.Fone –Repair (Android) starts Android repair as soon as download and verification of firmware is done. All Android issues along with Android stuck in factory mode will be fixed now.
 
 ![fixed Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4. Common Solutions to Exit Factory Mode on Android
 
@@ -607,24 +585,18 @@ As much as factory mode can be a useful solution to a number of problems, it can
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/35578242-new-2024-approved-free-youtube-channel-art-templates-find-them-here/"><u>[New] 2024 Approved Free YouTube Channel Art Templates - Find Them Here!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tep-by-step-strategy-for-unearthing-secret-youtube-videos/"><u>[New] Step-by-Step Strategy for Unearthing Secret YouTube Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-gif-magic-transformations-without-extra-files-downloaded/"><u>[Updated] GIF Magic Transformations Without Extra Files Downloaded</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gigglegallery-log-in-and-make-magic-videos/"><u>[Updated] GiggleGallery Log In and Make Magic Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-definitive-list-youtubes-premier-making-up-masters-for-2024/"><u>[Updated] The Definitive List YouTube's Premier Making-Up Masters for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-find-x7-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo Find X7? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-xcover-6-pro-tactical-edition-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy XCover 6 Pro Tactical Edition? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-black-ops-cold-war-stutter-solution-a-comprehensive-guide-to-smooth-gaming-performance/"><u>Call of Duty: Black Ops Cold War Stutter Solution: A Comprehensive Guide to Smooth Gaming Performance</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-magic-6-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Magic 6</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-getting-the-steam-platform-store-up-and-running-again/"><u>Complete Guide: Getting the Steam Platform Store Up and Running Again</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-poco-m6-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Poco M6 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-sony-xperia-10-v-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Sony Xperia 10 V Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1728478567175-windows-10/"><u>Windows 10 スタートメニュー・タスクバーの非対応修正法</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-civi-3-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Civi 3 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-harmony-haven-gather-download-and-dissect-audio/"><u>[New] 2024 Approved Harmony Haven Gather, Download & Dissect Audio</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-joining-friends-and-family-online-facebook-setup-guide-for-2024/"><u>[Updated] Joining Friends and Family Online (Facebook Setup Guide) for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-celebrating-stop-motion-excellence-top-15-films/"><u>2024 Approved Celebrating Stop-Motion Excellence Top 15 Films</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-video-sharing-triad-vimeo-vs-youtube-and-dailymotion-showdown/"><u>2024 Approved The Video Sharing Triad Vimeo vs YouTube & Dailymotion Showdown</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-blaze-curve-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Blaze Curve 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-infinix-zero-30-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Infinix Zero 30 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-htc-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock HTC Phone without PIN</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-modern-tech-toms-hardware-experts-uncover-the-best-devices/"><u>Navigating Modern Tech: Tom's Hardware Experts Uncover the Best Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-realme-11-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme 11 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

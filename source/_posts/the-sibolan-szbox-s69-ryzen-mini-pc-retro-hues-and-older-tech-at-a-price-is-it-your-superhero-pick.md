@@ -1,7 +1,7 @@
 ---
 title: "The Sibolan SZBox S69 Ryzen Mini PC: Retro Hues and Older Tech at a Price - Is It Your Superhero Pick?"
-date: 2024-12-22T20:03:34.992Z
-updated: 2024-12-28T21:16:13.804Z
+date: 2025-01-04T07:07:52.670Z
+updated: 2025-01-08T05:14:55.053Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,19 +88,18 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-transform-your-footage-with-the-ideal-dimension-proportion/"><u>[New] In 2024, Transform Your Footage with the Ideal Dimension Proportion</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-techniques-for-efficient-iphone-7-recording/"><u>[Updated] Essential Techniques for Efficient iPhone 7 Recording</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-add-music-to-facebook-profile-iphone-and-android/"><u>2024 Approved How to Add Music to Facebook Profile (iPhone & Android)？</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-blaze-pro-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Blaze Pro 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-realme-narzo-60x-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme Narzo 60x 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/get-the-ultimate-wonderfox-app-a-no-cost-solution-for-dvd-extraction-and-video-transformation/"><u>Get the Ultimate WonderFox App: A No-Cost Solution for DVD Extraction and Video Transformation</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-15-plus-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 15 Plus Without a Home Button</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-pinpointing-video-picks-s-social-landscape-facebook/"><u>In 2024, Pinpointing Video Picks 'S Social Landscape (Facebook)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95919928-9781788880503-psychic-animals/"><u>Psychic Animals | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nubia-red-magic-8s-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nubia Red Magic 8S Pro Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/unlocking-avi-format-three-methods-to-enjoy-your-files-on-apple-tv/"><u>Unlocking AVI Format: Three Methods to Enjoy Your Files on Apple TV</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unlocking-lunapics-power-expert-tips-and-hacks/"><u>[Updated] In 2024, Unlocking LunaPic's Power Expert Tips and Hacks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-to-brightening-gopro-footage/"><u>2024 Approved Step-by-Step Guide to Brightening GoPro Footage</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-play-40c-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor Play 40C System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-a78-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo A78? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/seamlessly-move-your-memories-top-5-methods-for-android-to-iphone-picture-transfer-without-a-laptop/"><u>Seamlessly Move Your Memories - Top 5 Methods for Android to iPhone Picture Transfer without a Laptop</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/steps-for-isolating-visual-content-from-audible-components-for-2024/"><u>Steps for Isolating Visual Content From Audible Components for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-wireless-charging-pads-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top Rated Wireless Charging Pads : Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-do-when-you-cant-get-new-emails-in-your-yahoo-account/"><u>What to Do When You Can't Get New Emails in Your Yahoo Account</u></a></li>
 </ul></div>
 

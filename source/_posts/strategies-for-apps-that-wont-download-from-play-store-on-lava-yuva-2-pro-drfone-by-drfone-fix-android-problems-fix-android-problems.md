@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Lava Yuva 2 Pro | Dr.fone
-date: 2024-12-01T16:10:26.650Z
-updated: 2024-12-08T18:46:26.171Z
+date: 2024-12-31T21:40:08.394Z
+updated: 2025-01-07T22:14:14.947Z
 tags: 
   - problems
 categories:
@@ -30,9 +30,17 @@ The reasons below collectively contribute to the frustration users experience wh
 
 Slow or unstable internet connections can interfere with the download process. It often leads to failed or delayed app installations. You will experience frustration when faced with connectivity issues, impacting your ability to access desired apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Insufficient Storage
 
 Limited available storage on the Lava Yuva 2 Pro device prevents the installation of new apps. Users may find it challenging to manage their storage effectively. It can hinder the expansion of your app library and impact the overall device functionality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Outdated Play Store Version
 
@@ -94,10 +102,6 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3,143,540** people have downloaded it
 
 - **Step 2:** Connect your Lava Yuva 2 Pro to the computer using a USB cable. Dr.Fone will detect your device, and you'll be prompted to choose your device's type. Select **Android** **Repair**.
@@ -107,10 +111,6 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 - **Step 3:** Follow the on-screen instructions until the app downloads the correct firmware for your device. As it downloads, Dr.Fone will verify it and put your device details on display. You can [<u>install the firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) on your Lava Yuva 2 Pro by choosing **Fix Now**.
 
 ![dr.fone firmware download successfully](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** Initiating the system repair process will be accompanied by a progress bar visible on the screen. Upon completion, a prompt window will emerge, presenting a completion message.
 
@@ -141,15 +141,15 @@ An outdated Play Store version may lead to compatibility issues. Open the Google
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Clear Play Store Cache and Data
 
 Cached data in the Play Store can sometimes cause download problems. Head to the Lava Yuva 2 Pro device settings and open **Apps** or **Application Manager**. Locate Google Play Store, and tap **Storage**. Clear both the cache and data to refresh the app.
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Verify Google Account
 
@@ -157,11 +157,19 @@ Authentication issues with your Google account can prevent app downloads. Confir
 
 ![syncing google account on device](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Date and Time Settings
 
 Incorrect date and time settings may disrupt the authentication process. Verify that your device's date and time are set correctly. Enable automatic date and time settings to ensure accuracy.
 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Review Download Restrictions
 
@@ -195,10 +203,6 @@ With technology, uncertainties are bound to happen. It becomes quite tricky to a
 4. **Outdated version of Play store app:** Users generally do not feel the urge for updating the play store app. It is important to use only the updated version so as the functioning of Google Play app is not affected.
 
 ## Part 3: 7 fixes for Play Store stuck on downloading
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.1 Check SD card and phone storage space
 
@@ -246,6 +250,10 @@ It is important to add in all the necessary information for successful execution
 
 ![play store stuck on downloading - fill in info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Ensure to Download Firmware**
 
 Now, follow the on the on-screen prompts to boot Android phone into the download mode. Once done, you’re ready to download the suitable firmware package by hitting the “Next”.
@@ -288,12 +296,16 @@ When was the last time you cared to update your Play store app? Generally, users
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3.7 Avoid downloading large apps
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lava Yuva 2 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix
 
@@ -304,10 +316,6 @@ This is why it can so annoying when it gets to a point where the internet connec
 There are plenty of problems you could experience, whether it’s the [Wi-Fi network keeps disconnecting](https://drfone.wondershare.com/android-issue/why-does-my-phone-keep-disconnecting-from-wifi.html) on its own without any warning, perhaps a security issue where the passcode or IP address isn’t being registered properly, or even if the connection is just being super slow, even if there’s no reason too.
 
 Luckily, despite there being so many problems out there, there are also many solutions. Today, we’re going to share with you the complete definitive guide to help you get your Lava Yuva 2 Pro connected and free from problems and issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Restart your Lava Yuva 2 Pro
 
@@ -320,6 +328,10 @@ Begin by powering off your Lava Yuva 2 Pro and unplugging your router. Wait for 
 Turn on Airplane Mode for a few seconds, then turn it off. This maneuver refreshes your device's network connections and might rectify the Android not connecting to wifi issue.
 
 ![turn on airplane mode](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Check Wi-Fi Router settings
 
@@ -379,10 +391,6 @@ If none of the solutions above are working, this could indicate a real problem w
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 A one-click tool to fix Wi-Fi not working on Android
@@ -415,6 +423,10 @@ Once installed, connect your Lava Yuva 2 Pro to your computer using a USB cable,
 
 ![wifi not working on android - confirm the repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Five** Now put your phone into Download Mode by following the on-screen instructions, so your device is ready for the repair process. The method for getting your phone into Download Mode will vary depending on your device, so make sure you’re following the right instructions.
 
 ![wifi not working on android - boot in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
@@ -428,10 +440,6 @@ The whole process is automatic, so you won’t need to do anything until it’s 
 ![wifi not working on android - wifi issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 8. Check the Wi-Fi connectivity on another phone
 
@@ -488,10 +496,6 @@ As you continue to use your Lava Yuva 2 Pro, the partition cache will fill up wi
 5. Select the Android System Recovery option, followed by Wipe Cache Partition
 6. Restart your device and connect to the internet
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 12. Reset factory settings
 
 ![wifi not working on android - factory settings](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
@@ -509,10 +513,6 @@ However, by factory resetting your device, you can start again from the factory 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -527,18 +527,17 @@ However, by factory resetting your device, you can start again from the factory 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-easy-to-use-w10-screen-grabber-app-for-2024/"><u>[New] Easy-to-Use W10 Screen Grabber App for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-explore-elite-data-vaults-best-storages-reviewed/"><u>[New] In 2024, Explore Elite Data Vaults Best Storages Reviewed</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-secrets-of-thriving-in-the-top-10-business-channel-space-for-2024/"><u>[Updated] Secrets of Thriving in the Top 10 Business Channel Space for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-apple-podcast-platform/"><u>2024 Approved Navigating the Apple Podcast Platform</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-motorola-moto-g73-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Motorola Moto G73 5G Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastery-of-visual-storytelling-advanced-techniques-with-luts-in-after-effects/"><u>Mastery of Visual Storytelling Advanced Techniques with LUTs in After Effects</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revive-your-memories-with-top-iphone-picture-rescue-apps-for-deleting-photos/"><u>Revive Your Memories with Top iPhone Picture Rescue Apps for Deleting Photos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-c51-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme C51? Here is How | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-poco-x6-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Poco X6 Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-tecno-phantom-v-fold-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Tecno Phantom V Fold Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-25-groundbreaking-metaverse-initiatives-for-comprehension-for-2024/"><u>[New] 25 Groundbreaking Metaverse Initiatives for Comprehension for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/advanced-techniques-for-mov-file-editing-in-win-11/"><u>Advanced Techniques for MOV File Editing in Win 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cutting-edge-tech-reviews-by-tom-your-go-to-resource/"><u>Cutting Edge Tech Reviews by Tom - Your Go-To Resource</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nubia-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nubia Phone When You Forget the Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-spark-go-2024-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Spark Go (2024) Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-through-gesture-detection-methods-for-2024/"><u>Navigating Through Gesture Detection Methods for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/penning-powerful-film-prospectus-for-2024/"><u>Penning Powerful Film Prospectus for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-magic-6-lite-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor Magic 6 Lite Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s18-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S18 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

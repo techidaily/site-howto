@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Infinix Smart 8 | Dr.fone
-date: 2024-12-24T23:35:20.322Z
-updated: 2024-12-29T12:57:50.590Z
+date: 2025-01-02T19:07:56.310Z
+updated: 2025-01-08T04:38:45.572Z
 tags: 
   - problems
 categories:
@@ -29,10 +29,6 @@ Once you click on “OK” the app shuts down abruptly and your Infinix Smart 8 
 We are all aware that no device runs smoothly, without any glitches. We also know that there is a cause behind every problem. Listed below are a few reasons behind camera failed error, especially on Infinix Smart 8 devices:
 
 ![camera failed](https://images.wondershare.com/drfone/article/2017/07/14997493927963.jpg "camera failed")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. If you have recently updated your OS version, there are chances that certain bugs are preventing the camera App from functioning normally. Also, if the update is interrupted and not downloaded completely, certain apps may suffer.
 2. There are chances of your internal storage being cluttered with unwanted Apps and files leaving no space for the camera App to save its data and work smoothly.
@@ -74,7 +70,7 @@ One-click solution to fix camera failed on Infinix Smart 8 devices
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4.** As soon as the firmware is downloaded, the software will automatically initiate the repair process. You will be able to see the ongoing repair.
@@ -119,6 +115,10 @@ Simply, follow the instructions given below to remove Apps from Infinix Smart 8 
 
 The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How to fix Camera Failed error by wiping Cache Partition?
 
 This method might seem tedious and time-consuming and you may also lose your data and essential settings. However, wiping the Cache Partition only cleans your device system internally and gets rid off any unwanted and trouble making elements causing Warning: Camera Failed error. Follow the step-by-step guide given below to clean Cache Partition smoothly:
@@ -126,6 +126,10 @@ This method might seem tedious and time-consuming and you may also lose your dat
 1\. Firstly, switch off the Infinix Smart 8 device by pressing the power button and tapping on “Power Off” as shown in the screenshot below. Then wait for the lit screen to turn off completely before proceeding further.
 
 ![power off device](https://images.wondershare.com/drfone/article/2017/07/14997067521730.jpeg "power off device")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2\. Now, press and hold the power on/off, home and volume up button simultaneously. Your device will now vibrate. This a signal to let go of the power button (only).
 
@@ -159,6 +163,10 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 Once done, go back to the Home Screen and start the camera App again to use it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: How to fix Camera Failed error by Factory Reset?
 
 Lastly, if the above-mentioned techniques do not help you in fixing the camera failed error, you can consider performing a Factory Reset. Note: This method will delete all your saved data so it is advised to backup before you start the process.
@@ -169,13 +177,13 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![phone settings](https://images.wondershare.com/drfone/article/2017/07/14997069645058.jpg "phone settings")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Now from the list of options before you, select “Backup and reset” and move ahead.
 
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/07/14997069833129.jpg "backup and reset")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Now you must first select “Factory data reset” and then tap on “Reset Device” as shown in the screenshot below.
 
@@ -188,6 +196,10 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 Note: You will have to set up your Infinix Smart 8 device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Infinix Smart 8 devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Infinix Smart 8 Camera Not Working Unexpected Error? Fix It Now
 
@@ -249,10 +261,6 @@ Step 2: Tap Camera.
 
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
 
 ### II.IV: Clear The Camera App Cache
@@ -297,10 +305,6 @@ We do not realize the immense power that is packed into the thin smartphone form
 
 If this is the case, close all apps and let the phone cool down. You might even want to shut the phone off to help cool it faster.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### II.VIII: Nudge The Camera System
 
 You may want to tap your camera system (the lenses and surrounding area) gently to see if that gets the camera working. In case it did, this is indicative of a hardware issue, and you should get it checked at the service center at your earliest convenience.
@@ -320,6 +324,10 @@ Download Dr.Fone here.
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
 ![wondershare drfone on windows](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Click System Repair module and then Android.
 
@@ -351,10 +359,6 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
@@ -368,6 +372,10 @@ In most cases, incoming calls going to voicemail without ringing are common. How
 This article will discuss why incoming **phone calls go straight to voicemail** and how to fix the problem. We’ll also show you how to use Wondershare Dr.Fone, a powerful Android System Repair tool, to solve such issues. So, if you’re uncertain why that last **call went straight to voicemail**, keep reading, and we’ll cover everything you need to know.
 
 ![phone voicemail notification representation](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Not Ringing? Here’s Why Calls on Your Phone Go Straight to Voicemail
 
@@ -430,10 +438,6 @@ To reset your network settings on most Android devices:
 - **Step 2:** Go to **Reset** > **Reset Network Settings** and confirm the action.
 
 ![phone reset network settings](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Turn Off Bluetooth
 
@@ -514,7 +518,7 @@ Dr.Fone supports over 1000 Android models, including unlocked Infinix Smart 8 mo
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4,118,635** people have downloaded it
@@ -524,16 +528,12 @@ Dr.Fone supports over 1000 Android models, including unlocked Infinix Smart 8 mo
 ![dr.fone system repair toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3:** Select **Android** as the Infinix Smart 8 device type.
 
 ![select device type on dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** Click **Start** to begin repairing your smartphone.
 
@@ -591,22 +591,16 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-be-a-youtube-gamer/"><u>[Updated] How To Be a YouTube Gamer</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-find-n3-flip-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo Find N3 Flip Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebook-news-the-latest-updates-unveiled/"><u>2024 Approved Facebook News The Latest Updates Unveiled</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-itel-p40-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Itel P40? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciphering-instagram-interactions-how-to-see-whos-saving-your-posts/"><u>Deciphering Instagram Interactions: How to See Who's Saving Your Posts</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-gt-10-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix GT 10 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-a34-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy A34 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-elevate-your-videos-how-to-use-picture-in-picture-in-final-cut-pro-for-2024/"><u>New Elevate Your Videos How to Use Picture-in-Picture in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-gt-5-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 5 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-navigating-leading-social-media-sites-facebook-twitter-instagram-youtube/"><u>The Ultimate Guide to Navigating Leading Social Media Sites: Facebook, Twitter, Instagram, YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/x-studio-audio-pc-app-for-2024/"><u>X-Studio Audio PC App for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-smooth-transition-altering-snapchat-videos-tempo/"><u>[New] In 2024, Smooth Transition Altering Snapchat Videos' Tempo</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-ultimate-list-of-no-cost-sound-sites-for-filmmakers/"><u>[Updated] 2024 Approved The Ultimate List of No-Cost Sound Sites for Filmmakers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-apples-m1-performance-enhancing-video-editing/"><u>[Updated] In 2024, Apple’s M1 Performance Enhancing Video Editing?</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-itel-s23plus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Itel S23+ Quickly | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-samsung-galaxy-s24-ultra-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Samsung Galaxy S24 Ultra to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/phone-free-signup-a-comprehensive-guide-to-joining-chatgpt-telegram-and-whatsapp/"><u>Phone-Free Signup: A Comprehensive Guide to Joining ChatGPT, Telegram & WhatsApp</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/snicker-sounds-hilarious-song-imitations-for-2024/"><u>Snicker Sounds Hilarious Song Imitations for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nokia-c300-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nokia C300 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808091210-usb-selective-suspend-everything-you-need-to-know-about-it/"><u>USB Selective Suspend - Everything You Need to Know About It</u></a></li>
 </ul></div>
 

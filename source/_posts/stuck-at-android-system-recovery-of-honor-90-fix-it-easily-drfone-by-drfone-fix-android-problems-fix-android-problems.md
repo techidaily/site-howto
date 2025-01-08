@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor 90 ? Fix It Easily | Dr.fone
-date: 2024-12-26T06:28:21.324Z
-updated: 2024-12-29T11:23:39.699Z
+date: 2025-01-05T18:05:31.821Z
+updated: 2025-01-07T22:38:08.979Z
 tags: 
   - problems
 categories:
@@ -32,10 +32,6 @@ Step 1: Hold down the power key and then select "Power Off" from the options on 
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
@@ -43,6 +39,10 @@ Step 2: Next, you need to hold down the Power and the Volume Key. You should abl
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: The white Google logo will appear immediately followed by the Android logo again as well as the words "No Command" at the bottom of the screen.
 
@@ -77,12 +77,16 @@ Once installed on your computer, open onto the main menu and connect your Honor 
 
 ![fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #2** Select the 'Android Repair' option from the next screen.
 
 ![get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Insert your device information, including the brand, carrier details, model and country and region you're in to ensure you're downloading the correct firmware.
@@ -95,27 +99,27 @@ Your device should already be in this mode but follow the instructions to make s
 
 ![fix Android stuck at System recovery in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #4** The firmware will now start downloading. You'll be able to track this process in the window.
 
 Ensure your device, and your computer stays connected the entire time, and make sure your internet connection remains stable.
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
@@ -154,6 +158,10 @@ Step 2: Press "Restore" to begin the recovery process from the Backup file we cr
 Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Unfortunately, Contacts Has Stopped Error on Honor 90
 
@@ -247,6 +255,10 @@ As we know the cache memories are the temporary files build by the firmware. The
 
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the Honor 90 device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.4 Disable Google+ app
 
 The root cause for detecting any problem is not very easy. You never know the overloading of Google + application might have directly impacted contacts app crashes. To resolve it, disabling it may prove to be a helpful solution. Here is the quick reference for disabling Google+ application.
@@ -273,6 +285,10 @@ Many a times, we skip updating our device software thinking it is of less import
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.6 Reset App Preferences
 
 As stated, the malfunctioning of contacts can be due to be any unexpected reason. Hence, users can opt for resetting app preferences. This may prove to be helpful in brushing away the issue of “Contacts app won’t open”.
@@ -292,7 +308,7 @@ Do you happen to exchange voicemails quite often? It can trigger to be the reaso
 3. Just click on the press menu option and at last select “Delete” option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.8 Uninstall the downloaded apps
@@ -330,10 +346,6 @@ Being one of the widely used browsers, Chrome is always our rescue whenever vita
 
 One of the main reasons why Chrome keeps crashing could be the multiple opened tabs. If you keep open the tabs, it may slow down the performance of Chrome and the app will use RAM. As a result, it will obviously get stopped midway. Therefore, we suggest you to close the tabs which are opened. And once you do that, exit the app and then launch it again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Too much memory used
 
 When Chrome or any other app keeps running on the background, issues like “Unfortunately Chrome has stopped” are likely to occur. Moreover, the opened apps will eat the memory of your device. Hence, as the next solution, it is suggested that the Chrome should be closed by force quitting and then you need to try to launch it again to work. See if it works or still Chrome is not responding.
@@ -343,10 +355,6 @@ When Chrome or any other app keeps running on the background, issues like “Unf
 2\. Now simply swipe the app up/left/right (according to the Honor 90 device).
 
 ![fix Chrome crashing on Android by force quiting](https://images.wondershare.com/drfone/article/2019/05/force-quit-chrome.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. The app will be force quit now. You can then start it again to check if thing get back to normal.
 
@@ -365,10 +373,6 @@ While using any app for long, the temporary files for those gets collected in th
 ## Part 4: Exclude the issue of website itself
 
 Most probably Chrome is not able to support the website you are trying to access. We doubt if the particular website you are making use of is the culprit and making Chrome keeps stopping. In such case, we would like to recommend you to make use of another browser and try to access the website from there. See if this works or not. If now, please follow the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: Android firmware corruption
 
@@ -394,6 +398,10 @@ Start downloading it from there. Install it once downloading is completed and op
 
 ![fix Chrome crashing on Android - get the fixing tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Get Android Device Connected
 
 Now, you need to connect your Honor 90 with the computer using USB cord. When the Honor 90 device is connected successfully, click on the “Android Repair” option from the left panel.
@@ -416,10 +424,6 @@ Once the firmware is downloaded, you will notice that the repairing process will
 
 ![Chrome crashing fixed on Android](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: File Downloading issue from Chrome
 
 While you were trying to download from internet, the file didn’t download properly or it might get stuck and eventually crashing Chrome occurs. In such instances, many times, uninstalling and installing helps. Therefore, follow the steps below to uninstall and install Chrome and fix Chrome keeps stopping
@@ -428,10 +432,6 @@ While you were trying to download from internet, the file didn’t download prop
 - Select “Chrome” and tap on “Uninstall Updates”.
 
 ![fix Chrome crashing on Android by uninstalling updates](https://images.wondershare.com/drfone/article/2019/05/uninstall-updates.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Now, you need to re-install it from Play Store. From the “My Apps” section, tap on Chrome and update it.
 
@@ -458,22 +458,17 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-simplified-techniques-for-capturing-vimeo-content/"><u>[Updated] 2024 Approved Simplified Techniques for Capturing Vimeo Content</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-speaking-words-into-sound-your-pathway-to-excellence/"><u>[Updated] Speaking Words Into Sound Your Pathway to Excellence</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-for-implementing-the-latest-connexent-driver-in-windows-11-update-v2004/"><u>Easy Guide for Implementing the Latest Connexent Driver in Windows 11 Update V2004</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/get-the-authentic-winx-experience-free-full-featured-dvd-ripping-and-hd-video-conversion-suite/"><u>Get the Authentic WinX Experience: Free Full-Featured DVD Ripping and HD Video Conversion Suite</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-sony-xperia-5-v-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Sony Xperia 5 V Phone?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1724765580074-macx-dvd-ripper-pro/"><u>MacX DVD Ripper Pro 無料ダウンロード - 公式サイトから安心してセキュリティ保証</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-setup-for-windows-7-webcam-drivers-download-today/"><u>Seamless Setup for Windows 7 Webcam Drivers - Download Today</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-drives-into-dialogues-mercedes-vehicle-voice-tech/"><u>Transforming Drives Into Dialogues: Mercedes Vehicle Voice Tech</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-a2plus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi A2+ Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-find-x7-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Find X7 Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-nokia-c12-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nokia C12 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-convert-and-store-webcam-footage-in-vlc-media-for-2024/"><u>[New] Convert & Store Webcam Footage in VLC Media for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-prevent-and-mend-streaming-hiccups-in-fb-livestran/"><u>[Updated] In 2024, How to Prevent and Mend Streaming Hiccups in FB Livestran</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-transforming-viewers-experience-obs-strategies-on-youtube-and-twitch/"><u>2024 Approved Transforming Viewers' Experience OBS Strategies on YouTube & Twitch</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-smart-8-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Infinix Smart 8 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-a78-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo A78 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-insights-on-powerdirector-24-review/"><u>Expert Insights on PowerDirector '24 Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-live-stream-perfection-ranking-the-best-recorder-gadgets-in-tech/"><u>In 2024, Live Stream Perfection Ranking the Best Recorder Gadgets in Tech</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/steps-to-restore-and-access-data-on-corrupted-fat32-or-exfat-drives/"><u>Steps to Restore and Access Data on Corrupted FAT32 or exFAT Drives</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oppo-f23-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Oppo F23 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-infinix-hot-40-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Infinix Hot 40 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

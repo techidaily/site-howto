@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on OnePlus Nord 3 5G | Dr.fone
-date: 2024-12-27T08:30:47.221Z
-updated: 2024-12-29T09:55:22.683Z
+date: 2025-01-05T22:59:24.914Z
+updated: 2025-01-07T19:09:26.503Z
 tags: 
   - problems
 categories:
@@ -29,6 +29,10 @@ Once you click on “OK” the app shuts down abruptly and your OnePlus Nord 3 5
 We are all aware that no device runs smoothly, without any glitches. We also know that there is a cause behind every problem. Listed below are a few reasons behind camera failed error, especially on OnePlus Nord 3 5G devices:
 
 ![camera failed](https://images.wondershare.com/drfone/article/2017/07/14997493927963.jpg "camera failed")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. If you have recently updated your OS version, there are chances that certain bugs are preventing the camera App from functioning normally. Also, if the update is interrupted and not downloaded completely, certain apps may suffer.
 2. There are chances of your internal storage being cluttered with unwanted Apps and files leaving no space for the camera App to save its data and work smoothly.
@@ -93,10 +97,6 @@ Tap on “Camera” to open the “Camera Info” screen and once you are there,
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How to fix Camera Failed error by removing third-party Apps?
 
 Another tip to fix OnePlus Nord 3 5G camera failed error is by deleting a few unwanted third-party Apps (recently installed) to free some space in the OnePlus Nord 3 5G device’s internal storage. It is essential to create and keep storage space for the camera App to function smoothly and allow it to store its data as well. Also, if this issue only happens recently, it might be some newly installed Apps causing some glitches with the camera.
@@ -110,7 +110,7 @@ Simply, follow the instructions given below to remove Apps from OnePlus Nord 3 5
 ![installed apps](https://images.wondershare.com/drfone/article/2017/07/14997066916915.jpg "installed apps")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Now, once you select the App you want to uninstall, the App Info screen will appear. Tap on “Uninstall” option and then tap on “Uninstall” again on the pop-up message.
@@ -135,13 +135,13 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You may try to use the camera app once the process completes.
 
@@ -157,19 +157,11 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 ![camera settings](https://images.wondershare.com/drfone/article/2017/07/14997069036741.jpeg "camera settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Now look for “Reset Settings” options and click on it.
 
 ![reset settings](https://images.wondershare.com/drfone/article/2017/07/14997069347307.jpg "reset settings")
 
 Once done, go back to the Home Screen and start the camera App again to use it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 7: How to fix Camera Failed error by Factory Reset?
 
@@ -193,6 +185,10 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/07/14997070554687.jpg "erase everything")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: You will have to set up your OnePlus Nord 3 5G device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your OnePlus Nord 3 5G devices.
@@ -206,10 +202,6 @@ It can occur while you launch the app or while you’re in the app already findi
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -248,10 +240,6 @@ Step 4: Download Firmware package
 Just follow the on-screen steps for booting your OnePlus Nord 3 5G into download mode. Then, hit the “Next” button to proceed with downloading the most suitable firmware package for your OnePlus Nord 3 5G.
 
 ![contacts stopping on samsung - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: Repair Android phone
 
@@ -295,11 +283,11 @@ As we know the cache memories are the temporary files build by the firmware. The
 
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the OnePlus Nord 3 5G device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.4 Disable Google+ app
 
@@ -324,6 +312,10 @@ Many a times, we skip updating our device software thinking it is of less import
 2. There, you need to tap over “Software Update”.
 
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
 
@@ -358,6 +350,10 @@ Now, check whether you’ve fought the battle with the problem or not.
 
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.9 Reset to Factory Settings
 
 Last but not least, if all the methods falls flat to resolve the issue of contacts app won’t open. Then, it might be your device has some internal problem. This can be any software crash which might not be fixing with the aforementioned steps. That is where reset to factory settings may prove to be a good option. With this method, your phone will be cleared of all the components, settings and everything present in it. Here are is the comprehensive tutorial for biding bye to the problem of contacts app won’t open.
@@ -369,10 +365,6 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 - Then, tap on “Reset” button and then tick mark the option for resetting your phone.
 
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Is My OnePlus Nord 3 5G Offline? Troubleshooting Guide
 
@@ -447,6 +439,10 @@ To reset your network settings, the steps may differ depending on the phone mode
 
 ![Reset the network settings on Android](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 4: Restart your Wi-Fi router
 
 Sometimes, the problem might not be with your phone but rather with the [<u>Wi-Fi router</u>](https://drfone.wondershare.com/root/wifi-hacker-without-root.html). Restarting it can refresh the connection and potentially resolve the connectivity problem.
@@ -494,6 +490,10 @@ How to re-install Google Chrome:
 
 ![Re-install Google Chrome on Google Play Store](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 3: Repair the system to fix the phone showing offline
 
 When persistent offline issues seem deeply rooted in your device's system, a comprehensive system repair may be the solution. Wondershare Dr. Fone's system repair tool is designed to address a range of system problems, providing a reliable way to fix any problem you have with your phone.
@@ -530,15 +530,15 @@ The platform will detect your OnePlus Nord 3 5G's brand. Confirm the Name, Model
 
 ![Confirm your OnePlus Nord 3 5G’s details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Download firmware.
 
 Follow the instructions to put your OnePlus Nord 3 5G into Download Mode. Once in Download Mode, you will start downloading the firmware.
 
 ![Activate Download mode to download the firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** Confirm Installation
 
@@ -566,18 +566,18 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-perfect-youtube-channel-names-a-comprehensive-guide-for-video-content-creators-maximum-length-156-characters-for-2024/"><u>[Updated] Crafting Perfect Youtube Channel Names A Comprehensive Guide for Video Content Creators (Maximum Length 156 Characters) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-game-enhancing-screens-top-5-for-ps5-and-xbox-gamers/"><u>[Updated] Game-Enhancing Screens Top 5 for PS5 & Xbox Gamers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-cross-platform-calendar-coordination-zoom-to-your-devices/"><u>2024 Approved Cross-Platform Calendar Coordination Zoom to Your Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-comparative-review-sns-hdr-pro-and-other-editors/"><u>A Comparative Review SNS HDR Pro and Other Editors</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-14-ultra-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi 14 Ultra Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-value-laptop-cooler-topmate-c302-evaluation/"><u>Best Value Laptop Cooler TopMate C302 Evaluation</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-poco-c51-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Poco C51 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveil-the-8-greatest-places-to-download-3d-text-psd-files-for-2024/"><u>Unveil the 8 Greatest Places to Download 3D Text PSD Files for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/yl-softwares-ultimate-tricks-for-streaming-songs-on-your-pc-with-windows-operating-system/"><u>YL Software's Ultimate Tricks for Streaming Songs on Your PC with Windows Operating System</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-adsense-on-youtube-determining-your-income-from-1k-viewer-engagement-for-2024/"><u>[Updated] AdSense on YouTube Determining Your Income From 1K Viewer Engagement for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-webcam-use-for-professional-meeting-records/"><u>2024 Approved Mastering Webcam Use for Professional Meeting Records</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-images-with-ps-based-hdr-methods/"><u>Elevate Your Images with PS-Based HDR Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-building-folders-and-writing-files-using-windows-terminal-commands/"><u>Step-by-Step Tutorial on Building Folders and Writing Files Using Windows Terminal Commands</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-14-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi 14 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-resolving-diagnostic-monitoring-service-offline-issue/"><u>Successfully Resolving 'Diagnostic Monitoring Service Offline' Issue</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-v-purse-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor V Purse Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformez-vos-fichiers-wmv-en-mp4-gratuitement-et-conservez-jusqua-98-de-qualite-des-aujourdhui/"><u>Transformez Vos Fichiers WMV en MP4 Gratuitement Et Conservez Jusqu'à 98% De Qualité Dès Aujourd'hui!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocking-printer-operation-post-windows-10-update/"><u>Unblocking Printer Operation Post-Windows 10 Update</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-a78-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo A78 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

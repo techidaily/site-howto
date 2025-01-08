@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on OnePlus Ace 2 Step-by-Step Solutions | Dr.fone
-date: 2024-10-21T18:39:17.581Z
-updated: 2024-10-28T16:59:42.127Z
+date: 2025-01-06T02:05:35.074Z
+updated: 2025-01-07T18:09:42.859Z
 tags: 
   - problems
 categories:
@@ -32,13 +32,6 @@ Before proceeding with troubleshooting the **missing app icon on your Android** 
 
 Now, see whether you can find the **app icon that disappeared on your Android.** If you can’t find it, it means the app has been accidentally deleted, and you can install it back on your device. However, if it’s confirmed to be installed on your Android but remains missing from your home screen, you can continue the following practice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How To Find the Missing App Icon on Android
 
 _“_**_All my apps disappeared from my home Android screen._** _What should I do?”_
@@ -57,6 +50,10 @@ However, as a general guide, you can follow these steps:
 
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Move the app to the home screen from the App Drawer
 
 If your **app icon disappeared on your Android**, you can also easily restore it by adding the app to the home screen from the app drawer. Follow the step-by-step guide below:
@@ -68,6 +65,10 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Re-enable disabled app
 
 **App icons can also disappear on the Android** home screen if you unintentionally or intentionally disable them. Certain phone models even offer a functionality known as 'Freezer,' allowing users to temporarily halt the apps. While in a frozen state, the app remains inactive and doesn't appear on the home screen until you unfrozen it.
@@ -77,6 +78,10 @@ To re-enable the disabled app, you can follow the steps here:
 - **Step 1**. Open the Apps & Notifications on the Settings.
 - **Step 2.** Select the app which icon is missing on your home screen. For example, tap the phone app if the **phone icon disappears on your Android.**
 - **Step 3:** In the App Info, tap Enable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Reset Android to factory settings
 
@@ -103,13 +108,6 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,136,839** people have downloaded it
@@ -132,18 +130,15 @@ Follow the instructions to put your OnePlus Ace 2 into Download Mode. Once you a
 
 ![Activate Download mode to download the firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5.** Confirm Installation
 
 Remember, the repair may erase data. It’s advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar. Once finished, click Done and see if your phone has returned to normal.
 
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **More Articles About Android System:**
 
@@ -178,6 +173,10 @@ Android users who have experienced this would know that the parse error leaves u
 There was a problem parsing the package may occur due to several reasons, most of which are listed and explained below. Furthermore, there is a list of solutions to choose from to eliminate the “there is a problem parsing the package” error.
 
 Read on to find out more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Reasons for the parsing error
 
@@ -250,16 +249,7 @@ When this is completed, you’ll be free to disconnect your OnePlus Ace 2 and us
 ![repairing android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **2.2 Allow installation from unknown sources**
@@ -284,6 +274,10 @@ To enable USB Debugging to fix “There is a problem parsing the package” erro
 
 ![click on “Build Number”](https://images.wondershare.com/drfone/article/2017/06/14985108749996.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 • Once you see a pop-up saying “You are now a developer”, go back to “Settings”.
 
 ![go back to “Settings”](https://images.wondershare.com/drfone/article/2017/06/14985108996306.jpg)
@@ -291,13 +285,6 @@ To enable USB Debugging to fix “There is a problem parsing the package” erro
 • In this step, select “Developer Options” and turn on “USB Debugging”.
 
 ![turn on “USB Debugging”](https://images.wondershare.com/drfone/article/2017/06/14985109282251.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This should solve the problem. If not, move on to the other techniques.
 
@@ -321,13 +308,6 @@ We do not suggest that you delete the Antivirus App permanently. Temporary unins
 
 ![click on “Uninstall”](https://images.wondershare.com/drfone/article/2017/06/14985109617315.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now download and install the desired App again. Once this is done, do not forget to install the Antivirus App again.
 
 #### **2.7 Clear Cache cookies of Play Store**
@@ -344,6 +324,10 @@ Clearing Play Store Cache cleans the Android Market platform by deleting all clo
 
 ![“Clear local search history”](https://images.wondershare.com/drfone/article/2017/06/14985110201340.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **2.8 Factory Reset Android**
 
 Factory Resetting your device to fix the Parse Error should be the last thing you try. Make sure you take a back-up of all your data on your Google Account or a Pen Drive because this technique erases all media, contents, data, and other files, including your device settings.
@@ -355,6 +339,10 @@ Follow the steps given below to factory reset your device:
 • Now select “Backup and Reset”.
 
 ![select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/06/14985110589339.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 • In this step, select “Factory data reset” and then “Reset Device” to confirm Factory Reset.
 
@@ -396,16 +384,13 @@ Once you are the recovery mode screen, you will see a number of options as shown
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
@@ -435,13 +420,6 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
@@ -468,24 +446,15 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mastering-the-art-of-telegram-web-navigation/"><u>[New] 2024 Approved Mastering the Art of Telegram Web Navigation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-dynamic-edge-technique-adding-motion-blur-to-portraits-using-picsart/"><u>[New] The Dynamic Edge Technique Adding Motion Blur to Portraits Using Picsart</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-beginners-path-to-successful-hp-screen-capturing-for-2024/"><u>[Updated] Beginner's Path to Successful HP Screen Capturing for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>[Updated] How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-nokia-c210-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Nokia C210 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-infinix-hot-40-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Hot 40 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-completa-para-clonar-dvd-en-una-macbook-con-big-sur-mantener-la-excelencia-de-calidad/"><u>Guía Completa Para Clonar DVD en Una MacBook Con Big Sur: Mantener La Excelencia De Calidad</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-voice-communication-problems-in-rainbow-six-siege-after-the-2024-patch/"><u>How to Fix Voice Communication Problems in Rainbow Six Siege After the 2024 Patch</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-scrolling-problems-with-your-pcs-touchpad-on-windows-10/"><u>How to Repair Scrolling Problems with Your PC's Touchpad on Windows 10</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ordering-the-matrix-saga-a-step-by-step-guide/"><u>Ordering The Matrix Saga: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsungs-upcoming-galaxy-ring-what-to-expect-in-terms-of-launch-timeline-pricing-and-tech-details/"><u>Samsung's Upcoming Galaxy Ring: What to Expect in Terms of Launch Timeline, Pricing and Tech Details</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-reno-10-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo Reno 10 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-a05-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy A05 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-poco-m6-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Poco M6 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-global-communicators-essential-list-of-top-36-platforms-for-video-conversion/"><u>[New] The Global Communicator’s Essential List of Top 36 Platforms for Video Conversion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-perfecting-voice-broadcasts-on-apple-devices-the-pros-guide/"><u>[Updated] In 2024, Perfecting Voice Broadcasts on Apple Devices - The Pro's Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-miner-driver-update-and-installation-tutorial-for-enhanced-blockchain-performance-on-windows-systems/"><u>AMD Miner Driver Update & Installation Tutorial for Enhanced Blockchain Performance on Windows Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-webcams-for-zoom/"><u>In 2024, Best Webcams for Zoom</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/iperius-backup/"><u>Iperius Backupに勝る、素晴らしい無料バックアップツール:ダウンロード手順・利用法ガイド</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lite-or-oled-the-ultimate-guide-to-choosing-your-next-nintendo-console/"><u>Lite or OLED? The Ultimate Guide to Choosing Your Next Nintendo Console</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-zte-axon-40-lite-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from ZTE Axon 40 Lite? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-v30t-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme V30T Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

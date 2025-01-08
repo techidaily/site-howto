@@ -1,7 +1,7 @@
 ---
 title: Want to Uninstall Google Play Service from Vivo Y100t? Here is How | Dr.fone
-date: 2024-07-30T12:15:06.005Z
-updated: 2024-07-31T12:15:06.005Z
+date: 2025-01-01T18:16:19.523Z
+updated: 2025-01-07T16:54:35.564Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ In this article, you will learn the pros and cons of uninstalling Google Play se
 
 Acts as a one-stop destination to download various kinds of apps from the Play Store. The Play service also provides a way to manage these apps without much hassle. From uninstalling to updating an app, all of this can be done with Google Play service. Nevertheless, there are times when users wish to uninstall Google Play services. To start with, it takes a lot of storage and makes it pretty tough for users to manage their devices. To help you, we will let you know how to uninstall Google Play Store in this informative post.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Reason you might want to get rid of Google Play Service
 
 Before we proceed and discuss different ways on how to update Play Store after uninstalling updates, it is important to cover the basics. We have heard plenty of users who wish to uninstall Google Play services, but are not sure of the repercussions. One of the main reasons is that it consumes a lot of space on phone’s storage. Not just that, it only consumes plenty of battery as well.
@@ -33,9 +30,6 @@ If you think that Google Play Service only provides a platform to download new a
 
 Furthermore, it might tamper with the overall functionality of your device as well. For instance, you could encounter network issues, messaging problems, app crashing, and more. Since the Play Service is closely associated with Android system, it might have a prominent effect on your phone. If you have a rooted device, then you can easily install custom ROM and resolve these issues. Though, for a non-rooted device, overcoming these problems could be a big hurdle.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to disable Google Play Service?
 
 By now, you already know all the repercussions of getting rid of Google Play Services permanently. Before you learn how to update Play Store after uninstalling updates, be sure whether you wish to uninstall Google Play Services or not. You can also choose to simply disable the services as well. If you face any severe issue afterward, then you can always enable the services manually.
@@ -46,11 +40,10 @@ To disable the Google Play Services, just go to your phone’s Settings > Applic
 
 Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 Ways to Fix Android Blue Screen of Death On Vivo Y100t
 
 Android is undoubtedly amongst the best smartphone platforms but comes with its own share of glitches. The Android screen of death is observed by many users all over the world who complain of their device screen turning blue rendering their phone/tablet unresponsive. This is called the Android blue screen of death and it usually occurs when you turn on your device by pressing the Power On button but your device does not boot up normally and remains stuck at a plain blue screen without any error message.
@@ -62,8 +55,6 @@ Read on to learn more about the Android screen of death and ways to combat it.
 ## Part 1: How to rescue data on Vivo Y100t with blue screen of death?
 
 The Android blue screen of death issue is not a difficult problem to deal with and can be fixed by you by following the easy steps given in this article. We suggest that all readers rescue the data stored on their Android devices to prevent data loss and keep it stored in your PC from where it can be accessed and recovered by you anytime, anywhere. This task might sound tedious, but, we have for you [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html), a software specially designed to retrieve data from broken and damaged Vivo Y100t phones and tabs, especially Vivo Y100t devices, and keep it safe in your PC without tampering with it or altering its format. It efficiently extracts data from broken or unresponsive Vivo Y100t devices, phones/tabs stuck at black/blue screen, or whose system crashed due to a virus attack.
-
-
 
 ### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html)
 
@@ -82,10 +73,11 @@ Follow the steps given below to extract data when you experience an Android scre
 
 2\. Once you launch the software, you will see many tabs before you. Click on "Data Recovery" > "Android".
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![android blue screen of death-data extraction](https://images.wondershare.com/drfone/guide/drfone-data-recovery-android-2.png "data extraction")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. And then choose "Recover from Broken Phone" from the program's screen.
 
@@ -93,9 +85,6 @@ Follow the steps given below to extract data when you experience an Android scre
 
 4\. In this step, choose from the two options before you the true nature of your device as shown in the screenshot below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android blue screen of death-select fault type](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png "select fault type")
 
 5\. You will now be asked to feed in your phone’s model type and name as shown in the screenshot below. Give correct details for the software to identify your device smoothly and hit “Next”.
@@ -104,9 +93,6 @@ Follow the steps given below to extract data when you experience an Android scre
 
 6\. In this step, refer to the instructions in your device manual to enter into Download Mode on your Vivo Y100t and hit “Next”. An example of what to do to reach Download Mode is shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android blue screen of death-boot in download mode](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png "boot in download mode")
 
 7\. Finally, let the software recognize your Vivo Y100t, and start to download the recovery package for your device.
@@ -121,20 +107,12 @@ The process may take up to a few minutes and once it's done all your files will 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Part 2: One click to fix the Android blue screen of death
 
 We understand how annoying it is to see the Android blue screen of death and fail to access your device data. But, with [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), your troubles would burst away.
 
 This software effectively fixes Android screen of death issue along with app crashing, bricked or unresponsive device, stuck on Vivo Y100t logo, etc. All Android issues are well taken care of by Dr.Fone - System Repair (Android) with one click.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Easy and effective solution to fix the **Android blue screen of death**！
@@ -157,9 +135,6 @@ Step 1: Installation and running Dr.Fone - System Repair (Android) on your syste
 
 Step 2: Press the ‘Android Repair’ option before tapping the ‘Start’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![start to fix Android blue screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Over the Vivo Y100t device information window, select all relevant data about your device followed by the ‘Next’ button.
@@ -172,10 +147,11 @@ Step 1: Get the Vivo Y100t device in ‘Download’ mode to fix the **Android bl
 
 - On a ‘Home’ button-less device – you need to switch off the Vivo Y100t device. Now, hold the ‘Volume Down’, ‘Power’, and ‘Bixby’ keys together for about 10 seconds and release. Hit the ‘Volume Up’ key to get into ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - On a ‘Home’ button device – shut down the Android phone/tablet, and then push the ‘Power’, ‘Volume Down’, and ‘Home’ keys for 10 seconds. Let go of the keys and press the ‘Volume Up’ key to enter ‘Download’ mode.
 
@@ -183,15 +159,11 @@ Step 1: Get the Vivo Y100t device in ‘Download’ mode to fix the **Android bl
 
 Step 2: Tap the ‘Next’ button to download firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![download firmware to fix android without home key](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Dr.Fone - System Repair (Android) would verify the firmware post-download. It will start repairing the Android system automatically.
 
@@ -200,17 +172,15 @@ Step 3: Dr.Fone - System Repair (Android) would verify the firmware post-downloa
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Force Restart Your Vivo Y100t
 
 A force restart is a basic step that can clear minor software glitches. It has the potential to resolve the Android blue screen of death issue. Force restarting your device can clear temporary bugs and reset all processes. It is a simple yet often overlooked way to fix the Android blue screen of death issue. Use the following steps to force restart your Vivo Y100t:
 
 **Step:** On your Vivo Y100t, press and hold the "Power" and "Volume Down" keys for around 10 seconds. Release the keys when your device reboots and wait for it to complete rebooting.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![force restart android phone](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-1.jpg)
 
 ## Part 4: Remove phone battery to fix blue screen of death
@@ -219,9 +189,6 @@ The best home remedy to fix any kind of Android screen of death remove the Vivo 
 
 1\. Open the back cover of your Vivo Y100t and carefully remove its battery.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android blue screen of death-remove the battery](https://images.wondershare.com/drfone/article/2017/07/14997039368225.jpeg "remove the battery")
 
 2\. Let the battery be out for 5-7 minutes. Meanwhile, long press the power button to drain out any residual charge from your device.
@@ -242,20 +209,18 @@ If you're facing the Android blue screen of death issue, the issue might be rela
 
 ![clean or change the lcd connector](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: Update to the latest Android version
 
 Software problems can manifest the Android equivalent of a blue screen of death. It is usually triggered by errors or anomalies within the operating system. To address these concerns, upgrading to the most recent version of the Android OS proves effective. However, updating your device's software could introduce fresh glitches or compatibility conflicts. These steps outline the process of updating your device to the latest OS:
 
 **Step:** Open the Settings app on your Vivo Y100t by locating and launching it. Proceed by scrolling through the options and selecting "Software Update." In the ensuing screen, choose "Download and Install" to start a search for any available updates.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![update the android os ](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Part 8: How to fix the Android blue screen of death by factory reset?
 
 The Android screen of death is a very confusing issue as it freezes your device at a blue screen with no options to navigate further. In such a situation you may consider performing a Factory Reset, better known as Hard Reset as you will need to enter Recovery Mode to implement this technique. Although resting your device will wipe off all its data but you don't need to worry as Dr.Fone toolkit Android Data Extraction software can retrieve all your files and keep them safe.
@@ -264,21 +229,19 @@ Accessing Recovery Mode differs for different Android devices. Thus, we suggest 
 
 Once you are on the Recovery Screen, you will see a list of options before you, similar to the screenshot below.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android blue screen of death-recovery mode](https://images.wondershare.com/drfone/article/2017/07/14997039685502.jpg "recovery mode")
 
 Use the Volume Down button to scroll downwards and reach the "Wipe data/Factory reset" option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![android blue screen of death-wipe data factory reset](https://images.wondershare.com/drfone/article/2017/07/14997040167334.jpg "wipe data factory reset")
 
 Now use the power button to select it and wait for the Vivo Y100t device to reboot automatically.
 
 You will notice that the Android device will turn back on without getting stuck at the **Android blue screen of death**. Now you can set up your device from scratch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 9: What Should You Do if Android Still Stuck on Blue Screen?
 
@@ -286,14 +249,8 @@ Have you tried all the methods, and your Vivo Y100t is still stuck on the blue s
 
 The Android screen of death, especially the **Android blue screen of death**, is not a very pleasant sight and could worry you. The good news is that this problem can be fixed by you sitting at home without any technical assistance. Follow the simple and easy tips given above to reboot your device and use the Dr.Fone - Data Recovery (Damaged Device) tool to rescue your data in the most efficient and effective way, then use Dr.Fone - System Repair (Android) to repair your Vivo Y100t.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y100t
 
 Have you recently noticed a message stating “Contacts has stopped”? This is enough to take away all your peace. As, our native contacts app stashes all our useful contacts which are time and again needed by a user. It’s malfunctioning is enough to give us chills. But, why the Vivo Y100t or any other Android device incurs such problems?
@@ -303,8 +260,6 @@ It can occur while you launch the app or while you’re in the app already findi
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -324,9 +279,6 @@ Step 1: Load program and draw connection of device
 
 Download Dr.Fone - System Repair (Android) on PC. While program installs, use USB cable to connect device with system. From interface, tap on “System Repair” main window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - download the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Opt for Android Repair option
@@ -345,9 +297,6 @@ Step 4: Download Firmware package
 
 Just follow the on-screen steps for booting your Vivo Y100t into download mode. Then, hit the “Next” button to proceed with downloading the most suitable firmware package for your Vivo Y100t.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 5: Repair Android phone
@@ -365,9 +314,6 @@ Our response to any minuscule issue is straightaway restarting phone. This helps
 1. Get hold of your Android system and long press the power button.
 2. This will fadeout the main screen and showcase several options from where you’ve to tap on “Reboot/Restart” mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![contacts app stopping - retart android](https://images.wondershare.com/drfone/article/2019/04/restart-reboot-android-phone.jpg)
 
 Now, your device will quickly reboot the Vivo Y100t device. Once, the Vivo Y100t device regains its normal state, check whether the issue is coming again or not.
@@ -383,9 +329,6 @@ The cache memory basically stashes the copies of the concerned application. It i
 
 ![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Wipe cache partition
 
 As we know the cache memories are the temporary files build by the firmware. These are of little importance as they are bound to become a bit more corrupted in nature. And sometimes, may indirectly become a hurdle for the working of contacts app. It is good if the Vivo Y100t device is cleared off from the caches. Instead of manually wiping down the cache memory, we will understand how to clear off the cache partition in the following steps.
@@ -396,16 +339,10 @@ As we know the cache memories are the temporary files build by the firmware. The
 4. Over the options available, just opt for “wipe cache partition” by tapping the “Volume down” button until the desired option is highlighted.
 5. Finally, push the “Power” key to give consent to the selection.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
 
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the Vivo Y100t device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### 2.4 Disable Google+ app
 
 The root cause for detecting any problem is not very easy. You never know the overloading of Google + application might have directly impacted contacts app crashes. To resolve it, disabling it may prove to be a helpful solution. Here is the quick reference for disabling Google+ application.
@@ -428,12 +365,17 @@ Many a times, we skip updating our device software thinking it is of less import
 1. First and foremost, head on to “Settings” menu. Over there, click on “About Device”.
 2. There, you need to tap over “Software Update”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.6 Reset App Preferences
 
@@ -443,15 +385,8 @@ As stated, the malfunctioning of contacts can be due to be any unexpected reason
 - Just, tap over the three dots appearing at the upper right section and then tap on “Reset app preferences”.
 - At last, just select “Reset default apps”.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### 2.7 Delete voicemail
 
 Do you happen to exchange voicemails quite often? It can trigger to be the reason for contact app crashes. If your device happens to have a bulk of voicemails, you must get rid of them sooner or later. As, these might standout to be the prime reason for contacts stopping on Vivo Y100t. If you’re unaware about the procedure of removing all kinds of voicemails, you can proceed to make use of the following steps.
@@ -473,9 +408,6 @@ Now, check whether you’ve fought the battle with the problem or not.
 
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.9 Reset to Factory Settings
 
 Last but not least, if all the methods falls flat to resolve the issue of contacts app won’t open. Then, it might be your device has some internal problem. This can be any software crash which might not be fixing with the aforementioned steps. That is where reset to factory settings may prove to be a good option. With this method, your phone will be cleared of all the components, settings and everything present in it. Here are is the comprehensive tutorial for biding bye to the problem of contacts app won’t open.
@@ -488,6 +420,9 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -501,7 +436,17 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-uploading-and-showcasing-videos-on-instagram-made-easy/"><u>[New] 2024 Approved Uploading and Showcasing Videos on Instagram Made Easy</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-expert-review-of-the-leading-no-cost-cam-software-options/"><u>[New] Expert Review of the Leading No-Cost Cam Software Options</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-edge-40-neo-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola Edge 40 Neo Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-cross-platform-hulu-playback-mastery-a-how-to-guide/"><u>2024 Approved Cross-Platform Hulu Playback Mastery - A How-To Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-a15-5g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-anywhere-learn-everywhere-top-3-multilingual-centers/"><u>Speak Anywhere, Learn Everywhere: Top 3 Multilingual Centers</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-modifying-h265-hevc-videos-on-windows-windows-10-and-11/"><u>Step-by-Step Guide to Modifying H.265 HEVC Videos on Windows (Windows 10 & 11)</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-13c-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi 13C 5G Screen | Dr.fone</u></a></li>
+</ul></div>
 

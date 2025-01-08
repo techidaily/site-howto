@@ -1,7 +1,7 @@
 ---
 title: "Reaching Mach-One: Discovering the Secrets Behind a Canned Air Jet's Hypersonic Flight"
-date: 2024-10-22T18:43:15.497Z
-updated: 2024-10-28T18:43:49.461Z
+date: 2025-01-02T08:50:17.922Z
+updated: 2025-01-07T18:42:25.744Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,10 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  YouTuber RECNAS also has a minute-long YouTube video that highlights his Super Socket 7 motherboard and, subsequently, an AGP-to-PCI networking adapter. Since RECNAS wanted to repurpose this roughly late 90s-era Super Socket 7 motherboard as a[NAS](https://www.tomshardware.com/tag/nas) , he didn't want to be relegated to the slower, shared PCI bandwidth on the board.
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -60,22 +64,20 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-changing-voices-in-instagram-features/"><u>[New] Step-by-Step Guide Changing Voices in Instagram Features</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-building-your-asmr-empire-key-concepts-and-best-practices/"><u>[Updated] 2024 Approved Building Your ASMR Empire Key Concepts and Best Practices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gain-free-photo-footage-via-essential-4-youtube-picks-for-2024/"><u>[Updated] Gain Free Photo Footage via Essential 4 YouTube Picks for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversao-livre-e-on-line-de-vob-para-mp3-com-a-ferramenta-on-line-do-movavi/"><u>Conversão Livre E On-Line De Vob Para MP3 Com a Ferramenta On-Line Do Movavi</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/futures-finest-gaming-the-ultimate-list-of-new-psvr-titles/"><u>Future's Finest Gaming The Ultimate List of New PSVR Titles</u></a></li>
-<li><a href="https://blog-min.techidaily.com/preserve-quality-while-spinning-mp4-videos-tips-for-a-perfect-90180270-degree-turn/"><u>Preserve Quality While Spinning MP4 Videos: Tips for a Perfect 90/180/270 Degree Turn</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-your-media-workflow-a-complete-srt-to-other-file-format-handbook/"><u>[New] Streamline Your Media Workflow A Complete SRT-to-Other File Format Handbook</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-expert-moves-for-sharing-youtube-and-twitter-on-whatsapp-platform/"><u>[Updated] 2024 Approved Expert Moves for Sharing YouTube and Twitter on WhatsApp Platform</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-techcapture-pro-a-comprehensive-2023-study/"><u>[Updated] In 2024, TechCapture Pro A Comprehensive 2023 Study</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-nokia-c210-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Nokia C210 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-vdsm-video-recorder-prospectus-detailed-study/"><u>In 2024, VDSM Video Recorder Prospectus Detailed Study</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/luminous-upgrades-5-must-try-online-video-tools-for-2024/"><u>Luminous Upgrades 5 Must-Try Online Video Tools for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/new-innovations-in-songbookdb-a-revolutionary-karaoke-song-selection-platform/"><u>New Innovations in SongbookDB: A Revolutionary Karaoke Song Selection Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-your-mobile-experience-mastering-the-quick-settings-on-android-devices/"><u>Simplify Your Mobile Experience: Mastering the Quick Settings on Android Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10c-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10C Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-10-effect-enhancing-fcp-plug-ins-for-2024/"><u>Top 10 Effect-Enhancing FCP Plug-Ins for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-14-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi 14 Pro? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-90-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor 90 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

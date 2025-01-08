@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy S23 Tactical Edition Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-12-26T00:01:10.983Z
-updated: 2024-12-28T22:43:12.320Z
+date: 2025-01-02T16:36:09.913Z
+updated: 2025-01-08T09:02:50.733Z
 tags: 
   - problems
 categories:
@@ -48,6 +48,10 @@ One of the first things to do any time an app or your phone or tablet does not w
 
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
 
 ### II.II: Close And Relaunch The Camera App
@@ -87,7 +91,7 @@ Step 2: Tap Clear Cache.
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### II.V: Clear The Photo Gallery App Cache
@@ -111,10 +115,6 @@ Step 1: Go to Play Store and tap your profile picture on the right.
 Step 2: Tap Manage Apps and Device.
 
 ![check for app updates play store](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: If there are updates available, Tap Update All to update all apps.
 
@@ -152,10 +152,6 @@ Step 3: For now, don’t bother with the scenarios given and click Start to go t
 
 ![drfone system repair android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Your Android device will be detected by Dr.Fone. If anything seems incorrect, use the dropdown options to change it, and click Next.
 
 ![android system repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -182,11 +178,19 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ways to Unbrick Your Android Device: Various Ways for Recovery
 
 When your Samsung Galaxy S23 Tactical Edition becomes unresponsive or frozen after mistakenly flashing a ROM or rooting, you are informed that the phone has been bricked. The most terrifying aspect will not just be gadget loss, but also data erasure. However, what exactly is a bricked phone, and, more importantly, how do you fix a bricked Android phone?
 
 This article will explain what a **bricked android phone** is, why an Android phone becomes bricked, how to unbrick an Android phone without losing data and a third-party application you can use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Causes of Bricked Phones
 
@@ -214,7 +218,7 @@ To repair bricked Android phones and tablets, you must first thoroughly examine 
 Here are some simple methods for repairing bricked Android devices:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1. Reboot the Phone in Safe Mode
@@ -224,10 +228,6 @@ Trying to reboot your android device in safe mode is the first and easiest thing
 - **Step 1:** Turn off your smartphone and press the **Volume Up** + **Power** button to enter recovery mode. Then, using the volume controls, navigate the menu and select Reboot system now.
 
 ![android safe mode](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2:** Select the highlighted option by pressing the **Power button**. After that, wait for your device to reset normally.
 - **Note:** The steps for booting into recovery mode may change based on the manufacturer of your device. For further information, go to the user manual for your phone or tablet.
@@ -243,11 +243,11 @@ This issue, however, may be resolved by wiping the data and cache partitions in 
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Finally, on your smartphone, choose the Reboot system immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3. Perform a Factory Reset
 
@@ -293,7 +293,7 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. How to Prevent Bricking Your Phone
@@ -344,6 +344,10 @@ The reasons why your Android is not receiving texts are given below:
 
 Apart from all these reasons, some additional causes are also there that can lead to this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: One-click to Fix Android not Receiving Texts by Android System Repair
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/06HDyPDOBqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
@@ -390,6 +394,10 @@ Another simple method that you can try if you are not receiving text messages on
 
 ![android not receiving texts - check connection](https://images.wondershare.com/drfone/article/2019/02/no-internet-connection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Consult your Carrier about the Data Plan
 
 Maybe you are unable to get messages on your Samsung Galaxy S23 Tactical Editions because your existing data plan has expired. You can directly contact your Carrier about the issues where your Samsung Galaxy S23 Tactical Edition is not receiving texts. If your plan has expired, then you might have to renew it immediately. If not, then try out other fixes to resolve this issue.
@@ -432,10 +440,6 @@ _Further Reading: [15 Best Free Chat Apps in 2022. Chat Now!](https://drfone.won
 
 Another possible fix to this problem might be your phone’s battery percentage. Sometimes, when the Android is in power saving mode, it disables the default apps too. As a result, you can't even receive text messages on Android. So, when you plug in the charger, the power saving mode will be disabled, and you will get your text messages.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 10: Ensure It’s Not An iMessage From iPhone
 
 If the Samsung Galaxy S23 Tactical Edition phone is not receiving texts from iPhone, then this might be a different issue. Usually, there is an option on the iPhone where they can send texts as iMessage and simple messages. If the iPhone user sends the text as iMessage, then it will not show up on the Android device. To resolve this, you have to follow the steps below:
@@ -445,14 +449,10 @@ Taking the iPhone in hand makes sure that you are connected to a network. Open s
 ![android not receiving texts - check iphone message](https://images.wondershare.com/drfone/article/2019/02/deactivate-imessages.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the FaceTime option is also on, you might have to deactivate that too to send messages and calls as regular ones.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 11: [Update Your Android](https://drfone.wondershare.com/android-update/samsung-update.html)
 
@@ -476,18 +476,22 @@ Now you know several methods that can work if the Android messaging app is not w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-leading-the-way-in-video-production-comprerant-free-youtube-intro-makers/"><u>[New] In 2024, Leading the Way in Video Production Compreran't Free YouTube Intro Makers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-bypassing-barriers-privately-share-youtube-video-via-google/"><u>[Updated] 2024 Approved Bypassing Barriers Privately Share YouTube Video via Google</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expert-tips-for-crafting-intricate-photo-mosaics/"><u>[Updated] 2024 Approved Expert Tips for Crafting Intricate Photo Mosaics</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oneplus-11-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General OnePlus 11 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-magic5-ultimate-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor Magic5 Ultimate to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-y100-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo Y100 5G FRP</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/preventing-post-graduation-fatigue-key-strategies-for-new-grads-insights-from-zdnet/"><u>Preventing Post-Graduation Fatigue: Key Strategies for New Grads - Insights From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-itel-p55-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Itel P55 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-z-fold-5-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy Z Fold 5 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-xcover-7-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy XCover 7? Here is How | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-infinix-note-30-vip-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Infinix Note 30 VIP Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-edition-expert-advice-on-creating-compelling-video-edits-for-2024/"><u>Youtube Edition Expert Advice on Creating Compelling Video Edits for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-2024s-best-bargains-in-the-world-of-cloud-storage/"><u>[New] 2024'S Best Bargains in the World of Cloud Storage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-creativity-with-a-diy-guide-to-haul-edits/"><u>[New] Unleash Creativity with a DIY Guide to Haul Edits</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-blurring-the-line-secure-video-content-with-smoother-images-for-2024/"><u>[Updated] Blurring the Line Secure Video Content with Smoother Images for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-asus-rog-phone-8-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Asus ROG Phone 8</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-chrome-tools-for-advanced-ai-interactions/"><u>7 Chrome Tools for Advanced AI Interactions</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-c12-plus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia C12 Plus Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-magic-6-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor Magic 6 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-create-video-ads-for-free-in-youtube-video-builder/"><u>How to Create Video Ads for Free in YouTube Video Builder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-oculus-rift-with-windows-pc-virtual-reality/"><u>Integrating Oculus Rift with Windows PC Virtual Reality</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-10-free-video-rotation-and-flip-software-for-perfect-orientation/"><u>New Top 10 Free Video Rotation and Flip Software for Perfect Orientation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-creating-compact-discs-and-digital-versatile-disks-in-windows-10/"><u>Step-by-Step Guide: Creating Compact Discs and Digital Versatile Disks in Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-z-fold-5-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy Z Fold 5? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-13-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 13 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

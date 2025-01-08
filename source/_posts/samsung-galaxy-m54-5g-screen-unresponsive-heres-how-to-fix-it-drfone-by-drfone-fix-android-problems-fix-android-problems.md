@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy M54 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-12-27T21:01:58.881Z
-updated: 2024-12-29T06:30:22.589Z
+date: 2025-01-01T19:24:22.951Z
+updated: 2025-01-08T07:25:52.773Z
 tags: 
   - problems
 categories:
@@ -42,10 +42,6 @@ Restarting the phone is typically the initial solution that comes to mind when w
 
 It is the most commonly used method to fix Samsung Galaxy M54 5G's touch screen and power button issues, such as unresponsiveness. By restarting the Samsung Galaxy M54 5G device, background processes are disabled, and memory is freed up, allowing programs to run smoothly and potentially resolve the problem. To restart a Samsung Galaxy M54 5G device, press the Power and Volume Up buttons simultaneously, and release the Power button once the Samsung Galaxy M54 5Glogo appears.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2. Leave The Phone And Let The Battery Drain Completely
 
 ![low battery](https://images.wondershare.com/drfone/article/2023/03/drain-your-phone-battery.jpg)
@@ -59,10 +55,6 @@ Sometimes, the tablet screen may become unresponsive due to a software issue pre
 If restarting the Samsung Galaxy M54 5G device or allowing the battery to drain doesn't resolve the issue, seeking professional assistance is recommended. The manufacturer may provide additional troubleshooting steps or recommend sending the Samsung Galaxy M54 5G device in for repair or replacement. It's important to check the warranty before contacting customer service, which may affect repair or replacement options.
 
 In addition to the common solutions we discussed earlier, some model-specific solutions can help resolve the screen unresponsiveness issue on Samsung Galaxy M54 5G Y2 and Samsung Galaxy M54 5G 5A.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4. Optimize Device Performance
 
@@ -105,19 +97,11 @@ Here's how to fix repair screen unresponsiveness or any software-related issues 
 
 ![dr fone repair on xiaomi devices](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Avoid A Samsung Galaxy M54 5G Screen Unresponsive?
 
 To avoid facing a Samsung Galaxy M54 5G screen unresponsive issue, users can take several preventative measures. One important step is to update the Samsung Galaxy M54 5G phone regularly to ensure the software is up to date and all bugs and glitches are fixed. Users can also use tools like Dr. Fone to regularly manage and repair data, including clearing cache and removing unwanted apps. It is also important to use quality charging cables and avoid exposing the Samsung Galaxy M54 5G device to extreme temperatures or humidity, which can damage the internal components and potentially cause screen unresponsiveness. Finally, users can avoid dropping or mishandling the Samsung Galaxy M54 5G device, leading to physical damage and causing the screen to become unresponsive. Users can help prevent screen unresponsiveness by taking these steps and ensuring their Samsung Galaxy M54 5G device runs smoothly and reliably.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -131,7 +115,15 @@ Smartphones nowadays contribute to our daily workflow, whether you’re a studen
 
 ![fix unresponsive android/ios touchscreen intro](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you are facing a similar issue, this page has all the solutions to teach you **what to do if your phone screen is not working.** By exploring the different methods below, you will be able to know how to fix a frozen phone touch screen as an Android user. Read on for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Top Causes of an Unresponsive Touchscreen
 
@@ -166,7 +158,7 @@ It may not respond properly when an Android device is dirty due to water, sweat,
 Here is a list of things you should do **how to fix a frozen phone touch screen,** whether you’re using an iPhone or an Android smartphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Clean Your Smartphone
@@ -174,10 +166,6 @@ Here is a list of things you should do **how to fix a frozen phone touch screen,
 Your **screen touch not working** can sometimes get fixed by simply cleaning the screen on your smartphone. Use a soft dry cloth, gently clean your iPhone or Android device, and ensure water, oils, dirt, or other debris are no longer on your display. If you recently dropped your device in water, turn it off and leave it untouched for the next few hours.
 
 ![cleaning iphone with cloth](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Remove Extra Peripherals
 
@@ -213,6 +201,14 @@ Your smartphone may behave erratically due to software bugs. While these are out
 - For Android owners, go to **Settings > Software Update.** Tap the **Check for software updates**to see if a new update is available.
 
 ![ios software update](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Perform a Factory Reset
 
@@ -301,6 +297,10 @@ In this step-by-step guide below, you can fix your **unresponsive phone screen**
 
 ![dr.fone fix unresponsive touchscreen 01](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2A (For iOS)**: Choose the correct model of your iPhone to download the appropriate firmware package.
 
 **Step 2B (For Android)**: Choose the correct **Brand, Name, Model, Country,** as well as **Carrier**, then click **Next**.
@@ -359,6 +359,10 @@ First and foremost, the thing that can let you get rid of this trouble is Safe M
 3. Release the button and immediately press and hold the "Volume Down" key.
 4. Leave the key once the Samsung Galaxy M54 5G device is in Safe mode. Now, the third-party apps will be disabled and you can check if the Phone app is still not responding or everything is fine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.2 Clear the cache of the Phone app
 
 The cache should be cleaned timely if you want any app to work properly. Due to the constant usage, the temporary files get collected and may corrupt if not cleared. Hence, the next solution you should try when the Phone app keeps stopping is to clear the cache. Here are the steps to be performed.
@@ -368,6 +372,10 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 3. Now, click on "Storage" and choose "Clear Cache".
 
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.3 Update Google Play services
 
@@ -397,7 +405,7 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 ![Phone app crashing - cache partition clearance](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.6 Get the Samsung Galaxy M54 5G system repaired in one click
@@ -438,10 +446,6 @@ As the next step, enter some important details on the next screen. Be sure to en
 
 ![Phone app crashing - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4: Downloading Firmware**
 
 Downloading firmware will be the next step. Prior to this, you have to go through the instructions given onscreen to enter the DFU mode. Please click on "Next" and the program will bring the suitable firmware version and start downloading it.
@@ -454,14 +458,10 @@ When you see the firmware has been downloaded, the issue will begin to get resol
 
 ![Phone app crashing - device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.7 Factory reset
@@ -490,20 +490,20 @@ If none of the above methods worked for you, the last resort you are left with i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-ultimate-vr-tools-compilation-10-essentials/"><u>[Updated] 2024 Approved The Ultimate VR Tools Compilation (10 Essentials)</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/comment-reparer-facilement-le-plantage-blue-screen-error-0xc000021a-sur-windows-10/"><u>Comment Réparer Facilement Le Plantage Blue Screen Error 0Xc000021A Sur Windows 10</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone SE</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pop-7-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pop 7 Pro Phone without PIN</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014947595-solve-your-pubg-voice-call-issues-with-these-simple-steps/"><u>Solve Your PUBG Voice Call Issues with These Simple Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-8-best-pomodoro-timers-for-windows/"><u>The 8 Best Pomodoro Timers for Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-fast-video-trimming-in-windows-11-apps/"><u>Unlock Fast Video Trimming in Windows 11 Apps</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-becoming-the-next-star-how-to-utilize-voice-changer-plus-app-for-iphones-effectively-for-2024/"><u>Updated Becoming the Next Star How to Utilize Voice Changer Plus App for iPhones Effectively for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728481195820-windows-10/"><u>ディスクイメージの復元手順: Windows 10環境下で最適な方法</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-revel-in-every-box-with-these-strategies/"><u>[Updated] 2024 Approved Revel in Every Box with These Strategies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-strategies-for-seamless-iphone-photos-sorting-and-icloud-backup-management/"><u>[Updated] In 2024, Strategies for Seamless iPhone Photos Sorting & iCloud Backup Management</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-adept-adjustments-mastering-the-chromatic-dance/"><u>2024 Approved Adept Adjustments Mastering the Chromatic Dance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-method-for-iptv-screen-recordings/"><u>2024 Approved The Ultimate Method for IPTV Screen Recordings</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-14-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/from-novice-to-expert-elevating-screencapture-skills/"><u>From Novice to Expert Elevating ScreenCapture Skills</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-add-music-to-instagram-reels-in-2024/"><u>How to Add Music to Instagram Reels, In 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/persistent-problems-with-your-graphic-cards-driver-heres-what-you-need-to-know-according-to-yl-tech-experts/"><u>Persistent Problems with Your Graphic Card's Driver? Here’s What You Need to Know According to YL Tech Experts</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-to-recovering-lost-data-from-a-resilient-file-system-refs/"><u>Step-by-Step Guide to Recovering Lost Data From a Resilient File System (ReFS)</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-find-n3-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo Find N3 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-tecno-pova-5-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Tecno Pova 5 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-infinix-hot-40-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Infinix Hot 40 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

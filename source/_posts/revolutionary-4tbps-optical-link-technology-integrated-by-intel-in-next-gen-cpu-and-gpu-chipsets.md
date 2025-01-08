@@ -1,7 +1,7 @@
 ---
 title: Revolutionary 4TBPS Optical Link Technology Integrated by Intel in Next-Gen CPU and GPU Chipsets
-date: 2024-12-01T18:54:07.109Z
-updated: 2024-12-08T18:28:17.309Z
+date: 2025-01-05T05:42:24.350Z
+updated: 2025-01-08T08:39:25.363Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,18 +62,22 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-tickler-toolkit-image-mashup/"><u>[New] Tickler Toolkit Image Mashup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-online-photo-editing-tools-to-unblur-photos-effectively/"><u>[New] Top 10 Online Photo Editing Tools to Unblur Photos Effectively</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-create-an-awesome-valorant-thumbnail-for-youtube-videos/"><u>[Updated] 2024 Approved How To Create an Awesome Valorant Thumbnail for YouTube Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigating-youtube-success-through-strategic-studio-use/"><u>[Updated] In 2024, Navigating YouTube Success Through Strategic Studio Use</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-smart-8-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Smart 8 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-narzo-60-pro-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme Narzo 60 Pro 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-brio-webcam-driver-installation-guide-for-windows-versions-11-and-below/"><u>Latest Logitech Brio Webcam Driver Installation Guide for Windows Versions 11 and Below</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-best-budget-friendly-high-fidelity-webm-players/"><u>The Best Budget-Friendly, High-Fidelity WebM Players</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-lava-blaze-2-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Lava Blaze 2 Pro Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-i-prefer-classic-over-modern-gaming-insights-into-my-choice/"><u>Why I Prefer Classic Over Modern Gaming – Insights Into My Choice</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-vivo-y77t-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y77t Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-content-summit/"><u>[New] 2024 Approved Cutting-Edge Content Summit</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/anguard-maker-guild-sights-sonics-and-memories-for-2024/"><u>[New] Vanguard Maker Guild Sights, Sonics & Memories for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-dream-of-flight-check-out-these-top-kid-friendly-drones/"><u>[Updated] In 2024, Dream of Flight? Check Out These Top Kid-Friendly Drones</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ogg-webm-movavi/"><u>移動到網路免費 OGG 轉 WEBM：使用 Movavi 轉編解碼器</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-gamer-panasonic-hc-v770/"><u>Budget Gamer: Panasonic HC-V770</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-nubia-red-magic-8s-proplus-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nubia Red Magic 8S Pro+ Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-gpt-for-emotional-support-and-connection/"><u>Harnessing GPT for Emotional Support and Connection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pcie-gen-asterisk-6-standard-finalized-preparing-for-comprehensive-launch/"><u>PCIe Gen Asterisk) 6 Standard Finalized: Preparing for Comprehensive Launch</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-path-to-professional-presence-youtube-tips-and-tricks-for-2024/"><u>The Path to Professional Presence YouTube Tips & Tricks for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-topmate-c32-an-unbeatable-combination-of-affordability-and-excellence-in-laptop-cooling-solutions/"><u>The TopMate C3ˈ2 - An Unbeatable Combination of Affordability and Excellence in Laptop Cooling Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-pova-6-pro-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Pova 6 Pro 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nokia C210 | Dr.fone</u></a></li>
 </ul></div>
 

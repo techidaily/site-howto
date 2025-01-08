@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor X9a ? Fix It Easily | Dr.fone
-date: 2024-12-28T12:37:29.387Z
-updated: 2024-12-29T09:37:07.892Z
+date: 2025-01-03T17:42:42.134Z
+updated: 2025-01-07T17:58:59.403Z
 tags: 
   - problems
 categories:
@@ -101,14 +101,6 @@ You'll be notified when the operation is complete and when you're able to discon
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
 If, however, your device is stuck on system recovery mode, here's how you can easily get it out of system recovery. The process is slightly different for different Android devices, so you should check your device's manual before attempting this process.
@@ -124,6 +116,10 @@ Step 4: Press the Volume down key to select the "Wipe Data/ Factory Reset option
 Step 5: Next, you need to press the Volume down button to highlight "Delete All User Data" and then press the Power button to select it. The device will reset and present the "Reboot System Now" option.
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Backup and Restore Android System
 
@@ -146,10 +142,6 @@ Step 2: Press "Restore" to begin the recovery process from the Backup file we cr
 Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Does My Honor X9a Keep Turning Off By Itself? 6 Fixes Are Here
 
@@ -221,6 +213,10 @@ Step 1: On your computer, install and launch Dr.Fone. Now, click the ‘System R
 
 ![fix phone keeps turning off](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Here, you need to press the ‘Start’ button right after hitting the ‘Android’.
 
 ![choose repair to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -237,6 +233,10 @@ For a device with the ‘Home’ button – Turn off the mobile and then hold do
 
 ![fix phone keeps turning off with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For a device lacking ‘Home’ button – After switching off the Android mobile, hold down ‘Bixby’, ‘Power’, ‘Volume Down’ key still 10 seconds. Now, un-hold them and tap the ‘Volume Up’ button to enter the ‘Download’ mode.
 
 ![fix phone keeps turning off with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
@@ -250,7 +250,7 @@ Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once dow
 ![fixed phone keeps turning off with the repair program](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -273,10 +273,6 @@ To prevent the phone from turning off due to overheating, you can take various m
 
 ![cool down the phone](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: Narrow down the randomly turning off issue in Safe Mode
 
 Starting your phone in Safe Mode is a good way to narrow down whether or not the problem is occurring because of some heavy and incompatible Apps as Safe Mode allows only built-in Apps to function. If you can use your phone in Safe Mode, consider deleting the unnecessary Apps which may be burdening the phone’s processor.
@@ -287,10 +283,6 @@ Long press the power button to see the following options on the screen.
 
 ![device options](https://images.wondershare.com/drfone/article/2017/07/14994529157169.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now tap on “Power Off” for about 10 seconds and click “OK” on the message that pops-up as shown below.
 
 ![safe mode](https://images.wondershare.com/drfone/article/2017/07/14994529389258.jpg)
@@ -299,11 +291,11 @@ Once done, the phone will reboot and you will see “Safe Mode” on the main sc
 
 ![safe mode](https://images.wondershare.com/drfone/article/2017/07/14994529591962.jpg)
 
-That's all. Well, booting to Safe Mode is easy and it also helps you to identify the real problem.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+That's all. Well, booting to Safe Mode is easy and it also helps you to identify the real problem.
 
 ## Part 7: Back up your data and perform a factory reset
 
@@ -328,13 +320,13 @@ Once you have the main screen of the software with multiple options that will ap
 
 ![choose “Data Backup & Restore” option](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now connect the Android phone to the PC and make sure that USB debugging is turned on. Then hit “Back Up Now” and wait for the next screen to open.
 
 ![connect](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You will see the file types that will be backed up. Wait for the backup process to complete.
 
@@ -362,6 +354,10 @@ Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your devi
 
 ![tap on “ERASE EVERYTHING”](https://images.wondershare.com/drfone/article/2017/07/14994532028525.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: Once the factory reset process is complete, your device will automatically restart and you will have to set it up once again. You can restore the backup data on your Honor X9a once you factory reset it, again using the Dr.Fone toolkit.
 
 Now for all those of you who are wondering why does My Honor X9a keeps turning off by itself, please understand that the reasons behind the problem are simple, and so are its fixes. All you need to do is examine the problem carefully and move on to the fixes given in this article. Dr.Fone toolkit Android Data Backup & Restore feature provides an excellent platform for you to store all your data safely on your PC and retrieve it whenever you like so that you can go ahead to solve the error yourself without stressing about data loss.“Why does My Honor X9a keep shutting off?” might be common questions but can be dealt with ease if you follow the methods explained above.
@@ -386,10 +382,6 @@ The issues like YouTube keeps crashing are often get disappeared by just quittin
 
 - You can now restart your device and then launch the app again. Check if this works or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Restart the Android
 
 Similar to the app, if you restart the Honor X9a device, it will start operating properly making the YouTube app work better than before. So, as the next tip, please restart your device.
@@ -403,6 +395,10 @@ Similar to the app, if you restart the Honor X9a device, it will start operating
 
 There is a possibility that YouTube is prohibited in your region. Banning some apps is done for some safety reasons. And therefore, you need to check if this is done in your area or not. If yes, then we shouldn’t mention the reason why YouTube is not working on Android. In such a case, use a VPN to access YouTube.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Clear the Cache of YouTube
 
 When the stored cache files start getting crash, the “Unfortunately YouTube has stopped” sort of errors are likely to appear. And therefore, if the above method didn’t work, try this one to get the problem resolved. We are going to clear the cache of YouTube to make it run smoothly.
@@ -412,6 +408,10 @@ When the stored cache files start getting crash, the “Unfortunately YouTube ha
 - Open “Storage” and click on “Clear Cache”.
 
 ![Youtube not working android - clear cache](https://images.wondershare.com/drfone/article/2019/06/clear-cache-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reinstall YouTube from Play Store
 
@@ -428,6 +428,10 @@ The apps that run on the internet might start crashing due to connectivity issue
 - Look for “Reset Network Settings”.
 
 ![Youtube not responding - reset network settings](https://images.wondershare.com/drfone/article/2019/06/reset-network-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** In some phones, you may find the option in “System” > “Advanced” > “Reset”.
 
@@ -458,10 +462,6 @@ Start with visiting the website on your PC and downloading the Dr.Fone toolkit. 
 With the help of the USB cord, connect your Honor X9a to the computer. Click on “Android Repair” now from the left panel.
 
 ![Youtube not responding - connect device to pc](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Enter Information**
 
@@ -504,16 +504,20 @@ When nothing works, the last resort you can go with is resetting the Honor X9a d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-decoding-instagram-selfies-the-validation-handbook/"><u>[New] 2024 Approved Decoding Instagram Selfies The Validation Handbook</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-secure-your-favorite-igtv-videos-download-strategies-for-pcmac-os-users/"><u>[Updated] 2024 Approved Secure Your Favorite IGTV Videos Download Strategies for PC/Mac OS Users</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-haste-assessment-of-windows-documents/"><u>[Updated] Haste Assessment of Windows Documents</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-integrated-mobility-evaluation-study-for-2024/"><u>[Updated] Integrated Mobility Evaluation Study for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-redmi-13c-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi Redmi 13C 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-secure-insta-wealth-with-our-safest-and-most-effective-tips/"><u>2024 Approved Secure Insta Wealth with Our Safest & Most Effective Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-hogwarts-legacy-initialization-problems-a-step-by-step-guide/"><u>Solving Hogwarts Legacy Initialization Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-5-second-lapses-recorder-top-pick/"><u>[Updated] 2024 Approved Best 5-Second Lapses Recorder - Top Pick</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-from-concept-art-to-cinematic-masterpiece-utilizing-luts-from-cg-central-for-2024/"><u>[Updated] From Concept Art to Cinematic Masterpiece Utilizing Luts From CG Central for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-edge-40-neo-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-guide-to-streaming-discord-conversations-obs-plus-other-options-explored/"><u>A Guide to Streaming Discord Conversations: OBS Plus Other Options Explored</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-honor-play-40c-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor Play 40C Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725288961011-dvdmp4/"><u>DVDプレイヤー用MP4動画を効果的に変換・記録するためのパソコンとスマホのチュートリアル</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-asus-rog-phone-8-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Asus ROG Phone 8 Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-a2-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo A2 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-sound-creation-utilizing-chatgpt-within-your-digital-audio-workstation/"><u>Mastering Sound Creation: Utilizing ChatGPT Within Your Digital Audio Workstation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-lenovos-mouse-pad-problems-on-windows-a-step-by-step-fix-for-11-8-and-7/"><u>Solving Lenovo's Mouse Pad Problems on Windows: A Step-by-Step Fix for 11, 8 & 7</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y78-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y78 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-definitive-guide-effortless-drm-free-audio-downloads/"><u>The Definitive Guide: Effortless DRM-Free Audio Downloads</u></a></li>
 </ul></div>
 

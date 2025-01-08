@@ -1,7 +1,7 @@
 ---
 title: Sony Xperia 1 V Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-12-27T21:49:41.178Z
-updated: 2024-12-29T10:21:40.216Z
+date: 2025-01-05T22:42:38.515Z
+updated: 2025-01-07T18:50:38.953Z
 tags: 
   - problems
 categories:
@@ -75,7 +75,7 @@ Step 2: Tap Camera.
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### II.IV: Clear The Camera App Cache
@@ -108,9 +108,17 @@ Step 1: Go to Play Store and tap your profile picture on the right.
 
 ![google play store app updates](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Tap Manage Apps and Device.
 
 ![check for app updates play store](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: If there are updates available, Tap Update All to update all apps.
 
@@ -152,10 +160,6 @@ Step 4: Your Android device will be detected by Dr.Fone. If anything seems incor
 
 ![android system repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Your phone needs to be put into Download mode before it can be repaired. Follow the instructions shown onscreen and click Next.
 
 ![set phone in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
@@ -168,10 +172,6 @@ Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000)
 
 ![confirm android firmware repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -181,10 +181,6 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ways to Unbrick Your Android Device: Various Ways for Recovery
 
@@ -239,6 +235,10 @@ This issue, however, may be resolved by wiping the data and cache partitions in 
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Finally, on your smartphone, choose the Reboot system immediately.
 
 ### Method 3. Perform a Factory Reset
@@ -250,6 +250,10 @@ A factory reset can undo the alterations made to your device that resulted in th
 - **Step 3:** Select **“Reboot System Now”** to restart your device.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4. Flash a Custom ROM
 
@@ -269,10 +273,6 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 - **Step 1:** Launch [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/phone-switch/) and select **“Data Recovery”** > **“Recover Android Data”** from the menu. Then, select **“****Recover from Broken Phone”**.
 
 ![data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2:** Choose the file types you wish to recover. Click “Next” and then select the type of damage your phone is experiencing. Select **“Touch screen not responsive, or cannot access the phone”** or **“Black/broken screen”.**
 
@@ -305,6 +305,10 @@ Here are some things to remember to prevent your device from bricking:
 It is certainly upsetting when your gadget bricks, but you may attempt the solutions listed above to resolve the issue. Meanwhile, if you want to solve the problem quickly and easily, you can try Wondershare Dr.Fone. It can not only help you repair your Android smartphone, but it can also help you extract data from a bricked device, recover data, and many more Android device solutions!
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8 Ultimate Fixes for Google Play Your Sony Xperia 1 V Isn't Compatible
 
@@ -352,10 +356,6 @@ Force quitting the Google Play Store is a simple yet effective first step in res
 
 ![force stop play store](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Clear Google Play Store Cache
 
 Clearing the cache of the Google Play Store is a targeted solution. It addresses potential compatibility issues arising from corrupted or outdated temporary files. The cache stores data that helps the app load faster. Yet, when these files become corrupted, it can lead to performance issues. Follow these steps to clear the Google Play Store cache and the "**device not compatible Google Play”** issue:
@@ -367,10 +367,6 @@ Clearing the cache of the Google Play Store is a targeted solution. It addresses
 - **Step 2.** Here, press "Storage and Cache," and on the following screen, tap "Clear cache." Confirm your action to wipe the cache data. Afterward, access the targeted app again to check if the issue is resolved.
 
 ![clear play store cache](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Remove the Google Services Framework’s Cache and Data
 
@@ -392,6 +388,10 @@ An outdated operating system is a common factor behind compatibility issues. Thi
 
 ![checking system update](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Uninstall the Google Play Store Updates
 
 In certain cases, issues with the [<u>Google Play Store</u>](https://drfone.wondershare.com/android-stopped/google-play-services-wont-update.html) itself may be contributing to compatibility errors. Uninstalling recent updates can revert the app to its default state. It can potentially resolve the problem. Follow these steps to uninstall updates for the Google Play Store and resolve “**device not compatible Play Store”** issues:
@@ -399,6 +399,10 @@ In certain cases, issues with the [<u>Google Play Store</u>](https://drfone.wond
 - **Step 1.** Using your Sony Xperia 1 V's Settings, access the Google Play Store app in the "Apps" tab. Once on its info page, tap the three dots icon from the top right corner.
 
 ![navigate app settings](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** From the available options, choose "Uninstall updates." Then confirm your decision when prompted to delete the Google Play Store updates.
 
@@ -412,13 +416,13 @@ If all else fails and the compatibility issue persists, sideloading the app can 
 
 ![allow apps to download via chrome](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Afterward, access a reliable, trusted website where the APK for the targeted app is available. Download and install the app to resolve the compatibility issues.
 
 ![try installing apk](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Install a Custom ROM
 
@@ -452,7 +456,7 @@ The System Repair tool in Dr.Fone helps you to resolve this issue in your Androi
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
@@ -482,10 +486,6 @@ The first thing you need to do is to launch Wondershare Dr.Fone on your PC and a
 After that, you need to enter the Sony Xperia 1 V device details like the “Name, Model, Brand, etc.” and put your phone on a Download Mode. Following this step, the firmware will download on its own, and you need to click the “Fix Now” button to install it on your Sony Xperia 1 V.
 
 ![enter device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Step 3: Confirm the Installation and End the Process
 
@@ -517,16 +517,24 @@ For users seeking a comprehensive solution, Wondershare Dr.Fone emerges as a ver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-10-key-tips-to-design-podcast-cover-art/"><u>[Updated] 10 Key Tips to Design Podcast Cover Art</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-embark-on-a-virtual-odyssey-with-your-ios-device/"><u>[Updated] 2024 Approved Embark on a Virtual Odyssey with Your iOS Device</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-archival-artwork-creative-commons-haven-for-2024/"><u>[Updated] Archival Artwork Creative Commons Haven for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-full-potential-of-your-iphone-photos/"><u>2024 Approved Unlock the Full Potential of Your iPhone Photos</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme GT Neo 5 SE? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guilty-gear-strives-release-unveiling-the-delay-mysteries/"><u>Guilty Gear Strive's Release: Unveiling the Delay Mysteries</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Tecno Spark Go (2024)</u></a></li>
-<li><a href="https://win-net.techidaily.com/mastering-flipbook-shadows-a-step-by-step-guide-on-precision-alignment/"><u>Mastering FlipBook Shadows: A Step-by-Step Guide on Precision Alignment</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-nokia-g42-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Nokia G42 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screenflow-showdown-the-top-video-editing-software-for-macos-users-for-2024/"><u>[New] ScreenFlow Showdown The Top Video Editing Software for macOS Users for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-10-game-changing-techniques-to-amplify-your-facebook-presence/"><u>[Updated] 10 Game-Changing Techniques to Amplify Your Facebook Presence</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-essential-ios-psp-emulation-tools-top-5/"><u>[Updated] 2024 Approved Essential iOS PSP Emulation Tools, Top 5</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-meizu-21-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Meizu 21 Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-for-font-integration-in-ae/"><u>2024 Approved Step-by-Step Guide for Font Integration in AE</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-bluetooth-fm-transmitter-2023-reviews-car-compatibility-and-performance/"><u>Best Bluetooth FM Transmitter (2023 Reviews) - Car Compatibility & Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-usability-of-legacy-systems-for-seniors/"><u>Boosting Usability of Legacy Systems for Seniors</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-the-issue-of-synchronizing-artificial-intelligence-with-human-values/"><u>Demystifying the Issue of Synchronizing Artificial Intelligence with Human Values</u></a></li>
+<li><a href="https://facebook.techidaily.com/disconnecting-facebooks-impact-analysis/"><u>Disconnecting: Facebook's Impact Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-100-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor 100 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pro-cameras-showdown-gopro-max-vs-hero-11-comparison/"><u>Pro Cameras Showdown GoPro Max VS Hero 11 Comparison</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-x100-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo X100 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-smart-8-hd-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix Smart 8 HD Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unleashing-inspiration-ideas-for-engaging-channels/"><u>Unleashing Inspiration Ideas for Engaging Channels</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-a15-4g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy A15 4G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-find-x6-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo Find X6 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-motorola-moto-g34-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Motorola Moto G34 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

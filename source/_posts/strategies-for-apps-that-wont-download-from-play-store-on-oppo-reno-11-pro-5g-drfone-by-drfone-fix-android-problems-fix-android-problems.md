@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Oppo Reno 11 Pro 5G | Dr.fone
-date: 2024-12-26T16:53:10.276Z
-updated: 2024-12-29T13:20:14.225Z
+date: 2025-01-03T18:26:01.288Z
+updated: 2025-01-08T07:21:31.254Z
 tags: 
   - problems
 categories:
@@ -19,6 +19,10 @@ The frustration of **apps not downloading in the Google Play Store** can annoy u
 The inconvenience can impact user trust and the overall perception of an app's reliability. Addressing these challenges is crucial to maintaining a satisfied user experience and ensuring the success of apps on the platform. Explore the article below to learn what to do when **apps not downloading from the Play Store** issue appears.
 
 ![downloading status on phone vector](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I. 7 Usual Reasons Behind Apps Not Downloading in Google Play Store
 
@@ -45,10 +49,6 @@ Issues with verifying Google accounts can restrict access to the Play Store. It 
 ### App Download Restrictions
 
 Device settings or parental controls may impose restrictions on certain app downloads. You may encounter limitations in accessing specific apps. It can affect the Oppo Reno 11 Pro 5G device's versatility.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Incorrect Date and Time Settings
 
@@ -98,6 +98,10 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3,143,540** people have downloaded it
 
 - **Step 2:** Connect your Oppo Reno 11 Pro 5G to the computer using a USB cable. Dr.Fone will detect your device, and you'll be prompted to choose your device's type. Select **Android** **Repair**.
@@ -121,10 +125,6 @@ If you can't download Dr.Fone for some reason, you can try these common fixes to
 
 Here are 8 other methods to troubleshoot and resolve common app downloading problems:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Check Internet Connection
 
 A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u> <u> an Internet signal check</u>](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html) to ensure you are connected to a reliable Wi-Fi network or have a strong mobile data signal. If the connection is weak, consider switching to a more robust network.
@@ -134,6 +134,10 @@ A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u
 [<u>Insufficient storage</u>](https://drfone.wondershare.com/backup/fix-not-enough-icloud-storage-problem.html) on your device can hinder app installations. Navigate to the Oppo Reno 11 Pro 5G device settings, access the **Storage** section, and clear unnecessary files or apps. Creating more space ensures a smoother download experience.
 
 ![android internal storage menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update the Play Store
 
@@ -164,6 +168,10 @@ Incorrect date and time settings may disrupt the authentication process. Verify 
 Device settings or parental controls might impose restrictions on certain app downloads. Examine the download restrictions in the Oppo Reno 11 Pro 5G device settings and adjust them accordingly to allow for the installation of desired apps.
 
 ![download restrictions on android](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart the Oppo Reno 11 Pro 5G device
 
@@ -215,23 +223,19 @@ It may not respond properly when an Android device is dirty due to water, sweat,
 
 Here is a list of things you should do **how to fix a frozen phone touch screen,** whether you’re using an iPhone or an Android smartphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Clean Your Smartphone
 
 Your **screen touch not working** can sometimes get fixed by simply cleaning the screen on your smartphone. Use a soft dry cloth, gently clean your iPhone or Android device, and ensure water, oils, dirt, or other debris are no longer on your display. If you recently dropped your device in water, turn it off and leave it untouched for the next few hours.
 
 ![cleaning iphone with cloth](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Remove Extra Peripherals
 
 Unplug any external device connected to your iPhone’s Lightning port or USB-C if your **phone screen stops working**. For Android users, meanwhile, disconnect any accessories like chargers or wireless headphones. After that, try using the touchscreen. If it works, the outcome proves that the fault appeared due to the external device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Force Restart Your Device
 
@@ -245,10 +249,6 @@ Here’s how to force restart your smartphone to fix your **phone screen that’
 
 ![samsung force restart](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **E****xample 2: For Oppo Reno 11 Pro 5G Redmi**
 
 If your Oppo Reno 11 Pro 5G Redmi **phone is stuck on loading screen** or “thinking” for a long time without responding, reboot it in just two steps.
@@ -258,6 +258,10 @@ If your Oppo Reno 11 Pro 5G Redmi **phone is stuck on loading screen** or “th
 **Step 2:** Choose **Restart,** then **Accept** if a confirmation message spears. Then wait a few seconds or minutes when your device is performing the reboot.
 
 ![reboot xiaomi redmi options](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Update Your Software
 
@@ -347,6 +351,10 @@ Wondershare Dr.Fone (Android) price plans are available for a 1-Year or Perpetua
 - Perpetual License (1-5 Mobile Devices) - $49.95
 - 1-Year Business License (Unlimited Devices) - $399.00
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Fix Unresponsive Touchscreen With Wondershare Dr.Fone
 
 In this step-by-step guide below, you can fix your **unresponsive phone screen** using Wondershare Dr.Fone on iOS and Android.
@@ -382,10 +390,6 @@ Keeping your apps updated should help you solve app crashing issues that can imp
 Wondershare Dr.Fone for iOS and Android is free to download and install. You can also test the first few steps and see if the program supports your device. However, when you click the **Fix Now** button to start the repair process, you will be required to enter a valid license to activate the program.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -446,6 +450,10 @@ A most effective method to fix Google Play Store not working
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Other 10 common methods to fix Google Play Store issues
 
 ### 1\. Fix Date and Time settings
@@ -478,6 +486,10 @@ Step 4 – Now, you can find a screen like below. Tap on “Clear cache” to re
 
 Now, again try to open Google Play Store and you may successfully overcome the Play Store not working issue. If not, check the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Reset Play store by Clear data
 
 If the above solution is not working for you, you might try this option instead. This step will erase all the app data, settings, etc so that it can be set up a fresh one. This will also fix the Google Play store not working issue. For this solution, use the following method step by step.
@@ -508,10 +520,6 @@ Step 3 – Now click on the top right side three dots or “more” option. Here
 
 Now, go back and try to open Google Play Store again. This should work now and enter your Google ID and password again to continue. If it’s still not working, move to the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Reinstall the latest version of Google Play Store
 
 Google Play store can’t be uninstalled completed completely from your Oppo Reno 11 Pro 5G. But disabling and reinstalling its latest version can resolve the Play Store crashing issue. For doing this, just follow the below guide.
@@ -530,10 +538,6 @@ Step 4 – After that, try to open any app that requires Google Play store to op
 
 After installing, your problem might be solved by now. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Clear Google Service Framework Cache
 
 Besides the Google Play store, this is important to keep healthy the Google Service Framework as well. The cache and unnecessary data should be removed from there also. Follow the steps below.
@@ -549,7 +553,7 @@ Step 3 – Now, tap on “Clear cache”. And you are done.
 Now go back and try to open Google Play store again. This might solve the Google Play Store has stopped the problem by now. If not, check the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Disable the VPN
@@ -565,10 +569,6 @@ Step 3 – Here you can find “VPN”.  Tap on it and turn it off.
 ![find “VPN”](https://images.wondershare.com/drfone/article/2017/06/14985037252898.jpg)
 
 Now, again go back and try to open the Google Play Store. This may solve your problem now. If not, check the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Force stop Google Play Service
 
@@ -626,16 +626,20 @@ The above methods are the best 11 among all the solutions you can get for your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-tweetvidaudiomaker-instant-sound-output-for-2024/"><u>[New] TweetVidAudioMaker Instant Sound Output for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-pro-free-ending-makers-ranked-1-6/"><u>[Updated] 2024 Approved Pro-FREE Ending Makers - Ranked 1-6</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-lava-blaze-2-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Lava Blaze 2 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-quieten-system-sounds-on-pc-and-mac-devices/"><u>In 2024, Quieten System Sounds on PC and Mac Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/instant-reddit-archives-posts-once-erased-now-found/"><u>Instant Reddit Archives Posts Once Erased Now Found</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-retro-gaming-a-step-by-step-guide-to-enjoying-dosbox-classics-on-your-ipad/"><u>Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-to-restoring-android-text-message-functionality/"><u>Unlock the Secrets to Restoring Android Text Message Functionality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beginning-zoom-video-calls-on-android-devices/"><u>[New] Beginning Zoom Video Calls on Android Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-discovering-the-potential-apple-devices-on-your-youtube-channel/"><u>[Updated] 2024 Approved Discovering the Potential Apple Devices on Your YouTube Channel</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-editing-game-changer-fcps-best-10-plugins/"><u>[Updated] 2024 Approved The Editing Game Changer FCP's Best 10 Plugins</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-deciphering-the-divergent-aspects-of-youtubes-and-dailymentions/"><u>[Updated] Deciphering the Divergent Aspects of YouTubes & DailyMentions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-selecting-superior-free-online-srt-translation-services-tips-and-tricks/"><u>[Updated] Selecting Superior Free Online SRT Translation Services Tips & Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-digital-vhs-image-modification-techniques/"><u>2024 Approved Mastering Digital VHS Image Modification Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-motorola-moto-g14-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Motorola Moto G14 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-y100i-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo Y100i</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/topas-herramientas-de-conversion-video-hd-los-12-mejores-programas-del-2024/"><u>Topas Herramientas De Conversión Video HD: Los 12 Mejores Programas Del 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/sh-creativity-top-free-video-opener-tools/"><u>Unleash Creativity Top Free Video Opener Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-htc-u23-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When HTC U23 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

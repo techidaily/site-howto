@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Xiaomi Redmi Note 12 Pro 4G | Dr.fone
-date: 2024-12-22T07:10:45.695Z
-updated: 2024-12-29T00:51:57.854Z
+date: 2025-01-06T00:54:09.547Z
+updated: 2025-01-08T08:01:10.733Z
 tags: 
   - problems
 categories:
@@ -69,15 +69,15 @@ One-click solution to fix camera failed on Xiaomi Redmi Note 12 Pro 4G devices
 
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** As soon as the firmware is downloaded, the software will automatically initiate the repair process. You will be able to see the ongoing repair.
 
 ![fixing samsung camera failed](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 When the software is done repairing the system, you will be notified. Thus, the Camera failed Xiaomi Redmi Note 12 Pro 4G error in your phone will be fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to fix Camera Failed error by clearing camera data?
 
@@ -91,9 +91,17 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 
 ![camera app](https://images.wondershare.com/drfone/article/2017/07/14997065904511.jpg "camera app")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
 ![clear data](https://images.wondershare.com/drfone/article/2017/07/14997066321127.jpg "clear data")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
 
@@ -114,7 +122,7 @@ Simply, follow the instructions given below to remove Apps from Xiaomi Redmi Not
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14997067161727.jpg "uninstall app")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
@@ -140,7 +148,7 @@ This method might seem tedious and time-consuming and you may also lose your dat
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You may try to use the camera app once the process completes.
@@ -153,17 +161,9 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 ![tap on camera](https://images.wondershare.com/drfone/article/2017/07/14997068859206.jpg "tap on camera")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Then go to Camera “Settings” by tapping on the circular gear like icon.
 
 ![camera settings](https://images.wondershare.com/drfone/article/2017/07/14997069036741.jpeg "camera settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Now look for “Reset Settings” options and click on it.
 
@@ -188,6 +188,10 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 3\. Now you must first select “Factory data reset” and then tap on “Reset Device” as shown in the screenshot below.
 
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. Finally, you have to click on “Erase Everything” and wait for the Xiaomi Redmi Note 12 Pro 4G device to reboot itself.
 
@@ -268,6 +272,14 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![repair complete](https://images.wondershare.com/drfone/guide/ios-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Using Safe Mode
 
 Safe Mode is like a secret agent—it helps but with a downside. It turns off third-party apps, making your phone useful only for basic calls or texts. Use this method if any solutions in this section do not work. It’s especially handy if you use your phone before sending it to a technician. This way, you’ll learn **how you can get a virus off your phone** before actually letting a technician do it.
@@ -321,10 +333,6 @@ To keep your phone safe from viruses, follow these easy tips that act as a shiel
 - **Anti-virus software:**Install a reliable anti-virus app and keep it updated. These apps constantly scan for and detect viruses, safeguarding your device against threats.
 
 These simple yet crucial tips will fortify your phone’s defenses, reducing the likelihood of virus infections and ensuring a safer digital experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -384,13 +392,13 @@ Step1: Download [the Dr.Fone - System Repair (Android) program](https://tools.te
 
 ![make error code 505 disappear by android repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2: Select the "Android Repair" among the 3 tabs, connect your Android to PC, and click "Start".
 
 ![select android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3: Choose the correct device details from each field, confirm them and continue.
 
@@ -477,10 +485,6 @@ Due to continuous updation of new apps and services Google Play store used to be
 
 ![Google Play store](https://images.wondershare.com/drfone/article/2017/06/14976277251819.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - \>Go to Settings
 - \>Visit Application Manager or Apps
 - \>Select Google Play Store
@@ -490,10 +494,6 @@ Due to continuous updation of new apps and services Google Play store used to be
 
 ![Click on Uninstalling Updates](https://images.wondershare.com/drfone/article/2017/06/14976277917398.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **Solution 6: Third party App**
 
 In the case, error 505 occur due to the installation of two or more apps with duplicate permission of data, as many times we use to install two similar kind of app that creates the situation where both seeking out for somewhat similar permissions for the installation. The manual finding is a long and tiring process. Then you can take the assistance of ‘Lucky Patcher App’ to find out which app is creating the conflict. This app will assist you in finding out the duplicity if any and then modifying it. Through this app, once you will find out which particular app is causing the conflict, then you can delete that conflicting app from your phone so that problem of error code 505 gets sort out.
@@ -502,10 +502,6 @@ Download link: [https://www.luckypatchers.com/download/](https://www.luckypatche
 
 ![lucky patcher](https://images.wondershare.com/drfone/article/2017/06/14976278389200.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Note: If still, you are in the state of trouble to solve the issue of error code 505 then Google Play help center is here to look out all troubles related to app store and its service. You can check out the details by visiting the following link:
 
 [https://support.google.com/googleplay/?hl=en-IN#topic=3364260](https://support.google.com/googleplay/?hl=en-IN#topic=3364260)
@@ -513,6 +509,10 @@ Note: If still, you are in the state of trouble to solve the issue of error code
 Or call them at their call center number regarding the issue.
 
 ![call center number](https://images.wondershare.com/drfone/article/2017/06/14976278809798.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus FAQ about Google Play error
 
@@ -556,22 +556,22 @@ Not being able to download or install the app is very frustrating and time-consu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-eight-essential-free-fb-link-extractors/"><u>[New] In 2024, Eight Essential Free FB Link Extractors</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creativity-masterful-techniques-for-editing-podcasts-in-garageband/"><u>2024 Approved Unleash Creativity Masterful Techniques for Editing Podcasts in GarageBand</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/chromecast-with-google-tv-reviewed-is-it-time-to-upgrade-from-firetv/"><u>Chromecast with Google TV Reviewed: Is It Time to Upgrade From FireTV?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/excellence-on-demand-1-blu-ray-players-for-home/"><u>Excellence on Demand #1 Blu-Ray Players for Home</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-poco-m6-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Poco M6 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-itel-s23plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Itel S23+ to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/quick-buy-option-superior-iphone-smudge-wipers/"><u>Quick Buy Option: Superior iPhone Smudge Wipers</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-oppo-reno-11-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-guide-recording-voip-conversations-across-pcs-macs-smartphones-and-tablets/"><u>Step-by-Step Guide: Recording VoIP Conversations Across PCs, Macs, Smartphones & Tablets</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-reno-9a-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo Reno 9A Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-nokia-g310-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Nokia G310 Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-phantom-v-fold-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Phantom V Fold Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-honor-x50iplus-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor X50i+ Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-best-subtitle-manipulators-the-top-10-list-online-for-2024/"><u>[New] Best Subtitle Manipulators - The Top 10 List (Online) for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-elevate-your-photos-learn-bg-removal-with-picsart-tools/"><u>[New] In 2024, Elevate Your Photos Learn Bg Removal with Picsart Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-expert-tips-for-efficient-music-integration-in-premiere-pro/"><u>[Updated] In 2024, Expert Tips for Efficient Music Integration in Premiere Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-vids-determining-the-perfect-dimensions-for-2024/"><u>[Updated] Instagram Vids Determining the Perfect Dimensions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transcribe-speaking-to-writing-free-of-charge/"><u>[Updated] Transcribe Speaking to Writing Free of Charge</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-social-media-fame-on-instagram/"><u>2024 Approved Mastering Social Media Fame on Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725289493073-ai-winxvideo-4k-8k-10k/"><u>AI 기술을 통해 WinxVideo의 도움으로 이미지를 4K, 8K 또는 10K로 강조 및 재구성하세요</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/earbud-showdown-galaxy-buds-2-pro-pixel-buds-pro-and-airpods-pro-face-off-for-audio-supremacy-techsavvy/"><u>Earbud Showdown: Galaxy Buds 2 Pro, Pixel Buds Pro & AirPods Pro Face Off for Audio Supremacy | TechSavvy</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-non-functional-logitech-g230-microphone-expert-advice/"><u>How to Repair a Non-Functional Logitech G230 Microphone – Expert Advice</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-civi-3-disney-100th-anniversary-edition-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Civi 3 Disney 100th Anniversary Edition ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y56-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y56 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-a38-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo A38 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

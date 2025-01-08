@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy S23+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-12-21T23:03:04.672Z
-updated: 2024-12-28T19:43:52.455Z
+date: 2025-01-05T17:13:35.946Z
+updated: 2025-01-08T01:07:17.289Z
 tags: 
   - problems
 categories:
@@ -48,11 +48,19 @@ The first and most proclaimed technique to refresh Samsung Galaxy S23+ devices u
 
 ![force restart nokia](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 2: Leave the Phone For a While To Drain Its Battery
 
 A conventional way to solve the issue of a stuck screen in Samsung Galaxy S23+ is to leave the phone in its position. As you let its battery drain out, the phone will turn off, and you can activate the Samsung Galaxy S23+ device again by charging it.
 
 Once you restart it this way, all the procedures will initiate again, and the Samsung Galaxy S23+ device will be as good as new. Draining the battery has given you the leverage to regain control over the Samsung Galaxy S23+ device again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Check For Updates on Samsung Galaxy S23+ Smartphones
 
@@ -144,6 +152,10 @@ For all its glory and goodness, the Android OS often has its users pulling their
 
 ![camera not working error in android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part I: Why Is Android Camera Not Working?
 
 There are a few reasons why the camera app is not working on your Samsung Galaxy S23+.
@@ -174,10 +186,6 @@ One of the first things to do any time an app or your phone or tablet does not w
 
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
 
 ### II.II: Close And Relaunch The Camera App
@@ -189,6 +197,10 @@ Step 1: Launch the app switcher on your specific Android device the way your dev
 ![closing apps in app switcher](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-3.jpg)
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.III: Check App Permissions
 
@@ -216,10 +228,6 @@ Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### II.V: Clear The Photo Gallery App Cache
 
 The camera app is closely tied to the photo gallery app that comes baked in into Android OS. That is because photos that the camera app takes are stored in the photo gallery app. Consequently, if there were any issues in the photo gallery app, that could lead to the camera app not working on Android problem. Here’s how to clear the photo gallery app cache:
@@ -227,10 +235,6 @@ The camera app is closely tied to the photo gallery app that comes baked in into
 Step 1: Go to Settings > Apps > Photos > Storage Usage.
 
 ![clear photo gallery app cache](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2: Tap Clear Cache.
 
@@ -270,17 +274,9 @@ Download Dr.Fone here.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
 ![wondershare drfone on windows](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2: Click System Repair module and then Android.
 
@@ -298,6 +294,10 @@ Step 5: Your phone needs to be put into Download mode before it can be repaired.
 
 ![set phone in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6: Dr.Fone automatically downloads the most recent firmware for your device and when it is ready, waits for your input. Click Fix Now to start the repair process.
 
 ![fix android camera not working](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
@@ -311,14 +311,6 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -334,12 +326,16 @@ You're not alone if you're an Android user who encounters app crashes. This arti
 
 There are many reasons for ****the app crashing**** on Android devices. These reasons range from insufficient storage space to bugs and glitches in the apps. Finding out the root cause of an app crashing is important so that you can find the appropriate solution. Discussed below are some of the reasons why your Android apps keep crashing:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Insufficient Memory
 
 When a device is low on memory, it may struggle to run multiple apps simultaneously. Each app requires memory to store its data and execute its processes. If the available memory is limited, it can cause apps to crash. That happens because they don't have enough resources to operate properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Software Compatibility
@@ -347,7 +343,7 @@ When a device is low on memory, it may struggle to run multiple apps simultaneou
 Android devices come in various models and run different operating system versions. That's why it is essential to use apps compatible with your device. Since there are a lot of Android variants, it is hard to optimize apps for all devices. An app not optimized for an Android version or device leads to crashes or malfunctions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Outdated Apps
@@ -366,15 +362,15 @@ Despite rigorous testing, apps can still have bugs or coding errors that lead to
 
 Once you discover why your Android apps keep crashing, fixing them becomes a lot easier. However, there is no need to worry even if you cannot locate the problem source. Below we have listed 10 general and specialized solutions to ****fix app crashing****:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the Internet Connection
 
 As mentioned before, some apps rely on the internet to function. If you don’t have an active internet connection, they will not work. To avoid ****the app crashing****, you need to ensure that the internet connection on your device is working. If you use Wi-Fi, check the router and turn Wi-Fi off and on again. In the case of mobile data, try enabling Airplane mode and then disabling it.
 
 ![check the internet connection](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Force Stop the Apps Keep Crashing
 
@@ -452,6 +448,10 @@ Insufficient storage space on your device can also lead to app crashes. Check th
 
 ![check the android storage](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9: Reboot Into Safe Mode
 
 It can be hard to find the ****app crashing**** root cause if it happens due to conflicts between different apps. In such scenarios, the best way to find the problematic apps is to use Safe Mode on your device. Safe Mode disables all third-party apps, allowing you to determine if the crashes are caused by a specific app. Follow the process given below to reboot your device into Safe Mode:
@@ -520,17 +520,24 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-supercharge-your-chat-essential-whatsapp-tactics-revealed/"><u>[New] Supercharge Your Chat Essential WhatsApp Tactics Revealed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-the-nuances-of-simplified-live-streaming/"><u>[Updated] In 2024, Navigating the Nuances of Simplified Live Streaming</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y78plus-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y78+ System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1728507640760-onedrive/"><u>如何在不離開現址就可完美同步OneDrive資料夾：三種有效技巧</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-vivo-y36-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y36 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-unexpected-computer-restarts-solutions-explored/"><u>Diagnosing and Fixing Unexpected Computer Restarts - Solutions Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-insights-into-motherboards-cpus-and-more-join-toms-technology-journey/"><u>Expert Insights Into Motherboards, CPUs & More: Join Tom's Technology Journey</u></a></li>
-<li><a href="https://win11.techidaily.com/outsmart-windows-delete-temp-files-without-fuss/"><u>Outsmart Windows: Delete Temp Files Without Fuss</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/restoring-default-sound-options-on-windows-a-comprehensive-guide-insights-from-zdnet/"><u>Restoring Default Sound Options on Windows: A Comprehensive Guide - Insights From ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-find-x6-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Find X6 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unveiling-the-top-10-video-editing-apps-for-instagram-magic/"><u>[New] 2024 Approved Unveiling the Top 10 Video Editing Apps for Instagram Magic</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-5-best-zoom-transcription-software-free-and-paid/"><u>[New] 5 Best Zoom Transcription Software [Free & Paid]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-quick-and-clear-swap-clown-fins-voices-on-pcs/"><u>[New] In 2024, Quick & Clear Swap Clown Fins' Voices on PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-magic-vs-2-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor Magic Vs 2 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-google-pixel-8-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Google Pixel 8 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-magic-5-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor Magic 5? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-tecno-spark-20-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Spark 20 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-honor-magic-6-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Honor Magic 6 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-auditory-enhancement-unlocked-delve-into-freeware-audio-effect-software/"><u>In 2024, Auditory Enhancement Unlocked Delve Into Freeware Audio Effect Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-camera-shake-in-photographyvideo-what-you-need-to-know/"><u>In 2024, Camera Shake In Photography/Video | What You Need to Know</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nokia-c12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nokia C12 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/social-media-savvy-how-to-successfully-post-videos-on-fb/"><u>Social Media Savvy How to Successfully Post Videos on FB</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-freeze-android-apps-activity-in-the-background-for-better-performance/"><u>The Ultimate Guide to Freeze Android Apps' Activity in the Background for Better Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-adjustment-layer-in-photoshop-in-2024/"><u>Updated How to Use Adjustment Layer in Photoshop, In 2024</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-infinix-smart-8-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Infinix Smart 8</u></a></li>
 </ul></div>
 

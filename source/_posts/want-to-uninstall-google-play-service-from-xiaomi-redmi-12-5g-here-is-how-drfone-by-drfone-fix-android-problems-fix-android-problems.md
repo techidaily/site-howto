@@ -1,7 +1,7 @@
 ---
 title: Want to Uninstall Google Play Service from Xiaomi Redmi 12 5G? Here is How | Dr.fone
-date: 2024-07-30T12:15:36.737Z
-updated: 2024-07-31T12:15:36.737Z
+date: 2025-01-02T05:47:49.245Z
+updated: 2025-01-08T06:41:05.854Z
 tags: 
   - problems
 categories:
@@ -18,18 +18,12 @@ In this article, you will learn the pros and cons of uninstalling Google Play se
 
 Acts as a one-stop destination to download various kinds of apps from the Play Store. The Play service also provides a way to manage these apps without much hassle. From uninstalling to updating an app, all of this can be done with Google Play service. Nevertheless, there are times when users wish to uninstall Google Play services. To start with, it takes a lot of storage and makes it pretty tough for users to manage their devices. To help you, we will let you know how to uninstall Google Play Store in this informative post.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Part 1: Reason you might want to get rid of Google Play Service
 
 Before we proceed and discuss different ways on how to update Play Store after uninstalling updates, it is important to cover the basics. We have heard plenty of users who wish to uninstall Google Play services, but are not sure of the repercussions. One of the main reasons is that it consumes a lot of space on phone’s storage. Not just that, it only consumes plenty of battery as well.
 
 If your device is giving the insufficient storage warning, then you need to start by clearing your phone’s data. It is observed that the Google Play Service accumulates most of the data in a device. This leads to users looking for different ways to how to uninstall Google Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Part 2: What will it affect to uninstall Google Play Service?
 
 If you think that Google Play Service only provides a platform to download new apps, then you are wrong. It provides several other functions that might alter the way you use your smartphone. It is linked with other essential Google services as well, like Google Maps, Gmail, Google Music, etc. After uninstalling the Google Play Service, you might face trouble using various essential apps.
@@ -42,12 +36,13 @@ By now, you already know all the repercussions of getting rid of Google Play Ser
 
 To disable the Google Play Services, just go to your phone’s Settings > Applications > All and open Google Play Services. You will get to know about the app’s detail and a few other options here. Just tap on the “Disable” button. It will generate another pop-up message. Confirm it by tapping on the “Ok” button. This will disable Google Play Services on your device. Later, you can follow the same drill to enable it as well.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall google play services-open Google Play Services](https://images.wondershare.com/drfone/article/2017/06/14981537155144.jpg)
 
 Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reasons for Xiaomi Redmi 12 5G Stuck on Boot Screen and Ways To Fix Them
 
@@ -67,9 +62,6 @@ Fortunately, this is not a complicated fix. Android accepts different fixes and 
 
 Although it is fun to customize and change the software, following trusted sources ensures you do not damage your phone. Having an ****Android phone stuck on the logo**** page is one of the many examples of the problems that might happen if changes to the software go out of hand.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2. Android Software Updates
 
 Updates are a common cause of ****Android phones stuck on the logo****. It happened when the update did not complete as it should have been. Several reasons for incomplete updates, such as poor internet connection, the connection between computer and phone being lost, a power cut, the phone freezing, and the list go on. When an update is uncompleted, issues such as being stuck at the ****Android boot screen**** and many others might occur.
@@ -80,6 +72,10 @@ When an update is disrupted or stopped before it completes, the existing Android
 
 ![updating software](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3. Malfunctioning Applications
 
 If you noticed that your ****Android phone is stuck on the logo**** page only after installing certain apps, there is a high chance that the app is not compatible with the existing apps in your phone or with the Android version. When an app conflicts with the Android system or other apps, this will run into problems with your phone.
@@ -88,14 +84,8 @@ This problem typically happens when an app is downloaded from a third-party sour
 
 To overcome this, locate the app that has been giving you issues and remove the app from your phone. Restart your device, and you should be able to have your Xiaomi Redmi 12 5G functioning properly.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![malfunctioning apps on android](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. 5 Helpful Ways To Fix Android Phones Stuck on Boot Screen
 
 After understanding the common problems on why your ****Android phone is stuck on the logo**** page, here are five easy solutions you can try solving at home.
@@ -106,9 +96,6 @@ When encountering problems with your Xiaomi Redmi 12 5G, such as being stuck at 
 
 ![forcing rebooting android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2. Pull Out Battery
 
 Another way to restart your Xiaomi Redmi 12 5G when it is frozen is to try taking the battery out. Android devices are designed with a removable battery, and sometimes you can resolve the issue easily by removing the battery and replacing it after a couple of seconds. Then, turn on your device again and test to see if your ****Android phone is stuck on the logo**** page.
@@ -123,6 +110,10 @@ If your ****Android phone is stuck on the logo**** page and not getting past it
 
 ![charging android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4. Wipe Cache Data
 
 Cache refers to a software or hardware component of an Android device that stores your program and data for reference. This data might result from the daily usage of your device or duplicate data from a different source on the Xiaomi Redmi 12 5G device. Similar to a computer, if the cache occupies too much space on your device, it might cause your Xiaomi Redmi 12 5G to become slower and eventually get stuck at the ****Android boot screen****.
@@ -130,8 +121,9 @@ Cache refers to a software or hardware component of an Android device that store
 Wiping out the cache data from your Xiaomi Redmi 12 5G could free up more space, allow your device to function faster, and avoid problems such as being stuck at the ****Android boot screen****. Do not worry; wiping the cache data is entirely safe and will not lead to any loss of important data or programs on your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5. Factory Reset
 
 If all the methods above fail, performing a factory rest might be your last option. However, it is important to note that performing a factory reset will erase everything on your phone, including apps, contacts, photos, etc. As a tip, back up all your data from your device before performing a factory reset. That way, you can still retrieve all your precious information after the reset.
@@ -150,35 +142,43 @@ If all the solutions above do not work and you do not want to perform a factory 
 
 ![interface of dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Refer to the tutorial below to solve your ****Android phone is stuck on the logo**** page issue.
 
 **Step 1**: Download and install Dr.Fone – System Repair (Android) on your computer. Open the application and connect your Xiaomi Redmi 12 5G to the computer.
 
 **Step 2**: Select the issue you face on the next page. If you use a Xiaomi Redmi 12 5G phone, select ****Stuck at Xiaomi Redmi 12 5G Logo****. Alternatively, you can click on ****Black Screen**** or ****Stuck in Boot Loop****.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![selecting issue from dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: Input the ****Brand****, ****Name****, ****Model****, ****Country,**** and ****Carrier**** of your phone and click on ****Next****.
 
 ![filling in data for phone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4**: Follow the instructions provided on the page and wait for the system repair to finish. After which, click on ****Done**** to complete the process.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 This article summarizes some possible reasons your ****Android phone is stuck on the logo**** page. Five useful strategies were shared to easily overcome your Xiaomi Redmi 12 5G being stuck in the boot. However, if all the above methods do not work, we recommend trying the Dr.Fone-System Repair.
 
 Dr.Fone-System Repair repairs the operating system issues and fixes the problem with your Xiaomi Redmi 12 5G. Once you power on your Xiaomi Redmi 12 5G again, you can rest assured that it will be like new.
-
-
 
 ## Reliable User Guide to Fix Xiaomi Redmi 12 5G Running Slow and Freezing
 
@@ -188,16 +188,10 @@ However, Android phones are still not close to perfect. They also act up sometim
 
 In this article, we will review the details of this Android phone issue. We’ll provide solutions you can try if you ever get caught in the same problem. Continue reading to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Understanding the Specs That Make Android Phones Run Fast
 
 The issue of Android phone running slow and freezing is not limited to old devices only. The same problem has also been observed in newly purchased units. The roots of this unfortunate occurrence vary from one user to another. It depends on different elements, from external factors like users’ handling of the Xiaomi Redmi 12 5G device to internal factors such as its capabilities. To understand it more, below are some Android phone specifications related to the Xiaomi Redmi 12 5G device's overall performance and speed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### The CPU Core Count
 
 Unlike before, Android phones today are equipped with several cores. Each of them has the ability to execute a process alone. Therefore, the Xiaomi Redmi 12 5G device can handle two or more tasks at once without compromising the quality of its performance. If your Xiaomi Redmi 12 5G contains more CPU core, its performance surely be more powerful and speedy.
@@ -206,9 +200,6 @@ Unlike before, Android phones today are equipped with several cores. Each of the
 
 Simply put, clock speed is basically the speed at which the CPU cores can carry out a cycle in a second. A faster clock speed definitely translates into the Xiaomi Redmi 12 5G device’s higher performance. For instance, an octa-core Android phone with a one GHz per second clock speed is a decent device. But it’s less powerful than a device with the same number of cores but runs at two GHz per second.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Random Access Memory
 
 In a simple language, Random Access Memory (RAM) temporarily stores the data from apps that are currently running. Smartphones can be more flexible with multi-tasking if their RAM has enough space. So if you’re among these users who perform multiple tasks simultaneously, you better choose a device with more RAM.
@@ -217,9 +208,6 @@ In a simple language, Random Access Memory (RAM) temporarily stores the data fro
 
 The mobile applications installed on your smartphones are directly related to internal storage. The apps save their data every time, so they behave strangely when the Xiaomi Redmi 12 5G device runs out of storage. If you’re using heavy mobile applications, it’s best to opt for smartphones with huge internal storage.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Reasons Why My Xiaomi Redmi 12 5G is Running Slow
 
 It’s not really hard to tell why your Xiaomi Redmi 12 5G is slow because it’s apparently a common issue among users. But don’t worry. Most of the time, the problem is not a major concern. Here are some scenarios that may slow down your Xiaomi Redmi 12 5Gs.
@@ -228,31 +216,18 @@ It’s not really hard to tell why your Xiaomi Redmi 12 5G is slow because it’
 
 It’s great to have an Android phone that can flawlessly multi-task. However, not all units can handle that well. As mentioned earlier, it depends on the CPU core count and the core’s clock speed. If your Xiaomi Redmi 12 5G is running slow and freezing, many processes may be happening at the same time. Your device’s cores and clock speed are potentially incapable of executing such demands.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Your Phone is Running Out of Storage
 
 Mobile apps need to save data on your phone. They perform the tasks based on the data stored on the Xiaomi Redmi 12 5G device. So if your Xiaomi Redmi 12 5G is slow, it’s possible that your device is already running out of storage. Each app has its own storage requirement. If your phone goes below that, the app will surely crash and not work.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### Animation Speed is Way Too Slow
 
 You can modify the Xiaomi Redmi 12 5G device’s animation type and speed on your Xiaomi Redmi 12 5G via the developer’s option. However, altering its default settings can sometimes make the Android phone run slow. If the speed is set slower, more delays are added to the animation. Hence, it takes a while for Your Xiaomi Redmi 12 5G to launch an app or complete a certain process.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### You’re Using an Outdated Android Version
 
 If your Xiaomi Redmi 12 5G is running slow and freezing, the Xiaomi Redmi 12 5G device’s software is probably outdated. The mobile apps installed on your device are lagging or crashing because they’re no longer compatible with the OS. It happens most of the time. Hence, always watch out for OS updates.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Your Phone is Experiencing Some System Issues
 
 Operating systems and device software serve as the main component of all smartphones. Sometimes, it runs into inevitable problems caused by computer bugs and other glitches. When it happens, the Xiaomi Redmi 12 5G device’s overall performance is affected. So that can be the reason why sometimes your Xiaomi Redmi 12 5G is running slow and freezing.
@@ -271,14 +246,6 @@ Sometimes, minor bugs can give your device a hard time. It can be the reason why
 
 - **Step 1:** For seven seconds or more, hold the **Power** and the **Volume Down** button together.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone restarts](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-1.JPG)
 
 - **Step 2:** Several options will manifest on the screen. From there, click **Restart.** Wait until your device completely shuts off and restarts again.
@@ -290,9 +257,6 @@ If your Xiaomi Redmi 12 5G is running slow and freezing, it’s likely because y
 - **Step 1:** On your home screen, find the app you wish to uninstall. Hold its icon until an option list appears.
 - **Step 2:** Click **Uninstall.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![uninstall android apps](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-2.JPG)
 
 - **Step 3:** Click **Ok** if it asks you to confirm the action.
@@ -320,15 +284,8 @@ _Follow these steps to adjust the animation speed:_
 - **Step 3:** Click **Developers options.**
 - **Step 4:** Under the **Drawing** section, you’ll find the following animation scale settings: **Window Animation Scale, Transition Animation Scale,** and **Animator Duration Scale.** Adjust the speed of these three options to **0.5x.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![faster animation speed](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-4.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Solution 4: Update Your Phone to the Latest Android Version
 
 It’s always recommended to update your phone to the latest Android version. Aside from repairs to some system errors, it also keeps your phone compatible with mobile apps. An outdated operating system can be the reason why your Xiaomi Redmi 12 5G runs slow, and the apps are freezing. Don’t worry. It’s very easy to perform. Here’s how to do it.
@@ -341,9 +298,6 @@ It’s always recommended to update your phone to the latest Android version. As
 
 ![update android version](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-5.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Solution 5: Reset Your Xiaomi Redmi 12 5G to Factory Settings
 
 One way to restore the original performance of your Xiaomi Redmi 12 5G is to revert it back to factory settings. It deletes all the phone’s data and adjusts the settings to default. Most of the time, this procedure works magic. It fixes numerous issues, including the Android phone that’s slow and constantly freezing. But ensure your phone has already been backed up before commencing this step. You may use [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) to help you back up and secure your files.
@@ -368,9 +322,6 @@ _Here’s how to reset your Xiaomi Redmi 12 5G to factory settings:_
 - **Step 5:** Your Android phone will inform you about the data that will be deleted from this procedure. From there, click **Reset Phone.**
 - **Step 6:** Your Android device will ask you to confirm the procedure. From there, click **Erase Everything.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![reset to factory settings](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-6.JPG)
 
 ### Solution 6: Fix the System Issue Using Wondershare Dr.Fone
@@ -390,11 +341,12 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![android system repair starts](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Wondershare Dr.Fone will ask you to confirm your device details. Review the listed details for Brand, Name, Model, Country, and Carrier. Amend them if necessary. Tick the checkbox beside the Note if you agree to the terms. Lastly, click **Next** to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 6:** At this point, you need to put your device into **Download Mode. Power off** your device. And then hold these three buttons altogether: **Volume Down, Home** (or **Bixby** if you’re using a newer model)**,** and **Power** buttons. Finally, press the **Volume Up** button.
@@ -403,24 +355,14 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 - **Step 7:** Wondershare Dr.Fone will automatically download the firmware that matches your device’s specifications. Wait until the process has been completed.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![firmware download](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 8:** Thereafter, the details about the newly downloaded firmware package will be displayed on the screen. From there, click **Fix Now.**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![new firmware is ready](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 - **Step 9:**  Before initiating the installation process, Wondershare Dr.Fone will ask you to review and confirm the firmware details. It will also let you know that this procedure will erase the phone’s data. If you agree to the terms, enter **000000** into the input box and click **Confirm.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![confirm firmware details](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 10:** Wait while Wondershare Dr.Fone installs the new firmware to your device.
@@ -429,20 +371,17 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 - **Step 11:** A notification will immediately appear after installing the new firmware. Click **Done** if your phone starts normally. Otherwise, click **Try Again** to repeat the process.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,660,347** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Android phone is capable of performing lots of stuff. It can assist you in both your personal and professional tasks. But if it’s sluggish and doesn’t execute optimally, the good things it promises all go down the drain. So if you notice that your Xiaomi Redmi 12 5G is running slow and freezing, act fast to resolve the issue. [<u>Wondershare Dr.Fone</u>](https://drfone.wondershare.com/guide/android-repair.html) can be of great help in this kind of situation. It’s an all-in-one mobile solution that can assist you with system repair, phone backup, data recovery, and a lot more.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -456,7 +395,18 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/tribes-of-midgard-understanding-causes-and-fixes-for-game-crashes/"><u>'Tribes of Midgard': Understanding Causes and Fixes for Game Crashes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-profit-making-techniques-for-beauty-vloggers/"><u>2024 Approved Profit-Making Techniques for Beauty Vloggers</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-12-proplus-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme 12 Pro+ 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/dissecting-illusions-how-to-detect-fake-likes-and-followers/"><u>Dissecting Illusions How to Detect Fake Likes and Followers</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-tecno-spark-20c-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Spark 20C Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-fresh-look-at-sonys-ultra-hd-player-s3700/"><u>In 2024, Fresh Look at Sony's Ultra HD PLAYER S3700</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-quick-step-by-step-turning-pictures-into-youtube-desktop-thumbnails/"><u>In 2024, Quick Step-By-Step Turning Pictures Into YouTube Desktop Thumbnails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-features-of-apples-flagship-tablet-the-ipad-pro-review-and-acknowledging-its-limits-compared-to-a-macbook-analysis/"><u>Navigating the Features of Apple's Flagship Tablet: The iPad Pro Review & Acknowledging Its Limits Compared to a MacBook Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-non-root-required-clicking-automation-apps-on-android-devices/"><u>Top 5 Non-Root Required Clicking Automation Apps on Android Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y27s-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y27s Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 
