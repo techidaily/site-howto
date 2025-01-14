@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy A15 4G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone
-date: 2025-01-03T19:54:29.344Z
-updated: 2025-01-07T19:23:10.042Z
+date: 2025-01-10T17:36:41.135Z
+updated: 2025-01-14T17:02:20.211Z
 tags: 
   - problems
 categories:
@@ -68,10 +68,6 @@ One click to fix boot loop of Android
 Open the software and select the System Repair option from the main menu to fix the Android bootloop error.
 
 ![fix android boot loop](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step #2** Connect your Samsung Galaxy A15 4G to your computer using the official cable and select the "Android" option from the three menu items. Click "Start" to confirm.
 
@@ -148,10 +144,6 @@ Once you've identified and uninstalled the problematic app, restart your device 
 
 By following these steps and using Safe Mode to isolate problematic apps, you can effectively troubleshoot and resolve boot loop issues on your Samsung Galaxy A15 4G.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Factory reset to fix Android bootloop issue
 
 Factory reset, also known as Hard Reset, is a one-stop solution for all your software resulting in issues. Android boot loop being such problem, can be easily overcome by performing a factory reset.
@@ -190,21 +182,17 @@ Note: you might have to use a different combination of keys to enter into Recove
 
 ![enter into Recovery Mode](https://images.wondershare.com/drfone/article/2017/07/14994539374814.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Scroll down using” the volume key to select "Advanced".
 
 ![select “Advanced”](https://images.wondershare.com/drfone/article/2017/07/14994539628787.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now select “Wipe” and choose to wipe "Dalvik Cache".
 
 ![wipe “Dalvik Cache”](https://images.wondershare.com/drfone/article/2017/07/14994539844927.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this step, select "Mounts and Storage" to click on "Wipe" or "Cache".
 
@@ -225,6 +213,10 @@ There is no doubt that it is quite frustrating when your device buttons, such as
 ## Part 1: 4 Common Measures to Fix Home Button Not Working Android
 
 Here, we are going to mention four common methods that you can try to resolve the home button problem on your Samsung Galaxy A15 4G with ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.1 One click to fix Android Home Button Not Working
 
@@ -258,6 +250,10 @@ Step 3: Next, you will navigate to a device information page where you have to p
 
 ![home button not working android  - check device info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: After that, the software will download the appropriate firmware to repair your Android system.
 
 ![home button not working android - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -265,10 +261,6 @@ Step 4: After that, the software will download the appropriate firmware to repai
 Step 5: After downloading the firmware, the software will start the repair process. Wait for a few seconds, the problem should get fixed and your phone will get back to its normal state.
 
 ![home button not working android - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.2 Force Restart your Android
 
@@ -327,6 +319,10 @@ Cons:
 
 URL: [https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en\_US](https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en_US)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.2 Button Savior app
 
 Button Savior app is one of the ultimate apps that can help you to fix the Android home button not working problem with ease. For this app, root and no root versions are available on the Google Play store. To fix the Home button not working issue, no root version is the right one. But, if you want to fix the Back button or other buttons, then you need to go for the root version.
@@ -344,6 +340,10 @@ Cons:
 - The root version of the app can cause data loss.
 
 URL: [https://play.google.com/store/apps/details?id=com.smart.swkey" target="\_blank" rel="nofollow](https://play.google.com/store/apps/details?id=com.smart.swkey)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.3 Navigation Bar (Back, Home, Recent Button) app
 
@@ -369,6 +369,10 @@ URL: [https://play.google.com/store/apps/details?id=nu.nav.bar](https://play.goo
 Home button app is another remarkable solution to replace broken and failed home buttons for users having trouble while using buttons. With this app, it is quite easy to press or even long press on the home button as assistive touch.
 
 ![home button app](https://images.wondershare.com/drfone/article/2019/02/home-button-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Pros:
 
@@ -454,6 +458,10 @@ Though there could be slight variations between different phones, you can usuall
 
 ![factory reset on android](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Restart Your Samsung Galaxy A15 4G
 
 While a factory reset is all but guaranteed to fix the issues you’re encountering with your videos, sometimes a simple restart might do the trick just fine. A restart works by clearing your RAM (Random Access Memory).
@@ -483,11 +491,7 @@ You might need a network reset if your phone can’t connect to a Wi-Fi network.
 ![android network reset](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5. Clear the Cache
@@ -499,10 +503,6 @@ On average, you should clear your phone’s cache every few months to ensure tha
 To clear the cache from your apps, you’ll want to go to **Settings > Apps.** From there, select the app you want to remove the cache from, scroll down to **Storage**, then choose **Clear Cache**.
 
 ![clear cache on android apps](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6. Update Android OS
 
@@ -540,18 +540,10 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your Samsung Galax
 
 ![dr.fone downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 9**: When the download is complete, select **Fix Now** to install it.
 - **Step 10**: Type **000000**, then select **Confirm**to continue fixing your device.
 
 ![wondershare dr.fone system repair confirmation](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 11**: Wait for the **Repairing Now**process to finish.
 - **Step 12**: Once the process is complete, click **Done**.
@@ -559,6 +551,10 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your Samsung Galax
 If the reason your videos wouldn’t play on your Samsung Galaxy A15 4G was a fault in the OS, everything should be functioning well after repairing your phone with Wondershare Dr.Fone.
 
 Remember that repairing your device with Wondershare Dr.Fone might result in data loss. Back up all your essential data before fixing your OS using this software to stay safe.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8. Update the Video App
 
@@ -575,6 +571,10 @@ If online videos are causing problems, not your recorded or downloaded ones, you
 Cookies are usually there to improve the user experience, allowing you to load websites faster and enjoy improved performance. However, if your cookies and browsing data occupy too much space, they could pose problems.
 
 You’ll first need to launch your mobile browser to clear cookies and browsing data. If you’re using Google Chrome, the process is simple and streamlined. Tap the three dots in the upper right corner and go to **Settings**. From there, go to **Privacy and security > Clear browsing data > Clear data**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10. Reinstall Video Apps
 
@@ -608,18 +608,24 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-basic-framework-of-tech-driven-narratives/"><u>[New] Basic Framework of Tech-Driven Narratives</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-google-pixel-8-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Google Pixel 8 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-c55-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme C55 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210457000-9781957208299-finding-spirit-in-prison-inmates-dreams/"><u>Finding Spirit in Prison Inmates Dreams | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-iphoneandroid-apps-for-aspiring-creators/"><u>In 2024, Essential iPhone/Android Apps for Aspiring Creators</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-forecasting-facebooks-video-trajectory-with-a-focus-on-brevity/"><u>In 2024, Forecasting Facebook's Video Trajectory with a Focus on Brevity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-tech-insights-the-unmatched-expertise-at-toms-hardware/"><u>Mastering Tech Insights: The Unmatched Expertise at Tom's Hardware</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ating-the-maze-of-personal-style-and-business-identity-for-2024/"><u>Navigating the Maze of Personal Style & Business Identity for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-out-of-space-on-windows/"><u>Overcoming Out Of Space On Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-effective-management-of-your-tweets-with-a-content-calendar/"><u>Step-by-Step Tutorial: Effective Management of Your Tweets with a Content Calendar</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-itel-a05s-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Itel A05s Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-discovering-the-ultimate-gopro-camera-max-or-hero-11/"><u>[New] Discovering The Ultimate GoPro Camera Max or Hero 11?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/upercharge-your-channel-with-smart-youtube-collaborations-for-2024/"><u>[New] Supercharge Your Channel with Smart YouTube Collaborations for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-pros-handbook-to-perfecting-your-gopro-studio-project/"><u>[Updated] 2024 Approved The Pro's Handbook to Perfecting Your GoPro Studio Project</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-share-a-podcast-on-instagram-story-or-post/"><u>[Updated] Share a Podcast on Instagram Story or Post</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-a-guide-to-designing-spectacular-photo-tileworks/"><u>2024 Approved A Guide to Designing Spectacular Photo Tileworks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-accessing-googles-video-conference-platform/"><u>2024 Approved Accessing Google's Video Conference Platform</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-monthly-revenue-streams-for-video-content-creators/"><u>2024 Approved Monthly Revenue Streams for Video Content Creators</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ace-your-savings-with-apple-why-the-quietly-advertised-ipad-pro-cut-prices-outshine-prime-day-offers-insights-for-tech-aficionados/"><u>Ace Your Savings with Apple: Why the Quietly Advertised iPad Pro Cut Prices Outshine Prime Day Offers – Insights for Tech Aficionados</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nokia-c12-plus-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nokia C12 Plus? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-oppo-f23-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Oppo F23 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-c67-4g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme C67 4G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-sony-xperia-5-v-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Sony Xperia 5 V Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/scrutinizing-the-pros-and-cons-of-boses-audio-device/"><u>Scrutinizing the Pros and Cons of Bose's Audio Device</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oppo-find-x7-ultra-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo Find X7 Ultra Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211475075-9789948749684-klyl-mn-alshr-la-ydr/"><u>قليل من الشر لا يضر | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Want to Uninstall Google Play Service from Realme 12+ 5G? Here is How | Dr.fone
-date: 2024-07-30T12:12:52.697Z
-updated: 2024-07-31T12:12:52.697Z
+date: 2025-01-12T16:24:43.726Z
+updated: 2025-01-14T17:26:34.341Z
 tags: 
   - problems
 categories:
@@ -36,12 +36,13 @@ By now, you already know all the repercussions of getting rid of Google Play Ser
 
 To disable the Google Play Services, just go to your phone’s Settings > Applications > All and open Google Play Services. You will get to know about the app’s detail and a few other options here. Just tap on the “Disable” button. It will generate another pop-up message. Confirm it by tapping on the “Ok” button. This will disable Google Play Services on your device. Later, you can follow the same drill to enable it as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![uninstall google play services-open Google Play Services](https://images.wondershare.com/drfone/article/2017/06/14981537155144.jpg)
 
 Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Fix Unresponsive Touch Screen on Realme 12+ 5G
 
@@ -49,14 +50,12 @@ With the increase in our reliance on smartphones, having **touchscreen problems*
 
 If your **touchscreen is malfunctioning** or doesn’t work correctly, you cannot interact with your device. On this page, you’ll learn general **phone touch problems** on Android and how to get rid of them. Now explore the article to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![android screen problems intro](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Why Is My Android Experiencing Touch Screen Problems
 
 Below are some of the most common reasons you’re experiencing touch problems on your Android smartphone.
@@ -77,22 +76,16 @@ If any of the outlined reasons above are the cause of your **touch screen malfun
 
 Some phone cases and screen protectors cause **touch problems** on your Android screen. This issue is prevalent if you recently changed your phone case or screen protector. It may be due to incompatibility, but you should remove them to see if your phone starts responding again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![android remove screen protector](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Clean Your Android Smartphone
 
 A **touchscreen malfunctioning** can also be a sign of a dirty display. Since the screen relies on contact between your fingers and the touchpad to perform actions, this also applies to foreign particles such as dirt, debris, smudges, oil, and more. Clean your touchscreen with wipes or a soft cloth by gently wiping over the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android dirty screen](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-03.jpg)
 
 ### Method 3: Stop Using Your Android Device for a While
@@ -105,11 +98,12 @@ Performing a reboot sounds trivial with such a complicated issue. But sometimes,
 
 ![android restart method](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To restart your Android, press and hold the **Power** button for several seconds to switch off your phone. In other smartphones, you may need to hold down the **Power** button as well as the **Volume Down** button at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 5: Factory Data Reset Your Android
 
 Before attempting to have your device checked for any hardware defects, you should try completing a Factory Reset. To do this, go to **Settings > Backup and Reset.** Next, tap on **Factory data reset** \> **Delete all**.
@@ -132,10 +126,6 @@ Placing your Android into **Recovery Mode** is different depending on your Andro
 
 **Step 1C**: If step 1A did not put your Android into **Recovery Mode**, press and hold the **Power** and **Volume Up** and **Down** buttons simultaneously. Continue pressing all three until the screen starts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![android recovery mode 01](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-06.jpg)
 
 **Step 2**: Use the **Volume** buttons to navigate the choices, select Wipe data/factory reset, and confirm your choice with the **Power** button.
@@ -144,34 +134,26 @@ Placing your Android into **Recovery Mode** is different depending on your Andro
 
 **Step 3**: Wait for the process to complete and for your Realme 12+ 5G to restart automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Method 7: Replace Your Android Touchscreen
 
 If doing all the earlier workarounds and fixes couldn’t resolve the **touchscreen problem,** it could be the screen itself. While replacing the touchscreen yourself is possible if you have the technical know-how, it’s still best to bring it to a professional to prevent further damage. You should have your Realme 12+ 5G checked by a technician if the screen is getting weak, has water damage, or has failing screen components.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![图像](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-08.jpg)"
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 8: Bring it to an Authorized Service Center
 
 Your **phone touch problem** might not be caused by the screen, even when you had it replaced. If your Android is still unresponsive, it’s best to bring your smartphone to an authorized service center or directly to the phone manufacturer, especially when all efforts are exhausted.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How To Fix Android Touch Problem With an Alternative
 
 If all the general **phone touch problems** on your Realme 12+ 5G persist, you should strongly consider [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) to do the job. The program can fix all Android system issues without any required skills. Problems caused by the operating system or software, such as the black screen of death, boot loop, ghost touch, and more, are done within less than 10 minutes with the program.
 
 ![dr.fone main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features
 
 Dr.Fone – System Repair (Android) has many features you can immediately take advantage of. Here are some of them below.
@@ -184,13 +166,6 @@ Wondershare Dr.Fone allows you to fix all **touchscreen problems** on your smart
 
 The program supports almost all Realme 12+ 5G models and other Android devices, whether unlocked or from a carrier. Dr.Fone is equipped with all the proper firmware to flash your Realme 12+ 5G with just a few clicks. In addition, it has handy on-screen instructions to help you complete the whole process with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Pros and Cons
 
 Here are the pros and cons of using Dr.Fone – System Repair (Android) to know if you’re still undecided.
@@ -206,17 +181,15 @@ Here are the pros and cons of using Dr.Fone – System Repair (Android) to know 
 - If you own an iOS device, you’ll have to get the iOS version.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How To Fix Black Phone Screen With Wondershare Dr.Fone
 
 Follow the step-by-step guide below to start fixing general phone screen problems on Android using Wondershare Dr.Fone.
 
 **Step 1**: Download and install Wondershare Dr.Fone on your computer. Next, launch the program and connect your Realme 12+ 5G to your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![dr.fone general phone screen problems 01](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step 2:** Click **Start** to initiate the setup on a new window. From there, select the **Brand, Name, Model, Country,** and **Carrier** of your Realme 12+ 5G and click **Next**.
@@ -225,21 +198,12 @@ Follow the step-by-step guide below to start fixing general phone screen problem
 
 **Step 3**: Follow the on-screen instructions on the main program window to initiate the repair process. After that, wait for your Android smartphone to return to its original state.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![dr.fone general phone screen problems 03](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: FAQs
 
 Here are some FAQs you should remember when experiencing **phone touch problems**.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Does a Cracked Screen Affect Touch on an Android?
 
 If you continue using a smartphone with a cracked screen, there are several implications. Your device will be vulnerable to further damage and might develop **touchscreen problems**,and your sensors will gradually begin to malfunction. The capabilities of your device are also compromised the longer you delay repairing it. Moreover, a cracked screen can put your fingers at risk of injury due to potential glass splinters.
@@ -262,9 +226,6 @@ If the **touchscreen is malfunctioning** on your smartphone, one of the fixes a
 
 However, if your screen is broken or cracked, going to an authorized service center is still your best bet, especially when your screen urgently needs a replacement. Delaying it further may hurt your wallet in the long run, so it’s best to fix it as soon as possible.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Home Button Not Working on Realme 12+ 5G? Here Are Real Fixes
 
 There is no doubt that it is quite frustrating when your device buttons, such as home and back don’t work properly. The reasons can be software as well as hardware issues. If you are wondering whether there is any solution to fix this problem, then you’ve come to the right place. Firstly, yes some methods can probably help you to come out of this issue. Here, in this guide, we have covered various solutions you can try to resolve the “home button not working Android” problem no matter whether it is due to software or hardware reason.
@@ -273,18 +234,12 @@ There is no doubt that it is quite frustrating when your device buttons, such as
 
 Here, we are going to mention four common methods that you can try to resolve the home button problem on your Realme 12+ 5G with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### 1.1 One click to fix Android Home Button Not Working
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>[Try It Free](https://download.wondershare.com/drfone_repair_full3371.exe)
 
 When it comes to the home button not working Realme 12+ 5G problem, the most common reason is the unknown system issues. In such a scenario, the best solution is using Dr.Fone - System Repair (Android) software to repair your Android system to normal in one click. This tool is powerful enough to resolve various Android issues within a few minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix home button not working on Android
@@ -303,11 +258,12 @@ Step 1: To begin with the process, launch the software on your computer and sele
 
 ![fix home button not working android](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Thereafter, connect your Realme 12+ 5G to the computer using a USB cable and select the “Android Repair” tab from the left menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![home button not working android - connect device](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Next, you will navigate to a device information page where you have to provide your device information.
@@ -320,10 +276,11 @@ Step 4: After that, the software will download the appropriate firmware to repai
 
 Step 5: After downloading the firmware, the software will start the repair process. Wait for a few seconds, the problem should get fixed and your phone will get back to its normal state.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![home button not working android - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.2 Force Restart your Android
 
@@ -338,8 +295,9 @@ Step 2: Next, press the power button for a few moments to force restart your dev
 ![home button not working android - force restart](https://images.wondershare.com/drfone/article/2019/02/force-restart.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1.3 Restore Factory Settings
 
 If force restarting won’t help you to fix the problem you are facing, it’s time to reset your Realme 12+ 5G to factory settings. The factory reset on an Android device will erase all of your phone settings, third-party apps, user data, and other app data to restore your device to its original manufacturer condition or settings. It means that this can bring back your device to its normal state.
@@ -368,14 +326,15 @@ Step 2: After that, click “Check for updates” and if updates are available, 
 
 When your Android home and back button not working because of hardware reasons, you can’t get the problem resolved by simply rebooting your device. In such cases, you have to use alternative apps to replace the home button.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1 Simple Control app
 
 The Simple Control app is the first and foremost solution to fix the Android home button not working issue. With the help of this app, you can fix many soft keys of your device. It is specially designed for Android users facing trouble using home, volume, back, and camera buttons. Plus, the app utilizes Accessibility service, but it doesn’t get access to your sensitive and personal information.
 
 ![simple control app](https://images.wondershare.com/drfone/article/2019/02/simple-control-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Pros:
 
@@ -388,17 +347,10 @@ Cons:
 
 URL: [https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en\_US](https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en_US)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.2 Button Savior app
 
 Button Savior app is one of the ultimate apps that can help you to fix the Android home button not working problem with ease. For this app, root and no root versions are available on the Google Play store. To fix the Home button not working issue, no root version is the right one. But, if you want to fix the Back button or other buttons, then you need to go for the root version.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![button savior](https://images.wondershare.com/drfone/article/2019/02/button-savior-app.jpg)
 
 Pros:
@@ -413,9 +365,6 @@ Cons:
 
 URL: [https://play.google.com/store/apps/details?id=com.smart.swkey" target="\_blank" rel="nofollow](https://play.google.com/store/apps/details?id=com.smart.swkey)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.3 Navigation Bar (Back, Home, Recent Button) app
 
 Navigation Bar app is another great solution to fix the home button not responding problem. It can replace broken and failed button for users who are facing difficulty using navigation bar panel or buttons not working properly. The app offers numerous features, and it is easy to use.
@@ -435,9 +384,6 @@ Cons:
 
 URL: [https://play.google.com/store/apps/details?id=nu.nav.bar](https://play.google.com/store/apps/details?id=nu.nav.bar)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### 2.4 Home Button app
 
 Home button app is another remarkable solution to replace broken and failed home buttons for users having trouble while using buttons. With this app, it is quite easy to press or even long press on the home button as assistive touch.
@@ -478,9 +424,6 @@ URL: [https://play.google.com/store/apps/details?id=com.home.button.bottom](http
 
 Hopefully, the methods covered in this post helps you to fix Android home and back button not working problem for you. If it is a system issue, then the best thing you can do is to take advantage of Dr.Fone - System Repair (Android) software. It can surely help you to fix your Android system to normal within a few minutes.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -493,7 +436,18 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-realtek-high-definition-audio-not-plugged-in/"><u>[FIXED] Realtek High Definition Audio Not Plugged In</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-optimizing-vimeo-media-velocity/"><u>[New] Optimizing Vimeo Media Velocity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-an-insiders-take-on-instagram-highlights/"><u>[Updated] An Insider's Take on Instagram Highlights</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-pip-setup-elevating-your-visual-presentations-on-macos/"><u>Advanced PIP Setup Elevating Your Visual Presentations on macOS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210769685-9781644118832-body-mandala-2nd-ed/"><u>Body Mandala (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/gionee-f3-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gionee F3 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-tecno-camon-20-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Tecno Camon 20 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/maximizing-visibility-in-a-newly-updated-social-platform-for-2024/"><u>Maximizing Visibility in a Newly Updated Social Platform for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-lava-yuva-3-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Lava Yuva 3 Pro Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

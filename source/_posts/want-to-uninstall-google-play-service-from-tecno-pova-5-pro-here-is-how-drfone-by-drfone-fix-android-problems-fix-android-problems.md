@@ -1,7 +1,7 @@
 ---
 title: Want to Uninstall Google Play Service from Tecno Pova 5 Pro? Here is How | Dr.fone
-date: 2024-07-30T12:14:14.431Z
-updated: 2024-07-31T12:14:14.431Z
+date: 2025-01-12T18:00:52.148Z
+updated: 2025-01-14T17:10:15.814Z
 tags: 
   - problems
 categories:
@@ -30,18 +30,12 @@ If you think that Google Play Service only provides a platform to download new a
 
 Furthermore, it might tamper with the overall functionality of your device as well. For instance, you could encounter network issues, messaging problems, app crashing, and more. Since the Play Service is closely associated with Android system, it might have a prominent effect on your phone. If you have a rooted device, then you can easily install custom ROM and resolve these issues. Though, for a non-rooted device, overcoming these problems could be a big hurdle.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to disable Google Play Service?
 
 By now, you already know all the repercussions of getting rid of Google Play Services permanently. Before you learn how to update Play Store after uninstalling updates, be sure whether you wish to uninstall Google Play Services or not. You can also choose to simply disable the services as well. If you face any severe issue afterward, then you can always enable the services manually.
 
 To disable the Google Play Services, just go to your phone’s Settings > Applications > All and open Google Play Services. You will get to know about the app’s detail and a few other options here. Just tap on the “Disable” button. It will generate another pop-up message. Confirm it by tapping on the “Ok” button. This will disable Google Play Services on your device. Later, you can follow the same drill to enable it as well.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall google play services-open Google Play Services](https://images.wondershare.com/drfone/article/2017/06/14981537155144.jpg)
 
 Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
@@ -54,11 +48,6 @@ Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog o
 
 You should start fixing the WhatsApp crashing issue with fixing the Android firmware. This is because the Android firmware components are many times the hidden culprit behind the problem of why a particular app stops working. And to fix these components in one click, you need Dr.Fone - System Repair (Android). It is one of the safest tools around in the market and works efficiently with Android system issues. It promises to bring your device back to normal and healthy state. Here are the benefits you get with this amazing tool.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Android repair tool to fix firmware component issues
@@ -75,18 +64,12 @@ Android repair tool to fix firmware component issues
 
 To start repairing, go to the official website of Dr.Fone - System Repair (Android) and download it. Install it and then open the tool on your PC. To proceed, look for the “System Repair” tab and click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![whatsapp not opening - fix with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Choose the Right Tab**
 
 As the next step, you need to take the help of USB cable and then plug your device to the computer. Once connected appropriately, make sure to click on the “Android Repair” tab from the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp not opening - choose repair tab](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step 3: Enter Details**
@@ -99,9 +82,6 @@ Next will be the information screen. Simply enter the model, brand and other det
 
 Subsequently, you need to go along with the onscreen instructions. This will boot your device in the download mode. The step is necessary to download the firmware. When you follow the steps, you need to click “Next”. The program will then start downloading the firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 **Step 5: Repair Android**
@@ -130,9 +110,6 @@ A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp
 
 ![whatsapp stopping - fix component corruption](https://images.wondershare.com/drfone/article/2019/06/install-whatsapp.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cause 4: Not Enough Storage on your Phone
 
 Insufficient storage could be the other reason why for your WhatsApp has stopped. When your device starts running out of space, some apps may not be able to operate properly for their functions take up space in the Tecno Pova 5 Pro device. And probably WhatsApp is one of them. If the space is the case with you, we suggest you the following two things to go with.
@@ -141,8 +118,9 @@ Insufficient storage could be the other reason why for your WhatsApp has stopped
 - Secondly, start eliminating the apps that are no longer needed. This will indeed create more space in your device and will let your WhatsApp wok properly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Cause 5: Gmail Account no longer valid or hacked
 
 It is a well-known fact that Android device and Gmail account go hand in hand. To run the Tecno Pova 5 Pro device smoothly, it is always asked to enter your Gmail address for further configurations. And when WhatsApp stops on your device, the reason might be your Gmail account. Most probably it is not valid now or maybe hacked. If this is the case, we suggest you to log out and log in with some another Gmail account.
@@ -150,9 +128,6 @@ It is a well-known fact that Android device and Gmail account go hand in hand. T
 - Log out by opening “Settings” and tap on “Accounts”.
 - Choose your Google account and tap on “REMOVE ACCOUNT”.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - fix gmail account](https://images.wondershare.com/drfone/article/2019/06/log-out-gmail.jpg)
 
 Now, you can login again and check if WhatsApp works or not.
@@ -181,17 +156,26 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - fix by installing gbwhatsapp](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Using the browser on your phone, download the app from any of the aforementioned website.
 - Launch the GBWhatsApp apk and follow the onscreen instruction in order to install. You need to go in a similar way as you do in mormal WhatsApp app.
 
 ![whatsapp stopping - launch gbwhatsapp](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Simply proceed with entering your name, country and contact number. The app will verify your account. You are now ready to use this app.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Pova 5 Pro
 
@@ -201,9 +185,6 @@ Google Play Store is a necessary and bundled service of any Android device. This
 
 If you search on the internet, you may find various tricks dealing with Google Play Store not working issue. However, either to try each of them or choose several to follow would certainly cost a lot of time. What's more, we are not sure whether they will really work. Therefore, we would recommend you with a more effective and fast way, that is to use [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), a dedicated Android repair tool to fix Google Play Store, not working issues just in one click.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 A most effective method to fix Google Play Store not working
@@ -219,24 +200,23 @@ A most effective method to fix Google Play Store not working
 
 1. Get this tool downloaded on your computer. Install and launch it, and you can find the following welcome screen displayed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![fix google play store not working using a dedicated tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Select the option "System Repair". In the new interface, click on the "Android Repair" tab.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix google play store not working by selecting the repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 1. Start fixing Google Play Store not working by clicking "Start". Select and confirm the correct model details as instructed.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![fix google play store not working in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Activate the Download mode from your Tecno Pova 5 Pro.
 
@@ -248,28 +228,22 @@ A most effective method to fix Google Play Store not working
 
 1. The downloaded firmware will be loaded and flashed to your Tecno Pova 5 Pro to fix the Google Play Store not working issue.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![fix google play store stopping by flashing firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 1. Wait until the Android repair process is complete. Start your Android and Google Play Store, you can then find that the Google Play Store not working issue no longer exists.
 
 ![google play store stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Video tutorial to fix Google Play Store not working
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Other 10 common methods to fix Google Play Store issues
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### 1\. Fix Date and Time settings
 
 Sometimes Google creates a problem connecting with the Play Store or Play store crashing due to the wrong date and time. The first and most common thing is you have to check if the date and time are updated or not. If not, update it first by following the below step by step guide.
@@ -280,22 +254,10 @@ Step 1 – First, go to the “Settings” of your device. Find ‘Date and time
 
 Step 2 – Now you can see several options. Select “Automatic date and time”. This should override the wrong date and time your device have. Else, deselect the tick beside that option and select the date and time manually.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Select “Automatic date and time”](https://images.wondershare.com/drfone/article/2017/06/14985032658893.jpg)
 
 Step 3 – Now, go to the Play store and try to connect again. This should be working without any problem now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### 2\. Cleaning of Cache data of Play Store
 
 This may happen that sometimes Google Play Store stopped working due to excessive unnecessary data stored in the cache of the Tecno Pova 5 Pro device. So, clearing unnecessary data is very important to keep the application run smoothly. To do this, you need to follow the below steps.
@@ -312,9 +274,6 @@ Step 4 – Now, you can find a screen like below. Tap on “Clear cache” to re
 
 Now, again try to open Google Play Store and you may successfully overcome the Play Store not working issue. If not, check the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Reset Play store by Clear data
 
 If the above solution is not working for you, you might try this option instead. This step will erase all the app data, settings, etc so that it can be set up a fresh one. This will also fix the Google Play store not working issue. For this solution, use the following method step by step.
@@ -329,9 +288,6 @@ Step 3 – Now, instead of tapping “Clear cache”, tap on “Clear data”. T
 
 After this, open “Google Play Store” and now your problem might be solved now.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Reconnecting the Google account
 
 Sometimes it may happen that removing and reconnecting your Google account may solve the Play Store not working issue. To do this, you need to follow the instructions below.
@@ -348,9 +304,6 @@ Step 3 – Now click on the top right side three dots or “more” option. Here
 
 Now, go back and try to open Google Play Store again. This should work now and enter your Google ID and password again to continue. If it’s still not working, move to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Reinstall the latest version of Google Play Store
 
 Google Play store can’t be uninstalled completed completely from your Tecno Pova 5 Pro. But disabling and reinstalling its latest version can resolve the Play Store crashing issue. For doing this, just follow the below guide.
@@ -360,6 +313,10 @@ Step 1 – First of all, go to “Settings” and then move on to “Security”
 Step 2 – Upon clicking on this option, you can find “Android device manager”. Uncheck this and disable.
 
 ![find “Android device manager”](https://images.wondershare.com/drfone/article/2017/06/14985034072163.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3 – Now you can be able to uninstall Google play service by going into application manager.
 
@@ -379,10 +336,11 @@ Step 2 – Here you can find “Google Service Framework”. Open it.
 
 Step 3 – Now, tap on “Clear cache”. And you are done.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on “Clear cache”](https://images.wondershare.com/drfone/article/2017/06/14985037595737.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now go back and try to open Google Play store again. This might solve the Google Play Store has stopped the problem by now. If not, check the next solution.
 
@@ -400,9 +358,6 @@ Step 3 – Here you can find “VPN”.  Tap on it and turn it off.
 
 Now, again go back and try to open the Google Play Store. This may solve your problem now. If not, check the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### 8\. Force stop Google Play Service
 
 Google Play Store needs to be restart just like your PC. This is a really helpful and common trick to overcome the Play Store crashing issue on your Tecno Pova 5 Pro. To do this, follow the below steps.
@@ -413,12 +368,13 @@ Step 2 – Now find “Google Play Store” and click on it.
 
 Step 3 – Here click on “Force Stop”. This allows the Google Play Store to stop.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![click on “Force Stop”](https://images.wondershare.com/drfone/article/2017/06/14985037034838.jpg)
 
 Now, try to open Google Play store again and this time the service is being restarted and might work properly. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 9\. Try a Soft Reset of your device
 
@@ -432,9 +388,6 @@ Step 2 – Now, click on ‘Reboot’ or ‘Restart’ option. Your device will 
 
 After restarting, try to open the Google Play Store again and this time you should succeed. If any case, it's not opening, try the last (but not the least) method by hard reset your Android.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 10\. Hard reset your device
 
 If you have done with all of the above solutions and still Play Store crashing, and you are aggressive to get it, then only try this method. Using this method will delete all the data of your device. So take a backup of the whole. Follow the step by step instruction below.
@@ -445,17 +398,11 @@ Step 2 – Click on it. And then Click on the “Factory data reset” option.
 
 Step 3 – Now confirm your action and tap on the “Reset device”.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![tap on “Reset device”](https://images.wondershare.com/drfone/article/2017/06/14985039036497.jpg)
 
 This will take a while to reset your device completely. After completion, start the Google Play Store and set up as a new device.
 
 The above methods are the best 11 among all the solutions you can get for your Play Store not working on wifi or Play Store crashing error. Try one by one and you might get rid of this problem.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -469,7 +416,24 @@ The above methods are the best 11 among all the solutions you can get for your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-tickletech-design-easy-entertaining-visuals/"><u>[New] TickleTech Design Easy, Entertaining Visuals</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-soundshapers-for-content-makers-on-youtube/"><u>[Updated] 2024 Approved Best Soundshapers for Content Makers on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enhancing-googles-speech-to-text-capabilities-effectively-for-2024/"><u>[Updated] Enhancing Google's Speech-to-Text Capabilities Effectively for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-easy-way-adding-external-yt-videos-to-your-powerpoint-sessions/"><u>[Updated] The Easy Way Adding External YT Videos to Your PowerPoint Sessions</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-x50i-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor X50i Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-strategies-for-crafting-impactful-testimonials/"><u>2024 Approved Master Strategies for Crafting Impactful Testimonials</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-s23-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy S23 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-walkthrough-powerdirector-24-edition/"><u>Complete Walkthrough PowerDirector '24 Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oneplus-11-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on OnePlus 11 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-6-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 6</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/playstation-5-slim-revealed-release-schedule-cost-estimates-and-core-features-uncovered/"><u>PlayStation 5 Slim Revealed: Release Schedule, Cost Estimates & Core Features Uncovered</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/understanding-aac-vs-flac-key-distinctions-and-tips-for-successful-audio-format-conversion/"><u>Understanding AAC vs FLAC: Key Distinctions & Tips for Successful Audio Format Conversion</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-x50iplus-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor X50i+? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-find-x7-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Find X7 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-xcover-7-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy XCover 7 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy A23 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2025-01-01T18:20:08.974Z
-updated: 2025-01-07T21:16:03.466Z
+date: 2025-01-13T16:46:47.179Z
+updated: 2025-01-14T16:14:21.867Z
 tags: 
   - problems
 categories:
@@ -62,13 +62,13 @@ Another quick remedy to try on your Samsung Galaxy A23 5G smartphones involves u
 
 ![choose the system option](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** As you lead to the advanced options, look for “System update” in the provided options. Look for the “Check for update” button. This will check if your Samsung Galaxy A23 5G needs any software updates or not.
 
 ![tap on check for update](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 4: Using Wondershare Dr.Fone
 
@@ -108,10 +108,6 @@ To proceed, tap the "Next" button to download the firmware. As you verify the fi
 
 ![repairing the nokia phone](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 5: Contact the Customer Service Center of Samsung Galaxy A23 5G
 
 If the issue of the ****Samsung Galaxy A23 5G  stuck on the "Samsung Galaxy A23 5G" screen**** continues, you will have to contact the Samsung Galaxy A23 5G device's customer support. With no proper method left for the Samsung Galaxy A23 5G device, the only effective technique is to visit the authorized store for Samsung Galaxy A23 5G smartphones and claim the issue with the Samsung Galaxy A23 5G device. In this way, you might receive or get a fully repaired device with no additional charges if the Samsung Galaxy A23 5G smartphone is under warranty.
@@ -138,6 +134,10 @@ As you have observed, the power of Dr.Fone can be a perfect phone manager for yo
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,675,795** people have downloaded it
 
 ## Conclusion
@@ -145,10 +145,6 @@ As you have observed, the power of Dr.Fone can be a perfect phone manager for yo
 With that, this brings the article on Samsung Galaxy A23 5G smartphones to a conclusion. If you are still facing issues with your ****Samsung Galaxy A23 5G  stuck on the "Samsung Galaxy A23 5G" screen,**** this article is the perfect solution for your problem.
 
 With all the provided methods, we do hope that you will be able to restore the status of your Samsung Galaxy A23 5G smartphone and make it functional. For the finest results, you have also discovered Dr.Fone – System Repair (Android) as the best solution for repairing such devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bricked Your Samsung Galaxy A23 5G? Here’s A Full Solution
 
@@ -172,10 +168,6 @@ World's 1st Android smartphone and tablet recovery software.
 - 100% safe to use.
 
 **4,771,974** people have downloaded it
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Use Dr.Fone - Data Recovery (Android) to Rescue Data from a Bricked Android
 
@@ -220,10 +212,6 @@ Step 1: Load up Clockworkmod or any other recovery tool that you have been using
 Step 2: Once you are in, navigate to the “Reboot system now.” If you are using Clockworkmod, this should be your first option. Hopefully everything will work just right if you do this, If it doesn’t you may need to download and re-flash the ROM again.
 
 ![bricked android phone data recovery-Reboot system now.](https://images.wondershare.com/drfone/others/fix-bricked-android-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When the Samsung Galaxy A23 5G device won’t stop rebooting
 
@@ -303,11 +291,11 @@ One of the first things to do any time an app or your phone or tablet does not w
 
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.II: Close And Relaunch The Camera App
 
@@ -345,6 +333,10 @@ Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.V: Clear The Photo Gallery App Cache
 
 The camera app is closely tied to the photo gallery app that comes baked in into Android OS. That is because photos that the camera app takes are stored in the photo gallery app. Consequently, if there were any issues in the photo gallery app, that could lead to the camera app not working on Android problem. Here’s how to clear the photo gallery app cache:
@@ -376,7 +368,7 @@ We do not realize the immense power that is packed into the thin smartphone form
 If this is the case, close all apps and let the phone cool down. You might even want to shut the phone off to help cool it faster.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### II.VIII: Nudge The Camera System
@@ -396,7 +388,7 @@ Download Dr.Fone here.
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 1: Launch Dr.Fone app on your PC or Mac.
@@ -412,7 +404,7 @@ Step 3: For now, don’t bother with the scenarios given and click Start to go t
 ![drfone system repair android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Your Android device will be detected by Dr.Fone. If anything seems incorrect, use the dropdown options to change it, and click Next.
@@ -427,6 +419,10 @@ Step 6: Dr.Fone automatically downloads the most recent firmware for your device
 
 ![fix android camera not working](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000) to confirm and begin the repair process.
 
 ![confirm android firmware repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -436,10 +432,14 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -459,22 +459,19 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-cutting-edge-techniques-for-background-resource-sourcing/"><u>[New] Cutting-Edge Techniques for Background Resource Sourcing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-trailers-that-convert-viewers-into-customers/"><u>[Updated] 2024 Approved Channel Trailers that Convert Viewers Into Customers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-craft-your-vision-best-cameras-for-video-creators-for-2024/"><u>[Updated] Craft Your Vision Best Cameras for Video Creators for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unveiling-concealed-intentions-the-art-of-snapchat-emojis/"><u>[Updated] In 2024, Unveiling Concealed Intentions The Art of Snapchat Emojis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-augmented-gaming-experience-the-top-8-list/"><u>2024 Approved Augmented Gaming Experience The Top 8 List</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-optimized-processes-for-effective-live-streaming-on-computer/"><u>2024 Approved Optimized Processes for Effective Live Streaming on Computer</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-tecno-spark-go-2023-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Tecno Spark Go (2023) Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-motorola-moto-e13-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Motorola Moto E13 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-blue-screen-error-in-winos/"><u>Eradicating Blue Screen Error in WINOS</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-poco-m6-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Poco M6 5G? Try These Fixes</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-honor-x7b-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Honor X7b Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-70-lite-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor 70 Lite 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-guide-changing-your-apple-id-password-in-2020/"><u>Complete Guide: Changing Your Apple ID Password in 2020</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-huawei-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Huawei Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-x-fold-2-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo X Fold 2 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-15-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 15 In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-ogg-formaat-omzetten-zonder-risicos-met-movavis-vrije-gratis-converter/"><u>Online OGG-Formaat Omzetten Zonder Risico's Met Movavi's Vrije Gratis Converter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/should-you-opt-for-copilot-pro-a-comprehensive-guide-highlighting-benefits-over-standard-copilot/"><u>Should You Opt for CoPilot Pro? A Comprehensive Guide Highlighting Benefits Over Standard CoPilot</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cket-views-with-strategic-youtube-titles-and-descriptions-for-2024/"><u>Skyrocket Views with Strategic YouTube Titles & Descriptions for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-motorola-edge-40-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Motorola Edge 40 Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unleash-the-full-potential-of-your-images-with-powerful-pixlr-hacks/"><u>Unleash the Full Potential of Your Images with Powerful Pixlr Hacks</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-honor-magic-5-lite-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor Magic 5 Lite Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Want to Uninstall Google Play Service from Realme 11 Pro? Here is How | Dr.fone
-date: 2024-07-30T12:12:45.277Z
-updated: 2024-07-31T12:12:45.277Z
+date: 2025-01-12T16:13:47.952Z
+updated: 2025-01-14T16:03:51.198Z
 tags: 
   - problems
 categories:
@@ -30,25 +30,16 @@ If you think that Google Play Service only provides a platform to download new a
 
 Furthermore, it might tamper with the overall functionality of your device as well. For instance, you could encounter network issues, messaging problems, app crashing, and more. Since the Play Service is closely associated with Android system, it might have a prominent effect on your phone. If you have a rooted device, then you can easily install custom ROM and resolve these issues. Though, for a non-rooted device, overcoming these problems could be a big hurdle.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to disable Google Play Service?
 
 By now, you already know all the repercussions of getting rid of Google Play Services permanently. Before you learn how to update Play Store after uninstalling updates, be sure whether you wish to uninstall Google Play Services or not. You can also choose to simply disable the services as well. If you face any severe issue afterward, then you can always enable the services manually.
 
 To disable the Google Play Services, just go to your phone’s Settings > Applications > All and open Google Play Services. You will get to know about the app’s detail and a few other options here. Just tap on the “Disable” button. It will generate another pop-up message. Confirm it by tapping on the “Ok” button. This will disable Google Play Services on your device. Later, you can follow the same drill to enable it as well.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall google play services-open Google Play Services](https://images.wondershare.com/drfone/article/2017/06/14981537155144.jpg)
 
 Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Flash Dead Realme 11 Pro Safely
 
 - Fix malfunctioning Android to normal in one click.
@@ -64,9 +55,6 @@ Given below are eight techniques to flash your Realme 11 Pro safely, depending u
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ZqS8c3T65WI"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Part 1: Can a Dead Phone Be Flashed?
@@ -75,15 +63,14 @@ Flashing a dead Android phone might be skeptical for many users who have been in
 
 From battery issues to physical damage to the Realme 11 Pro device, there can be many reasons your Realme 11 Pro died. The reasons for a dead Android phone are not restricted to these points. There can be software-related issues or firmware issues that might cause such havoc on your Android.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to flash Realme 11 Pro in one click
 
 While you are worried about how to flash Realme 11 Pro instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Realme 11 Pro logo.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 One-click solution to flash Realme 11 Pro
@@ -114,9 +101,6 @@ Step 2: Click ‘Android Repair’ from the available options, and then press th
 
 Step 3: On the Realme 11 Pro device information screen, pick the appropriate device brand, name, model, and other details followed by tapping the ‘Next’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![choose brand info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Put the Android device in Download mode to start repair.**
@@ -127,29 +111,22 @@ Step 1: It is essential to boot your Realme 11 Pro in Download mode before repai
 
 ![flash android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - In the absence of a ‘Home’ button: Switch off the Android device and hold the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons for 5 to 10 seconds, then release them. Hit the ‘Volume Up’ button for entering the ‘Download’ mode.
 
 ![flash android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2: Press the ‘Next’ button for initiating firmware download.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![flashing samsung galaxy](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Part 3: How to flash Realme 11 Pro dead phone with Odin?
@@ -160,10 +137,6 @@ Step 1: Install the driver software on the computer. You can find the best drive
 
 Step 2: Now download suitable firmware for your device in the form of a zip folder that you can open and store on your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![download suitable firmware](https://images.wondershare.com/drfone/article/2017/07/14991894766699.jpg)
 
 Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file types recognized by Odin.
@@ -172,14 +145,19 @@ Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file ty
 
 ![firmware md5 file](https://images.wondershare.com/drfone/article/2017/07/14991896708947.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: In this step, download the latest version of Odin on your PC and move it to the desktop, and then right-click on the downloaded Odin file to select “Run as Administrator”.
 
 ![download odin](https://images.wondershare.com/drfone/article/2017/07/14991896878336.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
 
@@ -187,9 +165,6 @@ Step 4: Now, boot your dead device to Download Mode by pressing the power, volum
 
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android download mode](https://images.wondershare.com/drfone/article/2017/07/14991897566586.jpg)
 
 Step 6: Now, you may use a USB to connect your Realme 11 Pro to the PC. Odin will recognize your device, and in the Odin window, you will see a message saying “Added”.
@@ -202,9 +177,6 @@ Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA
 
 Finally, once the flashing process is complete, your Realme 11 Pro phone will reboot and start normally, and you may see a “Pass” or “Reset” message on the Odin window on the PC.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to flash MTK Android dead phone with SP Flash tool?
 
 SP Flash tool, also known as SmartPhone Flash tool is a popular freeware tool used to flash custom ROM or firmware in MTK Android phones. It is a very successful tool and is extremely easy to use.
@@ -215,18 +187,10 @@ Step 1: To start with, download and install the MTK driver on your PC and then d
 
 Step 2: Once done, you should download the SP Flash tool and extract it on your PC and move on to launch the Flash\_tool.exe file to open the SP Flash tool window.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![download sp flash tool](https://images.wondershare.com/drfone/article/2017/07/14991898618783.jpg)
 
 Step 3: Now, on the SP Flash tool window, click on “Download” and select “Scatter-loading”.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![scatter loading](https://images.wondershare.com/drfone/article/2017/07/14991898892877.jpg)
 
 Step 4: The last step would be to locate the file downloaded by you and click “Open” and then finally, select “Download” on the SP Flash tool window.
@@ -249,15 +213,15 @@ First, download and install the Realme 11 Pro PC Suite driver on your PC. Then y
 
 Now, on the toolbar, click “Tools” and select “Data Package Download” from the drop-down list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![data package download](https://images.wondershare.com/drfone/article/2017/07/14991899684185.jpg)
 
 Then move to download the firmware for your dead Realme 11 Pro  and save it in a new Folder. Once done, go back to the Phoenix tool window and click on “File” and select “Open Product”.
 
 ![open product](https://images.wondershare.com/drfone/article/2017/07/14991899991748.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Simply, feed in the details and then click “OK”.
 
@@ -267,18 +231,16 @@ After this, click on “Flashing” and select “Firmware update” and then br
 
 Then move on to select “Dead Phone USB Flashing” from the Firmware Update Box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![dead phone usb flashing](https://images.wondershare.com/drfone/article/2017/07/14991900551025.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lastly, just click on “Refurbish” and connect your phone to the PC using a USB cable.
 
 That was it, the flashing process may take up to a few minutes after which your dead Realme 11 Pro  will restart automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: How to flash a dead phone that won’t turn on via factory reset?
 
 Using tools for flashing Android devices can be a solution; however, it is heavily restricted to the Realme 11 Pro device models. For a generalized solution, there can be other options that you can go with. Factory resetting an Android device by putting it in Recovery Mode is one way. To know **how to flash a dead Android phone** using factory reset, go through the steps featured below:
@@ -289,6 +251,10 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 
 ![choose wipe data factory reset option](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
 
 ## Part 7: How to flash a dead Android phone by checking screen faulty
@@ -297,23 +263,14 @@ The screen of your Realme 11 Pro may be faulty, due to which it is not launching
 
 If the Android vibrates on restarting and the screen does not lighten up, the problem can be directed to a hardware fault. The screen is broken and needs physical assistance to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
 
 ## Part 8: How to fix a dead Android phone by changing the battery
 
 Another solution that can help you fix the dead Android phone is changing its battery. The battery of an Android device can last up to 3 years. When its capacity drops to a bare minimum, it is best to change the battery of your Android. Upon trying to restart your Realme 11 Pro, if it does not, you might need to replace your battery. All Android phone batteries are removable, which should be regulated with proper supervision.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 9: How to repair dead Android phone by contacting official support
 
 If you are unable to discover any proper solution for **how to flash dead Android phones,** you might have to consult the respective customer support of the Android phone manufacturers. Consult customer support to discover why the phone is dead and how it can be flashed. The respective personnel will assist you in resolving the issue, which might require monetary input from your side.
@@ -326,17 +283,13 @@ It has been observed that Wondershare Dr.Fone – System Repair (Android) assist
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What to Do if Google Play Services Keeps Stopping on Realme 11 Pro
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![google play services app keeps stopping](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Is the annoying Google Play Services error constantly popping up on your phone? Is it happening while reading, gaming, or browsing social media?
 
@@ -368,9 +321,6 @@ Regardless of what’s causing the issue on your phone, we’ve compiled a list 
 
 There are many solutions for the issue of Google Play Services that keeps stopping. We’ve listed the most famous and effective ones, and you’ll find them below in no particular order. Try them out and see whether they fix the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 1. Do a Factory Reset
 
 A factory reset on any smartphone removes all your data on the phone’s internal storage and can even wipe your SD card clean if you select the option. Before you reset your phone to factory settings, ensure you’ve backed up all your essential apps and files. When you’re ready, you can do a factory reset by following these steps:
@@ -385,9 +335,6 @@ A factory reset on any smartphone removes all your data on the phone’s interna
 
 Your phone will now restart and start the reset process. Once the factory reset completes, your phone will look brand new, and you’ll need to install all your apps again. Moreover, your Google Play Services app will likely get fixed by this, too.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2. Update Your System
 
 As keeping your phone’s system and apps updated to the latest possible version is essential and recommended for the best performance and highest efficiency, you can try updating it to see whether it fixes your Google Play Services error. Here’s how:
@@ -398,9 +345,6 @@ As keeping your phone’s system and apps updated to the latest possible version
 
 Restarting your phone after an update, even if it doesn’t restart itself, is highly advisable, ensuring that the new updates apply without issues.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3. Revert to the Previous Version
 
 As we’ve discussed the wrong Play Services versions above, it’s worth noting that sometimes even the developers can make mistakes and roll out the wrong version for your phone. So, if you notice that the phone is getting the error after you’ve updated Google Services or the Play Store, you can quickly revert to the previous version, and here’s how:
@@ -411,10 +355,6 @@ As we’ve discussed the wrong Play Services versions above, it’s worth noting
 
 As these are system apps, you can’t remove them from the phone, and disabling them will only remove the updates, leaving you with a base version that came with your phone out of the box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### 4. Uninstall the App’s Updates and Reinstall
 
 Like reverting to the previous version, you can also try reinstalling updates to fix the Google Play Services has stopped working error. The process is similar to the one above, but we’ve still included the steps. Here’s how you can do that:
@@ -430,6 +370,10 @@ Like reverting to the previous version, you can also try reinstalling updates to
 
 As you’re already there, you might as well update all other apps after you tap **Manage apps & device**. That will ensure that older and not-up-to-date apps aren’t causing the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5. Check Storage
 
 Believe it or not, one of the leading causes of the Google Play Services issue is a phone overfilled with apps. Namely, if you have insufficient storage, the Google Play Store app will likely crash and display errors such as “Unfortunately, Google Play Services has stopped working.”
@@ -444,9 +388,6 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
 - **Step 1**: Launch the Wondershare Dr.Fone app on your PC and head into **Toolkit**\> **System Repair** > **Android**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![start the wondershare dr.fone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 2**: Select the type of issue you want to fix > **Start**.
@@ -455,16 +396,10 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
 - **Step 3**: Select the make and model of your phone so that Dr.Fone can find the appropriate Android software.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
     ![choose the phone model](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 4**: Connect the phone to the PC via a USB cable and follow the on-screen instructions to put the phone into **Download Mode**. The instructions are available for both phones with and without the home button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![put the phone into download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - **Step 5**: Select the appropriate Android firmware, download it, and hit **Fix Now**after it downloads.
@@ -473,9 +408,6 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
 - **Step 6**: Enter the code and hit **Confirm**to continue the system repair process. When it’s done, click the **Done**
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![confirm android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 That’s all it takes to do a system repair with Wondershare Dr.Fone. Give the software a few minutes to complete, during which your phone might restart a few times. Once it’s done, your Google Play Services app will undoubtedly work.
@@ -487,14 +419,15 @@ The easiest and the most obvious fix for many Android apps is clearing the app�
 - **Step 1**: Go into **Settings**\> **Apps** and find the **Google Play Store**
 - **Step 2**: Tap **Storage**and hit the **Clear cache**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
     ![clear app cache](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-10.jpg)
 
 - **Step 3**: Repeat the process for the **Google Play Services**
 
 If this doesn’t work, move on to another possible fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8. Check Date and Time Settings
 
@@ -503,9 +436,6 @@ Oddly enough, the Google Play Services app is prone to failure because of an inc
 - **Step 1**: Head into **Settings**\> **System** > **Date & Time**.
 - **Step 2**: Ensure that both “**_Use network–provided time_**” and “**_Use network-provided time zone_**” are toggled on.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![check date and time settings](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-11.jpg)
 
 - **Step 3**: If this doesn’t work, you can try repeating the process and manually setting the time and the time zone.
@@ -524,9 +454,6 @@ Although permissions rarely change, they can cause issues if you change them acc
 
 Once inside Permission Settings, check whether the Google Play Services and Play Store apps have sufficient permission to do their jobs and whether any required permissions were recently removed. If so, grant these two apps their permissions back.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,953,228** people have downloaded it
@@ -536,7 +463,6 @@ Once inside Permission Settings, check whether the Google Play Services and Play
 Although it’s an incredibly frustrating error, the “Unfortunately, Google Play Services has stopped” message is more annoying than serious. We’ve explained why it happens, but we’ve also given you a list of solutions to fix it.
 
 Our list includes various fixes, from simple ones, like deleting the app’s cache and ensuring your network works fine, to more serious ones, like doing a factory reset. Alternatively, you can do a system repair with the help of Wondershare Dr.Fone, which will certainly fix the problem, but it might be a bit more complicated than cache deletion.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -550,7 +476,22 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos-for-2024/"><u>[New] The Choreography of Audio and Visuals A Guide to Editing Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-jokesters-journal-the-top-10-hilarious-tweet-threads/"><u>[Updated] Jokester's Journal The Top 10 Hilarious Tweet Threads</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-gt-neo-5-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme GT Neo 5 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-poco-x5-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Poco X5 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-capturing-gaming-glory-on-playstation-4-tips-and-tricks/"><u>All About Capturing Gaming Glory on PlayStation 4 – Tips & Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-mix-fold-3-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi Mix Fold 3 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-itel-p55plus-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Itel P55+ Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-itel-s23plus-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Itel S23+ Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-guide-activating-and-enjoying-fm-radio-apps-on-ios-and-android-devices/"><u>Easy Guide: Activating & Enjoying FM Radio Apps on iOS and Android Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-global-vr-landscape-recent-developments/"><u>In 2024, Global VR Landscape Recent Developments</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-nubia-red-magic-8s-proplus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Nubia Red Magic 8S Pro+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-account-management-essential-tips-for-tweaking-control-panel-configurations-expertise-from-yl-software/"><u>Mastering Account Management: Essential Tips for Tweaking Control Panel Configurations - Expertise From YL Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ultimate-child-friendly-game-collection-for-2024/"><u>Ultimate Child-Friendly Game Collection for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Lava Storm 5G | Dr.fone</u></a></li>
+</ul></div>
 

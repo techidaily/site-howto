@@ -1,7 +1,7 @@
 ---
 title: Maximize Graphics Power & Performance - Elevate Your Build Using Our DIY Kit's PCIe Connection Between Mini PC and eGPU, Outpacing Thunderbolt 4 Speeds
-date: 2025-01-01T20:46:34.304Z
-updated: 2025-01-08T01:32:22.693Z
+date: 2025-01-07T17:13:03.619Z
+updated: 2025-01-14T18:31:06.815Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,21 +88,19 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-s18e-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo S18e Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conducting-an-intuitive-in-place-windows-11-transition/"><u>Conducting an Intuitive, In-Place Windows 11 Transition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dealing-with-a-broken-proximity-sensor-on-your-apple-device/"><u>Dealing With a Broken Proximity Sensor on Your Apple Device</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-power-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100i Power 5G Phone without PIN</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-integrating-interactive-features-for-enhanced-viewers-experience-on-youtube/"><u>In 2024, Integrating Interactive Features for Enhanced Viewers' Experience on Youtube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-lush-looks-and-flawless-filters-building-your-vlog-empire/"><u>In 2024, Lush Looks and Flawless Filters Building Your Vlog Empire</u></a></li>
-<li><a href="https://win-unique.techidaily.com/solving-windows-connectivity-issues-a-step-by-step-guide-to-speeding-up-your-internet-yl-tech-tips/"><u>Solving Windows Connectivity Issues: A Step-by-Step Guide to Speeding Up Your Internet - YL Tech Tips</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-oneplus-nord-n30-se-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 OnePlus Nord N30 SE Android SIM Unlock APK</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-m54-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy M54 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-g2-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo G2 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-comprehensive-guide-to-high-def-game-broadcasting/"><u>[New] 2024 Approved The Comprehensive Guide to High-Def Game Broadcasting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-def-showdown-top-8k-tvs-rated-and-reviewed/"><u>[New] High-Def Showdown Top 8K TVs Rated and Reviewed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unveiling-the-power-of-vivacut/"><u>[New] In 2024, Unveiling the Power of VivaCut</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-secrets-to-earning-facebooks-status-symbol-blue-for-2024/"><u>[New] Secrets to Earning Facebook’s Status Symbol (Blue) for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-depths-of-photo-manipulation/"><u>[Updated] Exploring the Depths of Photo Manipulation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-quick-glimpse-youtube-shorts-insights/"><u>2024 Approved Quick Glimpse YouTube Shorts Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-basic-guide-to-windows-voice-modification-clowns/"><u>In 2024, Basic Guide to Windows Voice Modification - Clowns</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-unlocking-tabbing-capabilities-of-windows-11/"><u>Step-by-Step Guide to Unlocking Tabbing Capabilities of Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-amd-rx-570-driver-download-windows-os-performance-boost/"><u>Upgraded AMD RX 570 Driver Download: Windows OS Performance Boost</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-huawei-p60-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Huawei P60? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Tecno Spark 10 Pro Step-by-Step Solutions | Dr.fone
-date: 2025-01-02T02:37:54.754Z
-updated: 2025-01-08T08:24:54.390Z
+date: 2025-01-10T16:29:14.618Z
+updated: 2025-01-14T17:24:16.058Z
 tags: 
   - problems
 categories:
@@ -20,6 +20,10 @@ After all, the presence of app icons on our Android device's home screen is impo
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your Tecno Spark 10 Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Make Sure if the Missing App Is Installed
 
 Before proceeding with troubleshooting the **missing app icon on your Android** device, it's essential to confirm whether the app is still installed or if it has been accidentally deleted. To do it, you can have a quick check on Google Play:
@@ -31,6 +35,10 @@ Before proceeding with troubleshooting the **missing app icon on your Android** 
 ![Check if the missing app is installed](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-1.jpg)
 
 Now, see whether you can find the **app icon that disappeared on your Android.** If you can’t find it, it means the app has been accidentally deleted, and you can install it back on your device. However, if it’s confirmed to be installed on your Android but remains missing from your home screen, you can continue the following practice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Find the Missing App Icon on Android
 
@@ -61,6 +69,10 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Re-enable disabled app
 
 **App icons can also disappear on the Android** home screen if you unintentionally or intentionally disable them. Certain phone models even offer a functionality known as 'Freezer,' allowing users to temporarily halt the apps. While in a frozen state, the app remains inactive and doesn't appear on the home screen until you unfrozen it.
@@ -70,6 +82,10 @@ To re-enable the disabled app, you can follow the steps here:
 - **Step 1**. Open the Apps & Notifications on the Settings.
 - **Step 2.** Select the app which icon is missing on your home screen. For example, tap the phone app if the **phone icon disappears on your Android.**
 - **Step 3:** In the App Info, tap Enable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Reset Android to factory settings
 
@@ -83,6 +99,10 @@ How to reset Android to factory setting:
 Please be mindful that performing a factory reset on Android will reset your Android completely to its initial state.
 
 ![Perform a factory reset on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Fix System Error on Android Easily with Reliable Software
 
@@ -178,10 +198,6 @@ Note: Sometimes, the above-mentioned code may not work. In such cases, try diali
 
 If the battery looks good as you can see in the screenshot above and everything else seems normal, it means that your battery is healthy and need not be replaced. You may now move on to the next step to cure your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: One-click to fix Android phone keeps turning off
 
 We understand how annoying it is to find your Tecno Spark 10 Pro turning off randomly on its own. So, when the age-old remedies to fix the phone keeps turning off turns futile, you need to go for a reliable tool like [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/).
@@ -228,10 +244,6 @@ For a device with the ‘Home’ button – Turn off the mobile and then hold do
 
 ![fix phone keeps turning off with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For a device lacking ‘Home’ button – After switching off the Android mobile, hold down ‘Bixby’, ‘Power’, ‘Volume Down’ key still 10 seconds. Now, un-hold them and tap the ‘Volume Up’ button to enter the ‘Download’ mode.
 
 ![fix phone keeps turning off with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
@@ -264,10 +276,6 @@ To prevent the phone from turning off due to overheating, you can take various m
 
 ![cool down the phone](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: Narrow down the randomly turning off issue in Safe Mode
 
 Starting your phone in Safe Mode is a good way to narrow down whether or not the problem is occurring because of some heavy and incompatible Apps as Safe Mode allows only built-in Apps to function. If you can use your phone in Safe Mode, consider deleting the unnecessary Apps which may be burdening the phone’s processor.
@@ -286,10 +294,6 @@ Once done, the phone will reboot and you will see “Safe Mode” on the main sc
 
 ![safe mode](https://images.wondershare.com/drfone/article/2017/07/14994529591962.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 That's all. Well, booting to Safe Mode is easy and it also helps you to identify the real problem.
 
 ## Part 7: Back up your data and perform a factory reset
@@ -297,10 +301,6 @@ That's all. Well, booting to Safe Mode is easy and it also helps you to identify
 **Note:** _You must take a back-up of all your data because once you perform a factory reset on your device, all media, contents, data, and other files are wiped out, including your device settings._
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a great way to back up all your data to prevent it from getting lost after resetting the phone. It works brilliantly as it backs up all data and allows users to retrieve it fully or selectively. You can backup all files from your Android to PC in just a click and restore them later. Try this software for free before purchasing it to understand it's working better. It does not tamper with your data and only requires you to follow the simple steps given below to backup your Android data:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
@@ -323,6 +323,10 @@ Now connect the Android phone to the PC and make sure that USB debugging is turn
 
 ![connect](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You will see the file types that will be backed up. Wait for the backup process to complete.
 
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
@@ -332,6 +336,10 @@ There you go, you have successfully backed up data.
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now moving on to factory reset your phone:
 
@@ -393,10 +401,6 @@ Step 1: Install and then run Dr.Fone - System Repair (Android), the ultimate And
 
 ![fix Android phone won’t charge by android repairing tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Tap on the ‘Android Repair’ option and then click ‘Start’ for moving ahead.
 
 ![start to fix](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -434,10 +438,6 @@ Charging cables fray or become defunct after prolonged usage. Therefore, it is a
 It is also very commonly observed that the charging end of the cable which gets connected to the charging port of the Tecno Spark 10 Pro device gets damaged and prevents the current from flowing to the phone/tablet.
 
 ![charging cable](https://images.wondershare.com/drfone/article/2017/06/14985459762305.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Check/clean charging port
 
@@ -489,10 +489,6 @@ Restarting a device is simple and can be done by following the steps given below
 
 ![restart device](https://images.wondershare.com/drfone/article/2017/06/14985010975405.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To restart your device, you may also press the power button for about 20-25 seconds for the phone/tablet to automatically reboot.
 
 ### 7\. Download and install the Ampere App
@@ -528,7 +524,7 @@ Follow the steps given below to factory reset your device:
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/06/14985012572851.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 • In this step, select “Factory data reset” and then “Reset Device”.
@@ -539,6 +535,10 @@ Follow the steps given below to factory reset your device:
 
 Note: Once the factory reset process is complete, your device will automatically restart and you will have to set it up once again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10\. Replace your battery
 
 This should be your last resort to fix My Tecno Spark 10 Pro won't charge problem, and you should only attempt to replace your battery if none of the other techniques work. Also, please consult a technician before purchasing and installing a new battery in your device as different phones and tablets have a different type of battery requirements.
@@ -546,7 +546,7 @@ This should be your last resort to fix My Tecno Spark 10 Pro won't charge proble
 ![replace phone battery](https://images.wondershare.com/drfone/article/2017/06/14985013005679.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Finally, fixing the phone won't charge the problem is simple, and therefore there is no need for you to worry as you are not the only one experiencing such an issue. Other Android users have tried, tested, and recommended the methods given above to solve why won't My Tecno Spark 10 Pro charge or Tecno Spark 10 Pro tablet won't charge error. So go ahead and try them out now.
@@ -565,18 +565,17 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-loop-life-tips-to-make-your-boomerangs-addictive/"><u>[New] The Loop Life Tips to Make Your Boomerangs Addictive</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>[Updated] Tackling Massed-Up TikToks Expert Edits for Less Chaos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-cutting-through-content-clutter-youtube-shorts-essentials/"><u>2024 Approved Cutting Through Content Clutter YouTube Shorts Essentials</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-swiftly-delete-autoplayed-podcast-suggestions-on-spotify/"><u>2024 Approved Swiftly Delete Autoplayed Podcast Suggestions on Spotify</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-xiaomi-14-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Xiaomi 14 Pro? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-audacity-for-top-notch-audio-recording/"><u>In 2024, Navigating Audacity for Top-Notch Audio Recording</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/last-call-for-epic-october-2024-gaming-bargains-secure-your-discounts-of-up-to-1000/"><u>Last Call for Epic October 2024 Gaming Bargains: Secure Your Discounts of Up to $1,000</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-10-terrifying-horror-films-from-tinseltown-complimentary-downloads-available/"><u>Top 10 Terrifying Horror Films From Tinseltown: Complimentary Downloads Available</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-picks-for-traditional-japanese-huts-in-mc-worlds/"><u>[New] 2024 Approved Top Picks for Traditional Japanese Huts in MC Worlds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-high-quality-sound-recording-via-audacity/"><u>[New] The Art of High-Quality Sound Recording via Audacity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-future-is-now-with-the-sj7-4k-action-camera-a-full-review/"><u>[Updated] 2024 Approved The Future Is Now with the SJ7 4K Action Camera - A Full Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-focusing-on-fine-details-a-minecraft-journey/"><u>[Updated] Focusing on Fine Details A Minecraft Journey</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-release-dates-for-podcast-episodes/"><u>[Updated] In 2024, Best Release Dates for Podcast Episodes</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-infinix-note-30i-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Infinix Note 30i? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rising-star-recovering-servers-stellars-mission/"><u>Rising Star, Recovering Servers: Stellar's Mission</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-20-proplus-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20 Pro+ Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-resolving-page-not-found-problems-online/"><u>The Ultimate Guide to Resolving 'Page Not Found' Problems Online</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-3-meilleurs-utilitaires-de-sauvegarde-gratuits-pour-windows-11-un-guide-complet/"><u>Top 3 Meilleurs Utilitaires De Sauvegarde Gratuits Pour Windows 11 : Un Guide Complet</u></a></li>
 </ul></div>
 

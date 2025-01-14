@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy A15 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2025-01-01T06:50:55.212Z
-updated: 2025-01-07T23:45:50.217Z
+date: 2025-01-09T16:30:46.929Z
+updated: 2025-01-14T18:02:16.828Z
 tags: 
   - problems
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 For all its glory and goodness, the Android OS often has its users pulling their hair in frustration at just how buggy the OS can be at times. So, if you’re having one of those days today, we are here to help. Camera app is one of the most used apps on smartphones today. People only launch the app when they want to take a photo, for everything else there’s a dedicated photo gallery app. What happens when you launch the camera app only to realize it threw an error and you missed your photo moment? Don’t throw the phone, not yet. Let us help you out.
 
 ![camera not working error in android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I: Why Is Android Camera Not Working?
 
@@ -43,7 +47,7 @@ In the rarest cases, there might have developed an actual hardware issue with th
 So, how to get the Android camera not working problem solved? There are a few ways you can try fixing the camera not working issue on your Samsung Galaxy A15 5G right where you are, without needing to take the Samsung Galaxy A15 5G device to the manufacturer’s service center.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### II.I: Restart The Handset
@@ -63,6 +67,10 @@ Step 1: Launch the app switcher on your specific Android device the way your dev
 ![closing apps in app switcher](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-3.jpg)
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.III: Check App Permissions
 
@@ -114,6 +122,10 @@ Step 2: Tap Manage Apps and Device.
 
 Step 3: If there are updates available, Tap Update All to update all apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.VII: Cool The Phone Down
 
 We do not realize the immense power that is packed into the thin smartphone form factor these days. If you have been using the phone to video chat for a while now, you might not realize that the phone has become hot, especially if you are using a desk stand. Same for shooting high-resolution videos; the phone does get quite hot shooting high-resolution videos.
@@ -123,10 +135,6 @@ If this is the case, close all apps and let the phone cool down. You might even 
 ### II.VIII: Nudge The Camera System
 
 You may want to tap your camera system (the lenses and surrounding area) gently to see if that gets the camera working. In case it did, this is indicative of a hardware issue, and you should get it checked at the service center at your earliest convenience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### II.IX: Fix Android Camera Not Working Issue In One Click (With Dr.Fone)
 
@@ -156,16 +164,12 @@ Step 4: Your Android device will be detected by Dr.Fone. If anything seems incor
 
 ![android system repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Your phone needs to be put into Download mode before it can be repaired. Follow the instructions shown onscreen and click Next.
 
 ![set phone in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 6: Dr.Fone automatically downloads the most recent firmware for your device and when it is ready, waits for your input. Click Fix Now to start the repair process.
@@ -182,13 +186,13 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy A15 5G
 
@@ -212,10 +216,6 @@ There may be many more reasons for them; unfortunately, App has stopped error to
 
 Therefore it is important for us to carefully examine the problem and choose from the solutions given below to fix Unfortunately, Youtube has stopped; unfortunately, Netalpha has stopped; unfortunately, the internet has stopped and many other similar unfortunately App has stopped working errors.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: A One-Click Fix to ‘Unfortunately App has Stopped’
 
 Fortunately, while this is an annoying problem that stops you from doing what you’re doing, the best way to eliminate this error is simply to repair the data glitch, thus preventing it from happening.
@@ -237,10 +237,6 @@ Head over to [the Dr.Fone - System Repair website](https://tools.techidaily.com/
 Launch Dr.Fone and click the System Repair option from the main menu. Now connect your Samsung Galaxy A15 5G using the official cable.
 
 ![fix unfortunately youtube has stopped or other app stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 From the next menu, select the ‘Android Repair’ option and press ‘Start’.
 
@@ -279,6 +275,10 @@ Follow the steps given below to learn how to clear App cache:
 • Click the App name, say, for example, “Youtube” by scrolling down in “All” Apps.
 
 ![All](https://images.wondershare.com/drfone/article/2017/06/14984194986883.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 • From the options that appear, tap on “Storage” and then on “Clear cache” as shown below.
 
@@ -382,10 +382,6 @@ Though there could be slight variations between different phones, you can usuall
 
 ![factory reset on android](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2. Restart Your Samsung Galaxy A15 5G
 
 While a factory reset is all but guaranteed to fix the issues you’re encountering with your videos, sometimes a simple restart might do the trick just fine. A restart works by clearing your RAM (Random Access Memory).
@@ -413,6 +409,10 @@ Make sure that you turn the Airplane mode off and your Wi-Fi on. Check the conne
 You might need a network reset if your phone can’t connect to a Wi-Fi network. The path might differ between Android devices, but you should be able to find the option for a network reset at the exact location of your factory reset. Go to **Settings > General Management > Reset > Reset Network settings > Reset settings**.
 
 ![android network reset](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5. Clear the Cache
 
@@ -455,10 +455,18 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your Samsung Galax
 
 ![wondershare dr.fone device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7**: Follow the on-screen instructions to put your device in **Download Mode**.
 - **Step 8**: Wondershare Dr.Fone will automatically start downloading the necessary firmware, so wait for the process to finish.
 
 ![dr.fone downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 9**: When the download is complete, select **Fix Now** to install it.
 - **Step 10**: Type **000000**, then select **Confirm**to continue fixing your device.
@@ -479,14 +487,6 @@ Sometimes, it’s not the outdated OS version causing issues but rather the out-
 To check whether you’re using the latest version of your video player, go to **Settings > Apps**. Find your video player app, tap it, and scroll down to the bottom of the page to see the version installed on your phone.
 
 ![android app version](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 9. Clear Cookies and Browsing Data
 
@@ -528,18 +528,20 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/orn-to-create-video-magic-mac-basics-for-beginners-on-youtube/"><u>[New] Born to Create Video Magic Mac Basics for Beginners on YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-chart-a-course-to-6-figure-growth-with-powerful-tags/"><u>[New] In 2024, Chart a Course to 6-Figure Growth with Powerful #Tags</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-basics-to-brilliance-mastering-the-art-of-macbook-air-screen-capture/"><u>[Updated] 2024 Approved From Basics to Brilliance Mastering the Art of MacBook Air Screen Capture</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-infinix-zero-5g-2023-turbo-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Zero 5G 2023 Turbo Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-open-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-to-switching-your-discord-profile-pic/"><u>The Ultimate Walkthrough to Switching Your Discord Profile Pic</u></a></li>
-<li><a href="https://techidaily.com/vivo-x90s-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Vivo X90S Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-itel-a60-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Itel A60 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-oppo-reno-8t-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo Reno 8T 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-crafting-perfect-squares-imovie-guide-for-instagram-videos-for-2024/"><u>[Updated] Crafting Perfect Squares IMovie Guide for Instagram Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-pova-5-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Pova 5 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-complete-youtubers-guide-to-editing-in-premiere-pro/"><u>2024 Approved The Complete Youtuber's Guide to Editing in Premiere Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915179991-discover-popular-sites-connect-and-share-on-facebook-twitter-instagram-youtube/"><u>Discover Popular Sites: Connect and Share on Facebook, Twitter, Instagram, Youtube!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-y17s-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo Y17s Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-lenovo-thinkphone-frp-bypass-by-drfone-android/"><u>In 2024, About Lenovo ThinkPhone FRP Bypass</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-honor-magic-vs-2-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Honor Magic Vs 2 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-8-screen-capture-programs-for-linux-experts/"><u>In 2024, Top 8 Screen Capture Programs for Linux Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/surviving-windows-11-blue-screen-adopting-11-key-approaches/"><u>Surviving Windows 11 Blue Screen: Adopting 11 Key Approaches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-compatible-apps-seamless-facetime-like-video-calls-explained/"><u>Windows Compatible Apps: Seamless FaceTime-Like Video Calls Explained</u></a></li>
 </ul></div>
 

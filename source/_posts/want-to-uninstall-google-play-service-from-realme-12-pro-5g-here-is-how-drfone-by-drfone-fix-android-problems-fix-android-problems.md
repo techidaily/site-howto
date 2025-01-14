@@ -1,7 +1,7 @@
 ---
 title: Want to Uninstall Google Play Service from Realme 12 Pro 5G? Here is How | Dr.fone
-date: 2024-07-30T12:12:50.106Z
-updated: 2024-07-31T12:12:50.106Z
+date: 2025-01-08T18:19:01.680Z
+updated: 2025-01-14T16:16:24.062Z
 tags: 
   - problems
 categories:
@@ -24,20 +24,12 @@ Before we proceed and discuss different ways on how to update Play Store after u
 
 If your device is giving the insufficient storage warning, then you need to start by clearing your phone’s data. It is observed that the Google Play Service accumulates most of the data in a device. This leads to users looking for different ways to how to uninstall Google Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Part 2: What will it affect to uninstall Google Play Service?
 
 If you think that Google Play Service only provides a platform to download new apps, then you are wrong. It provides several other functions that might alter the way you use your smartphone. It is linked with other essential Google services as well, like Google Maps, Gmail, Google Music, etc. After uninstalling the Google Play Service, you might face trouble using various essential apps.
 
 Furthermore, it might tamper with the overall functionality of your device as well. For instance, you could encounter network issues, messaging problems, app crashing, and more. Since the Play Service is closely associated with Android system, it might have a prominent effect on your phone. If you have a rooted device, then you can easily install custom ROM and resolve these issues. Though, for a non-rooted device, overcoming these problems could be a big hurdle.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to disable Google Play Service?
 
 By now, you already know all the repercussions of getting rid of Google Play Services permanently. Before you learn how to update Play Store after uninstalling updates, be sure whether you wish to uninstall Google Play Services or not. You can also choose to simply disable the services as well. If you face any severe issue afterward, then you can always enable the services manually.
@@ -47,8 +39,6 @@ To disable the Google Play Services, just go to your phone’s Settings > Applic
 ![uninstall google play services-open Google Play Services](https://images.wondershare.com/drfone/article/2017/06/14981537155144.jpg)
 
 Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
-
-
 
 ## 11 Ways to Fix it When My Realme 12 Pro 5G Won't Charge
 
@@ -60,20 +50,12 @@ A charging problem can occur due to a temporary software crash. It is also possi
 
 So if you're still thinking about why won't My Realme 12 Pro 5G charge, read on to find out solutions to fix My Realme 12 Pro 5G won't charge problem.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. One-click solution to fix Android phone won’t charge
 
 While you are upset over ‘why My Realme 12 Pro 5G won't charge?’, would you mind us helping you around?
 
 Well, we have got [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) at your fingertips to get rid of this annoying phone won't charge issues (caused by system corruption). Whether the Realme 12 Pro 5G device froze or became unresponsive, bricked, or got stuck on the Realme 12 Pro 5G logo/blue screen of death or apps started crashing. It can fix every Android system problem.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Easy-to-operate program to fix Android phone won’t charge
@@ -94,13 +76,25 @@ Step 1: Install and then run Dr.Fone - System Repair (Android), the ultimate And
 
 ![fix Android phone won’t charge by android repairing tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Tap on the ‘Android Repair’ option and then click ‘Start’ for moving ahead.
 
 ![start to fix](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Mention the detailed information about your Realme 12 Pro 5G under the Realme 12 Pro 5G device information section. Press ‘Next’ then on.
 
 ![enter android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Phase 2: Get to ‘Download’ mode for repairing the Realme 12 Pro 5G device**
 
@@ -112,24 +106,23 @@ Step 1: It’s essential that you put the Android device under ‘Download’ mo
 
 - If the ‘Home’ button is not there, you got to turn down the Realme 12 Pro 5G device and altogether hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ keys between 5-10 seconds. Soon after you release the keys, tap the ‘Volume Up’ button for entering the ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![fix Android phone won’t charge for a phone without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2: Click ‘Next’ to start downloading the Android firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![download android firmware to fix](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Now, Dr.Fone - System Repair (Android) would verify the firmware and then start repairing the Android system on its own. It will ultimately fix your ‘why won't My Realme 12 Pro 5G charge’ trouble.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android phone won’t charge issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. 10 common ways to fix Android won't charge
 
@@ -141,14 +134,15 @@ It is also very commonly observed that the charging end of the cable which gets 
 
 ![charging cable](https://images.wondershare.com/drfone/article/2017/06/14985459762305.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### 2\. Check/clean charging port
 
 The charging port in your device is a small opening where the charging end of the cabbie is inserted for the current to flow to the phone/tablet. Very often, we notice that the charging port gets blocked with tiny particles of dirt. The charging port might also get clogged if dirt and dust get accumulated in it, preventing the sensors from receiving and forwarding the current to the Realme 12 Pro 5G device.
 
 ![check charging port](https://images.wondershare.com/drfone/article/2017/06/14985459938188.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The best way to take this problem is to clean the port with a blunt pin or a soft bristle unused toothbrush. Make sure you clean the port gently and do not damage it or its sensors.
 
@@ -164,9 +158,6 @@ This method is fairly simple, and all you need to do is check whether or not the
 
 This technique is more like a quick trick. It means to switch from one power source to another or use a more efficient and suitable power source. Laptops and PCs charge slower than a direct power source, i.e., a wall socket. Sometimes, the charging speed is slower, and the battery is draining. In such a scenario, choose to charge your device by directly plugging it into a socket on the wall to never experience My Realme 12 Pro 5G won't charge problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Clear device Cache
 
 Clearing Cache is a great technique as it cleans your device and all its partitions. By clearing the cache, all the unwanted data and files stored in your device get deleted, which may be causing glitches in the Realme 12 Pro 5G device’s software, preventing it from recognizing the current.
@@ -197,41 +188,30 @@ Restarting a device is simple and can be done by following the steps given below
 
 ![restart device](https://images.wondershare.com/drfone/article/2017/06/14985010975405.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To restart your device, you may also press the power button for about 20-25 seconds for the phone/tablet to automatically reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### 7\. Download and install the Ampere App
 
 The Ampere app can be downloaded from the Google Play Store. It is very helpful to fix the why won't my charge error as it gives you real-time information about your device’s battery consumption, charging status, and other essential data.
 
 If the App gives information in green color, it means all is wetland your device is charging normally, however, if the information before you is in orange, you need to take steps to fix the charging problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![charging status](https://images.wondershare.com/drfone/article/2017/06/14985011165678.jpg) ![full charged](https://images.wondershare.com/drfone/article/2017/06/14985011377424.jpg) ![discharging](https://images.wondershare.com/drfone/article/2017/06/14985011663339.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 8\. Install software updates
 
 Installing your Android version updates is a good idea as the software is the interface that receives charge from the charging port sensors and gives a command for the phone/tablet to charge. People often continue to use older OS versions, which cause trouble and prevent the Realme 12 Pro 5G device from charging.
 
 To check for and install updates on your device, you must be connected to WiFi or a cellular network. Next, visit “Settings” and select “About device”. Now click on “Software Update”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android software update](https://images.wondershare.com/drfone/article/2017/06/14985460584295.jpg)
 
 If there is an update available, you will be prompted to download it. Just follow the instructions given before you install a brand new Android OS version on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### 9\. Factory reset your device
 
 Factory Reset is must be done after due deliberation. Remember to take a back-up of all your data and contents on the cloud or an external memory device, such as a pen drive before adopting this method because once you perform a factory reset on your device, all media, contents, data and other files are wiped out, including your device settings.
@@ -240,32 +220,20 @@ Follow the steps given below to factory reset your device:
 
 • Visit “Settings” by clicking the settings icon as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![phone settings](https://images.wondershare.com/drfone/article/2017/06/14985012104018.jpg)
 
 • Now select “Backup and Reset” and move on.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/06/14985012572851.jpg)
 
 • In this step, select “Factory data reset” and then “Reset Device”.
 
 • Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase everything](https://images.wondershare.com/drfone/article/2017/06/14985012764216.jpg)
 
 Note: Once the factory reset process is complete, your device will automatically restart and you will have to set it up once again.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 10\. Replace your battery
 
 This should be your last resort to fix My Realme 12 Pro 5G won't charge problem, and you should only attempt to replace your battery if none of the other techniques work. Also, please consult a technician before purchasing and installing a new battery in your device as different phones and tablets have a different type of battery requirements.
@@ -294,9 +262,6 @@ Say you’re trying to take a screenshot on your Realme 12 Pro 5G device, and yo
 
 Some apps and websites, such as banking apps, store private data like financial and credit card details. Blocking capturing screenshots is a way to prevent unauthorized access to confidential information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![cryptocurrency app screenshot error](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-02.jpg)
 
 Follow Regulations
@@ -323,18 +288,12 @@ Some apps and websites allow users to share private information. Some apps, like
 
 You **can’t take screenshots due to security policy Whatsapp** features, View Once media option. This method stops people from taking pictures of private media chats, protecting users’ privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![whatsapp screenshot blocked](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-03.jpg)
 
 You Are Using a Secure Folder
 
 Companies design secure folders to protect your most sensitive data from unauthorized access, so screenshots are not allowed within them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Part 2. 8 Ways To Take Screenshots When You Can’t Due to Security Policy
 
 If you’re trying to take a screenshot of an app or website with a security policy in place, there’s usually no way to circumvent it. However, there are a few things you can do to take pictures of these apps and website content.
@@ -347,9 +306,6 @@ If you are using this Android device, you can enable the screen capture feature 
 
 - **Step 1:** Go to **Settings** > **Apps**, then tap the **More options** icon in the upper right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![android app settings interface](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-04.jpg)
 
 - **Step 2:** Choose **Special access** > **All files access**.
@@ -358,11 +314,11 @@ If you are using this Android device, you can enable the screen capture feature 
 
 - **Step 3:** Enable **Realme 12 Pro 5G capture**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![enable samsung capture](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you have enabled screen capture, you can check if you can take screenshots of any app or website.
 
@@ -376,9 +332,6 @@ Apps and websites may prohibit screenshots in incognito mode to protect your pri
 
 - **Step 2:** Search for Incognito Screenshot and choose **Enabled** from the drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![incognito screenshot enabled](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-08.jpg)
 
 - **Step 3:** Tap **Relaunch** on the lower right corner of the screen.
@@ -390,6 +343,10 @@ Use Google Assistant
 With Google Assistant, taking screenshots on your Realme 12 Pro 5G is now easier than ever. Just say, “Hey, Google, take a screenshot,” Google Assistant will capture the screen and save it to your gallery.
 
 ![google assistant command](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use a Third-Party App To Take Screenshots
 
@@ -449,9 +406,6 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 1:** Once you have downloaded Dr.Fone, install it and launch it on your desktop. Then, connect your Realme 12 Pro 5G to your desktop using a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,567,199** people have downloaded it
@@ -470,9 +424,6 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 5:** Follow the in-app instructions to put your Realme 12 Pro 5G on Download mode, then click **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![put android on download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - **Step 6:** Wait while the firmware automatically downloads.
@@ -481,16 +432,10 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 7:** Review the details on the screen and click **Fix Now** to install the firmware on your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![firmware downloaded interface](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 - **Step 8:** Read the dialogue box note, enter the code in the input box, and click **Confirm**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter code in the dialogue box](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 9:** Keep your smartphone connected and avoid using it while Dr.Fone is repairing it.
@@ -502,8 +447,9 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 ![android system issue repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 You can fix the “**Can’t take screenshot due to security policy**” error on Android in different ways. But it depends on the cause of the error. If an app is causing the error, you can try two things. First, remove the app’s screenshot restriction. Second, download a different screenshot app or a different device to take screenshots.
@@ -511,7 +457,6 @@ You can fix the “**Can’t take screenshot due to security policy**” error o
 Although there are ways to bypass the “**Can’t take screenshot due to security policy**” error message, it’s crucial to know why screenshots are not allowed. Many apps and websites do not permit it to protect sensitive information, prevent piracy, and follow regulations. They also do it to prevent fraud, protect user privacy, and safeguard intellectual property.
 
 If you think the issue is with your Android system, or your device becomes bricked after trying other methods, experiencing app crashes, or otherwise malfunctioning, try using the Dr.Fone System Repair tool. It is worth trying and can fix most Android system issues in a few minutes.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -525,7 +470,18 @@ If you think the issue is with your Android system, or your device becomes brick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unleash-the-potential-of-ifunnys-meme-application/"><u>[New] In 2024, Unleash the Potential of iFunny’s Meme Application</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultra-wealthy-digital-creators/"><u>[New] Ultra-Wealthy Digital Creators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-your-complete-guide-to-starting-a-zoom-conversation-on-an-android-device-for-2024/"><u>[Updated] Your Complete Guide to Starting a Zoom Conversation on an Android Device for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-c67-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme C67 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/boost-your-system-effortless-steps-to-swap-hdd-for-ssd-in-windows-11-setup/"><u>Boost Your System: Effortless Steps to Swap HDD for SSD in Windows 11 Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/breaking-down-the-remarkable-650-off-deal-for-roborock-s8-pro-ultra-prime-days-aftermath-analyzed-by-zdnet/"><u>Breaking Down the Remarkable $650 Off Deal for Roborock S8 Pro Ultra, Prime Day's Aftermath Analyzed by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/exploring-key-characteristics-of-distributed-digital-currencies-an-in-depth-guide-by-yl-computing/"><u>Exploring Key Characteristics of Distributed Digital Currencies: An In-Depth Guide by YL Computing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-digital-storytelling-unlocked-creating-memorable-slideshows-on-fb/"><u>In 2024, Digital Storytelling Unlocked Creating Memorable Slideshows on FB</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-reno-11-pro-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo Reno 11 Pro 5G ? Fix It Easily | Dr.fone</u></a></li>
+</ul></div>
 

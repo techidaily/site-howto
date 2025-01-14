@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi 13C | Dr.fone
-date: 2024-12-31T20:48:18.346Z
-updated: 2025-01-08T02:20:23.912Z
+date: 2025-01-09T17:56:42.336Z
+updated: 2025-01-14T17:22:41.030Z
 tags: 
   - problems
 categories:
@@ -26,6 +26,10 @@ If you are also among the various users who see Android, unfortunately, the proc
 
 Looking for suitable solutions to fix Android SystemUI has stopped error? Then read on to find out all about Android SystemUI isn't responding error and the most effective ways to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Android SystemUI Has stopped happens?
 
 ![android system ui-SystemUI Has stopped](https://images.wondershare.com/drfone/article/2017/06/14985097157775.jpg)
@@ -35,6 +39,10 @@ Android device owners would agree that OS updates are very helpful as they fix t
 Another reason for the Android SystemUI isn't responding error to occur, maybe because of flashing a new ROM or due to improper firmware update installation. Even when you restore the backed up data from cloud or your Google Account, such Android, unfortunately, the process com.android.systemui has stopped error may show up.
 
 It is not possible to say for sure which one of the above-mentioned reasons is causing your device to show Android SystemUI is not responding error. But what we can do is move on to fixing the Android SystemUI by following any one of the three methods given the following segments.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to fix “com.android.systemui has stopped” in one click
 
@@ -51,10 +59,6 @@ It’s now time to understand how to fix Android ‘unfortunately, the process c
 Step 1 – Download the Dr.Fone toolkit over your PC. Install it and launch it over. Opt for the “System Repair” tab from the main screen and get your Xiaomi Redmi 13C connected to the PC.
 
 ![fix Android system UI stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2 – You need to select “Android Repair” from the left panel and then hit the ‘Start’ button.
 
@@ -127,10 +131,6 @@ Different Android devices have different ways to put it in recovery mode. Refer 
 
 ![android system ui-”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14985098383121.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
 This method will help you de-clutter your device and erase all the clogged up unwanted files. You may lose App related data too, but that is a small price to pay to fix the Android SystemUI isn't responding error.
@@ -153,10 +153,6 @@ Follow the steps given below to factory reset your device to solve the Android S
 
 ![android system ui-select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/06/14985098813784.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - In this step, select “Factory data reset” and then “Reset Device”.
 - Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
 
@@ -168,15 +164,15 @@ The whole process of factory resetting your Xiaomi Redmi 13C might sound tedious
 
 Android SystemUI isn't responding or Android, unfortunately, the process com.android.systemui has stopped error is commonly seen by users on their devices. It is not a random error and is linked to either the software, Google App, cache partition, or data stored in the Xiaomi Redmi 13C device. It is fairly simple to deal with this issue as all you need to do is install or roll back your Android OS update, uninstall Google App updates, clear cache partition, or factory reset your device to clear all data, files, and settings stored in it. The methods listed and explained above are the best ways to fight the problem and to prevent it from troubling you in the future. These methods have been adopted by affected users all over the world who recommend them because they are safe and involve minimum risks as compared to other tools to solve the Android SystemUI has stopped error. So go ahead and try them now!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi 13C
 
 Have you recently noticed a message stating “Contacts has stopped”? This is enough to take away all your peace. As, our native contacts app stashes all our useful contacts which are time and again needed by a user. It’s malfunctioning is enough to give us chills. But, why the Xiaomi Redmi 13C or any other Android device incurs such problems?
 
 It can occur while you launch the app or while you’re in the app already finding the required contact or when any other application is trying to gain access to it. So, to rage a battle with this issue, you need to seek help of some powerful methods in killing down the issue of contacts app crashes. And, the best part is that you’ve secured yourself by reaching the right place. We will be taking an in-depth discussion on several methods that may prove to be helpful. Let’s read them up here now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Get Android system fixed in one click
 
@@ -213,6 +209,10 @@ Step 3: Key in device information
 From following screen, fill the fields of “Brand”, “Name”, “Model”, “Country” and several other parameters. Then, tap on “Next” option to proceed further.
 
 ![contacts stopping on samsung - enter info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Download Firmware package
 
@@ -288,6 +288,10 @@ Many a times, we skip updating our device software thinking it is of less import
 
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
 
 ### 2.6 Reset App Preferences
@@ -299,6 +303,10 @@ As stated, the malfunctioning of contacts can be due to be any unexpected reason
 - At last, just select “Reset default apps”.
 
 ![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.7 Delete voicemail
 
@@ -333,6 +341,10 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi Redmi 13C
 
 People are increasingly complaining about Google Play Error Codes which pop-up during downloading, installing or updating an App via Google Play Store. Amongst these, the most recent and common one being Error Code 963.
@@ -356,10 +368,6 @@ Error 963 pop-up message reads as follows: “cannot be downloaded due to an err
 A similar message shows up even while you are trying to update an App, as shown in the screenshot below.
 
 ![can't update app](https://images.wondershare.com/drfone/article/2017/06/14984132013078.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Error Code 963 is basically an outcome of data crash which mostly is seen in cheaper smartphones. There might another reason for Error 963 preventing Apps from downloading and updating, which is Google Play Store Cache being corrupted. People also speculate SD Card related issues as many-a-times external memory enhancer chips do not support large Apps and their updates. Also, Error 963 is very common with HTC M8 and HTC M9 smartphones.
 
@@ -390,6 +398,10 @@ Step 1 – To begin fixing error 963, run Dr.Fone after downloading and installi
 
 ![fix google play error 963 using repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ and then click the ‘Start’ button.
 
 ![select the android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -414,6 +426,10 @@ If the Xiaomi Redmi 13C device contains no Home button:
 
 ![fix google play error 963 on android without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2 – Press the ‘Next’ button and then the program will commence the firmware downloading.
 
 ![firmware downloaded](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -425,14 +441,6 @@ Step 3 – Upon successful downloading and verification of the firmware, the pro
 Step 4 – Within a while, the Google play error 963 will be vanished.
 
 ![make the fix google play error 963 disappear on android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: 6 Common Solutions to fix Error Code 963
 
@@ -474,10 +482,6 @@ In this step, click on “Uninstall Updates” as shown below.
 
 ![Uninstall Updates](https://images.wondershare.com/drfone/article/2017/06/14984137166252.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **3\. Shift the App from SD Card to device’s memory**
 
 This method is strictly for certain Apps which cannot be updated because they are stored on an external memory card, i.e., SD Card. Such memory enhancing chips do not support large Apps and due to a shortage of space prevents them from updating. It advisable to move such Apps from the SD Card to the Xiaomi Redmi 13C device’s internal memory and then try to update it.
@@ -493,7 +497,7 @@ Now click on “Move to Phone” or “Move to internal storage” and try to do
 ![“Move to internal storage”](https://images.wondershare.com/drfone/article/2017/06/14984137603366.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Try updating the App now. If the Apps’s update does not download even now, DO NOT worry. There are three more ways to help you.
@@ -511,10 +515,6 @@ Now select “Storage”.
 From the options that appear, select “Unmount SD Card” as explained in the screenshot below.
 
 ![select “Unmount SD Card”](https://images.wondershare.com/drfone/article/2017/06/14984574238529.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Note: If the App or its update downloads successfully now, do not forget to mount the SD Card back.
 
@@ -570,18 +570,17 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-unravel-the-potential-of-multiple-screen-usage-in-netflix/"><u>[New] In 2024, Unravel The Potential of Multiple Screen Usage in Netflix</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-streamline-your-content-a-tutorial-for-instagram-video-sharing/"><u>[Updated] In 2024, Streamline Your Content A Tutorial for Instagram Video Sharing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unlocking-team-potential-harnessing-the-power-of-snap-camera/"><u>[Updated] In 2024, Unlocking Team Potential Harnessing the Power of Snap Camera</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10-for-2024/"><u>[Updated] Internal Screen Recording Huawei Mate 10/20 & P Series Devices (P20, P10) for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-through-instagrams-video-time-slot-for-2024/"><u>[Updated] Navigating Through Instagram's Video Time Slot for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/a-peek-into-the-viral-world-of-stock-photo-memes/"><u>A Peek Into the Viral World of Stock Photo Memes</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-xr-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone XR Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-itel-a70-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Itel A70 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-note-13-pro-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi Note 13 Pro 5G? Here is How | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-reno-11f-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Reno 11F 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-uncovering-the-leading-10-under-the-radar-story-viewers/"><u>[New] 2024 Approved Uncovering the Leading 10 Under-the-Radar Story Viewers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-gopro-vs-sjcam-capturing-the-thrill/"><u>[Updated] GoPro vs SJCAM Capturing the Thrill</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-from-drama-to-film-shaping-realistic-dialogue/"><u>2024 Approved From Drama to Film Shaping Realistic Dialogue</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-blaze-2-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Blaze 2 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-tecno-phantom-v-flip-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Tecno Phantom V Flip? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-the-potential-of-mobile-platforms-for-personalbusiness-yt/"><u>In 2024, Unlocking the Potential of Mobile Platforms for Personal/Business YT</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/secrets-in-watching-the-instagram-story-narrative/"><u>Secrets in Watching The Instagram Story Narrative</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/selecting-your-perfect-21-hdmi-monitor-a-buyers-guide-for-2024/"><u>Selecting Your Perfect 2.1 HDMI Monitor - A Buyer's Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-rise-of-ai-is-chatgpt-a-superior-predictor-for-our-futures-compared-to-classic-astrology/"><u>The Rise of AI: Is ChatGPT a Superior Predictor for Our Futures Compared to Classic Astrology?</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-y78t-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y78t Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y200e-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y200e 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

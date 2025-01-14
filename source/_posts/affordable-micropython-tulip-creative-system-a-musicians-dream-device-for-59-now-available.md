@@ -1,7 +1,7 @@
 ---
 title: "Affordable MicroPython Tulip Creative System: A Musician's Dream Device for $59 - Now Available!"
-date: 2025-01-03T21:20:36.921Z
-updated: 2025-01-08T08:49:12.141Z
+date: 2025-01-09T17:49:48.818Z
+updated: 2025-01-14T17:33:12.142Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,20 +56,22 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-exploring-the-top-8-free-and-paid-videomosaic-apps-on-android-platforms/"><u>[New] In 2024, Exploring the Top 8 Free & Paid Videomosaic Apps on Android Platforms</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ideal-techniques-stream-and-store-major-sports-events-online/"><u>[New] In 2024, Ideal Techniques Stream & Store Major Sports Events Online</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-leading-9-free-logo-design-software-for-youtube-channels/"><u>[Updated] Leading 9 Free Logo Design Software for YouTube Channels</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-14-plusipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 14 Plus/iPad | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-honor-magic-6-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Honor Magic 6 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-moto-g84-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Moto G84 5G?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-gt-neo-5-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme GT Neo 5 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/new-assistance-paradigms-in-windows-post-cortana/"><u>New Assistance Paradigms in Windows Post-Cortana</u></a></li>
-<li><a href="https://some-tips.techidaily.com/next-level-imaging-breakthroughs-coming-to-mobile-tech-how-apples-iphone-16-ultra-redefines-color-and-clarity-in-photos-zdnet-insights/"><u>Next-Level Imaging Breakthroughs Coming to Mobile Tech: How Apple's iPhone 16 Ultra Redefines Color and Clarity in Photos | ZDNET Insights</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ltimate-list-of-premier-youtube-cosmetics-experts/"><u>The Ultimate List of Premier YouTube Cosmetics Experts</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-a78-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo A78 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-tiktok-video-upload-guide-chromeandroidios-strategies/"><u>[New] TikTok Video Upload Guide Chrome/Android/iOS Strategies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-transform-your-images-with-easy-color-changes/"><u>[Updated] Transform Your Images with Easy Color Changes</u></a></li>
+<li><a href="https://win-community.techidaily.com/1728505497109-ssd/"><u>「重要！SSDに格納された情報の完全修復手引き：段階的アプローチで学ぶ方法」</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726030117339-gifavi/"><u>高品質保持: GIFからAVIへの完全な変換手順</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-honor-x50iplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Honor X50i+</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-open-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Open in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-editing-experience-workshop/"><u>In 2024, Editing Experience Workshop</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/prismatic-vistahub-top-tier-unified-4k-screen-systems-for-2024/"><u>Prismatic VistaHub Top-Tier, Unified 4K Screen Systems for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-counter-strike-audio-problems-mic-malfunction-resolved/"><u>Solve Counter-Strike Audio Problems: Mic Malfunction Resolved</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oneplus-open-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of OnePlus Open ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Poco M6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

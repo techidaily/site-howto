@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy A14 4G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone
-date: 2025-01-03T04:36:10.027Z
-updated: 2025-01-07T20:54:54.072Z
+date: 2025-01-13T17:07:09.933Z
+updated: 2025-01-14T17:23:57.303Z
 tags: 
   - problems
 categories:
@@ -21,10 +21,6 @@ It is very common that the Android messaging app is not working on many devices 
 You might find lots of people online stating I can't receive text messages on Android. And usually, people don’t find a legit solution for this issue. If you are also experiencing this sort of issue on your Samsung Galaxy A14 4Gs, then don’t panic. We have a series of methods that can supposedly fix the problem. But at first, we will learn what the main reasons this problem arises are and how do you know that it is consistent not some random error.
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
@@ -77,16 +73,12 @@ Step 2: You will have to provide information about your device, including the br
 ![android not receiving texts - provide info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Agree with the conditions and hit the Next button. The software will download the firmware package automatically. It might take a while to finish the download, and when it is finished, the repair process will be initiated automatically.
 
 ![android not receiving texts - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 It won’t take long, and your Samsung Galaxy A14 4G will be repaired. Now you will be able to receive and send text messages without any hassle.
 
@@ -99,10 +91,6 @@ The easiest thing that you can try if your Samsung Galaxy A14 4G is not receivin
 Another simple method that you can try if you are not receiving text messages on Samsung Galaxy A14 4G phone is to check your network connection. Usually, you can see the bar on the top of the screen. Maybe the problem exists because you have no signal strength at the moment.
 
 ![android not receiving texts - check connection](https://images.wondershare.com/drfone/article/2019/02/no-internet-connection.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Consult your Carrier about the Data Plan
 
@@ -135,6 +123,10 @@ Step 1: Open the messages app and open settings. Look for an option that says �
 ![android not receiving texts - free up space](https://images.wondershare.com/drfone/article/2019/02/manage-SIM-card-messages.jpg)
 
 Step 2: There, you will see the existing messages on the SIM. You can either delete all the messages or perform a selective deletion to free up space.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 8: Try a Third-party Messaging App
 
@@ -177,7 +169,7 @@ Error Code 963, just like any other Google Play Store errors, is not something d
 Read on to find out more about the Google Play Error 963 and best ways to fix it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What is Error Code 963?
@@ -187,10 +179,6 @@ Error 963 is a common Google Play Store error which basically hinders Apps from 
 Error 963 pop-up message reads as follows: “cannot be downloaded due to an error (963)” as shown in the image below.
 
 ![cannot download app](https://images.wondershare.com/drfone/article/2017/06/14984572397254.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 A similar message shows up even while you are trying to update an App, as shown in the screenshot below.
 
@@ -226,7 +214,7 @@ Step 1 – To begin fixing error 963, run Dr.Fone after downloading and installi
 ![fix google play error 963 using repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ and then click the ‘Start’ button.
@@ -265,10 +253,6 @@ Step 4 – Within a while, the Google play error 963 will be vanished.
 
 ![make the fix google play error 963 disappear on android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: 6 Common Solutions to fix Error Code 963
 
 ![fix Error Code 963](https://images.wondershare.com/drfone/article/2017/06/14984132296365.jpg)
@@ -285,11 +269,19 @@ Visit “Settings” and select “Application Manager”.
 
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984136371337.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now select “All” to see all downloaded and built-in Apps on your device.
 
 Select “Google Play Store” and from the options that appear, tap on “Clear Cache” and “Clear Data”.
 
 ![Clear Data](https://images.wondershare.com/drfone/article/2017/06/14984133035184.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you are done clearing Google Play Store Cache and Data, try to download, install or update the App facing Google Play Error 963 again.
 
@@ -339,6 +331,10 @@ From the options that appear, select “Unmount SD Card” as explained in the s
 
 ![select “Unmount SD Card”](https://images.wondershare.com/drfone/article/2017/06/14984574238529.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: If the App or its update downloads successfully now, do not forget to mount the SD Card back.
 
 #### **5\. Remove and Re-add your Google account**
@@ -352,6 +348,10 @@ Visit “Settings”, under “Accounts” select “Google”.
 Select your account and from the “Menu” select “Remove account” as shown below.
 
 ![select “Remove account”](https://images.wondershare.com/drfone/article/2017/06/14984138188713.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once your account is removed, follow the steps given hereunder to add it back again after a few minutes:
 
@@ -405,6 +405,10 @@ To start repairing, go to the official website of Dr.Fone - System Repair (Andro
 
 ![whatsapp not opening - fix with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Choose the Right Tab**
 
 As the next step, you need to take the help of USB cable and then plug your device to the computer. Once connected appropriately, make sure to click on the “Android Repair” tab from the left panel.
@@ -428,10 +432,6 @@ Subsequently, you need to go along with the onscreen instructions. This will boo
 Now, you just have to sit back and relax. The program will begin to repair your device. Wait until you get the notification for completion.
 
 ![whatsapp stopping - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Cause 2: Cache conflict
 
@@ -471,10 +471,6 @@ It is a well-known fact that Android device and Gmail account go hand in hand. T
 
 Now, you can login again and check if WhatsApp works or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Cause 6: WhatsApp Incompatible with your Android Phone
 
 If still nothing works and your WhatsApp keeps stopping, most likely the reason is the incompatibility of your WhatsApp with your device. In such case, the thing that comes to your rescue is mod WhatsApp version like GBWhatsApp. It is a mod app which is similar to WhatsApp but in a more modified way. With this, a user gets more functionalities and customizable settings when compared to WhatsApp.
@@ -508,6 +504,10 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -522,20 +522,16 @@ Now that you have decided where to download the apk file, these are the followin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-lightninglash-delaytape-playback/"><u>[New] 2024 Approved LightningLash DelayTape Playback</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-discovering-the-dynamics-of-whatsapp-vocal-messages-for-2024/"><u>[New] Discovering the Dynamics of WhatsApp Vocal Messages for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-start-guide-zooming-into-fb-live-on-the-web/"><u>[New] Quick Start Guide Zooming Into FB Live on the Web</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-windows-10-apps-and-games-to-explore-and-download/"><u>[Updated] Windows 10 Apps and Games to Explore and Download</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-oppo-reno-10-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo Reno 10 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-tecno-spark-20-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Spark 20 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transition-from-standard-to-intelligent-hdr-imaging/"><u>In 2024, Transition From Standard to Intelligent HDR Imaging</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/intercultural-dialogue-deciphering-turkey-and-korea/"><u>Intercultural Dialogue: Deciphering Turkey and Korea</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-buggy-fcpx-reset-and-reboot-a-quick-fix-for-common-problems-for-2024/"><u>New Buggy FCPX? Reset and Reboot A Quick Fix for Common Problems for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-cutting-edge-in-photo-editing-review-and-breakdown-of-anthropics-smart-photo-editor/"><u>The Cutting Edge in Photo Editing: Review and Breakdown of Anthropics Smart Photo Editor</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-podcast-versus-visual-media-which-suits-your-content-best-for-2024/"><u>[New] Podcast versus Visual Media Which Suits Your Content Best for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-motorola-moto-g04-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Motorola Moto G04 by Name | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1726220690734-dpx-movavi/"><u>簡便線上DPX免費轉檔服務 - Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-x-flip-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo X Flip Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-infinix-smart-8-plus-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Infinix Smart 8 Plus 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-find-x6-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Find X6</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-6-services-for-live-video-localization/"><u>In 2024, Premium 6 Services for Live Video Localization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-selecting-top-notch-free-srt-translators-online/"><u>In 2024, Ultimate Guide Selecting Top-Notch Free SRT Translators Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-google-pixel-9-a-trailblazer-in-safety-with-newly-integrated-satellite-distress-messaging-feature-technewstoday/"><u>The Google Pixel 9: A Trailblazer in Safety with Newly Integrated Satellite Distress Messaging Feature | TechNewsToday</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Note 30 5G | Dr.fone
-date: 2024-12-31T20:05:49.140Z
-updated: 2025-01-07T19:02:40.550Z
+date: 2025-01-07T17:37:14.920Z
+updated: 2025-01-14T16:16:21.783Z
 tags: 
   - problems
 categories:
@@ -23,6 +23,10 @@ In our guide, you’ll find out why your Spotify keeps crashing. Moreover, you�
 ## Part 1. Why Spotify Keeps Crashing
 
 ![spotify crashing problem](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Some people have encountered a problem with their Spotify accounts. Spotify can sometimes keep crashing and closing due to several reasons. For example, it can happen due to your phone not being compatible with the app. This can happen if your operating system isn’t updated to the newest version.
 
@@ -56,16 +60,12 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 ![start system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 5:** Select the **Brand,****Name, Model, Country,** and **Carrier** In the **Carrier** section, choose **OPEN** if your device is unlocked.
 
 ![select your android model in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 6:** Tick the **“I agree with the warning, and I am ready to proceed”**checkbox and click **Next**.
 - **Step 7:** Put your Android in **Download Mode**. You can find the steps below these instructions.
@@ -141,10 +141,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4. Restart Your Device
 
 Another way to stop Spotify from crashing can be restarting your Android. The steps may vary slightly depending on the Infinix Note 30 5G device, but they’re mostly the same. Follow these steps to restart your device:
@@ -168,6 +164,10 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 - **Step 5:** Go to **Set Time**and set the right time.
 
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6. Update Your System Software
 
@@ -231,6 +231,10 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
 
 - **Step 7:** Once it installs, log in to test if it’s working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10. Check if Spotify Is Down
 
@@ -327,7 +331,7 @@ Your trouble with ‘why does My Infinix Note 30 5G keep shutting off?’ can be
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
@@ -354,10 +358,6 @@ Step 2: Here, you need to press the ‘Start’ button right after hitting the �
 
 ![choose repair to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Pick your Infinix Note 30 5G details over the Infinix Note 30 5G device information interface. Click the ‘Next’ button afterward.
 
 ![start to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -379,7 +379,7 @@ Step 2: Hitting the ‘Next’ button will start the Android firmware download.
 ![start firmware downloading](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once downloaded. Within some time the Android system gets repaired.
@@ -389,7 +389,7 @@ Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once dow
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Update software to the latest version to fix Android phone keeps turning off
@@ -424,13 +424,13 @@ Now tap on “Power Off” for about 10 seconds and click “OK” on the messag
 
 ![safe mode](https://images.wondershare.com/drfone/article/2017/07/14994529389258.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once done, the phone will reboot and you will see “Safe Mode” on the main screen.
 
 ![safe mode](https://images.wondershare.com/drfone/article/2017/07/14994529591962.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That's all. Well, booting to Safe Mode is easy and it also helps you to identify the real problem.
 
@@ -465,10 +465,6 @@ You will see the file types that will be backed up. Wait for the backup process 
 
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There you go, you have successfully backed up data.
 
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
@@ -480,6 +476,10 @@ Now moving on to factory reset your phone:
 Simply visit “Settings” on your Infinix Note 30 5G by clicking the settings icon as shown below.
 
 ![visit “Settings”](https://images.wondershare.com/drfone/article/2017/07/14994531602106.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 And then select the “Backup and Reset” option.
 
@@ -542,10 +542,6 @@ Next will be the information screen. Simply enter the model, brand and other det
 Subsequently, you need to go along with the onscreen instructions. This will boot your device in the download mode. The step is necessary to download the firmware. When you follow the steps, you need to click “Next”. The program will then start downloading the firmware.
 
 ![whatsapp stopping - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5: Repair Android**
 
@@ -624,6 +620,10 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -638,16 +638,14 @@ Now that you have decided where to download the apk file, these are the followin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-exploring-beyond-sns-hdr-pro-in-photography/"><u>[New] Exploring Beyond SNS HDR Pro in Photography</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-y27-4g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo Y27 4G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-videoharvester-fb-groups/"><u>2024 Approved VideoHarvester FB Groups</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-basic-chatgpt-against-web-integrated-plugins/"><u>Assessing Basic ChatGPT Against Web-Integrated Plugins</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-infinix-smart-8-plus-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Infinix Smart 8 Plus?</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-spark-10-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Spark 10 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-perfect-viewing-sequence-experiencing-the-lord-of-the-rings-saga-from-beginning-to-end/"><u>The Perfect Viewing Sequence: Experiencing 'The Lord of the Rings' Saga From Beginning to End</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-90-lite-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor 90 Lite Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-realme-12-proplus-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme 12 Pro+ 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-collaborative-listening-made-simple-on-youtube/"><u>[Updated] Collaborative Listening Made Simple on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-virtual-play-spaces-you-cant-miss/"><u>[Updated] Virtual Play Spaces You Can't Miss</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-motorola-g54-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Motorola G54 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/data-safe-fixes-for-a-malfunctioning-usb-flash-drive-using-command-prompt/"><u>Data-Safe Fixes for a Malfunctioning USB Flash Drive Using Command Prompt</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-what-youve-been-waiting-for-the-new-iphone-15-awaits-your-upgrade-gadgetworld-insights/"><u>Experience What You’ve Been Waiting For – The New iPhone 15 Awaits Your Upgrade | GadgetWorld Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-f34-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy F34 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-motorola-moto-g13-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Motorola Moto G13 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

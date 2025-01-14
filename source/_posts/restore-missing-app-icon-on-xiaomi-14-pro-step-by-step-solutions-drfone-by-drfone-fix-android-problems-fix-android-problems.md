@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Xiaomi 14 Pro Step-by-Step Solutions | Dr.fone
-date: 2025-01-02T20:23:31.410Z
-updated: 2025-01-07T20:15:24.777Z
+date: 2025-01-12T16:06:51.972Z
+updated: 2025-01-14T18:33:54.844Z
 tags: 
   - problems
 categories:
@@ -62,7 +62,7 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Re-enable disabled app
@@ -74,6 +74,10 @@ To re-enable the disabled app, you can follow the steps here:
 - **Step 1**. Open the Apps & Notifications on the Settings.
 - **Step 2.** Select the app which icon is missing on your home screen. For example, tap the phone app if the **phone icon disappears on your Android.**
 - **Step 3:** In the App Info, tap Enable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Reset Android to factory settings
 
@@ -102,6 +106,10 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,136,839** people have downloaded it
 
 - **Step 2.** Begin Repair
@@ -109,10 +117,6 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 Click Start on the new screen to kick off the repair. Since you're dealing with the Android system, select System Damage.
 
 ![Select the problem and begin the repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3.** Fill in the Xiaomi 14 Pro device Details
 
@@ -139,10 +143,6 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 [<u>How to Fix Android App Not Installed Error Quickly?</u>](https://drfone.wondershare.com/android-issue/android-app-not-installed.html)
 
 [<u>Authentication Error Occurred? Here Are 10 Proven Fixes</u>](https://drfone.wondershare.com/android-issue/authentication-error.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -249,6 +249,10 @@ Simply, follow the instructions given below to remove Apps from Xiaomi 14 Pro De
 
 The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How to fix Camera Failed error by wiping Cache Partition?
 
 This method might seem tedious and time-consuming and you may also lose your data and essential settings. However, wiping the Cache Partition only cleans your device system internally and gets rid off any unwanted and trouble making elements causing Warning: Camera Failed error. Follow the step-by-step guide given below to clean Cache Partition smoothly:
@@ -323,15 +327,15 @@ There is no doubt that it is quite frustrating when your device buttons, such as
 
 Here, we are going to mention four common methods that you can try to resolve the home button problem on your Xiaomi 14 Pro with ease.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1.1 One click to fix Android Home Button Not Working
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>[Try It Free](https://download.wondershare.com/drfone_repair_full3371.exe)
 
 When it comes to the home button not working Xiaomi 14 Pro problem, the most common reason is the unknown system issues. In such a scenario, the best solution is using Dr.Fone - System Repair (Android) software to repair your Android system to normal in one click. This tool is powerful enough to resolve various Android issues within a few minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -356,16 +360,12 @@ Step 2: Thereafter, connect your Xiaomi 14 Pro to the computer using a USB cable
 ![home button not working android - connect device](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Next, you will navigate to a device information page where you have to provide your device information.
 
 ![home button not working android  - check device info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: After that, the software will download the appropriate firmware to repair your Android system.
 
@@ -412,7 +412,7 @@ Step 2: After that, click “Check for updates” and if updates are available, 
 ![home button not working android - update android](https://images.wondershare.com/drfone/article/2019/02/update-firmware.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: What if the Home Button fails due to hardware reasons?
@@ -435,6 +435,10 @@ Cons:
 - It is not as much efficient as other similar apps available out there.
 
 URL: [https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en\_US](https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en_US)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Button Savior app
 
@@ -461,7 +465,7 @@ Navigation Bar app is another great solution to fix the home button not respondi
 ![vavigation bar](https://images.wondershare.com/drfone/article/2019/02/navigation-bar-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Pros:
@@ -502,10 +506,6 @@ Is your Android physical home button is broken or dead? If yes, then the Multi-a
 
 ![home button not working android - Multi-action Home Button app](https://images.wondershare.com/drfone/article/2019/02/multi-action-home-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Pros:
 
 - It provides various actions with the button.
@@ -518,7 +518,7 @@ Cons:
 URL: [https://play.google.com/store/apps/details?id=com.home.button.bottom](https://play.google.com/store/apps/details?id=com.home.button.bottom)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -539,22 +539,18 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-connect-with-community-spots-a-dynamic-guide-for-local-explorers-on-the-move/"><u>[New] 2024 Approved Connect with Community Spots A Dynamic Guide for Local Explorers on the Move</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pc-image-management-for-iphone-integration/"><u>[New] PC Image Management for iPhone Integration</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-enhancing-winter-vlogs-with-five-heartwarming-backdrops-for-2024/"><u>[Updated] Enhancing Winter Vlogs with Five Heartwarming Backdrops for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-sparking-interest-in-tiktoks-best-50plus-motivational-quotes/"><u>[Updated] In 2024, Sparking Interest in TikToks Best 50+ Motivational Quotes</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-plus-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-infinix-smart-8-plus-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Infinix Smart 8 Plus Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-7-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 7 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/1728462914860-mac/"><u>Mac上賢明分享：無間斷共來指導，革新文件交換方式</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/restoring-full-chatgpt-functionality-fixing-key-obstacles/"><u>Restoring Full ChatGPT Functionality: Fixing Key Obstacles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/sale-alert-save-nearly-half-on-the-4tb-samsung-t5-nvme-ssd-now-available-on-amazon-insights-from-zdnet/"><u>Sale Alert: Save Nearly Half on the 4TB Samsung T5 NVMe SSD - Now Available on Amazon! Insights From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-deciphering-crossfade-techniques-in-music/"><u>[Updated] Deciphering Crossfade Techniques in Music</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-feast-filming-101-essential-food-videography-skills/"><u>[Updated] Feast Filming 101 Essential Food Videography Skills</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-x-flip-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo X Flip Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-tecno-spark-go-2023-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Spark Go (2023) Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capturing-the-joy-of-lol-gameplay-three-effective-methods/"><u>Capturing the Joy of LOL Gameplay - Three Effective Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-champion-of-value-a-comprehensive-guide-to-fellowes-microban-wireless-keyboard/"><u>Discover the Champion of Value: A Comprehensive Guide to Fellowes Microban Wireless Keyboard</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/sive-youtube-snippet-access-high-quality-free-download-for-2024/"><u>Exclusive YouTube Snippet Access - High Quality, Free Download for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722588833560-leading-long-range-router-models-optimize-your-home-network-now/"><u>Leading Long-Range Router Models: Optimize Your Home Network Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-strategies-for-finding-individuals-on-facebook-in-just-a-few-steps/"><u>Simple Strategies for Finding Individuals on Facebook in Just a Few Steps</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1726026913788-youtubepc/"><u>YouTubeショート動画改変の秘訣：PC上でお金をかけずにプロフェッショナルな編集</u></a></li>
 </ul></div>
 

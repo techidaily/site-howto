@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Itel S23 | Dr.fone
-date: 2025-01-06T04:45:56.929Z
-updated: 2025-01-08T00:00:30.655Z
+date: 2025-01-11T16:02:22.582Z
+updated: 2025-01-14T16:34:11.803Z
 tags: 
   - problems
 categories:
@@ -23,6 +23,10 @@ In our guide, you’ll find out why your Spotify keeps crashing. Moreover, you�
 ## Part 1. Why Spotify Keeps Crashing
 
 ![spotify crashing problem](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Some people have encountered a problem with their Spotify accounts. Spotify can sometimes keep crashing and closing due to several reasons. For example, it can happen due to your phone not being compatible with the app. This can happen if your operating system isn’t updated to the newest version.
 
@@ -68,6 +72,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
 
 ![fix your android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 10:** Type “**000000**” in the dialog box and click **Confirm**.
 
@@ -157,6 +165,10 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6. Update Your System Software
 
 Your Spotify app might keep crashing because your system is outdated. Try updating it to the latest version to try and fix the crashing problem. The steps for the Android system update are as follows:
@@ -212,6 +224,10 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 ![uninstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Press **OK**.
 - **Step 5:** Then, open the PlayStore and find Spotify.
 - **Step 6:** Tap **Install**to reinstall the app again.
@@ -252,6 +268,10 @@ When using different apps and websites, your device caches data from those sourc
 
 ![spotify storage usage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-24.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Tap **Clear Cache**.
 
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
@@ -259,11 +279,7 @@ When using different apps and websites, your device caches data from those sourc
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -312,6 +328,10 @@ Step 1 – Download the Dr.Fone toolkit over your PC. Install it and launch it o
 
 ![fix Android system UI stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2 – You need to select “Android Repair” from the left panel and then hit the ‘Start’ button.
 
 ![option to fix Android system UI not responding](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -344,17 +364,9 @@ Step 3 – As soon as the download completes, the Android repair will automatica
 
 ![repair firmware to fix Android system UI stopping](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4 – In a just a matter of a few minutes, your Android system UI isn’t responding issue will be resolved.
 
 ![com.android.systemui stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Uninstall Google updates to fix Android SystemUI issue
 
@@ -372,10 +384,6 @@ Follow the steps given below to fix the Android SystemUI has stopped issue by ro
 Note: To prevent the Android SystemUI isn't responding error to occur in the future, do not forget to change your Google Play Store settings to “Do Not Auto-Update Apps”.
 
 ![android system ui-“Do Not Auto-Update Apps”](https://images.wondershare.com/drfone/article/2017/06/14985097858029.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Wipe Cache partition to fix Android SystemUI error
 
@@ -418,7 +426,7 @@ Follow the steps given below to factory reset your device to solve the Android S
 ![android system ui-select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/06/14985098813784.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - In this step, select “Factory data reset” and then “Reset Device”.
@@ -432,10 +440,6 @@ The whole process of factory resetting your Itel S23 might sound tedious, risky,
 
 Android SystemUI isn't responding or Android, unfortunately, the process com.android.systemui has stopped error is commonly seen by users on their devices. It is not a random error and is linked to either the software, Google App, cache partition, or data stored in the Itel S23 device. It is fairly simple to deal with this issue as all you need to do is install or roll back your Android OS update, uninstall Google App updates, clear cache partition, or factory reset your device to clear all data, files, and settings stored in it. The methods listed and explained above are the best ways to fight the problem and to prevent it from troubling you in the future. These methods have been adopted by affected users all over the world who recommend them because they are safe and involve minimum risks as compared to other tools to solve the Android SystemUI has stopped error. So go ahead and try them now!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What To Do if Your Itel S23 Auto Does Not Work
 
 Embracing the convenience of Android Auto enhances your driving experience. It seamlessly connects your smartphone with your vehicle. However, in the realm of technology, glitches and malfunctions are commonplace. Android Auto, too, may [<u>encounter software or hardware issues</u>](https://drfone.wondershare.com/device-diagnostics/how-to-run-a-hardware-test-on-xiaomi.html) that disrupt its functionality.
@@ -443,6 +447,10 @@ Embracing the convenience of Android Auto enhances your driving experience. It s
 In this guide, you’ll delve into the common problems users face when **Android Auto does not work** and provide practical solutions to get you back on the road smoothly. From troubleshooting software glitches to addressing hardware concerns, this article aims to equip you with the knowledge to tackle **Android Auto problems** effectively.
 
 ![android and car logo](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. A Briefer on Android Auto
 
@@ -457,10 +465,6 @@ Android Auto connects your smartphone to your car’s infotainment system via US
 By integrating familiar smartphone functionalities into your car, Android Auto aims to provide a safer and more enjoyable driving experience, reducing the need for manual phone interactions while on the road. Understanding this foundation will empower you to effectively troubleshoot when issues arise.
 
 ![android auto and apple carplay](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. Common Issues Android Auto Faces + Troubleshooting/Repair
 
@@ -485,10 +489,6 @@ If specific apps refuse to cooperate, a quick remedy is to restart the head unit
 Issues with the screen or display on your car’s head unit can be disconcerting. To troubleshoot, commence with a simple restart of the head unit.
 
 If the problem lingers, escalate the solution by restarting the entire car. Should these steps prove ineffective, seeking professional assistance at a maintenance center is advisable. This ensures a thorough examination and potential resolution of [<u>hardware-related problems</u>](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html), providing a comprehensive fix for persistent screen and display issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Voice Commands Not Working
 
@@ -524,13 +524,13 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 
 ![wondershare dr.fone phone os chooser](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Initiate the Android System Repair by clicking **Start**.
 
 ![wondershare dr.fone system repair start screen](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Confirm the accuracy of your device details. If needed, edit any information that may be incorrect.
 
@@ -572,20 +572,19 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nstant-video-visionary/"><u>[New] Instant Video Visionary</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-bygone-beauty-iphone-x-portrait-moments/"><u>[Updated] Bygone Beauty IPhone X Portrait Moments</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-guide-to-mp3-skype-recorder-record-skype-call-for-free/"><u>2024 Approved The Ultimate Guide to MP3 Skype Recorder| Record Skype Call For Free</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-vivo-y200-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y200? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-oneplus-12-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on OnePlus 12 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-camon-20-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Camon 20 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/high-quality-video-grabs-by-leading-software/"><u>High Quality Video Grabs by Leading Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-nokia-c210-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Nokia C210 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-moving-your-ipad-videos-to-iphone-without-using-icloud/"><u>Step-by-Step Guide: Moving Your iPad Videos to iPhone Without Using iCloud</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-communicating-with-chatgpt-for-car-modification-support/"><u>Step-by-Step: Communicating with ChatGPT for Car Modification Support</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-10t-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme 10T 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-a78-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo A78 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-honor-90-lite-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Honor 90 Lite without backup.</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-decoding-social-medias-new-wave-10-realities-about-reels/"><u>[Updated] 2024 Approved Decoding Social Media's New Wave 10 Realities About Reels</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-see-your-subscribers-on-youtube/"><u>[Updated] In 2024, How to See Your Subscribers on YouTube?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instagram-stories-step-by-step-recording-guide/"><u>[Updated] Mastering Instagram Stories Step-by-Step Recording Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-leading-edge-4k-tvs-for-gamers-for-2024/"><u>5 Leading Edge 4K TVs for Gamers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-note-30-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Note 30 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-m14-4g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy M14 4G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-s23-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy S23? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-y28-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y28 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-realme-c67-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Realme C67 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-neo-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Neo Phone without PIN</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/ultimate-guide-to-free-and-reliable-dvd-software-on-windows-11-for-smooth-movie-streaming/"><u>Ultimate Guide to Free & Reliable DVD Software on Windows 11 for Smooth Movie Streaming</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-motorola-moto-g24-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Motorola Moto G24 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-poco-x5-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Poco X5 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/windows-pc42024/"><u>Windows PCに失われたファイルの回復手段：4つ択(2024最新メソッド)</u></a></li>
 </ul></div>
 

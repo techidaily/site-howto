@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy XCover 6 Pro Tactical Edition Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone
-date: 2025-01-05T08:37:03.852Z
-updated: 2025-01-08T02:40:13.302Z
+date: 2025-01-09T16:41:28.837Z
+updated: 2025-01-14T17:39:29.977Z
 tags: 
   - problems
 categories:
@@ -78,10 +78,6 @@ Step 3: Agree with the conditions and hit the Next button. The software will dow
 
 It won’t take long, and your Samsung Galaxy XCover 6 Pro Tactical Edition will be repaired. Now you will be able to receive and send text messages without any hassle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Remove and Insert the SIM
 
 The easiest thing that you can try if your Samsung Galaxy XCover 6 Pro Tactical Edition is not receiving any text messages is because the SIM is not inserted right. If your SIM card is inserted wrong, then it is obvious you can't receive text messages on Android. Simply take out the SIM card, see how it must be inserted, and do it correctly. Once the SIM is inserted in the right way, you will receive the pending text messages immediately unless there is another issue preventing it.
@@ -91,6 +87,10 @@ The easiest thing that you can try if your Samsung Galaxy XCover 6 Pro Tactical 
 Another simple method that you can try if you are not receiving text messages on Samsung Galaxy XCover 6 Pro Tactical Edition phone is to check your network connection. Usually, you can see the bar on the top of the screen. Maybe the problem exists because you have no signal strength at the moment.
 
 ![android not receiving texts - check connection](https://images.wondershare.com/drfone/article/2019/02/no-internet-connection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Consult your Carrier about the Data Plan
 
@@ -113,6 +113,10 @@ Step 1: Open the Settings and go to Apps. Find the Messages app from the list an
 Step 2: Click on the Clear Cache button and wait as the Samsung Galaxy XCover 6 Pro Tactical Edition device free up the memory of your device.
 
 Once the cache is cleared, you can also clear the data if you want to and you’ll instantly receive the text messages on your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7: Delete Useless Messages to Free Up Space
 
@@ -141,6 +145,10 @@ If the Samsung Galaxy XCover 6 Pro Tactical Edition phone is not receiving texts
 Taking the iPhone in hand makes sure that you are connected to a network. Open settings and scroll to look for the Message option. Toggle the bar next to the iMessage option to turn it off.
 
 ![android not receiving texts - check iphone message](https://images.wondershare.com/drfone/article/2019/02/deactivate-imessages.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the FaceTime option is also on, you might have to deactivate that too to send messages and calls as regular ones.
 
@@ -179,7 +187,7 @@ OS bugs and general glitches within the OS and the camera app can cause camera n
 In the rarest cases, there might have developed an actual hardware issue with the camera system on your Samsung Galaxy XCover 6 Pro Tactical Edition. The likely culprit is misuse and abuse, such as a dropped phone or maybe the phone was too hot for extended periods of time, causing hardware issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part II: How To Fix Android Camera Not Working Issue?
@@ -202,10 +210,6 @@ Step 1: Launch the app switcher on your specific Android device the way your dev
 
 ![closing apps in app switcher](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
 
 ### II.III: Check App Permissions
@@ -215,10 +219,6 @@ These days, thanks to strides in the privacy initiatives, apps need permissions 
 Step 1: Go to Settings > Apps > Camera > Permissions.
 
 ![camera permissions check android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2: Tap Camera.
 
@@ -238,6 +238,10 @@ Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.V: Clear The Photo Gallery App Cache
 
 The camera app is closely tied to the photo gallery app that comes baked in into Android OS. That is because photos that the camera app takes are stored in the photo gallery app. Consequently, if there were any issues in the photo gallery app, that could lead to the camera app not working on Android problem. Here’s how to clear the photo gallery app cache:
@@ -246,11 +250,11 @@ Step 1: Go to Settings > Apps > Photos > Storage Usage.
 
 ![clear photo gallery app cache](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-8.jpg)
 
-Step 2: Tap Clear Cache.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step 2: Tap Clear Cache.
 
 ### II.VI: Check For App Updates
 
@@ -322,10 +326,6 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
@@ -365,9 +365,17 @@ Step 2. Select the issue type for your phone. Choose from "Touch screen not resp
 
 ![bricked android phone data recovery-Select the issue type](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: In the next step, you need to select your device model. If you don’t know the model of your device click on “How to check the Samsung Galaxy XCover 6 Pro Tactical Edition device model” to get help.
 
 ![bricked android phone data recovery-select your device model](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: The next screen will provide instructions on how to enter “Download mode.” Connect the Samsung Galaxy XCover 6 Pro Tactical Edition device to your PC once it is in “Download Mode”
 
@@ -376,10 +384,6 @@ Step 4: The next screen will provide instructions on how to enter “Download mo
 Step 5: The program will begin an analysis of your device and then download the recovery package.
 
 ![bricked android phone data recovery-download the recovery package](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 6: Then Dr.Fone will display all the recoverable file types. You can click on the files to preview them. Select the ones you need and click on "Recover to Computer" to save them to your computer.
 
@@ -390,6 +394,10 @@ Step 6: Then Dr.Fone will display all the recoverable file types. You can click 
 ## Part 2: How to Fix Your Bricked Android Phone
 
 Android devices are usually very flexible in allowing users to flash ROM but sometimes an incorrect process can result in a bricked device. While there are few solutions to this problem, here are a few things you can do;
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When the Samsung Galaxy XCover 6 Pro Tactical Edition device Boots Straight into Recovery
 
@@ -402,7 +410,7 @@ Step 2: Once you are in, navigate to the “Reboot system now.” If you are usi
 ![bricked android phone data recovery-Reboot system now.](https://images.wondershare.com/drfone/others/fix-bricked-android-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When the Samsung Galaxy XCover 6 Pro Tactical Edition device won’t stop rebooting
@@ -417,19 +425,11 @@ Step 3: One of the options should be “Wipe Dalvik cache” select this option 
 
 ![bricked android phone data recovery-Go Back](https://images.wondershare.com/drfone/others/fix-bricked-android-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Go to the “Wipe Cache Partition” and select it.
 
 Step 5: Go to “Wipe data/ factory reset.”
 
 ![bricked android phone data recovery-Wipe data/ factory reset](https://images.wondershare.com/drfone/others/fix-bricked-android-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 6: Finally reboot the Samsung Galaxy XCover 6 Pro Tactical Edition device by selecting “Reboot system now.” This should fix the problem. You may also want to flash the same ROM or try a new one.
 
@@ -469,17 +469,19 @@ While installing Custom ROM can actually be a great way to customize your device
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/liminating-grey-edges-on-video-a-youtube-fix-guide-for-2024/"><u>[New] Eliminating Grey Edges on Video A YouTube Fix Guide for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-elevate-console-experience-with-personalized-audio-settings-for-2024/"><u>[Updated] Elevate Console Experience with Personalized Audio Settings for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-pioneering-usability-unearthed-strategies-for-amplified-windows-11-capabilities-for-2024/"><u>[Updated] Pioneering Usability Unearthed Strategies for Amplified Windows 11 Capabilities for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-a78-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo A78 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-frame-your-photos-right-with-top-tools-editors/"><u>2024 Approved Frame Your Photos Right with Top Tools Editors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-the-introduction-writing-impressive-summaries/"><u>2024 Approved Perfecting the Introduction Writing Impressive Summaries</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nokia-c02-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nokia C02 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevating-your-storage-game-with-2024s-top-cloud-services/"><u>Elevating Your Storage Game with 2024'S Top Cloud Services</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-6s-plus-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone 6s Plus Stuck On Activation Lock?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unveiling-ms-edges-picture-in-picture-magic/"><u>[Updated] 2024 Approved Unveiling MS Edge's Picture-in-Picture Magic</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-drowsy-documentaries-film-reviews/"><u>[Updated] Drowsy Documentaries Film Reviews</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-infinite-gaming-space-10-ssds-hdds-for-ps5-for-2024/"><u>[Updated] Infinite Gaming Space #10 SSDs, HDDs for PS5 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-7-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 7 and iPad Securely</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-itel-a05s-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Itel A05s Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-enterprise-ai-capabilities-with-microsoft-azures-latest-offerings-models-as-a-service-and-enhanced-rag-solutions/"><u>Boosting Enterprise AI Capabilities with Microsoft Azure's Latest Offerings: Models as a Service and Enhanced RAG Solutions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/charting-the-course-of-monetization-for-creator-economy-on-youtubeshorts/"><u>Charting the Course of Monetization for Creator Economy on YouTubeshorts</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-through-your-new-m1-max-clip-world/"><u>In 2024, Navigating Through Your New M1 Max Clip World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-imagery-in-chatgpt-4-via-dall-e/"><u>Mastering AI Imagery in ChatGPT-4 via DALL-E</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-complimentary-html-editors-available-on-windows/"><u>Top 8 Complimentary HTML Editors Available on Windows</u></a></li>
 </ul></div>
 

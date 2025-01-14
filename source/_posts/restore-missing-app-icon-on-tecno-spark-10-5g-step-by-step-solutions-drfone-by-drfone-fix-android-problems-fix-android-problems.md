@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Tecno Spark 10 5G Step-by-Step Solutions | Dr.fone
-date: 2025-01-01T03:59:47.950Z
-updated: 2025-01-08T08:32:24.015Z
+date: 2025-01-12T17:51:41.094Z
+updated: 2025-01-14T16:09:46.683Z
 tags: 
   - problems
 categories:
@@ -60,6 +60,10 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 - **Step 4.** Release to drop the app icon onto the home screen.
 
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Re-enable disabled app
 
@@ -139,7 +143,7 @@ When the **app disappears from the home screen of your Android**, it can hinder 
 Whether it's due to accidental deletion or a system glitch, we have discussed various methods to recover the missing app and ensure smooth functionality in this article. In cases of system-related issues on your Tecno Spark 10 5G, it's advisable to rely on trustworthy software such as Dr. Fone's system repair tool for a comprehensive resolution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Spark 10 5G
@@ -167,6 +171,10 @@ Android repair tool to fix firmware component issues
 To start repairing, go to the official website of Dr.Fone - System Repair (Android) and download it. Install it and then open the tool on your PC. To proceed, look for the “System Repair” tab and click on it.
 
 ![whatsapp not opening - fix with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Choose the Right Tab**
 
@@ -263,10 +271,6 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9 Solutions to Fix Tecno Spark 10 5G System Crash Issue
 
 Android crash, better known as Android system crash is not a recent issue and has troubled many users in the past as well. It means when your device crashes suddenly and refuses to turn on again or when your device freezes and becomes unresponsive. It may also happen that your Tecno Spark 10 5G crashes abruptly but boots up normally only to crash again after a few minutes or hours. Android Crash sounds like a very serious problem and something that could damage your device or permanently destroy the software, but Android system crash can be dealt with easily. Just in case you suffer from an Android crash and want to know how to fix the Android system crash issue, rest assured that this problem is fixable. There are various ways to tackle the situation, to be discussed further, and you may choose the one that best suits you.
@@ -300,10 +304,6 @@ You may follow the steps given below to rescue your data from crashed Android de
 
 ![select data type](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Choose the "Touch screen not responsive or cannot access the phone" to continue.
 
 ![select device model](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
@@ -311,10 +311,6 @@ You may follow the steps given below to rescue your data from crashed Android de
 4\. You will now see device options before you. Select yours and move on to feed in your device name and model details.
 
 ![select device model](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5\. Now press the volume down, power, and home button on your device together to boot the phone in Download mode.
 
@@ -328,9 +324,17 @@ You may follow the steps given below to rescue your data from crashed Android de
 
 ![recover data to computer](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Using Dr.Fone Damage Extraction software is intuitive and very safe. It prevents data loss and allows you to adopt various ways to recover your device from the Android system crash issue.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Why does my Android phone system keep crashing?
 
@@ -362,16 +366,12 @@ Another quick solution to avoid Android devices crashing is to shut down unneces
 
 ![tap on battery and device care](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** As you progress further, you need to select the “Clean now” button to shut down all unnecessary background applications running on the Android.
 
 ![press the clean now button](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: Uninstall incompatible Apps to fix Android crash issue
@@ -486,6 +486,10 @@ As we redirect to resolving Android system errors using Wondershare Dr.Fone – 
 - It can help you resolve issues like Android's black screen of death, being stuck in the boot loop, and many more.
 - Provides an easy interface to execute procedures, making it a simple tool with no learning curve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps To Repair Android System Crash Issue Using Dr.Fone – System Repair (Android)
 
 Let's redirect to the steps that can be used to repair Android system crash issues using Wondershare Dr.Fone – System Repair (Android):
@@ -518,6 +522,10 @@ Whatsoever Android you own, you need to put it in Download Mode, depending on th
 
 ![download the android os firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Fix the Firmware of Android**
 
 Once it downloads and is verified, click the "Fix Now" button to repair the Android successfully. You may need to provide a PIN to confirm the process. Once provided, the next screen shows the progress of the repair process. As it completes, click the "Done" button to conclude fixing the Android system crash issue.
@@ -525,10 +533,6 @@ Once it downloads and is verified, click the "Fix Now" button to repair the Andr
 ![android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 11: Factory reset the Tecno Spark 10 5G device to fix the Android crash issue
 
@@ -542,10 +546,6 @@ Now select “Backup and Reset”.
 
 ![backup reset](https://images.wondershare.com/drfone/article/2017/07/14988993192107.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In this step, select “Factory data reset” and then “Reset Device” to confirm Factory Reset.
 
 The process of factory resetting your Tecno Spark 10 5G is risky and cumbersome, as it deleted all data, but it helps to fix the Android System crash error.
@@ -557,7 +557,7 @@ When you are at the Recovery Mode screen, scroll down using volume down key, and
 ![factory reset](https://images.wondershare.com/drfone/article/2017/07/14988993508337.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Wait for your device to perform the task and then:
@@ -582,18 +582,21 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-brand-voice-via-micro-business-videos/"><u>[New] 2024 Approved Building Brand Voice via Micro-Business Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pioneers-charting-extended-realms-course/"><u>[Updated] 2024 Approved Pioneers Charting Extended Realms' Course</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-poco-c65-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Poco C65 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-s24-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy S24 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/evaluating-freenocam-for-professional-webcam-use/"><u>Evaluating FreenoCam for Professional Webcam Use</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/how-abbyy-empowered-renault-argentinas-transformation-of-its-accounting-department-exclusive-customer-insights/"><u>How ABBYY Empowered Renault Argentina's Transformation of Its Accounting Department – Exclusive Customer Insights</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-6-lite-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 6 Lite to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-camon-30-pro-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Camon 30 Pro 5G Is Unlocked</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/overcome-sound-absence-on-tweeted-film-rolls/"><u>Overcome Sound Absence on Tweeted Film Rolls</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/teenyvid-viewers-assessment-on-screenshots-for-2024/"><u>TeenyVid Viewer's Assessment on Screenshots for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-rundown-on-dji-inspire-2-for-2024/"><u>The Complete Rundown on DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-uncovering-untapped-territories-in-meme-culture-for-2024/"><u>[New] Uncovering Untapped Territories in Meme Culture for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-quick-and-easy-iphone-screen-capture-techniques-for-2024/"><u>[Updated] Quick and Easy iPhone Screen Capture Techniques for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-secrets-to-flawless-hdr-image-creation-and-merging-in-lightroom/"><u>[Updated] The Secrets to Flawless HDR Image Creation and Merging in Lightroom</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-magic-6-lite-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor Magic 6 Lite Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-100-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor 100 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-s17e-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo S17e Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-bulky-beginnings-to-sleek-success/"><u>From Bulky Beginnings to Sleek Success</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-poco-m6-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Poco M6 5G?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/monitor-fading-screen-captures-within-facebook-chats/"><u>Monitor Fading Screen Captures Within Facebook Chats</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-v30-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme V30 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/transient-virtual-escapades-worth-the-attention/"><u>Transient Virtual Escapades – Worth the Attention?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-btballoondll-errors-for-smooth-computer-performance/"><u>Troubleshooting BTBalloon.dll Errors for Smooth Computer Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-honor-x9b-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor X9b Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

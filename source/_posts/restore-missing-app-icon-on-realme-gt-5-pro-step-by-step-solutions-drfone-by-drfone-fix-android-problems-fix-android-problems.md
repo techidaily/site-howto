@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Realme GT 5 Pro Step-by-Step Solutions | Dr.fone
-date: 2025-01-02T22:28:22.410Z
-updated: 2025-01-07T20:45:46.935Z
+date: 2025-01-09T16:47:22.884Z
+updated: 2025-01-14T17:19:44.539Z
 tags: 
   - problems
 categories:
@@ -32,15 +32,15 @@ Before proceeding with troubleshooting the **missing app icon on your Android** 
 
 Now, see whether you can find the **app icon that disappeared on your Android.** If you can’t find it, it means the app has been accidentally deleted, and you can install it back on your device. However, if it’s confirmed to be installed on your Android but remains missing from your home screen, you can continue the following practice.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How To Find the Missing App Icon on Android
 
 _“_**_All my apps disappeared from my home Android screen._** _What should I do?”_
 
 If you've confirmed that the missing app is installed, but its icon is nowhere to be found on your home screen, don't fret—there are several solutions you can take to locate and restore the **missing app icon on Android**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Check hidden apps
 
@@ -54,10 +54,6 @@ However, as a general guide, you can follow these steps:
 
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Move the app to the home screen from the App Drawer
 
 If your **app icon disappeared on your Android**, you can also easily restore it by adding the app to the home screen from the app drawer. Follow the step-by-step guide below:
@@ -70,7 +66,7 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Re-enable disabled app
@@ -124,25 +120,21 @@ The platform will detect your Realme GT 5 Pro's brand. Confirm the Name, Model, 
 
 ![Confirm your Realme GT 5 Pro’s details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4.** Activate Download de
 
 Follow the instructions to put your Realme GT 5 Pro into Download Mode. Once you are in Download Mode, the firmware will be downloaded automatically.
 
 ![Activate Download mode to download the firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5.** Confirm Installation
 
 Remember, the repair may erase data. It’s advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar. Once finished, click Done and see if your phone has returned to normal.
 
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **More Articles About Android System:**
 
@@ -170,6 +162,10 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 - The upgrading of the software or incomplete updates can lead to crashing the Phone app.
 - Data crashes can be another reason why this error shows up.
 - Infection through malware and virus on your phone is also included when the Phone app might crash.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
@@ -206,6 +202,10 @@ When the firmware is not updated, it may conflict with some apps and maybe that�
 ![Phone app crashing - update firmware](https://images.wondershare.com/drfone/article/2023/05/samsung-android-update-shot.jpg)
 
 1. Download and install it and then try to use the Phone app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.5 Clear partition cache
 
@@ -245,6 +245,10 @@ Click the "Start Download" button to download the tool on your computer, and the
 
 ![Phone app crashing - fix using a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Plug the Phone with PC**
 
 Take your original USB cord and then connect your Realme GT 5 Pro to the computer. When the Realme GT 5 Pro device is connected, click on "Android" from the two tabs > click "Start"
@@ -269,6 +273,10 @@ When you see the firmware has been downloaded, the issue will begin to get resol
 
 ![Phone app crashing - device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ### 2.7 Factory reset
@@ -286,10 +294,6 @@ If none of the above methods worked for you, the last resort you are left with i
 ## Gmail Not Working on Realme GT 5 Pro: 7 Common Problems & Fixes
 
 Ever since Android is introduced, it has almost eliminated the need of computers to work through Gmail. Gmail carries much importance especially when you’re a working person. A lot of work is done through mails on daily basis. But maybe today is not your lucky day. Maybe Gmail is giving you a hard time today. Is it? Is your Gmail not responding or keeps stopping you from going further? Well! There is no need to be bothered anymore. We are discussing some of the general Gmail problems along with their fixes. So, if your Gmail is not working on Android, you can go through this article and find the relevant solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Problem 1: Gmail App not responding or keeps crashing
 
@@ -359,7 +363,7 @@ Again, restarting can also be helpful in this situation. When you boot the Realm
 In case you are using the Gmail over your web browser and it has tested your patience in loading, here are the solutions that could prove to be fruitful for you. Please check these out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ensure to Use Gmail Supported Browser
@@ -378,15 +382,15 @@ If you tried the above method but to no avail, try to clear the cache and cookie
 
 Gmail also gives you problem in sending or receive mails and messages. And to troubleshoot such issue, following are the solutions mentioned.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Check the Latest Version of Gmail
 
 This issue is likely to emerge when you are using an outdated version of Gmail. And therefore, the first solution says you to check if the Gmail update is available. You can go to the Play Store and from the “My apps & games” option, you can see if Gmail needs to be updated or not.
 
 ![Gmail crashing on Android - check version](https://images.wondershare.com/drfone/article/2019/04/check-update-gmail.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Verify Internet Connection
 
@@ -400,17 +404,9 @@ If still Gmail keeps stopping you to go ahead, make sure to once sign out from i
 
     ![Gmail crashing on Android - open gmail](https://images.wondershare.com/drfone/article/2019/04/remove-account-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Now, tap on the account you are working with. Tap on “REMOVE ACCOUNT” thereafter. After this, you can again sign in and then check if the problem is gone or not.
 
 ![Gmail crashing on Android - remove account](https://images.wondershare.com/drfone/article/2019/04/remove-account-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Problem 5: Stuck in sending
 
@@ -433,6 +429,10 @@ Now try to send the mail and see if things are still the same or not.
 ### Check Attachments
 
 Large attachments can also be the reason for this issue. We would here like to suggest you to check the attachments you are sending. If these are not so important, you can remove them and send the mail. Or if it is not possible to send the mail without attachments, compressing the files can be a solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Problem 6: “Account not synced” issue
 
@@ -503,20 +503,18 @@ Fix all Gmail issues caused by Android system:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-iphone-hdr-photography-for-professional-results/"><u>[New] 2024 Approved Mastering iPhone HDR Photography for Professional Results</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-capture-your-device-free-android-recorder/"><u>[New] Capture Your Device – Free Android Recorder</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/igital-identity-building-crafting-perfect-channel-images-for-2024/"><u>[New] Digital Identity Building Crafting Perfect Channel Images for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-screencapture-pro-tips-your-guide-to-free-recording-options/"><u>[Updated] In 2024, ScreenCapture Pro Tips – Your Guide to FREE Recording Options</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-s24-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy S24 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/asus-rog-phone-7-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 7 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/best-photo-repair-software-to-repair-corrupt-photos/"><u>Best Photo Repair Software to Repair Corrupt Photos</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-vivo-y77t-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo Y77t Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-reno-10-pro-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-your-secure-home-with-blinks-4-camera-floodlight-security-setup/"><u>Mastering Your Secure Home with Blink's 4-Camera Floodlight Security Setup</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oneplus-ace-2-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of OnePlus Ace 2 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-find-x7-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo Find X7 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-collection-of-top-ranked-cost-free-youtube-short-video-downloader-apps-for-2024/"><u>The Ultimate Collection of Top-Ranked, Cost-Free YouTube Short Video Downloader Apps for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-when-to-start-the-podcast-journey/"><u>[New] In 2024, When to Start the Podcast Journey</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-windows-premier-video-conferencing-apps-5-1/"><u>[New] In 2024, Windows' Premier Video Conferencing Apps #5-#1</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-samsung-galaxy-f14-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Samsung Galaxy F14 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-90-lite-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor 90 Lite System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/swfmov-movavi/"><u>線上無架限，SWF釋放MOV：利用 Movavi 解碼器進行高效、便捷轉換</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-narzo-n53-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme Narzo N53? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-building-brands-on-video-a-guide-to-partnering-with-popular-youtubers/"><u>In 2024, Building Brands on Video A Guide to Partnering with Popular YouTubers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-review-for-parrot-ar-drone-20-elite-edition/"><u>In 2024, Review for Parrot AR Drone 2.0 Elite Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/synthesis-of-ai-and-human-emotion-chatgpts-creative-impact/"><u>Synthesis of AI and Human Emotion: ChatGPT's Creative Impact</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-you-may-not-connect-to-windows-smartscreen-and-how-to-fix-it-soon/"><u>Why You May Not Connect to Windows SmartScreen and How to Fix It Soon</u></a></li>
 </ul></div>
 

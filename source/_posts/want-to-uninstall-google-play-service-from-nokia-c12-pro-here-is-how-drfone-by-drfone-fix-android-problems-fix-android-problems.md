@@ -1,7 +1,7 @@
 ---
 title: Want to Uninstall Google Play Service from Nokia C12 Pro? Here is How | Dr.fone
-date: 2024-07-30T12:11:11.185Z
-updated: 2024-07-31T12:11:11.185Z
+date: 2025-01-12T17:19:58.678Z
+updated: 2025-01-14T18:04:23.029Z
 tags: 
   - problems
 categories:
@@ -18,19 +18,12 @@ In this article, you will learn the pros and cons of uninstalling Google Play se
 
 Acts as a one-stop destination to download various kinds of apps from the Play Store. The Play service also provides a way to manage these apps without much hassle. From uninstalling to updating an app, all of this can be done with Google Play service. Nevertheless, there are times when users wish to uninstall Google Play services. To start with, it takes a lot of storage and makes it pretty tough for users to manage their devices. To help you, we will let you know how to uninstall Google Play Store in this informative post.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Part 1: Reason you might want to get rid of Google Play Service
 
 Before we proceed and discuss different ways on how to update Play Store after uninstalling updates, it is important to cover the basics. We have heard plenty of users who wish to uninstall Google Play services, but are not sure of the repercussions. One of the main reasons is that it consumes a lot of space on phone’s storage. Not just that, it only consumes plenty of battery as well.
 
 If your device is giving the insufficient storage warning, then you need to start by clearing your phone’s data. It is observed that the Google Play Service accumulates most of the data in a device. This leads to users looking for different ways to how to uninstall Google Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: What will it affect to uninstall Google Play Service?
 
 If you think that Google Play Service only provides a platform to download new apps, then you are wrong. It provides several other functions that might alter the way you use your smartphone. It is linked with other essential Google services as well, like Google Maps, Gmail, Google Music, etc. After uninstalling the Google Play Service, you might face trouble using various essential apps.
@@ -43,16 +36,14 @@ By now, you already know all the repercussions of getting rid of Google Play Ser
 
 To disable the Google Play Services, just go to your phone’s Settings > Applications > All and open Google Play Services. You will get to know about the app’s detail and a few other options here. Just tap on the “Disable” button. It will generate another pop-up message. Confirm it by tapping on the “Ok” button. This will disable Google Play Services on your device. Later, you can follow the same drill to enable it as well.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![uninstall google play services-open Google Play Services](https://images.wondershare.com/drfone/article/2017/06/14981537155144.jpg)
 
 Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Calls on Nokia C12 Pro Go Straight to Voicemail? 12 Fixes
 
 Have you ever experienced incoming calls to your **phone go straight to voicemail** without ringing? It can be frustrating, especially if you’re expecting an important call. It could be due to simple things like turning down the volume or forgetting to turn off the Do Not Disturb mode. In other cases, it might be because you accidentally blocked the caller’s number.
@@ -61,18 +52,6 @@ In most cases, incoming calls going to voicemail without ringing are common. How
 
 This article will discuss why incoming **phone calls go straight to voicemail** and how to fix the problem. We’ll also show you how to use Wondershare Dr.Fone, a powerful Android System Repair tool, to solve such issues. So, if you’re uncertain why that last **call went straight to voicemail**, keep reading, and we’ll cover everything you need to know.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![phone voicemail notification representation](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-01.jpg)
 
 ## Part 1: Not Ringing? Here’s Why Calls on Your Phone Go Straight to Voicemail
@@ -83,10 +62,6 @@ If an incoming call to your **cell phone goes straight to voicemail** without ri
 
 DND mode is a feature that silences all incoming calls, notifications, and alerts. If DND mode is enabled, your **cell phone goes straight to voicemail** when someone calls. To turn off DND mode, swipe down from the top of the screen to open the notification settings panel, then tap the **Do not disturb** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![do not disturb mode not enabled](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-02.jpg)
 
 Here’s an alternative way:
@@ -106,6 +81,10 @@ One reason calls go **straight to voicemail without ringing** is if you enabled 
 
 ![phone dial app settings](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Navigate to **Supplementary services** > **Call forwarding**.
 
 ![call settings supplementary services](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-05.jpg)
@@ -118,9 +97,6 @@ If a phone **call went straight to voicemail**, another possible explanation is 
 - **Step 2:** Go to **Settings** > **Supplementary services** > **Call barring**, then tap **OK**.
 - **Step 3:** Select **Voice call**, then turn off your preferred outgoing and incoming calls. When prompted, enter 0000 as a password.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![call barring settings interface](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-06.jpg)
 
 4. Update Your Phone’s Software
@@ -129,9 +105,6 @@ Sometimes, software bugs can cause problems with incoming calls, which may be wh
 
 To check for updates, open the **Settings** app and go to **Software update** or **System update**. For a seamless update experience, follow the step-by-step instructions on your mobile screen.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![software update settings](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-07.jpg)
 
 5. Reset Network Settings
@@ -145,10 +118,11 @@ To reset your network settings on most Android devices:
 - **Step 1:** Open the **Settings** app on your smartphone, then tap **System** or **General Management**.
 - **Step 2:** Go to **Reset** > **Reset Network Settings** and confirm the action.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![phone reset network settings](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Turn Off Bluetooth
 
@@ -156,16 +130,10 @@ When Bluetooth is on, it can interfere with your device’s ability to receive c
 
 - Swipe down from the top of the screen to open the Quick Settingspanel, then tap the **Bluetooth** icon to turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not enabled](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-09.jpg)
 
 - Go to **Settings**\> **Connections** > **Bluetooth** and toggle the switch off.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off bluetooth on settings app](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-10.jpg)
 
 It should help ensure that calls come through to your phone instead of going to voicemail.
@@ -186,6 +154,10 @@ Using the Quick Settings panel:
 - **Step 2:** Look for the **Airplane mode** or **Flight mode** icon, then tap it to turn it off.
 
 ![airplane mode on](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Check Blocked Numbers
 
@@ -208,16 +180,10 @@ If you’re using Google One VPN, try turning it off to see if that fixes the pr
 - **Step 1:** Open the **Google One** app on your Nokia C12 Pro.
 - **Step 2:** At the bottom, go to the **Benefits** tab, then tap **View Details** below the **Online protection with a VPN** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![google one app interface](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-13.jpg)
 
 - **Step 3:** Toggle off **Enable VPN**.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off google one vpn](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-14.jpg)
 
 10. Contact Your Carrier
@@ -231,14 +197,9 @@ And if your carrier confirms that there is no service outage or billing-related 
 Ringless voicemail is a service that allows businesses to bypass your phone’s ringtone and send you pre-recorded messages directly to voicemail. Ringless voicemail is often used for marketing purposes. If you think you’re receiving ringless voicemail calls, you can contact the company calling you and ask them to remove you from their list.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Not Clear About the Root Cause? Troubleshoot Directly by Wondershare Dr.Fone
 
 If you’re unsure what’s causing your calls to go straight to voicemail, you can try using the [<u>Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) System Repair tool. This software can scan and repair your phone for any underlying problems, which may fix the issue and get your calls ringing again.
@@ -259,15 +220,16 @@ Dr.Fone supports over 1000 Android models, including unlocked Nokia C12 Pro mode
 
 ![select device type on dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Click **Start** to begin repairing your smartphone.
 
 ![dr.fone start system repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 5:** Select the Nokia C12 Pro device details on the **Name**, **Model**, **Country**, and **Carrier** drop-down lists. Next, select the agreement checkbox, then click **Next** to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose device information to repair](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 6:** Follow the in-app instructions to enter Download mode on your Nokia C12 Pro, then click **Next**.
@@ -276,20 +238,18 @@ Dr.Fone supports over 1000 Android models, including unlocked Nokia C12 Pro mode
 
 - **Step 7:** Wait while the app downloads the firmware; once done, click **Fix Now**.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![firmware downloaded ready to use](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 - **Step 8:** Enter the code in the input box to verify the Nokia C12 Pro device information in the dialogue box, then click **Confirm**.
 
 ![confirm device information](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 9:** The app will start repairing the system issue on your Nokia C12 Pro. Once completed, your app should restart, then click **Done** to close the app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![repaired android device system issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 **You May Also Like:**
@@ -306,9 +266,6 @@ When your phone calls go **straight to voicemail without ringing**, it can be a 
 
 For a prompt solution, consider using Dr.Fone if incoming calls on your **phone go straight to voicemail**. It is a powerful mobile solution that can also address other system problems, including stuck boot loops, app crashes, black screens, and bricked devices. If you consistently experience this issue, it’s advisable to reach out to a professional for assistance.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,215,287** people have downloaded it
@@ -337,11 +294,6 @@ Lastly, you can also check if you use a protective cover for your phone. Sometim
 
 Now, once you have analyzed the problem, it is easier to move on to the solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Part 2: Check the battery status on Android
 
 If your phone turns off now and then while you are using it and even refuses to start when you press the power button, we suspect that there is a problem with your phone's battery. Well, Luckily for Android users, there is a test that can be run on the phone to check the battery’s operations and health. Not many users are aware of it, and thus, we have compiled what you need to do the next time you wonder why does My Nokia C12 Pro keeps shutting off itself.
@@ -359,8 +311,9 @@ Note: Sometimes, the above-mentioned code may not work. In such cases, try diali
 If the battery looks good as you can see in the screenshot above and everything else seems normal, it means that your battery is healthy and need not be replaced. You may now move on to the next step to cure your device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: One-click to fix Android phone keeps turning off
 
 We understand how annoying it is to find your Nokia C12 Pro turning off randomly on its own. So, when the age-old remedies to fix the phone keeps turning off turns futile, you need to go for a reliable tool like [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/).
@@ -393,16 +346,10 @@ Step 1: On your computer, install and launch Dr.Fone. Now, click the ‘System R
 
 Step 2: Here, you need to press the ‘Start’ button right after hitting the ‘Android’.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose repair to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Pick your Nokia C12 Pro details over the Nokia C12 Pro device information interface. Click the ‘Next’ button afterward.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![start to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 #### Phase 2: Enter ‘Download’ mode to repair and resolve ‘why does My Nokia C12 Pro keep turning off’
@@ -415,20 +362,25 @@ For a device with the ‘Home’ button – Turn off the mobile and then hold do
 
 For a device lacking ‘Home’ button – After switching off the Android mobile, hold down ‘Bixby’, ‘Power’, ‘Volume Down’ key still 10 seconds. Now, un-hold them and tap the ‘Volume Up’ button to enter the ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix phone keeps turning off with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2: Hitting the ‘Next’ button will start the Android firmware download.
 
 ![start firmware downloading](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once downloaded. Within some time the Android system gets repaired.
 
 ![fixed phone keeps turning off with the repair program](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Update software to the latest version to fix Android phone keeps turning off
 
@@ -440,18 +392,12 @@ Go to "Settings" on your Nokia C12 Pro and navigate to the "System" or "Software
 
 ![update software](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 5: Cool down your phone to avoid your phone keeps turning off
 
 When a phone overheats, it can trigger an automatic shutdown as a protective mechanism to prevent damage to the Nokia C12 Pro device's internal components. Overheating occurs when the phone's internal temperature rises significantly, typically due to excessive heat generated by the processor and other hardware components during intensive tasks or prolonged usage.
 
 To prevent the phone from turning off due to overheating, you can take various measures, such as limiting intensive usage, avoiding direct sunlight and hot environments, and using the phone on hard surfaces to aid heat dissipation.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cool down the phone](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off-1.jpg)
 
 ## Part 6: Narrow down the randomly turning off issue in Safe Mode
@@ -474,20 +420,12 @@ Once done, the phone will reboot and you will see “Safe Mode” on the main sc
 
 That's all. Well, booting to Safe Mode is easy and it also helps you to identify the real problem.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 7: Back up your data and perform a factory reset
 
 **Note:** _You must take a back-up of all your data because once you perform a factory reset on your device, all media, contents, data, and other files are wiped out, including your device settings._
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a great way to back up all your data to prevent it from getting lost after resetting the phone. It works brilliantly as it backs up all data and allows users to retrieve it fully or selectively. You can backup all files from your Android to PC in just a click and restore them later. Try this software for free before purchasing it to understand it's working better. It does not tamper with your data and only requires you to follow the simple steps given below to backup your Android data:
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexibly Back up and Restore Android Data
@@ -511,9 +449,6 @@ Now connect the Android phone to the PC and make sure that USB debugging is turn
 
 You will see the file types that will be backed up. Wait for the backup process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 There you go, you have successfully backed up data.
@@ -526,25 +461,16 @@ Now moving on to factory reset your phone:
 
 Simply visit “Settings” on your Nokia C12 Pro by clicking the settings icon as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![visit “Settings”](https://images.wondershare.com/drfone/article/2017/07/14994531602106.jpg)
 
 And then select the “Backup and Reset” option.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/07/14994531829910.jpg)
 
 Once selected, tap on "Factory data reset" and then "reset device" as shown in the picture below.
 
 Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![tap on “ERASE EVERYTHING”](https://images.wondershare.com/drfone/article/2017/07/14994532028525.jpg)
 
 Note: Once the factory reset process is complete, your device will automatically restart and you will have to set it up once again. You can restore the backup data on your Nokia C12 Pro once you factory reset it, again using the Dr.Fone toolkit.
@@ -554,9 +480,6 @@ Now for all those of you who are wondering why does My Nokia C12 Pro keeps turni
 So, do not hold back, go ahead, and try these tricks. They have helped many and will be useful for you too.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -570,7 +493,23 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-real-time-fbx-filming-tips/"><u>[New] 2024 Approved Real-Time FBX Filming Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-fast-forward-freedom-in-snapchat-a-noobs-handbook/"><u>[Updated] Fast-Forward Freedom in Snapchat A Noob’s Handbook</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/3-brain-exercises-to-make-language-learning-easier/"><u>3 Brain Exercises To Make Language Learning Easier</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-tecno-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Tecno</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-find-n3-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo Find N3 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-pubg-crashes-and-launch-issues-updated-for-2e4/"><u>How to Fix PUBG Crashes and Launch Issues (Updated for 2E4)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/struggling-to-get-into-game-mode-solving-your-rocket-league-startup-woes/"><u>Struggling to Get Into Game Mode? Solving Your Rocket League Startup Woes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479866124-top-10-tactics-to-enhance-and-speed-up-your-phones-internet-connection/"><u>Top 10 Tactics to Enhance and Speed Up Your Phone's Internet Connection!</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-y100a-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo Y100A? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-f14-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy F14 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-honor-100-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor 100 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

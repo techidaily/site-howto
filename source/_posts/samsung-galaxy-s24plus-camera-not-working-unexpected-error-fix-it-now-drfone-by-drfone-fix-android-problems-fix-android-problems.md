@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy S24+ Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2025-01-06T04:08:45.581Z
-updated: 2025-01-08T03:32:00.160Z
+date: 2025-01-08T16:33:19.287Z
+updated: 2025-01-14T17:53:52.574Z
 tags: 
   - problems
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 For all its glory and goodness, the Android OS often has its users pulling their hair in frustration at just how buggy the OS can be at times. So, if you’re having one of those days today, we are here to help. Camera app is one of the most used apps on smartphones today. People only launch the app when they want to take a photo, for everything else there’s a dedicated photo gallery app. What happens when you launch the camera app only to realize it threw an error and you missed your photo moment? Don’t throw the phone, not yet. Let us help you out.
 
 ![camera not working error in android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part I: Why Is Android Camera Not Working?
 
@@ -64,10 +60,6 @@ Step 1: Launch the app switcher on your specific Android device the way your dev
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### II.III: Check App Permissions
 
 These days, thanks to strides in the privacy initiatives, apps need permissions before they can function the way they do. Most of the times, apps such as camera do have the necessary permissions, but sometimes it is possible that the permissions are set incorrectly. To check if the camera app has the requisite permissions, do the following:
@@ -79,10 +71,6 @@ Step 1: Go to Settings > Apps > Camera > Permissions.
 Step 2: Tap Camera.
 
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
 
@@ -116,6 +104,10 @@ Step 1: Go to Play Store and tap your profile picture on the right.
 
 ![google play store app updates](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Tap Manage Apps and Device.
 
 ![check for app updates play store](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-10.jpg)
@@ -144,6 +136,10 @@ Download Dr.Fone here.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
 ![wondershare drfone on windows](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -151,6 +147,10 @@ Step 1: Launch Dr.Fone app on your PC or Mac.
 Step 2: Click System Repair module and then Android.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: For now, don’t bother with the scenarios given and click Start to go to the next screen.
 
@@ -181,6 +181,10 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy S24+
 
@@ -227,6 +231,10 @@ A most effective method to fix Google Play Store not working
 
 ![fix google play store stopping by flashing firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Wait until the Android repair process is complete. Start your Android and Google Play Store, you can then find that the Google Play Store not working issue no longer exists.
 
 ![google play store stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -235,11 +243,11 @@ A most effective method to fix Google Play Store not working
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Other 10 common methods to fix Google Play Store issues
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Fix Date and Time settings
 
@@ -255,10 +263,6 @@ Step 2 – Now you can see several options. Select “Automatic date and time”
 
 Step 3 – Now, go to the Play store and try to connect again. This should be working without any problem now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Cleaning of Cache data of Play Store
 
 This may happen that sometimes Google Play Store stopped working due to excessive unnecessary data stored in the cache of the Samsung Galaxy S24+ device. So, clearing unnecessary data is very important to keep the application run smoothly. To do this, you need to follow the below steps.
@@ -273,11 +277,11 @@ Step 4 – Now, you can find a screen like below. Tap on “Clear cache” to re
 
 ![Tap on “Clear cache”](https://images.wondershare.com/drfone/article/2017/06/14985032967281.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now, again try to open Google Play Store and you may successfully overcome the Play Store not working issue. If not, check the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Reset Play store by Clear data
 
@@ -327,6 +331,10 @@ Step 4 – After that, try to open any app that requires Google Play store to op
 
 After installing, your problem might be solved by now. If not, try the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Clear Google Service Framework Cache
 
 Besides the Google Play store, this is important to keep healthy the Google Service Framework as well. The cache and unnecessary data should be removed from there also. Follow the steps below.
@@ -338,6 +346,10 @@ Step 2 – Here you can find “Google Service Framework”. Open it.
 Step 3 – Now, tap on “Clear cache”. And you are done.
 
 ![tap on “Clear cache”](https://images.wondershare.com/drfone/article/2017/06/14985037595737.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now go back and try to open Google Play store again. This might solve the Google Play Store has stopped the problem by now. If not, check the next solution.
 
@@ -403,10 +415,6 @@ The rapid evolution of technology has transformed our smartphones into powerful 
 
 You're not alone if you're an Android user who encounters app crashes. This article will explore ten practical ways to fix apps that keep crashing on Android devices. We will also discuss the causes behind app crashes and how to prevent them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What Are the Causes Behind Apps Keep Crashing on Android?
 
 There are many reasons for ****the app crashing**** on Android devices. These reasons range from insufficient storage space to bugs and glitches in the apps. Finding out the root cause of an app crashing is important so that you can find the appropriate solution. Discussed below are some of the reasons why your Android apps keep crashing:
@@ -448,6 +456,10 @@ If your ****apps keep crashing****, you should try force-closing the targeted ap
 - ****Step 1:**** On your Samsung Galaxy S24+, move the app icon and press it to select “App Info.” On the App Info screen, tap the “Force Stop” button to force close the app. The button can be either on the down left or down right corner.
 
 ![tap on force stop](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - ****Step 2:**** After force closing the app, relaunch it and see if the app crashing issue is resolved.
 
@@ -513,21 +525,9 @@ Insufficient storage space on your device can also lead to app crashes. Check th
 
 ![choose the storage option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - ****Step 2:**** Here, you will see detailed information about everything stored on your device. If the storage space is full, remove the unnecessary data.
 
 ![check the android storage](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Reboot Into Safe Mode
 
@@ -597,19 +597,14 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-enhance-creativity-and-quality-in-live-video-recording-using-logitech-cam-for-2024/"><u>[Updated] Enhance Creativity and Quality in Live Video Recording Using Logitech Cam for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-y36-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo Y36 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/analyzing-magix-photo-management-system/"><u>Analyzing MAGIX Photo Management System</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-login-issues-on-steam-a-step-by-step-guide/"><u>Fixing Login Issues on Steam: A Step-by-Step Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-pair-airpods-with-your-nintendo-switch-console/"><u>How to Pair AirPods with Your Nintendo Switch Console</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illumination-innovations-advanced-lighting-in-video-making/"><u>In 2024, Illumination Innovations Advanced Lighting in Video Making</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-spark-20-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-editing-playbook-for-breaking-into-viral-spots-on-tiktok/"><u>Ultimate Editing Playbook for Breaking Into Viral Spots on TikTok</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-windows-10-video-production-best-software-options/"><u>Updated Windows 10 Video Production Best Software Options</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ultimate-university-sound-snatchers/"><u>[Updated] 2024 Approved Ultimate University Sound Snatchers</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209875808-9780995475830-crystal-magick/"><u>crystal magick | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-s17t-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo S17t</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-through-the-best-tv-streaming-subscriptions-of-2024-a-comprehensive-ranking/"><u>Navigate Through the Best TV Streaming Subscriptions of 2024: A Comprehensive Ranking</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-redmi-note-12-pro-4g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi Redmi Note 12 Pro 4G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-the-metaverse-6-compelling-realities-unveiled/"><u>Understanding the Metaverse 6 Compelling Realities Unveiled</u></a></li>
 </ul></div>
 

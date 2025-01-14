@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Honor Magic 6 | Dr.fone
-date: 2025-01-03T18:29:57.411Z
-updated: 2025-01-08T04:21:02.951Z
+date: 2025-01-12T17:15:54.516Z
+updated: 2025-01-14T16:10:22.929Z
 tags: 
   - problems
 categories:
@@ -75,6 +75,10 @@ One-click solution to fix camera failed on Honor Magic 6 devices
 
 When the software is done repairing the system, you will be notified. Thus, the Camera failed Honor Magic 6 error in your phone will be fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to fix Camera Failed error by clearing camera data?
 
 Has anyone ever informed you that it is absolutely necessary to keep clearing camera data every once in a while? Yes, since it deletes all unnecessary data stored in respect of the App and no, it does not mean that all your photos and videos will get deleted. Just follow the steps given below to clear camera data:
@@ -90,6 +94,10 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
 ![clear data](https://images.wondershare.com/drfone/article/2017/07/14997066321127.jpg "clear data")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
 
@@ -149,11 +157,11 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 ![reset settings](https://images.wondershare.com/drfone/article/2017/07/14997069347307.jpg "reset settings")
 
-Once done, go back to the Home Screen and start the camera App again to use it.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Once done, go back to the Home Screen and start the camera App again to use it.
 
 ## Part 7: How to fix Camera Failed error by Factory Reset?
 
@@ -177,17 +185,9 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/07/14997070554687.jpg "erase everything")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Note: You will have to set up your Honor Magic 6 device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Honor Magic 6 devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor Magic 6
 
@@ -196,10 +196,6 @@ Google Play Store is a necessary and bundled service of any Android device. This
 ## Part 1. The recommended method to fix Google Play Store issues
 
 If you search on the internet, you may find various tricks dealing with Google Play Store not working issue. However, either to try each of them or choose several to follow would certainly cost a lot of time. What's more, we are not sure whether they will really work. Therefore, we would recommend you with a more effective and fast way, that is to use [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), a dedicated Android repair tool to fix Google Play Store, not working issues just in one click.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -217,10 +213,6 @@ A most effective method to fix Google Play Store not working
 1. Get this tool downloaded on your computer. Install and launch it, and you can find the following welcome screen displayed.
 
 ![fix google play store not working using a dedicated tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Select the option "System Repair". In the new interface, click on the "Android Repair" tab.
 
@@ -267,7 +259,7 @@ Step 2 – Now you can see several options. Select “Automatic date and time”
 Step 3 – Now, go to the Play store and try to connect again. This should be working without any problem now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Cleaning of Cache data of Play Store
@@ -300,10 +292,6 @@ Step 3 – Now, instead of tapping “Clear cache”, tap on “Clear data”. T
 
 After this, open “Google Play Store” and now your problem might be solved now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Reconnecting the Google account
 
 Sometimes it may happen that removing and reconnecting your Google account may solve the Play Store not working issue. To do this, you need to follow the instructions below.
@@ -334,9 +322,17 @@ Step 3 – Now you can be able to uninstall Google play service by going into ap
 
 ![uninstall Google play service](https://images.wondershare.com/drfone/article/2017/06/14985034252357.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4 – After that, try to open any app that requires Google Play store to open, and that will automatically guide you to install the Google Play service. Now install the updated version of the Google Play service.
 
 After installing, your problem might be solved by now. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Clear Google Service Framework Cache
 
@@ -380,6 +376,10 @@ Step 3 – Here click on “Force Stop”. This allows the Google Play Store to 
 
 Now, try to open Google Play store again and this time the service is being restarted and might work properly. If not, try the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9\. Try a Soft Reset of your device
 
 This easy to use solution will remove all the unnecessary temporary files of your device, close all recent apps, and make it clean. This is just rebooting your device. It won’t delete any data from your device.
@@ -416,6 +416,10 @@ In this article, you’ll explore practical methods on **h ow to take a virus of
 
 ![phone with virus logo](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why You Get Mobile Viruses in the First Place
 
 Mobile viruses are tiny bugs that sneak into your phone and mess things up. They’re sneaky software programs designed to cause trouble, like stealing your info or making your phone act strange. Pesky viruses are usually acquired by accessing unverified links and downloading sketchy files. This is why it’s essential to be careful about what you access on the internet. It’s also a great habit to beware of the computers you’re connecting your phone to.
@@ -423,10 +427,6 @@ Mobile viruses are tiny bugs that sneak into your phone and mess things up. They
 You might notice weird things happening on your phone when infected with a virus. It may suddenly slow down, show pop-ups you didn’t click, or [run out of battery super-fast](https://drfone.wondershare.com/device-diagnostics/run-phone-batery-test-on-xiaomi.html). These could be signs that your phone has a virus. Take note of these.
 
 ![hacker with virus tools](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here are some common ways viruses get into your phone:
 
@@ -452,7 +452,7 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 ![dr.fone homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
@@ -531,7 +531,7 @@ IOS devices should be under **Settings > General > Transfer or Reset iPhone**.
 Remember, each method has its strengths and weaknesses. Dr.Fone is quick and effective, Safe Mode is limited but useful, anti-virus apps can protect, and a Factory Reset gives a clean slate. Try these methods to zap those viruses away!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Handy Prevention Tips To Avoid Future Infections
@@ -565,24 +565,16 @@ And, if you’re thinking, “**How do I get a virus off My Honor Magic 6?**” 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-enthrall-audiences-identifying-top-6-video-formats/"><u>[New] Enthrall Audiences Identifying Top 6 Video Formats</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-building-buzz-strategies-for-shaping-your-unique-youtubing-image/"><u>[Updated] In 2024, Building Buzz Strategies for Shaping Your Unique YouTubing Image</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-revolutionary-pfp-concepts-become-a-standout-on-tiktok-for-2024/"><u>[Updated] Revolutionary PFP Concepts Become a Standout on TikTok for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-lead-content-curator-enhancing-digital-narratives/"><u>1. Lead Content Curator: Enhancing Digital Narratives</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-narzo-60-pro-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme Narzo 60 Pro 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-launches-affordable-m2-mac-mini-at-historic-low-just-479/"><u>Apple Launches Affordable M2 Mac Mini at Historic Low - Just $479!</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-google-pixel-8-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Google Pixel 8? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-infinix-hot-30-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Hot 30 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/from-humble-beginnings-building-a-brand-on-reddit-for-2024/"><u>From Humble Beginnings Building a Brand on Reddit for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/innovating-with-3d-text-effects-in-adobe-photoshop/"><u>Innovating with 3D Text Effects in Adobe Photoshop</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-art-of-creating-secure-window-11-lock-patterns/"><u>Master the Art of Creating Secure Window 11 Lock Patterns</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reduction-video-easy-transformer-une-faitiere-1080p-en-format-720p-sans-probleme/"><u>Réduction Vidéo Easy: Transformer Une Faitière 1080P en Format 720P Sans Problème</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-live-viewing-archive-for-2024/"><u>[New] Live Viewing Archive for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-compiling-the-top-windows-11-video-capture-tools-for-2024/"><u>[Updated] Compiling the Top Windows 11 Video Capture Tools for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mac-masters-choice-top-10-incredible-4k-displays-for-2024/"><u>[Updated] Mac Master's Choice Top 10 Incredible 4K Displays for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-convenient-methods-for-video-recording-on-youtube/"><u>2024 Approved Convenient Methods for Video Recording on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-novice-to-expert-a-journey-with-chatgpt-api/"><u>From Novice to Expert: A Journey with ChatGPT API</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-computing-equipment-by-tom/"><u>In-Depth Analysis of Computing Equipment by Tom</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-ios-psp-gamepads-emulation-2023s-best-list-for-2024/"><u>Top iOS PSP Gamepads Emulation - 2023'S Best List for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-note-12-pro-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi Note 12 Pro 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-s23-tactical-edition-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy S23 Tactical Edition Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

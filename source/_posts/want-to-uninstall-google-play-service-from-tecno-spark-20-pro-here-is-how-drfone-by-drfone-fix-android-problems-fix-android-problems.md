@@ -1,7 +1,7 @@
 ---
 title: Want to Uninstall Google Play Service from Tecno Spark 20 Pro? Here is How | Dr.fone
-date: 2024-07-30T12:14:23.035Z
-updated: 2024-07-31T12:14:23.035Z
+date: 2025-01-12T17:04:52.009Z
+updated: 2025-01-14T17:28:14.563Z
 tags: 
   - problems
 categories:
@@ -36,16 +36,10 @@ By now, you already know all the repercussions of getting rid of Google Play Ser
 
 To disable the Google Play Services, just go to your phone’s Settings > Applications > All and open Google Play Services. You will get to know about the app’s detail and a few other options here. Just tap on the “Disable” button. It will generate another pop-up message. Confirm it by tapping on the “Ok” button. This will disable Google Play Services on your device. Later, you can follow the same drill to enable it as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![uninstall google play services-open Google Play Services](https://images.wondershare.com/drfone/article/2017/06/14981537155144.jpg)
 
 Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Fix Unfortunately Settings Has Stopped on Tecno Spark 20 Pro Quickly
 
 All of you, sooner or later, must have found the “Unfortunately Settings has stopped” error on your Tecno Spark 20 Pro. The problem can occur if the Settings keeps stopping or crashing. Many times, you may try to open the Settings but it doesn’t even open. Or possibly, it may freeze after getting opened thereby hampering the Tecno Spark 20 Pro device's performance.
@@ -74,6 +68,10 @@ It is possible that the corrupted cache files are responsible for this error. He
 
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Clear the Android phone’s RAM and retry
 
 As the next tip, we would like to suggest you clear your device’s RAM by ceasing the running apps in the background. RAM, if at the increased level, is responsible for the Tecno Spark 20 Pro device’s freezing, poor performance, and most probably is the reason behind crashing Settings. Also, if the apps in the background keep running, they might conflict with the Settings and stop it to perform properly. Therefore clearing RAM is important when Android Settings is not responding. Here is how to do it.
@@ -84,6 +82,14 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
 
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Uninstall the Google update
 
 Uninstalling Google Play Store updates has also responded well to many users. It has worked in the case of the “Unfortunately Settings has stopped” error. So, we would also like to suggest you use this tip if the others don’t work. Here are the steps to be followed for this.
@@ -92,19 +98,11 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 2. Now, head to all the apps and select “Google Play Store” from there.
 3. Tap on “Uninstall Updates” and restart your device to check if the crashing Settings issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Tecno Spark 20 Pro, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Tecno Spark 20 Pro devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -124,27 +122,18 @@ Step 1: Download Tool
 
 Visit the official website of Dr.Fone and download the toolbox from there. Go for the installation process and wait until the installation gets over. Launch it now and choose the “System Repair” tab from the main window.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding- download tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Get the Phone Connected
 
 With the help of a USB cable, plug your Tecno Spark 20 Pro into the PC. Upon proper connection, hit on the “Android Repair” option from the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Android settings not responding - connect android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Feed Correct Information
 
 In the next window, you need to fill in some necessary information like the name and model of the mobile device. Enter details like country and career. Check once and hit on “Next”.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 4: Enter Download Mode
@@ -159,11 +148,12 @@ Once the firmware is completely downloaded, your Tecno Spark 20 Pro will automat
 
 ![Android settings not responding - fix the issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 5: Wipe cache partition to restore Settings
 
 Like RAM, wiping cache is also vital so as to make the Tecno Spark 20 Pro device’s operation smoother. And when you are getting the “Unfortunately Settings has stopped” error, it might be due to the collected cache. To remove it, you will need to enter the recovery mode. And the steps for recovery mode range from device to device. For instance, [Tecno Spark 20 Pro users](https://drfone.wondershare.com/samsung/samsung-recovery-mode.html) have to press the “Home”, “Power” and “Volume Up” buttons. Similarly, [HTC](https://drfone.wondershare.com/htc/htc-recovery-mode.html) and LG device users are supposed to press the “Volume Down” and “Power” buttons. For Nexus, it is “Volume Up, Down” and Power key combinations. Therefore, before going further, make sure what device you own and enter the recovery mode according to it. Now, follow the detailed guide below to wipe the cache partition in order to fix crashing Settings.
@@ -184,9 +174,6 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 2. Tap on “Factory data reset” followed by “Reset device”.
 3. Wait for the completion of the process and check if Settings is stopping or not after it gets rebooted.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
 ## Part 7: Check and update Android OS
@@ -199,10 +186,6 @@ A lot of times minor issues crop up due to the operating systems that get outdat
 
 ![Android settings not responding - update android firmware](https://images.wondershare.com/drfone/article/2019/04/update-samsung.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 If your Tecno Spark 20 Pro shows the "Unfortunately Settings has stopped" error, don't worry. This problem can come from many things like old software or cache issues. You can try easy fixes like clearing cache or updating your system. Sometimes, removing custom ROMs might be needed.
@@ -225,9 +208,6 @@ Luckily, despite there being so many problems out there, there are also many sol
 
 Begin by powering off your Tecno Spark 20 Pro and unplugging your router. Wait for about a minute before plugging in the router and turning on your device. This simple reset can often restore stable connections and fix Android wifi not working.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart android](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android.jpg)
 
 ## Part 2: Turn on Airplane mode and turn off
@@ -237,8 +217,9 @@ Turn on Airplane Mode for a few seconds, then turn it off. This maneuver refresh
 ![turn on airplane mode](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3. Check Wi-Fi Router settings
 
 The third step you’ll want to take is making sure the internet router in your house is working properly and is actually sending internet data to your Tecno Spark 20 Pro. Of course, if you have other internet-enabled devices connected to the same router and they’re working fine, you know this isn’t the problem.
@@ -267,17 +248,11 @@ The best way to do this is to boot your device in Safe Mode. The process for doi
 If your device connects to the internet while in Safe Mode, you’ll know you have a problem with an app or service that’s running on your device. If this is the case, you’ll need to go through your apps and delete them and then reinstall them one at a time until you find the app or service that is causing your internet problems.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 5. Check the Android Wi-Fi adapter
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![wifi not working on android - check adapter](https://images.wondershare.com/drfone/article/2019/04/android-wifi-adapter.jpeg)
 
 If you’re using a Wi-Fi adapter on your device to connect to the internet, you’ll need to make sure this is working. This could be an adapter on your Tecno Spark 20 Pro itself, especially if you’re using an older device, or if you’re using an adapter to boost the ranger of your router network.
@@ -288,9 +263,6 @@ You need to check both of these to make sure your connection is working properly
 2. If you’re using a router adapter, make sure it’s set up properly, and your Tecno Spark 20 Pro is connected to the adapter using the correct passwords. Try connecting another device to see if the internet connection is working on there
 3. Whichever method you’re using, try disconnecting your Tecno Spark 20 Pro and forgetting the network, and then reconnecting and entering the right password to refresh the connection
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 6. Check SSID and IP address on Android
 
 To make a Wi-Fi connection work, your Tecno Spark 20 Pro needs to match two codes that connect and relate to your router to establish the connection and work correctly. These are known as the SSID and the IP address.
@@ -310,7 +282,9 @@ If none of the solutions above are working, this could indicate a real problem w
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -334,23 +308,14 @@ Once installed, connect your Tecno Spark 20 Pro to your computer using a USB cab
 
 **Step Two** Click the "Android" option in the menu and then click "Start" to begin the Repair process.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix wifi slow on android by repairing android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step Three** On the next screen, go through the options and use the drop-down menus to make sure the information is correct for your individual device. Accept the terms and conditions of the software, and then click the "Next" button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![wifi slow on android - select info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step Four** Confirm you want the software to carry out the repair process by typing the ‘000000’ code into the pop-up box and pressing Confirm. Make sure you read everything displayed in this box beforehand to know what’s happening.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![wifi not working on android - confirm the repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step Five** Now put your phone into Download Mode by following the on-screen instructions, so your device is ready for the repair process. The method for getting your phone into Download Mode will vary depending on your device, so make sure you’re following the right instructions.
@@ -361,17 +326,19 @@ Once installed, connect your Tecno Spark 20 Pro to your computer using a USB cab
 
 ![wifi not working on android - begin repairing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The whole process is automatic, so you won’t need to do anything until it’s finished. Once completed, you can disconnect your phone and start connecting it to the internet as normal!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![wifi not working on android - wifi issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 8. Check the Wi-Fi connectivity on another phone
 
@@ -388,10 +355,6 @@ Of course, if you’re already using another phone on your Wi-Fi network, you kn
 5. If the page loads, you know the Wi-Fi network isn’t the problem
 6. If the page doesn’t load, you know you’ve got a problem with your Wi-Fi network
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Part 9. Change the password of the Wi-Fi
 
 ![android phone not connecting to wifi - password settings](https://images.wondershare.com/drfone/article/2019/04/android-wifi-password.jpg)
@@ -404,15 +367,13 @@ Each Wi-Fi network router will give the opportunity to choose and change the pas
 4. Save the password and restart the router to disconnect all devices
 5. Now connect your Tecno Spark 20 Pro to the router using the new password
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Part 10. Reset network settings on Android
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![android phone not connecting to wifi - reset network](https://images.wondershare.com/drfone/article/2019/04/android-reset-network.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Just like the method above where you’ll be effectively resetting the network settings on your router, if this hasn’t worked, you’ll be able to reset the network settings on your Tecno Spark 20 Pro, hopefully removing the bugs and allowing you to connect.
 
@@ -425,19 +386,8 @@ Here’s how you can do this easily on your Tecno Spark 20 Pro;
 5. If you need to, enter the PIN number or passcode for the Android device, and the Tecno Spark 20 Pro device will confirm the reset has taken place
 6. Reconnect your Tecno Spark 20 Pro to your Wi-Fi network for the changes to take effect
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Part 11. Clear partition cache in recovery mode
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![wifi not working on android - clear partition](https://images.wondershare.com/drfone/article/2019/04/android-reset-partitioncache.jpg)
 
 As you continue to use your Tecno Spark 20 Pro, the partition cache will fill up with data your device needs and doesn’t need. However, by clearing your device’s partition cache, you can make clear up some space which should help your device have enough memory to connect to the internet.
@@ -449,9 +399,6 @@ As you continue to use your Tecno Spark 20 Pro, the partition cache will fill up
 5. Select the Android System Recovery option, followed by Wipe Cache Partition
 6. Restart your device and connect to the internet
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 12. Reset factory settings
 
 ![wifi not working on android - factory settings](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
@@ -467,13 +414,7 @@ However, by factory resetting your device, you can start again from the factory 
 5. Wait for your phone to complete the process
 6. Restart your device and connect to the internet
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -487,7 +428,23 @@ However, by factory resetting your device, you can start again from the factory 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-masterful-video-starts-get-them-for-free/"><u>[New] Masterful Video Starts, Get Them for Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-persuasive-films-that-hook-and-hold-audiences/"><u>[New] Persuasive Films That Hook and Hold Audiences</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-divergent-paths-in-video-sharing-comparing-igtv-and-youtube/"><u>[Updated] Divergent Paths in Video Sharing Comparing IGTV & YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-youtube-shorts-templates-a-complete-guide/"><u>[Updated] Mastering YouTube Shorts Templates A Complete Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-jestmastery-create-share-and-sign-up-with-ease/"><u>2024 Approved JestMastery Create, Share & Sign Up with Ease</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oneplus-nord-3-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix OnePlus Nord 3 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-a14-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy A14 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oneplus-11r-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on OnePlus 11R? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-infinix-smart-8-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Smart 8? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-the-secrets-of-car-radio-codes-an-informative-tutorial/"><u>Deciphering the Secrets of Car Radio Codes – An Informative Tutorial</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-word-2010-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature field to a Word 2010</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-t2x-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-picks-the-best-xr-gear-enhanced-with-new-features-ideal-for-work-and-wanderlust-unveiled/"><u>Top Picks: The Best XR Gear Enhanced with New Features Ideal for Work & Wanderlust - Unveiled</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-a05s-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy A05s? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-14-ultra-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 14 Ultra Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+</ul></div>
 

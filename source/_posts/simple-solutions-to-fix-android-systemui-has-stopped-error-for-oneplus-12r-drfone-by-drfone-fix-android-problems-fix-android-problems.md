@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions to Fix Android SystemUI Has Stopped Error For OnePlus 12R | Dr.fone
-date: 2025-01-06T19:53:08.939Z
-updated: 2025-01-07T18:19:48.159Z
+date: 2025-01-07T18:24:51.773Z
+updated: 2025-01-14T18:31:20.569Z
 tags: 
   - problems
 categories:
@@ -30,15 +30,15 @@ Looking for suitable solutions to fix Android SystemUI has stopped error? Then r
 
 ![android system ui-SystemUI Has stopped](https://images.wondershare.com/drfone/article/2017/06/14985097157775.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Android device owners would agree that OS updates are very helpful as they fix the bug problem and improve the overall working of your device. However, sometimes these updates may be infected due to which they do not download and install properly. A corrupted OS update may cause Android; unfortunately, the process com.android.systemui has stopped error. All Android updates are directly designed around the Google App, and thus, the problem will persist until the Google App is also updated. Sometimes, even the Google App update may cause such a glitch if it is not successfully downloaded and installed.
 
 Another reason for the Android SystemUI isn't responding error to occur, maybe because of flashing a new ROM or due to improper firmware update installation. Even when you restore the backed up data from cloud or your Google Account, such Android, unfortunately, the process com.android.systemui has stopped error may show up.
 
 It is not possible to say for sure which one of the above-mentioned reasons is causing your device to show Android SystemUI is not responding error. But what we can do is move on to fixing the Android SystemUI by following any one of the three methods given the following segments.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to fix “com.android.systemui has stopped” in one click
 
@@ -109,6 +109,10 @@ Note: To prevent the Android SystemUI isn't responding error to occur in the fut
 
 ![android system ui-“Do Not Auto-Update Apps”](https://images.wondershare.com/drfone/article/2017/06/14985097858029.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Wipe Cache partition to fix Android SystemUI error
 
 Android, unfortunately, the process com.android.systemui has stopped error can also be fixed by clearing your cache partitions. These partitions are nothing but storage locations for your modem, kernels, system files, drivers, and built-in Apps data.
@@ -149,6 +153,10 @@ Follow the steps given below to factory reset your device to solve the Android S
 
 ![android system ui-select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/06/14985098813784.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - In this step, select “Factory data reset” and then “Reset Device”.
 - Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
 
@@ -165,10 +173,6 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 Have you recently noticed a message stating “Contacts has stopped”? This is enough to take away all your peace. As, our native contacts app stashes all our useful contacts which are time and again needed by a user. It’s malfunctioning is enough to give us chills. But, why the OnePlus 12R or any other Android device incurs such problems?
 
 It can occur while you launch the app or while you’re in the app already finding the required contact or when any other application is trying to gain access to it. So, to rage a battle with this issue, you need to seek help of some powerful methods in killing down the issue of contacts app crashes. And, the best part is that you’ve secured yourself by reaching the right place. We will be taking an in-depth discussion on several methods that may prove to be helpful. Let’s read them up here now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Get Android system fixed in one click
 
@@ -218,10 +222,6 @@ Once the software downloads, the program will automatically repair any issues ir
 
 ![contacts stopping on samsung - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: 9 Common ways to fix “Unfortunately, Contacts Has Stopped”
 
 ### 2.1 Restart Android system
@@ -233,11 +233,11 @@ Our response to any minuscule issue is straightaway restarting phone. This helps
 
 ![contacts app stopping - retart android](https://images.wondershare.com/drfone/article/2019/04/restart-reboot-android-phone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now, your device will quickly reboot the OnePlus 12R device. Once, the OnePlus 12R device regains its normal state, check whether the issue is coming again or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Clear cache and data of Contacts app
 
@@ -250,6 +250,10 @@ The cache memory basically stashes the copies of the concerned application. It i
 
 ![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.3 Wipe cache partition
 
 As we know the cache memories are the temporary files build by the firmware. These are of little importance as they are bound to become a bit more corrupted in nature. And sometimes, may indirectly become a hurdle for the working of contacts app. It is good if the OnePlus 12R device is cleared off from the caches. Instead of manually wiping down the cache memory, we will understand how to clear off the cache partition in the following steps.
@@ -261,6 +265,10 @@ As we know the cache memories are the temporary files build by the firmware. The
 5. Finally, push the “Power” key to give consent to the selection.
 
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the OnePlus 12R device.
 
@@ -278,6 +286,10 @@ The root cause for detecting any problem is not very easy. You never know the ov
 There will be a prompt stating that the application may misbehave. However, you must disable the feature and check whether it worked out for you or not.
 
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.5 Update your device software
 
@@ -321,10 +333,6 @@ Now, check whether you’ve fought the battle with the problem or not.
 
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.9 Reset to Factory Settings
 
 Last but not least, if all the methods falls flat to resolve the issue of contacts app won’t open. Then, it might be your device has some internal problem. This can be any software crash which might not be fixing with the aforementioned steps. That is where reset to factory settings may prove to be a good option. With this method, your phone will be cleared of all the components, settings and everything present in it. Here are is the comprehensive tutorial for biding bye to the problem of contacts app won’t open.
@@ -337,19 +345,11 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## OnePlus 12R Camera Not Working Unexpected Error? Fix It Now
 
 For all its glory and goodness, the Android OS often has its users pulling their hair in frustration at just how buggy the OS can be at times. So, if you’re having one of those days today, we are here to help. Camera app is one of the most used apps on smartphones today. People only launch the app when they want to take a photo, for everything else there’s a dedicated photo gallery app. What happens when you launch the camera app only to realize it threw an error and you missed your photo moment? Don’t throw the phone, not yet. Let us help you out.
 
 ![camera not working error in android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part I: Why Is Android Camera Not Working?
 
@@ -374,10 +374,6 @@ In the rarest cases, there might have developed an actual hardware issue with th
 ## Part II: How To Fix Android Camera Not Working Issue?
 
 So, how to get the Android camera not working problem solved? There are a few ways you can try fixing the camera not working issue on your OnePlus 12R right where you are, without needing to take the OnePlus 12R device to the manufacturer’s service center.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### II.I: Restart The Handset
 
@@ -410,6 +406,10 @@ Step 2: Tap Camera.
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.IV: Clear The Camera App Cache
 
@@ -477,10 +477,6 @@ Step 2: Click System Repair module and then Android.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: For now, don’t bother with the scenarios given and click Start to go to the next screen.
 
 ![drfone system repair android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -505,10 +501,14 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -529,17 +529,22 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/aying-foundations-for-fresh-content-first-timers-youtube-video-guide-mac-edition-for-2024/"><u>[New] Laying Foundations for Fresh Content First-Timer's Youtube Video Guide, Mac Edition for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-farming-fun-and-friendship-the-best-agrigames-to-bond-with-friends-for-2024/"><u>[Updated] Farming Fun & Friendship The Best AgriGames to Bond With Friends for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/10-open-source-video-players-for-linux-windows-and-mac/"><u>10 Open Source Video Players for Linux, Windows and Mac</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-redmi-a2-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Redmi A2? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/critical-review-of-vlcs-capture-tools-for-2024/"><u>Critical Review of VLC's Capture Tools for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhancements-and-fixes-the-updated-version-of-days-gone-now-available-for-pc-users/"><u>Enhancements and Fixes: The Updated Version of 'Days Gone' Now Available for PC Users</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-artisans-guide-to-flawless-free-and-paid-software-video-downloads/"><u>In 2024, The Artisan's Guide to Flawless Free and Paid Software Video Downloads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-best-monitors-for-xbox-series-x/"><u>In 2024, The Best Monitors for Xbox Series X</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-y200e-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo Y200e 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-sketch-up-your-ideas-an-essential-guide-to-the-top-8-drawing-tools-on-ios/"><u>[New] 2024 Approved Sketch Up Your Ideas An Essential Guide to the Top 8 Drawing Tools on iOS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-becoming-a-director-top-film-tips-and-tricks-on-youtube/"><u>[Updated] 2024 Approved Becoming a Director Top Film Tips & Tricks on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-nokia-c12-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Nokia C12 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/embracing-less-with-tech-why-i-chose-the-minimalist-vintage-aesthetic-of-the-light-phone-3-before-its-launch/"><u>Embracing Less with Tech: Why I Chose the Minimalist, Vintage Aesthetic of the Light Phone 3 Before Its Launch</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oneplus-12-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix OnePlus 12 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-tecno-pova-5-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Pova 5 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-zte-nubia-z60-ultra-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on ZTE Nubia Z60 Ultra? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-y200e-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo Y200e 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-realme-gt-5-pro-easily-by-drfone-android/"><u>How To Unlock a Realme GT 5 Pro Easily?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oppo-reno-9as-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo Reno 9As Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/innovative-vocal-alteration-apps-beyond-echo-magic/"><u>Innovative Vocal Alteration Apps Beyond Echo Magic</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagined-user-support-in-new-windows-release/"><u>Reimagined User Support in New Windows Release</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y36i-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y36i Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-find-n3-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Find N3 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-gt-5-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme GT 5 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-pro-4g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 Pro 4G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
