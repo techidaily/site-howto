@@ -1,7 +1,7 @@
 ---
 title: Unboxing and Testing the Budget-Friendly, Upgradable PC Masterpiece - The CyberPowerPC Gamer Xtreme
-date: 2025-01-04T18:36:16.087Z
-updated: 2025-01-08T03:10:58.308Z
+date: 2025-01-18T17:03:12.478Z
+updated: 2025-01-20T19:46:23.404Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,22 +76,17 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-extracting-images-from-movies-using-windows-10-photos-app/"><u>[New] Extracting Images From Movies Using Windows 10 Photos App</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-app-for-gamers-fraps-vs-obs-studio-review/"><u>[New] In 2024, Best App for Gamers Fraps Vs. OBS Studio Review</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-stepping-stones-from-youtube-ads-to-monetary-success-for-2024/"><u>[Updated] Stepping Stones From YouTube Ads to Monetary Success for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-x7b-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor X7b? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-itel-a70-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Itel A70? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/change-the-hue-a-users-manual-to-modifying-mac-folder-appearances/"><u>Change the Hue: A User's Manual to Modifying Mac Folder Appearances</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12t-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12T Pro Phone FRP Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-a60sfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel A60sFRP Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-future-of-employment-6-reasons-to-embrace-chatgpt-in-your-professional-life/"><u>Navigating the Future of Employment: 6 Reasons to Embrace ChatGPT in Your Professional Life</u></a></li>
-<li><a href="https://techidaily.com/sign-docm-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .docm file Online for Free</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/syncsavvy-experts-opinion-for-2024/"><u>SyncSavvy Experts Opinion for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-reno-10-proplus-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo Reno 10 Pro+ 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-8-best-drawing-apps-for-iphones/"><u>[New] 2024 Approved 8 Best Drawing Apps for iPhones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-rise-in-popularity-top-10-instagram-hashtags-for-now-for-2024/"><u>[New] Rise in Popularity Top 10 Instagram Hashtags for Now for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-rapid-reference-green-screen-basics/"><u>[Updated] 2024 Approved Rapid Reference Green Screen Basics</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-how-to-handle-overheating-devices/"><u>Effective Strategies: How to Handle Overheating Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-an-ai-black-box-operate-unveiling-the-mystery-of-intelligent-systems/"><u>How Does an AI Black Box Operate? Unveiling the Mystery of Intelligent Systems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-battle-of-the-editors-final-cut-pro-vs-lumafusion-features-pricing-and-more/"><u>In 2024, Battle of the Editors Final Cut Pro vs LumaFusion - Features, Pricing, and More</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ritocchi-grafici-raf-ottimizzati-con-movavi-usufruisci-ora-del-servizio-veloce-ed-economico/"><u>Ritocchi Grafici RAF Ottimizzati Con Movavi - Usufruisci Ora Del Servizio Veloce Ed Economico!</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y200e-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y200e 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-smart-8-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Smart 8 Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

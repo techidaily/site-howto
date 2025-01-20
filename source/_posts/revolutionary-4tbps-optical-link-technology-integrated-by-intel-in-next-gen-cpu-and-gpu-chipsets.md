@@ -1,7 +1,7 @@
 ---
 title: Revolutionary 4TBPS Optical Link Technology Integrated by Intel in Next-Gen CPU and GPU Chipsets
-date: 2025-01-05T05:42:24.350Z
-updated: 2025-01-08T08:39:25.363Z
+date: 2025-01-18T19:00:12.212Z
+updated: 2025-01-20T20:27:17.648Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,22 +62,18 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-content-summit/"><u>[New] 2024 Approved Cutting-Edge Content Summit</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/anguard-maker-guild-sights-sonics-and-memories-for-2024/"><u>[New] Vanguard Maker Guild Sights, Sonics & Memories for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-dream-of-flight-check-out-these-top-kid-friendly-drones/"><u>[Updated] In 2024, Dream of Flight? Check Out These Top Kid-Friendly Drones</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ogg-webm-movavi/"><u>移動到網路免費 OGG 轉 WEBM：使用 Movavi 轉編解碼器</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-gamer-panasonic-hc-v770/"><u>Budget Gamer: Panasonic HC-V770</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-nubia-red-magic-8s-proplus-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nubia Red Magic 8S Pro+ Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-gpt-for-emotional-support-and-connection/"><u>Harnessing GPT for Emotional Support and Connection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pcie-gen-asterisk-6-standard-finalized-preparing-for-comprehensive-launch/"><u>PCIe Gen Asterisk) 6 Standard Finalized: Preparing for Comprehensive Launch</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-path-to-professional-presence-youtube-tips-and-tricks-for-2024/"><u>The Path to Professional Presence YouTube Tips & Tricks for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-topmate-c32-an-unbeatable-combination-of-affordability-and-excellence-in-laptop-cooling-solutions/"><u>The TopMate C3ˈ2 - An Unbeatable Combination of Affordability and Excellence in Laptop Cooling Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-pova-6-pro-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Pova 6 Pro 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-vertical-or-horizontal-facebook-video-tactic-for-2024/"><u>[Updated] Vertical or Horizontal Facebook Video Tactic for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-thumbnail-scaling-techniques-for-youtube/"><u>2024 Approved Thumbnail Scaling Techniques for YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-by-openai-a-critical-examination-of-its-significant-flaws/"><u>ChatGPT by OpenAI: A Critical Examination of Its Significant Flaws</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-reno-10-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo Reno 10 Pro 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-pixel-8-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Pixel 8 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-by-drfone-android/"><u>How to Bypass FRP on Nokia?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-reno-9a-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo Reno 9A Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-oppo-a1-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A1 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-turning-on-apples-find-my-for-iphones/"><u>Step-by-Step Tutorial: Turning On Apple's 'Find My' For iPhones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-9-deceptive-chatgpt-imposters-that-could-compromise-your-information/"><u>Top 9 Deceptive ChatGPT Imposters That Could Compromise Your Information</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-your-game-tales-of-arise-keeps-crashing/"><u>Troubleshooting Guide: Why Your Game 'Tales of Arise' Keeps Crashing</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-s23plus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel S23+ Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-honor-100-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor 100 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

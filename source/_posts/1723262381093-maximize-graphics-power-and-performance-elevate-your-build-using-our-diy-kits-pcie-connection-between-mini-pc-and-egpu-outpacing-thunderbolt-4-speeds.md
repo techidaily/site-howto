@@ -1,7 +1,7 @@
 ---
 title: Maximize Graphics Power & Performance - Elevate Your Build Using Our DIY Kit's PCIe Connection Between Mini PC and eGPU, Outpacing Thunderbolt 4 Speeds
-date: 2025-01-07T17:13:03.619Z
-updated: 2025-01-14T18:31:06.815Z
+date: 2025-01-17T19:36:30.192Z
+updated: 2025-01-20T17:36:39.950Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,19 +88,18 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-comprehensive-guide-to-high-def-game-broadcasting/"><u>[New] 2024 Approved The Comprehensive Guide to High-Def Game Broadcasting</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-high-def-showdown-top-8k-tvs-rated-and-reviewed/"><u>[New] High-Def Showdown Top 8K TVs Rated and Reviewed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unveiling-the-power-of-vivacut/"><u>[New] In 2024, Unveiling the Power of VivaCut</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-secrets-to-earning-facebooks-status-symbol-blue-for-2024/"><u>[New] Secrets to Earning Facebook’s Status Symbol (Blue) for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-depths-of-photo-manipulation/"><u>[Updated] Exploring the Depths of Photo Manipulation</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-quick-glimpse-youtube-shorts-insights/"><u>2024 Approved Quick Glimpse YouTube Shorts Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-basic-guide-to-windows-voice-modification-clowns/"><u>In 2024, Basic Guide to Windows Voice Modification - Clowns</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-unlocking-tabbing-capabilities-of-windows-11/"><u>Step-by-Step Guide to Unlocking Tabbing Capabilities of Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgraded-amd-rx-570-driver-download-windows-os-performance-boost/"><u>Upgraded AMD RX 570 Driver Download: Windows OS Performance Boost</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-huawei-p60-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Huawei P60? Here is How | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/revity-in-action-the-process-of-shortening-youtube-videos-for-2024/"><u>[New] Brevity in Action The Process of Shortening YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-win10-ultimate-screenshot-and-video-capture-kit/"><u>[Updated] 2024 Approved Win10 Ultimate Screenshot & Video Capture Kit</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-becoming-a-broadcast-guru-1080p-facebook-streaming-essentials-for-2024/"><u>[Updated] Becoming a Broadcast Guru 1080P Facebook Streaming Essentials for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-oneplus-nord-ce-3-lite-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on OnePlus Nord CE 3 Lite 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-bad-image-files-on-your-pc-a-guide-for-windows-1110-users/"><u>Fix Bad Image Files on Your PC: A Guide for Windows 11/10 Users</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-moto-g34-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola Moto G34 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/improve-prompt-creation-with-these-7-must-use-online-platforms/"><u>Improve Prompt Creation with These 7 Must-Use Online Platforms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-vidas-interface-and-features-for-seamless-creation-experience/"><u>In 2024, Vida’s Interface and Features for Seamless Creation Experience</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/numark-mixtrack-pro-and-platinum-explore-the-latest-dj-controllers-with-enhanced-dex-3-compatibility-for-dynamic-performances/"><u>Numark Mixtrack Pro & Platinum: Explore the Latest DJ Controllers with Enhanced Dex 3 Compatibility for Dynamic Performances</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/overview-of-various-cameras-used-in-film-and-tv/"><u>Overview of Various Cameras Used in Film & TV</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-10-video-screenshot-tools-reviewed/"><u>Top 10 Video Screenshot Tools Reviewed</u></a></li>
 </ul></div>
 

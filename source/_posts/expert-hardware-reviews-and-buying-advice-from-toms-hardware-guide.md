@@ -1,7 +1,7 @@
 ---
 title: Expert Hardware Reviews and Buying Advice From Tom's Hardware Guide
-date: 2025-01-10T16:12:33.978Z
-updated: 2025-01-14T16:43:45.848Z
+date: 2025-01-13T18:02:22.562Z
+updated: 2025-01-20T21:00:43.364Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,20 +66,20 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-game-changing-streaming-apps-for-gamers/"><u>[New] 2024 Approved Game-Changing Streaming Apps for Gamers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-harness-the-power-of-online-cropping-to-elevate-your-photos/"><u>[New] 2024 Approved Harness the Power of Online Cropping to Elevate Your Photos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-navigating-fade-inout-processes-in-audacity/"><u>[New] 2024 Approved Navigating Fade-In/Out Processes in Audacity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-aspect-modification-at-your-fingertips-online/"><u>[New] Aspect Modification at Your Fingertips Online</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-tecno-spark-20-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Tecno Spark 20 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-zte-blade-a73-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General ZTE Blade A73 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/decoding-the-functionality-of-youtubes-media-hub/"><u>Decoding the Functionality of YouTube's Media Hub</u></a></li>
-<li><a href="https://howto.techidaily.com/google-pixel-8-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Pixel 8 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-gt-neo-5-se-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme GT Neo 5 SE Location by Number | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/standard-edition-mobile-eraser-for-iphones-secure-file-deletion/"><u>Standard Edition Mobile Eraser for iPhones - Secure File Deletion</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-find-x6-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Find X6 Screen | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-c210s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nokia C210s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2023s-top-free-premiere-pro-masterpieces-for-2024/"><u>[New] 2023'S Top Free Premiere Pro Masterpieces for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-cam-protection-the-ultimate-10-guide-for-2024/"><u>[Updated] Cam Protection The Ultimate 10 Guide for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-11-proplus-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme 11 Pro+ Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dji-phantom-4-pro-v20-analysis-an-inch-away-from-ideal-drone-performance/"><u>DJI Phantom 4 Pro V2.0 Analysis: An Inch Away From Ideal Drone Performance</u></a></li>
+<li><a href="https://win-trending.techidaily.com/einleitung-in-die-verwendung-von-aomei-fonebackup-wie-richtet-man-ein-konto-ein/"><u>Einleitung in Die Verwendung Von AOMEI FoneBackup: Wie Richtet Man Ein Konto Ein?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-pairing-your-camera-gimbal/"><u>In 2024, Step-by-Step Guide to Pairing Your Camera Gimbal</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-vivo-v30-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo V30 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-lava-yuva-3-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Yuva 3 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamlessly-sync-your-content-the-ultimate-guide-to-iphone-to-pc-file-transfers-with-7-proven-techniques/"><u>Seamlessly Sync Your Content: The Ultimate Guide to iPhone-to-PC File Transfers with 7 Proven Techniques</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/super-bowl-commercials-soar-microsofts-copilot-and-temu-triumph-in-download-ratings-techzn/"><u>Super Bowl Commercials Soar: Microsoft's Copilot & Temu Triumph in Download Ratings | TechZN</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fifa-19-stability-on-desktop-systems/"><u>Troubleshooting Steps for FIFA 19 Stability on Desktop Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-new-era-with-apple-watch-series-6-noteworthy-upgrades-but-it-reigns-supreme-still/"><u>Unboxing the New Era with Apple Watch Series 6: Noteworthy Upgrades, But It Reigns Supreme Still</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nokia-105-classic-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nokia 105 Classic? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

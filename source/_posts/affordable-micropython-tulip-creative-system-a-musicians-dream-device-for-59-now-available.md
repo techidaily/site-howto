@@ -1,7 +1,7 @@
 ---
 title: "Affordable MicroPython Tulip Creative System: A Musician's Dream Device for $59 - Now Available!"
-date: 2025-01-09T17:49:48.818Z
-updated: 2025-01-14T17:33:12.142Z
+date: 2025-01-17T17:24:25.059Z
+updated: 2025-01-20T20:43:07.795Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,22 +56,15 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-tiktok-video-upload-guide-chromeandroidios-strategies/"><u>[New] TikTok Video Upload Guide Chrome/Android/iOS Strategies</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-transform-your-images-with-easy-color-changes/"><u>[Updated] Transform Your Images with Easy Color Changes</u></a></li>
-<li><a href="https://win-community.techidaily.com/1728505497109-ssd/"><u>「重要！SSDに格納された情報の完全修復手引き：段階的アプローチで学ぶ方法」</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726030117339-gifavi/"><u>高品質保持: GIFからAVIへの完全な変換手順</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-honor-x50iplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Honor X50i+</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-open-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Open in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-editing-experience-workshop/"><u>In 2024, Editing Experience Workshop</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/prismatic-vistahub-top-tier-unified-4k-screen-systems-for-2024/"><u>Prismatic VistaHub Top-Tier, Unified 4K Screen Systems for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-counter-strike-audio-problems-mic-malfunction-resolved/"><u>Solve Counter-Strike Audio Problems: Mic Malfunction Resolved</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oneplus-open-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of OnePlus Open ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unmatched-closure-in-cyberspace-quest/"><u>[New] In 2024, Unmatched Closure in Cyberspace Quest</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-video-editing-basics-on-windows-8-movie-maker-for-2024/"><u>[Updated] Mastering Video Editing Basics on Windows 8 Movie Maker for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-a54-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy A54 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/asus-rog-phone-8-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 8 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-6-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 6</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-tools-for-youtube-live-broadcasting-reveal-the-7-key-apps-for-2024/"><u>Essential Tools for YouTube LIVE Broadcasting Reveal the 7 Key Apps for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-vivo-x100-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo X100 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-most-durable-ipad-pro-cases-of-2n4-professional-insights-and-reviews-zdnet/"><u>Ultimate Guide to the Most Durable iPad Pro Cases of 2N4: Professional Insights and Reviews | ZDNET</u></a></li>
 </ul></div>
 

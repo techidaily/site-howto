@@ -1,7 +1,7 @@
 ---
 title: "Reaching Mach-One: Discovering the Secrets Behind a Canned Air Jet's Hypersonic Flight"
-date: 2025-01-02T08:50:17.922Z
-updated: 2025-01-07T18:42:25.744Z
+date: 2025-01-16T16:53:38.573Z
+updated: 2025-01-20T18:33:45.260Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,20 +64,22 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-streamline-your-media-workflow-a-complete-srt-to-other-file-format-handbook/"><u>[New] Streamline Your Media Workflow A Complete SRT-to-Other File Format Handbook</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-expert-moves-for-sharing-youtube-and-twitter-on-whatsapp-platform/"><u>[Updated] 2024 Approved Expert Moves for Sharing YouTube and Twitter on WhatsApp Platform</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-techcapture-pro-a-comprehensive-2023-study/"><u>[Updated] In 2024, TechCapture Pro A Comprehensive 2023 Study</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-nokia-c210-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Nokia C210 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-vdsm-video-recorder-prospectus-detailed-study/"><u>In 2024, VDSM Video Recorder Prospectus Detailed Study</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/luminous-upgrades-5-must-try-online-video-tools-for-2024/"><u>Luminous Upgrades 5 Must-Try Online Video Tools for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/new-innovations-in-songbookdb-a-revolutionary-karaoke-song-selection-platform/"><u>New Innovations in SongbookDB: A Revolutionary Karaoke Song Selection Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simplify-your-mobile-experience-mastering-the-quick-settings-on-android-devices/"><u>Simplify Your Mobile Experience: Mastering the Quick Settings on Android Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-spark-10c-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10C Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/top-10-effect-enhancing-fcp-plug-ins-for-2024/"><u>Top 10 Effect-Enhancing FCP Plug-Ins for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-14-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi 14 Pro? Here is How | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-90-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor 90 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-tags-a-guide-to-identifying-top-picks/"><u>[New] Mastering YouTube Tags A Guide to Identifying Top Picks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-art-of-background-replacement-in-editing-suite-for-2024/"><u>[New] The Art of Background Replacement in Editing Suite for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-poco-c55-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Poco C55 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-gt-5-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme GT 5 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/deciphering-if-reviews-on-products-are-paid-in-2024/"><u>Deciphering if Reviews on Products Are Paid, In 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-epson-wf-3520-printer-drivers-on-windows/"><u>Download and Install the Latest Epson WF-3520 Printer Drivers on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevate-meetings-with-the-jabra-evolve2-audio-upgrade/"><u>Elevate Meetings With the Jabra Evolve2 Audio Upgrade</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-y200e-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo Y200e 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-google-pixel-8-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Google Pixel 8 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-best-video-cameras-of-the-future/"><u>In 2024, Explore the Best Video Cameras of the Future</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncovering-potential-through-skilled-interviewing/"><u>In 2024, Uncovering Potential Through Skilled Interviewing</u></a></li>
+<li><a href="https://howto.techidaily.com/itel-a60-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A60 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-oppo-reno-11f-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo Reno 11F 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-infinix-hot-30-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Hot 30 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/streamline-your-yt-content-with-background-softening-tricks-for-2024/"><u>Streamline Your YT Content with Background Softening Tricks for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/travel-conveniently-with-the-portable-tp-link-wr902-ac-mini-wi-fi-router/"><u>Travel Conveniently with the Portable TP-Link WR902 AC Mini Wi-Fi Router</u></a></li>
 </ul></div>
 
