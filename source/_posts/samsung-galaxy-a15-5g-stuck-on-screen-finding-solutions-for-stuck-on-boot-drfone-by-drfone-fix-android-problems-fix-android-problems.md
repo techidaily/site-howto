@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy A15 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2025-01-17T18:11:55.309Z
-updated: 2025-01-20T17:43:06.618Z
+date: 2025-01-23T19:57:28.540Z
+updated: 2025-01-26T19:46:05.490Z
 tags: 
   - problems
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
 The market has embraced Samsung Galaxy A15 5G  for being the pioneers in the industry. Although the company lacked in providing explicit smartphones, they were still able to catch up with the race. Samsung Galaxy A15 5G C31, known to provide durability of the next level, is taking up the latest shelves of Samsung Galaxy A15 5G smartphones. Although the company promises reliability, there are several problems involving such smartphones.
 
 One prominent solution stated by Samsung Galaxy A15 5G users involves the screen stuck in the boot. If your ****Samsung Galaxy A15 5G  is stuck on the "Samsung Galaxy A15 5G" screen**** for no particular reason, you will have to read this article. As this article tackles all reasons involving the problem, it comes up with the necessary solutions. These solutions will help Samsung Galaxy A15 5G users find solutions for their stuck screens on the boot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Causes Samsung Galaxy A15 5G Screen Stuck on Boot?
 
@@ -55,7 +59,7 @@ A conventional way to solve the issue of a stuck screen in Samsung Galaxy A15 5G
 Once you restart it this way, all the procedures will initiate again, and the Samsung Galaxy A15 5G device will be as good as new. Draining the battery has given you the leverage to regain control over the Samsung Galaxy A15 5G device again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 3: Check For Updates on Samsung Galaxy A15 5G Smartphones
@@ -134,10 +138,6 @@ As you have observed, the power of Dr.Fone can be a perfect phone manager for yo
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4,675,795** people have downloaded it
 
 ## Conclusion
@@ -151,6 +151,10 @@ With all the provided methods, we do hope that you will be able to restore the s
 Samsung Galaxy A15 5G has established a notable presence within the custom development arena. This trait holds for Samsung Galaxy A15 5G. Today, it's still one of the most popular budget smartphones available. The popular smartphone offers the freedom to flash custom ROMs, attain administrative privileges, access countless customization options, and much more.
 
 Yet, delving into these capabilities comes with its share of risks. The potential for your **Samsung Galaxy A15 5G to brick** is high if you don't know what you're doing. This page teaches you how to **unbrick your Samsung Galaxy A15 5G** if it happens.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Potential Causes of a Samsung Galaxy A15 5G Becoming Bricked
 
@@ -191,21 +195,17 @@ Samsung Galaxy A15 5G offers its official software tools, such as the Samsung Ga
 
 ![mi flash tool main window](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2**: Download the [Stock Firmware](https://xiaomistockrom.com/category/stock-rom) of Samsung Galaxy A15 5G and extract it on your computer. Press and Hold the Power and Volume Down buttons for at least 5-10 seconds to enter Fastboot Mode.
 
 ![mi flash fastboot mode](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Connect your Samsung Galaxy A15 5G to the computer using a USB cable. Launch Samsung Galaxy A15 5GFlash Tool and locate the Firmware you have downloaded on the computer. Click the **refresh** > **flash** to begin the flashing process.
 
 ![mi flash tool firmware](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** The **SUCCESS** result should appear in the Samsung Galaxy A15 5GFlash Tool once the flashing process is done.
 
@@ -269,6 +269,10 @@ Repair Android System Errors without Any Trouble.
 
 ![choosing a problem on dr.fone app](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Select the appropriate device information corresponding to your Samsung Galaxy A15 5G. Choose **Brand**, **Name**, **Model**, **Country**, and **Carrier**. Confirm by checking the **I agree** button, then proceed to the next step by clicking **Next**.
 
 ![set up device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -287,7 +291,7 @@ Repair Android System Errors without Any Trouble.
 [How to Fix It If Your Samsung Galaxy A15 5G Phone Got Bricked?](https://drfone.wondershare.com/android-issue/samsung-brick.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -295,6 +299,10 @@ Repair Android System Errors without Any Trouble.
 Don't let a **bricked Samsung Galaxy A15 5G** stand in your way. Use the array of techniques from basic troubleshooting to advanced software tools to breathe life back into your device. **Unbrick your Samsung Galaxy A15 5G** to its full functionality using the methods provided or Dr.Fone's adept assistance.
 
 Lastly, you can still refer to Samsung Galaxy A15 5G for repairs. It remains the primary solution in numerous cases. Utilizing your warranty can alleviate the associated costs. Seeking assistance from a specialized technician is also a viable route to consider for a thorough device assessment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix Samsung Galaxy A15 5G Android System Webview Crash 2024 Issue
 
@@ -305,10 +313,6 @@ Android WebView for Android apps allows you to see and interact with web pages w
 So, what's going on with Samsung Galaxy A15 5G Android System WebView, and what can you do to fix its issues? Let's take a look. This article will shed light on **Samsung Galaxy A15 5G Android System WebView crashing apps**, helping you understand what triggers them, how to identify them, and what you can do to prevent them from happening again.
 
 ![black phone with android logo](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What Should We Know About Samsung Galaxy A15 5G Android System WebView Crashes?
 
@@ -331,6 +335,10 @@ Another common sign is unexpected app closing. The app may shut down without war
 Error messages can also provide valuable clues about the impending crash. These messages may appear as pop-ups or be displayed within the app itself.
 
 ![webview crash google app](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Slow Loading Times**
 
@@ -359,7 +367,7 @@ WebView might crash if it conflicts with other resources or processes running on
 In the next section, you'll explore potential solutions to keep your apps running smoothly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Android WebView Crashes? Here Are Quick and Proven Solutions
@@ -389,10 +397,6 @@ Android WebView is closely tied to Google Chrome, and issues with Chrome can som
 Open the **Google Play Store** and search for Google Chrome. If an update is available, tap **Update** to install it, then restart your device.
 
 ![update google chrome](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Clearing Cache and Data for Android WebView
 
@@ -441,10 +445,6 @@ Before attempting any repairs, it is crucial to back up your Samsung Galaxy A15 
 
 ![android problems dr.fone can fix](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Dr.Fone will analyze your device's system and download the firmware to solve the root cause of the issue.
 
 ![dr.fone downloading firmware interface](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -457,6 +457,10 @@ Before attempting any repairs, it is crucial to back up your Samsung Galaxy A15 
 
 ![successfully repaired android system issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **More Articles About Android System:**
 
 [5 Ways to Do With & Access Android Phone with Broken Screen](https://drfone.wondershare.com/android/access-android-phone-with-broken-screen.html)
@@ -464,10 +468,6 @@ Before attempting any repairs, it is crucial to back up your Samsung Galaxy A15 
 [Google Play Services Won't Update? 12 Fixes are Here!](https://drfone.wondershare.com/android-stopped/google-play-services-wont-update.html)
 
 [Easy Ways to Bypass Google Account Verification (FRP) On Android Phones](https://drfone.wondershare.com/factory-reset-protection/bypass-factory-reset-on-android.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -495,18 +495,18 @@ For more comprehensive troubleshooting, Dr. Fone's mobile solution offers a reli
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-best-console-to-pc-conversion-top-5-ps1-emulators/"><u>[New] 2024 Approved Best Console-to-PC Conversion Top 5 PS1 Emulators</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-arena-aces-unbeatable-10-royale-games/"><u>[New] Arena Aces Unbeatable 10 Royale Games</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-tailored-technology-for-video-capture-excellence/"><u>[Updated] 2024 Approved Tailored Technology for Video Capture Excellence</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/download-high-resolution-christian-grey-desktop-and-screen-saver-graphics-from-yl-softwares-wallpaper-collection/"><u>Download High-Resolution Christian Grey Desktop & Screen Saver Graphics From YL Software's Wallpaper Collection</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/te-your-contents-appeal-how-to-resize-youtube-thumbnails-right/"><u>Elevate Your Content's Appeal How to Resize YouTube Thumbnails Right</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-growth-the-journey-of-a-cto-in-scaling-upstack-overflow-into-one-of-the-webs-giants-zdnet/"><u>Navigating Growth: The Journey of a CTO in Scaling Upstack Overflow Into One of the Web's Giants | ZDNet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/nix-youtube-snippet-playback-on-all-devices-for-2024/"><u>Nix YouTube Snippet Playback on All Devices for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-oneplus-ace-3-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My OnePlus Ace 3 Black and White | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-f54-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy F54 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-free-accurate-youtube-transcript-creation-for-2024/"><u>The Ultimate Guide to Free, Accurate YouTube Transcript Creation for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-vr-travel-a-step-by-step-guide/"><u>[New] In 2024, Mastering VR Travel A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers/"><u>[Updated] 2024 Approved Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-nokia-c210-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/diagnosing-and-fixing-wireless-keyboard-connectivity-in-windows-systems/"><u>Diagnosing and Fixing Wireless Keyboard Connectivity in Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-overcoming-interruptions-in-code-vein-gameplay-by-eliminating-freezes/"><u>Expert Tips: Overcoming Interruptions in Code Vein Gameplay by Eliminating Freezes</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-a2-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi A2 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-asus-rog-phone-7-ultimate-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Asus ROG Phone 7 Ultimate Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-infinix-gt-10-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Infinix GT 10 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-lag-issues-in-valheim-on-your-windows-computer-with-these-tricks/"><u>Solve Lag Issues in Valheim on Your Windows Computer with These Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-honor-play-40c-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor Play 40C ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-realme-gt-5-240w-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Realme GT 5 (240W) Android SIM Unlock APK</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-secrets-of-your-notifications-a-comprehensive-walkthrough-for-android-users/"><u>Unlock the Secrets of Your Notifications - A Comprehensive Walkthrough for Android Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revolutionary 'U'-Formed Chinese PC, Enhanced by Additional External PCIe Slot Support
-date: 2025-01-14T17:47:54.904Z
-updated: 2025-01-20T16:21:25.629Z
+date: 2025-01-19T19:51:39.134Z
+updated: 2025-01-26T16:25:47.768Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,24 +60,17 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-strategies-for-precise-age-entry-in-tiktok-profiles/"><u>[New] 2024 Approved Strategies for Precise Age Entry in TikTok Profiles</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-the-secrets-of-timelapse-video-shooting-with-hero5/"><u>[New] 2024 Approved Unveiling the Secrets of Timelapse Video Shooting with Hero5</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-gamers-guides-essential-tips-for-recording-riveting-races/"><u>[Updated] In 2024, Gamers' Guides Essential Tips for Recording Riveting Races</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-creator-toolkit-commanding-video-kingdoms/"><u>[Updated] In 2024, The Ultimate Creator Toolkit Commanding Video Kingdoms</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-narzo-n53-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme Narzo N53? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-huawei-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Huawei</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-vivo-y55s-5g-2023-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y55s 5G (2023) Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fast-track-intel-nuc-updates-simplifying-driver-enhancements-for-performance-boost/"><u>Fast-Track Intel NUC Updates: Simplifying Driver Enhancements for Performance Boost</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-itel-a60-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Itel A60 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-vivo-v29-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo V29 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/in-duienstijlen-vertrekken-overwinningige-strategies-voor-migratie-van-windows-server-2012-r2-naar-nieuwe-serversystemen/"><u>In Duienstijlen Vertrekken: Overwinningige Strategies Voor Migratie Van Windows Server 2012 R2 Naar Nieuwe Serversystemen</u></a></li>
-<li><a href="https://howto.techidaily.com/nokia-c12-plus-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C12 Plus Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/picture-perfect-best-apps-for-framing-your-memories/"><u>Picture Perfect Best Apps for Framing Your Memories</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-infinix-note-30-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Note 30 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-vivo-s18e-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo S18e Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-note-30-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix Note 30 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-the-best-cable-modems/"><u>Ultimate Guide to Choosing the Best Cable Modems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-is-your-social-media-strategy-up-to-date-with-facebook-changes-in-2024/"><u>[New] Is Your Social Media Strategy Up-to-Date with Facebook Changes, In 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-expertise-crafting-time-lapse-photos/"><u>2024 Approved IPhone Expertise Crafting Time-Lapse Photos</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-y78t-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo Y78t Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-winx-movie-converter-effortless-dvd-to-mp4-transformation-on-windows-10-and-ios-devices/"><u>Free WinX Movie Converter: Effortless DVD to MP4 Transformation on Windows 10 & iOS Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-cloud-picks-price-and-performance-comparison/"><u>In 2024, Top Cloud Picks Price & Performance Comparison</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-8-tools-for-subtitle-srt-format-switching/"><u>Leading 8 Tools for Subtitle-SRT Format Switching</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-setback-display-preservation-accomplished/"><u>No More Setback: Display Preservation Accomplished</u></a></li>
+<li><a href="https://techtrends.techidaily.com/no-worries-mastering-the-art-of-post-send-instagram-message-edits/"><u>No Worries: Mastering the Art of Post-Send Instagram Message Edits</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y55s-5g-2023-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y55s 5G (2023) Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
 

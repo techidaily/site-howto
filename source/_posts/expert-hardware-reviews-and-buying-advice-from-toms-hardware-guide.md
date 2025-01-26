@@ -1,7 +1,7 @@
 ---
 title: Expert Hardware Reviews and Buying Advice From Tom's Hardware Guide
-date: 2025-01-13T18:02:22.562Z
-updated: 2025-01-20T21:00:43.364Z
+date: 2025-01-19T17:59:53.650Z
+updated: 2025-01-26T18:27:23.422Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,20 +66,19 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2023s-top-free-premiere-pro-masterpieces-for-2024/"><u>[New] 2023'S Top Free Premiere Pro Masterpieces for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-cam-protection-the-ultimate-10-guide-for-2024/"><u>[Updated] Cam Protection The Ultimate 10 Guide for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-11-proplus-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme 11 Pro+ Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dji-phantom-4-pro-v20-analysis-an-inch-away-from-ideal-drone-performance/"><u>DJI Phantom 4 Pro V2.0 Analysis: An Inch Away From Ideal Drone Performance</u></a></li>
-<li><a href="https://win-trending.techidaily.com/einleitung-in-die-verwendung-von-aomei-fonebackup-wie-richtet-man-ein-konto-ein/"><u>Einleitung in Die Verwendung Von AOMEI FoneBackup: Wie Richtet Man Ein Konto Ein?</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-pairing-your-camera-gimbal/"><u>In 2024, Step-by-Step Guide to Pairing Your Camera Gimbal</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-vivo-v30-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo V30 Pro Black and White | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-lava-yuva-3-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Yuva 3 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/seamlessly-sync-your-content-the-ultimate-guide-to-iphone-to-pc-file-transfers-with-7-proven-techniques/"><u>Seamlessly Sync Your Content: The Ultimate Guide to iPhone-to-PC File Transfers with 7 Proven Techniques</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/super-bowl-commercials-soar-microsofts-copilot-and-temu-triumph-in-download-ratings-techzn/"><u>Super Bowl Commercials Soar: Microsoft's Copilot & Temu Triumph in Download Ratings | TechZN</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fifa-19-stability-on-desktop-systems/"><u>Troubleshooting Steps for FIFA 19 Stability on Desktop Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-new-era-with-apple-watch-series-6-noteworthy-upgrades-but-it-reigns-supreme-still/"><u>Unboxing the New Era with Apple Watch Series 6: Noteworthy Upgrades, But It Reigns Supreme Still</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nokia-105-classic-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nokia 105 Classic? Here is How | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweets-unfolded-yearly-guide-to-social-reactions/"><u>[New] Tweets Unfolded Yearly Guide to Social Reactions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-reschedule-image-file-storage-from-mac/"><u>[Updated] Reschedule Image File Storage From Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-nokia-130-music-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nokia 130 Music Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-mundane-to-magical-weaving-wonders-with-chatgpt/"><u>From Mundane to Magical: Weaving Wonders with ChatGPT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-magic5-ultimate-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor Magic5 Ultimate Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-honor-x8b-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor X8b ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-system-call-issues-in-win11/"><u>Mastering the Resolution of System Call Issues in Win11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-lg-watch-style-embracing-the-traditional-design-of-wear-os-smartwatches/"><u>The Definitive Guide to LG Watch Style: Embracing the Traditional Design of Wear OS Smartwatches</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-7-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 7 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y78plus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y78+ Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-13-pro-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 13 Pro 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 
