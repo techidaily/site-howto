@@ -1,7 +1,7 @@
 ---
 title: AMD Raises Projected Revenue for Instinct MI1300 Series to $4B, But Still Shadows Nvidia's Staggering $40B Estimate
-date: 2025-01-15T16:18:09.474Z
-updated: 2025-01-20T19:07:50.456Z
+date: 2025-02-07T17:23:29.914Z
+updated: 2025-02-08T17:23:20.769Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,21 +60,18 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-first-times-guide-to-essential-gopro-extras-for-2024/"><u>[New] First Time's Guide to Essential GoPro Extras for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-explore-the-top-7-innovative-apps-for-effortless-youtube-live-broadcasts-on-iphone-and-android/"><u>[Updated] 2024 Approved Explore the Top 7 Innovative Apps for Effortless YouTube LIVE Broadcasts on iPhone and Android</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-ultimate-movie-watchlists-for-efficient-screen-time-for-2024/"><u>[Updated] Ultimate Movie Watchlists for Efficient Screen Time for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-top-5-apps-for-turning-spotify-listens-into-youtube-videos/"><u>2024 Approved Top 5 Apps for Turning Spotify Listens Into YouTube Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-find-x6-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo Find X6? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-vivo-t2-pro-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo T2 Pro 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-y100t-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y100t Safely | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-y100-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo Y100 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/performance-comparison-the-impact-of-dynamic-vs-fixed-disk-size-on-speed/"><u>Performance Comparison: The Impact of Dynamic Vs. Fixed Disk Size on Speed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-default-power-profiles-in-modern-windows/"><u>Restoring Default Power Profiles in Modern Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-the-command-line-from-your-file-explorer/"><u>Step-by-Step Guide: Accessing the Command Line From Your File Explorer</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-oppo-find-x7-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo Find X7 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-my-new-jabra-headset-working-expert-solutions-and-tips-for-2n4/"><u>Why Isn't My New Jabra Headset Working? Expert Solutions & Tips for 2N4</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-vivo-t2-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo T2 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-13t-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 13T Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-effective-tactics-for-customizing-song-tempo-in-spotify/"><u>[New] Effective Tactics for Customizing Song Tempo in Spotify</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-becoming-an-instagrammable-replica-a-comprehensive-guide-to-duplicating-oneself-on-tiktok-for-2024/"><u>[Updated] Becoming an Instagrammable Replica A Comprehensive Guide to Duplicating Oneself on TikTok for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-cameras-the-creme-de-la-crop-of-mobile-video-recorders/"><u>[Updated] Best Cameras The Crème De La Crop of Mobile Video Recorders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-grab-your-guiltless-film-endings-with-our-template-service/"><u>[Updated] Grab Your Guiltless Film Endings with Our Template Service</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-infinix-gt-10-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix GT 10 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-m34-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy M34 Quickly | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-c02-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-top-8-android-tools-elevating-your-studio-sound/"><u>New Top 8 Android Tools Elevating Your Studio Sound</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-on-setting-up-parent-safety-tools-with-windows-control-panel-expert-advice-from-yl-software/"><u>Step-by-Step Tutorial on Setting Up Parent Safety Tools with Windows Control Panel - Expert Advice From YL Software</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-y36-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo Y36 Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-14-ultra-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi 14 Ultra Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

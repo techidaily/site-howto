@@ -1,7 +1,7 @@
 ---
 title: Revolutionary 'U'-Formed Chinese PC, Enhanced by Additional External PCIe Slot Support
-date: 2025-01-19T19:51:39.134Z
-updated: 2025-01-26T16:25:47.768Z
+date: 2025-02-03T16:19:02.121Z
+updated: 2025-02-08T16:32:13.460Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,17 +60,20 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-is-your-social-media-strategy-up-to-date-with-facebook-changes-in-2024/"><u>[New] Is Your Social Media Strategy Up-to-Date with Facebook Changes, In 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-expertise-crafting-time-lapse-photos/"><u>2024 Approved IPhone Expertise Crafting Time-Lapse Photos</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-vivo-y78t-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo Y78t Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-winx-movie-converter-effortless-dvd-to-mp4-transformation-on-windows-10-and-ios-devices/"><u>Free WinX Movie Converter: Effortless DVD to MP4 Transformation on Windows 10 & iOS Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-cloud-picks-price-and-performance-comparison/"><u>In 2024, Top Cloud Picks Price & Performance Comparison</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-8-tools-for-subtitle-srt-format-switching/"><u>Leading 8 Tools for Subtitle-SRT Format Switching</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-setback-display-preservation-accomplished/"><u>No More Setback: Display Preservation Accomplished</u></a></li>
-<li><a href="https://techtrends.techidaily.com/no-worries-mastering-the-art-of-post-send-instagram-message-edits/"><u>No Worries: Mastering the Art of Post-Send Instagram Message Edits</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y55s-5g-2023-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y55s 5G (2023) Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-viral-visionaries-top-10-tiktok-secrets/"><u>[Updated] 2024 Approved Viral Visionaries Top 10 TikTok Secrets</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-vrs-best-immersion-top-ten-titles/"><u>2024 Approved VR's Best Immersion Top Ten Titles</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-s23-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy S23 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-v29-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo V29 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expanding-access-to-secure-sign-ins-configuring-windows-hello-functionality-on-excluded-devices-within-the-windows-11-ecosystem/"><u>Expanding Access to Secure Sign-Ins: Configuring Windows Hello Functionality on Excluded Devices Within the Windows 11 Ecosystem</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y77t-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y77t Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-silent-cast-what-to-do-when-chromecast-wont-play-sounds-correctly/"><u>Fixing Silent Cast: What to Do When Chromecast Won't Play Sounds Correctly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-tips-for-transcribing-audio-to-text-using-microsoft-word/"><u>In 2024, Quick Tips for Transcribing Audio to Text Using Microsoft Word</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-pursuit-of-ultra-clarity-the-4k-z32x-reviewed/"><u>In 2024, The Pursuit of Ultra Clarity The 4K Z32X Reviewed</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-clean-up-your-audio-advanced-techniques-for-removing-background-noise-in-fcpx/"><u>New 2024 Approved Clean Up Your Audio Advanced Techniques for Removing Background Noise in FCPX</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-note-30i-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Note 30i Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/superior-text-styling-methods-for-2024/"><u>Superior Text Styling Methods for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revolutionary 4TBPS Optical Link Technology Integrated by Intel in Next-Gen CPU and GPU Chipsets
-date: 2025-01-18T19:00:12.212Z
-updated: 2025-01-20T20:27:17.648Z
+date: 2025-02-01T17:12:46.990Z
+updated: 2025-02-08T16:20:30.064Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,18 +62,18 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-vertical-or-horizontal-facebook-video-tactic-for-2024/"><u>[Updated] Vertical or Horizontal Facebook Video Tactic for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-thumbnail-scaling-techniques-for-youtube/"><u>2024 Approved Thumbnail Scaling Techniques for YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-by-openai-a-critical-examination-of-its-significant-flaws/"><u>ChatGPT by OpenAI: A Critical Examination of Its Significant Flaws</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-reno-10-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo Reno 10 Pro 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-pixel-8-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Pixel 8 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-by-drfone-android/"><u>How to Bypass FRP on Nokia?</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-reno-9a-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo Reno 9A Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-oppo-a1-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A1 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-turning-on-apples-find-my-for-iphones/"><u>Step-by-Step Tutorial: Turning On Apple's 'Find My' For iPhones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-9-deceptive-chatgpt-imposters-that-could-compromise-your-information/"><u>Top 9 Deceptive ChatGPT Imposters That Could Compromise Your Information</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-your-game-tales-of-arise-keeps-crashing/"><u>Troubleshooting Guide: Why Your Game 'Tales of Arise' Keeps Crashing</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-s23plus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel S23+ Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-honor-100-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor 100 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-essential-shoppers-guide-to-modern-360cams-for-2024/"><u>[Updated] The Essential Shopper's Guide to Modern 360Cams for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-handbook-for-proficient-periscope-use/"><u>2024 Approved Comprehensive Handbook for Proficient Periscope Use</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gnasher-no-cost-and-paid-alternatives-to-lightroom/"><u>2024 Approved Gnasher No-Cost & Paid Alternatives to Lightroom</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-google-pixel-7a-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Google Pixel 7a System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-minecraft-techniques-mastering-teleportation-commands-for-seamless-adventures/"><u>Expert Minecraft Techniques: Mastering Teleportation Commands for Seamless Adventures</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/reveal-hidden-gems-posting-fb-videos-effectively-for-2024/"><u>Reveal Hidden Gems Posting FB Videos Effectively for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-sony-xperia-1-v-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Sony Xperia 1 V ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-14-ultra-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi 14 Ultra Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-enigma-of-chatbots-debunking-9-popular-beliefs/"><u>Unraveling the Enigma of Chatbots: Debunking 9 Popular Beliefs</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-nubia-red-magic-9-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Nubia Red Magic 9 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 
