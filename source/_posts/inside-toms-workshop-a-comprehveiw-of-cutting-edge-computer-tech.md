@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom's Workshop: A Comprehveiw of Cutting-Edge Computer Tech"
-date: 2025-02-06T17:09:04.608Z
-updated: 2025-02-08T16:39:56.389Z
+date: 2025-02-15T21:30:17.114Z
+updated: 2025-02-18T06:29:52.337Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,24 +56,22 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-compose-better-yi-4k-footage-must-have-accessories/"><u>[New] In 2024, Compose Better YI 4K Footage Must-Have Accessories</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-triumph-through-film-the-top-10-motivating-titles/"><u>[New] Triumph Through Film The Top 10 Motivating Titles</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-innovation-how-final-cut-x-shapes-your-tall-screen-footage/"><u>[Updated] Instagram Innovation How Final Cut X Shapes Your Tall-Screen Footage</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-windows-11-updates-examined/"><u>[Updated] Windows 11 Updates Examined</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-honor-x50-gt-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor X50 GT Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/countering-lsa-protection-off-alert-in-windows-os/"><u>Countering LSA Protection OFF Alert in Windows OS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/craft-your-first-impactful-facebook-phenomenon-giveaway-for-2024/"><u>Craft Your First Impactful Facebook Phenomenon Giveaway for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-the-pc-launch-problems-with-modern-warfare-v2024/"><u>How to Fix the PC Launch Problems with Modern Warfare V2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-reno-11-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo Reno 11 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/os-melhores-reprodutores-gratuitos-de-dvds-para-sistemas-windows-1011-avaliacao-detalhada-do-programa-winxdvd/"><u>Os Melhores Reprodutores Gratuitos De DVDs Para Sistemas Windows 10/11 - Avaliação Detalhada Do Programa WinXDVD</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-moto-g14-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Moto G14 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-play-7t-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor Play 7T Screen | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/what-sets-mpeg-4-apart-from-mp4-learn-how-to-convert-between-the-two-formats-efficiently/"><u>What Sets MPEG-4 Apart From MP4? Learn How to Convert Between the Two Formats Efficiently.</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-s17-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo S17 Pro Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-video-upload-techniques-for-youtube-via-premiere/"><u>[New] In 2024, Expert Video Upload Techniques for YouTube via Premiere</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/r-rated-apps-for-effortless-youtube-live-broadcast-from-iphone-and-android-for-2024/"><u>7 Star-Rated Apps for Effortless YouTube LIVE Broadcast From iPhone and Android for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-stars-staggering-fortune-from-youtube-success/"><u>Child Star's Staggering Fortune From YouTube Success</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-e-reader-showdown-the-amazon-kindle-paperwhite-7th-generation-top-reviews/"><u>Comprehensive E-Reader Showdown: The Amazon Kindle Paperwhite (7Th Generation) - Top Reviews</u></a></li>
+<li><a href="https://media-tips.techidaily.com/diy-audio-solutions-mastering-dvd-conversion-iphone-backups-and-ringtone-creation-techniques/"><u>DIY Audio Solutions: Mastering DVD Conversion, iPhone Backups & Ringtone Creation Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-recovery-of-non-responsive-dp-port/"><u>Streamline Recovery of Non-Responsive DP Port</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-poco-c55-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Poco C55 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-mp3-players-expert-reviews-and-rankings/"><u>Top-Rated MP3 Players : Expert Reviews and Rankings</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-best-programs-for-restoring-corrupted-images/"><u>Ultimate Guide: Best Programs for Restoring Corrupted Images</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-s24-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy S24 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

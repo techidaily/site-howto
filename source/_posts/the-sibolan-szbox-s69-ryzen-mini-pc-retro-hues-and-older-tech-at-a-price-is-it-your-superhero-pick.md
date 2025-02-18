@@ -1,7 +1,7 @@
 ---
 title: "The Sibolan SZBox S69 Ryzen Mini PC: Retro Hues and Older Tech at a Price - Is It Your Superhero Pick?"
-date: 2025-02-04T17:19:44.346Z
-updated: 2025-02-08T16:46:55.331Z
+date: 2025-02-16T06:17:12.386Z
+updated: 2025-02-17T18:22:51.419Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,20 +88,17 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-masterclass-constructing-mc-village-houses/"><u>[New] In 2024, Masterclass Constructing MC Village Houses</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-ad-blocking-in-chrome-firefox-android-and-ios-for-youtube/"><u>[New] In 2024, Navigating Ad-Blocking in Chrome, Firefox, Android, & iOS for YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-jubilant-join-and-disconnect-protocols/"><u>[New] Jubilant Join & Disconnect Protocols</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-6-social-media-platforms-for-business/"><u>[New] Top 6 Social Media Platforms for Business</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ultrafine-a-deep-dive-into-lgs-elite-4k-display-features/"><u>[Updated] UltraFine A Deep Dive Into LG's Elite 4K Display Features</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Infinix Note 30? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/beyond-repair-intels-mainline-non-k-core-processors-suffer-crashing-fiasco-no-recall-in-the-works/"><u>Beyond Repair: Intel's Mainline Non-K Core Processors Suffer Crashing Fiasco, No Recall in the Works</u></a></li>
-<li><a href="https://windows11.techidaily.com/brighten-up-windows-11-screens-with-easy-adjustments/"><u>Brighten Up Windows 11 Screens with Easy Adjustments!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/dell-printer-drivers-download-and-update-easily/"><u>Dell Printer Drivers Download & Update Easily</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-vivo-s18e-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo S18e Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/in-2024-distracted-boyfriend-meme-generator/"><u>In 2024, Distracted Boyfriend Meme Generator</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-narzo-60-pro-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme Narzo 60 Pro 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-realme-11-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme 11 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-a-comparison-of-best-linux-screenshare-utilities/"><u>[New] In 2024, A Comparison of Best Linux Screenshare Utilities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-effective-ways-share-facebook-videos-to-whatsapp/"><u>[New] In 2024, Effective Ways | Share Facebook Videos to WhatsApp?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-set-new-save-directory-for-mac-snapshots-for-2024/"><u>[New] Set New Save Directory for Mac Snapshots for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-tips-eliminate-signature-bg-in-minutes/"><u>[Updated] Quick Tips Eliminate Signature Bg in Minutes</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-z-flip-5-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy Z Flip 5? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-the-gap-ais-impact-on-paperclip-maximization/"><u>Bridging the Gap: AI's Impact on Paperclip Maximization</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-itel-a60s-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Itel A60s Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-quake-mode-in-windows-terminal/"><u>How to Enable Quake Mode in Windows Terminal</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-restoring-visible-bluetooth-options-on-pcs-device-manager/"><u>Troubleshooting: Restoring Visible Bluetooth Options on PC's Device Manager</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-redmi-note-13-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Redmi Note 13 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 
