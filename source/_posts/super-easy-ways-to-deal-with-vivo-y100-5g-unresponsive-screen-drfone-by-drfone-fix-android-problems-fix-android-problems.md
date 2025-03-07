@@ -1,7 +1,7 @@
 ---
 title: Super Easy Ways To Deal with Vivo Y100 5G Unresponsive Screen | Dr.fone
-date: 2024-07-30T11:36:57.299Z
-updated: 2024-07-31T11:36:57.299Z
+date: 2025-03-04T18:06:28.054Z
+updated: 2025-03-07T01:00:58.757Z
 tags: 
   - problems
 categories:
@@ -20,16 +20,12 @@ Vivo Y100 5G smartphones are gaining popularity owing to their low costs, high q
 
 Some common issues might arise for Vivo Y100 5G phone users. The Redmi note 4 touch not working is a serious problem. It can only go up to the initialization screen. In this guide, you'll find the information you need to troubleshoot and fix the most common problems reported by Motorola customers.
 
-
 ## **What causes a Vivo Y100 5G Screen to be unresponsive?**
 
 The screen on your Vivo Y100 5G phone could stop responding for several reasons. The touchscreen, the system software, or the hardware itself might all be at fault. To effectively address an issue, it is crucial to locate its origins.
 
 The following are some potential reasons for an unresponsive screen on a Vivo Y100 5G device, along with descriptions of each.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **There are signs of soft bricking**
 
 A touch screen not working on Vivo Y100 5G smartphones indicates a soft brick (recoverable by firmware update), often caused by a defective or undercharged battery. System file corruption, old firmware, or failed upgrades are all possible causes. Several customers have complained that after installing a software update, their Vivo Y100 5G 4 or 5 device's screen became unresponsive and remained at the boot logo.
@@ -48,24 +44,8 @@ Could anything be more annoying than a broken touchscreen on your Vivo Y100 5G p
 
 Before taking the item in for repairs, see if you can figure out the problem independently. Do you want to learn the method? If the touch screens on your Vivo Y100 5G stop working, don’t panic; we'll teach you exactly what to do.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### **Solution 1: Try to restart your device**
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart your phone](https://images.wondershare.com/drfone/article/2023/03/reset-button-android-1.jpg)
 
 Giving your Vivo Y100 5G a restart is one of the most common solutions if you encounter an unresponsive screen on your phone. Here’s how.
@@ -76,9 +56,6 @@ Giving your Vivo Y100 5G a restart is one of the most common solutions if you en
 
 ### **Solution 2: Check your charging port and battery**
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![xiaomi battery and charger](https://images.wondershare.com/drfone/article/2023/03/charge-your-phone.jpg)
 
 If the battery of your Vivo Y100 5G is empty, your screen is expected to be unresponsive. To fix that, here are some easy steps for you:
@@ -88,9 +65,6 @@ If the battery of your Vivo Y100 5G is empty, your screen is expected to be unre
 3. Come back to check. Turn your phone on.
 4. Test if the touchscreen is now working.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### **Solution 3: Contact Customer Service**
 
 ![xiaomi contact customer service](https://images.wondershare.com/drfone/article/2023/03/xiaomi-customer-service-1.jpg)
@@ -99,10 +73,6 @@ Let's assume you've applied every possible course of action. For example, your V
 
 Based on the customer’s feedback, one of the frequent issues of the Vivo Y100 5G is when the screen becomes unresponsive. These issues should not usually happen, but if you find yourself in this dilemma, a list of other solutions below will help you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### **Solution 4: Turning on your full screen option offered by MI**
 
 ![full screen options](https://images.wondershare.com/drfone/article/2023/03/xiaomi-full-screen-gestures-menu.jpg)
@@ -136,9 +106,6 @@ Doing a factory reset may be your last remaining choice if the preceding solutio
 
 If you want to fix issues like this, most simply, Dr. Fone offers that. It is made to provide you with a complete mobile solution. You may have your phone fixed without losing any information. Dr. Fone's many handy tools will quickly get your phone back in working order.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### **How to avoid a Vivo Y100 5G screen unresponsive?**
 
 Users may take several precautions to avoid the Vivo Y100 5G screen unresponsive problem. Stop using any app stores or other unofficial app providers. There is a risk that doing so may damage your device or introduce viruses that will force your phone to restart. There's also a risk of losing important information like photos and files.
@@ -155,29 +122,12 @@ Sometimes, Vivo Y100 5G smartphones may experience problems with their screen. T
 
 When following the directions, the user may require more research into some troubleshooting techniques. If this is the case, Dr.Fone Repair is usually the solution. The fact that Dr. Fone can continually tweak his system of unresponsive screens is wonderful news. This helpful tool can fix both black screens and endless starting cycles. That's why it's an integral part of every modern computer.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Ways to Unbrick Your Android Device: Various Ways for Recovery
 
 When your Vivo Y100 5G becomes unresponsive or frozen after mistakenly flashing a ROM or rooting, you are informed that the phone has been bricked. The most terrifying aspect will not just be gadget loss, but also data erasure. However, what exactly is a bricked phone, and, more importantly, how do you fix a bricked Android phone?
 
 This article will explain what a **bricked android phone** is, why an Android phone becomes bricked, how to unbrick an Android phone without losing data and a third-party application you can use.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Causes of Bricked Phones
 
 In everyday settings, our mobile devices have become our greatest friends, therefore breaking your phone is the last thing you want to do. There are different reasons why devices brick, and we must be familiar with them in order to comprehend the various techniques to repair bricked devices.
@@ -189,9 +139,6 @@ Here are some common reasons why your Vivo Y100 5G is bricked:
 - **Android firmware is being updated:**If the phone is interrupted when updating the Android firmware, it will be bricked.
 - **Installing harmful applications:**You installed harmful programs on your Vivo Y100 5G, or the phone was infected with a virus.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How to Fix a Bricked Phone
 
 The first step is to establish how badly your device is bricked. In most cases, you will be working with soft bricks that are pretty simple to repair. If your phone is stuck in a boot loop or enters recovery mode every time you turn it on, you may have a soft brick.
@@ -206,26 +153,17 @@ To repair bricked Android phones and tablets, you must first thoroughly examine 
 
 Here are some simple methods for repairing bricked Android devices:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1. Reboot the Phone in Safe Mode
 
 Trying to reboot your android device in safe mode is the first and easiest thing you should try if your phone is bricked. Here's how to do it:
 
 - **Step 1:** Turn off your smartphone and press the **Volume Up** + **Power** button to enter recovery mode. Then, using the volume controls, navigate the menu and select Reboot system now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android safe mode](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-1.jpg)
 
 - **Step 2:** Select the highlighted option by pressing the **Power button**. After that, wait for your device to reset normally.
 - **Note:** The steps for booting into recovery mode may change based on the manufacturer of your device. For further information, go to the user manual for your phone or tablet.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2. Wipe the Cache Partition
 
 This is the first indication that a user's phone has gone bricked. The phone turned on automatically, however it became stuck or frozen on the logo screen. The issue might be caused by the undeleting of data and cache, which prevents the phone from displaying the home screen.
@@ -235,16 +173,10 @@ This issue, however, may be resolved by wiping the data and cache partitions in 
 - **Step 1:** Turn off your smartphone and enter recovery mode by pressing the Power and Volume Down buttons simultaneously. Different devices have various approaches for entering recovery mode, so you may perform better.
 - **Step 2:** After entering recovery mode, you should see the screen below. Remember to pick Advanced and then “Wipe Dalvik Cache” if your device is under Clockwork Mod recovery. Return to the main screen and select “Wipe Cache Partition” once more.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-2.jpg)
 
 - **Step 3:** Finally, on your smartphone, choose the Reboot system immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Method 3. Perform a Factory Reset
 
 A factory reset can undo the alterations made to your device that resulted in the brick phone, but you will lose everything you have downloaded and installed in the process. Here's how to restore a bricked Android phone to factory settings:
@@ -255,9 +187,6 @@ A factory reset can undo the alterations made to your device that resulted in th
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4. Flash a Custom ROM
 
 If you boot your phone directly into recovery mode, there's a problem with the ROM you loaded. Then simply flash the following custom ROM on your phone:
@@ -265,9 +194,6 @@ If you boot your phone directly into recovery mode, there's a problem with the R
 - **Step 1:** Save the required ROM (in ZIP format) to an SD card. The SD card should then be inserted into your Vivo Y100 5G.
 - **Step 2:** Click the **“Install zip from sdcard”** button. Then, select the ZIP file that contains the ROM. Finally, click the **"reboot system now"** button.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-4.jpg)
 
 ### Method 5. Using [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) to Fix bricked Android Devices
@@ -278,14 +204,6 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 
 - **Step 1:** Launch [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/phone-switch/) and select **“Data Recovery”** > **“Recover Android Data”** from the menu. Then, select **“****Recover from Broken Phone”**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-3.png)
 
 - **Step 2:** Choose the file types you wish to recover. Click “Next” and then select the type of damage your phone is experiencing. Select **“Touch screen not responsive, or cannot access the phone”** or **“Black/broken screen”.**
@@ -298,17 +216,10 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 
 - **Step 4:** The program will provide a list of all recoverable files, organized by file type. To preview the file, highlight it. Choose the files you wish to recover and then click “Recover” to save all the data you want to restore.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![recover files](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Part 3. How to Prevent Bricking Your Phone
 
 How to prevent a device from “bricking” itself and how to repair it if it does The delay is set by the MCU, but it should be long enough to allow the debug adapter to connect to the Vivo Y100 5G device and halt it before the Vivo Y100 5G device disables itself.
@@ -333,9 +244,6 @@ Are you encountering the "your connection is not private" issue on your phone? W
 
 Usually, you can just reload the page to fix the error. But in case it doesn't help, you may need to look for more advanced solutions. In the following discussion, we will delve into why this **"your connection is not private" on Android** happens and explore solutions that work for you.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Addressing Your Connection Is Not Private on Android
 
 First of all, what does **"your connection is not private" on Android** mean? To answer this question, it's essential to understand that this error is often associated with Secure Socket Layer (SSL) protocol issues.
@@ -402,18 +310,6 @@ So, [<u>clearing your browser cache and data </u>](https://drfone.wondershare.co
 - **Step 2:** Access the Menu (the three dots button) to open the Settings. Select Privacy and Security > Clear Browsing Data.
 - **Step 3:** Opt for the "All Time" option and click "Clear Data" to erase your cache.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear the browser's cache and data.](https://images.wondershare.com/drfone/article/2023/12/connection-private-android-2.jpg)
 
 After successfully clearing your browser cache and data, revisit the website to check if the problem persists.
@@ -428,14 +324,8 @@ How to perform system repair with Dr.Fone:
 
 Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox section and connect your Vivo Y100 5G. Choose System Repair and pick Android as your device type.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Dr.Fone System Repair tool.](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,322,863** people have downloaded it
@@ -462,16 +352,10 @@ Follow the instructions to put your Vivo Y100 5G into Download Mode. Once in Dow
 
 Remember, the repair may erase data. It's advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Confirm the repair process.](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 When done, click Done if your Android starts properly. If not, click Try Again to repeat the process.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Method 3: Check and fix the date and time on your Android
 
 Since the error code "NET::ERR\_CERT\_DATE\_INVALID" indicates a mismatch between the date and time on your device and your browser, you need to adjust the date and time settings on your Android to fix it.
@@ -481,14 +365,8 @@ The specific steps can vary based on your Android model, but the general approac
 - **Step 1:** Go to your Vivo Y100 5G's Settings > Date & Time.
 - **Step 2:** Switch on the "Automatic Date & Time" to sync with the network-provided time.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Check and fix the Android's date and time.](https://images.wondershare.com/drfone/article/2023/12/connection-private-android-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Method 4: Perform factory reset
 
 If nothing else works, there might be malware on your phone causing trouble. It's crucial to eliminate this threat before further damage occurs. The recommended action is to [<u>perform a factory reset </u>](https://drfone.wondershare.com/reset-android/how-to-factory-reset-huawei-phone-when-locked.html) on your phone.
@@ -510,7 +388,6 @@ When you see the error message, it often comes with specific codes that indicate
 
 By prioritizing user safety and following the step-by-step approach in this guide, you can navigate and resolve this common internet browsing challenge on your Vivo Y100 5Gs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -523,7 +400,23 @@ By prioritizing user safety and following the step-by-step approach in this guid
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-roadmap-to-instagram-star-status-9-must-do-tactics/"><u>[Updated] 2024 Approved The Roadmap to Instagram Star Status 9 Must-Do Tactics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hero5-black-mastery-techniques-to-take-photos-and-videos-from-great/"><u>[Updated] Hero5 Black Mastery Techniques to Take Photos & Videos From Great</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-lenovo-thinkphone-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lenovo ThinkPhone Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-guide-most-popular-iphone-sixteen-variants-and-your-wait-time-explained-exclusive-zdnet-report/"><u>Essential Guide: Most Popular iPhone ˈSixteen Variants and Your Wait Time Explained - Exclusive ZDNET Report</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-realme-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Realme ?</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/spoiler-equipped-cars-high-quality-graphics-photos-and-backdrops-by-yl-computing/"><u>Spoiler-Equipped Cars: High-Quality Graphics, Photos & Backdrops by YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-moving-contacts-from-microsoft-outlook-to-another-platform-on-mac-os-x/"><u>Step-by-Step Guide: Moving Contacts From Microsoft Outlook to Another Platform on Mac OS X</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/step-by-step-process-for-integrating-music-in-facebook-videos/"><u>Step-by-Step Process for Integrating Music in Facebook Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y100a-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y100A Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-silent-switch-disable-controller-jolts/"><u>The Silent Switch: Disable Controller Jolts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-10-editor-mp4-open-source-applicazioni-gratuite-per-windows-mac-e-linux/"><u>Top 10 Editor MP4 Open Source Applicazioni Gratuite per Windows, Mac E Linux</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oneplus-11-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When OnePlus 11 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

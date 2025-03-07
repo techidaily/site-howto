@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy Z Flip 5 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone
-date: 2025-02-13T07:59:16.650Z
-updated: 2025-02-17T17:40:51.665Z
+date: 2025-03-02T23:13:23.879Z
+updated: 2025-03-07T01:52:51.017Z
 tags: 
   - problems
 categories:
@@ -72,17 +72,9 @@ Step 2: You will have to provide information about your device, including the br
 
 ![android not receiving texts - provide info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Agree with the conditions and hit the Next button. The software will download the firmware package automatically. It might take a while to finish the download, and when it is finished, the repair process will be initiated automatically.
 
 ![android not receiving texts - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 It won’t take long, and your Samsung Galaxy Z Flip 5 will be repaired. Now you will be able to receive and send text messages without any hassle.
 
@@ -114,10 +106,6 @@ Step 1: Open the Settings and go to Apps. Find the Messages app from the list an
 
 ![android not receiving texts clear cache](https://images.wondershare.com/drfone/article/2019/02/clear-message-cache.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Click on the Clear Cache button and wait as the Samsung Galaxy Z Flip 5 device free up the memory of your device.
 
 Once the cache is cleared, you can also clear the data if you want to and you’ll instantly receive the text messages on your phone.
@@ -141,10 +129,6 @@ _Further Reading: [15 Best Free Chat Apps in 2022. Chat Now!](https://drfone.won
 ## Part 9: Ensure your Phone is Fully Charged
 
 Another possible fix to this problem might be your phone’s battery percentage. Sometimes, when the Android is in power saving mode, it disables the default apps too. As a result, you can't even receive text messages on Android. So, when you plug in the charger, the power saving mode will be disabled, and you will get your text messages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 10: Ensure It’s Not An iMessage From iPhone
 
@@ -213,10 +197,6 @@ Sometimes, a Samsung Galaxy Z Flip 5 3 might not turn on due to physical damage 
 **Solution:** [Check for any hardware malfunction symptoms](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html) such as [overheating](https://drfone.wondershare.com/iphone-problems/iphone-overheating-after-updating-to-ios-17.html), unusual sounds, or a burnt smell. If any such signs are evident, refrain from attempting to turn on the Samsung Galaxy Z Flip 5 device. You should seek professional assistance from authorized service centers.
 
 ![google pixel hardware malfunction](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Scenario 3. Buggy Android Smartphone
 
@@ -306,10 +286,6 @@ When an Android device experiences severe software damage, it can lead to major 
 
 ![reset settings google pixel](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Reason 2. Factory Reset as a Solution
 
 [Performing a factory reset](https://drfone.wondershare.com/reset-android/how-to-factory-reset-huawei-phone-when-locked.html) serves as the ultimate solution. This is true when facing critical software damage that leads to a non-responsive Samsung Galaxy Z Flip 5 3/4. This process erases all user data, apps, settings, and files stored on the Samsung Galaxy Z Flip 5 device, reverting it to its original factory state.
@@ -334,10 +310,6 @@ There are scenarios where a phone, like the Samsung Galaxy Z Flip 5 3, hangs or 
 
 ![reboot google pixel to safe mode](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Reason 2. Problematic App
 
 **Solution:** While in Safe Mode, observe if the Samsung Galaxy Z Flip 5 device boots up properly. If it successfully boots, it suggests that a third-party application is causing the problem. To pinpoint the problematic app, uninstall recently added apps individually and restart the Samsung Galaxy Z Flip 5 device after each removal. This process helps pinpoint the problematic app causing the hang during startup.
@@ -349,10 +321,6 @@ There are scenarios where a phone, like the Samsung Galaxy Z Flip 5 3, hangs or 
 **Solution:** If the problematic app is identified, try clearing its cache and data. Go to Settings and then access "Apps." Within "Apps," find the Problematic App and tap "Storage & cache." On the subsequent display, select "[Clear cache](https://drfone.wondershare.com/erase-android/clear-cache-android.html)" and "Clear storage" to restore the application to its original settings. After restarting the Samsung Galaxy Z Flip 5 device, verify whether the problem persists.
 
 ![clear storage and cache](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Reason 4. Outdated Application
 
@@ -440,10 +408,6 @@ A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp
 
 ![whatsapp stopping - fix component corruption](https://images.wondershare.com/drfone/article/2019/06/install-whatsapp.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Cause 4: Not Enough Storage on your Phone
 
 Insufficient storage could be the other reason why for your WhatsApp has stopped. When your device starts running out of space, some apps may not be able to operate properly for their functions take up space in the Samsung Galaxy Z Flip 5 device. And probably WhatsApp is one of them. If the space is the case with you, we suggest you the following two things to go with.
@@ -459,10 +423,6 @@ It is a well-known fact that Android device and Gmail account go hand in hand. T
 - Choose your Google account and tap on “REMOVE ACCOUNT”.
 
 ![whatsapp stopping - fix gmail account](https://images.wondershare.com/drfone/article/2019/06/log-out-gmail.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now, you can login again and check if WhatsApp works or not.
 
@@ -513,15 +473,18 @@ Now that you have decided where to download the apk file, these are the followin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-understanding-drones-their-functionality-explored/"><u>[New] In 2024, Understanding Drones Their Functionality Explored</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/44cm576o44gx44gp5yplusk44gn6imv44gn5pmc5luj44gr6kal44gb44kl77yb5pig5yop44ks44ov44kj44or44og6ako5yqg5bel44og44od44kv6kej6kqs44cn/"><u>「美しく古き良き時代に見せる！映像をフィルム風加工テック解説」</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo V27? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-nokia-c12-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia C12 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gratis-ripper-dvd-migliori-per-windows-11-trasforma-i-tuoi-dvd-in-mp4-avi-e-wmv-con-facilita/"><u>Gratis Ripper DVD Migliori per Windows 11 - Trasforma I Tuoi DVD in MP4, AVI E WMV Con Facilità!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-world-of-gopro-and-time-lapse-shooting/"><u>In 2024, Navigating the World of GoPro and Time-Lapse Shooting</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-v29e-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo V29e Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-tracks-todays-youtube-vital-views-for-2024/"><u>Trending Tracks Today's YouTube Vital Views for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-easy-tutorial-uploading-youtube-shorts-video-via-computer-and-phone/"><u>[New] 2024 Approved Easy Tutorial Uploading YouTube Shorts Video via Computer & Phone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-high-definition-streaming-wars-vmix-or-wirecast-for-2024/"><u>[Updated] High Definition Streaming Wars VMix or Wirecast for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-up-space-on-your-iphone-by-deleting-app-cache-a-step-by-step-guide/"><u>Free Up Space on Your iPhone by Deleting App Cache: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-finest-8-platforms-for-sharing-3d-text-psd-files/"><u>In 2024, The Finest 8 Platforms for Sharing 3D Text PSD Files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/iphones-best-video-editor-pick-cameo-vs-filmorago-analysis/"><u>IPhone's Best Video Editor Pick Cameo Vs. FilmoraGo Analysis</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-kinemaster-for-mac-a-step-by-step-installation-guide/"><u>New In 2024, KineMaster for Mac A Step-by-Step Installation Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/open-secrets-mechanical-keyboards-unveiled/"><u>Open Secrets: Mechanical Keyboards Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008143763-solved-monster-hunter-rise-wont-start-fixed-solution-inside/"><u>Solved: Monster Hunter Rise Won't Start – Fixed Solution Inside!</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-14-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi 14 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

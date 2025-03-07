@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Vivo S18 | Dr.fone
-date: 2025-02-15T20:27:18.927Z
-updated: 2025-02-17T21:11:10.602Z
+date: 2025-02-28T19:56:50.037Z
+updated: 2025-03-06T20:09:44.465Z
 tags: 
   - problems
 categories:
@@ -74,10 +74,6 @@ One-click solution to fix camera failed on Vivo S18 devices
 ![fixing samsung camera failed](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 When the software is done repairing the system, you will be notified. Thus, the Camera failed Vivo S18 error in your phone will be fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to fix Camera Failed error by clearing camera data?
 
@@ -165,10 +161,6 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![phone settings](https://images.wondershare.com/drfone/article/2017/07/14997069645058.jpg "phone settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Now from the list of options before you, select “Backup and reset” and move ahead.
 
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/07/14997069833129.jpg "backup and reset")
@@ -185,10 +177,6 @@ Note: You will have to set up your Vivo S18 device from scratch once it is reset
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Vivo S18 devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Reasons for Vivo S18 Stuck on Startup Screen and Ways To Fix Them
 
 There are many reasons why ****phones get stuck on the boot screen****. It could be something as simple as physical damage or more complicated related to software problems. Having your ****phone stuck on the logo**** screen, or boot screen is annoying, and it is no surprise that people will find ways to fix this issue when encountered.
@@ -204,10 +192,6 @@ It is not uncommon for **phones** to be ****stuck on the startup screen****, bu
 If you accidentally dropped your phone or knocked it on a hard surface, you could have damaged the internal hardware of your phone. This could affect your phone’s ability to reboot and result in your ****phone being stuck on the boot screen****.
 
 If you are 100% certain that your phone has gone through physical damage, you should seek professional help to have your phone repaired or checked. It is advised not to fix this problem yourself as your phone’s internal parts are complicated and delicate. Look for an official phone repair store and get your phone fixed for issues like your ****phone getting stuck on the logo.****
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Liquid Damage
 
@@ -236,10 +220,6 @@ To quickly fix any of your phone issues, especially when stuck on the startup sc
 Here is an example of performing a hard reboot for an Android phone such as Vivo S18. Preess and hold the Power and Volume Down buttons simultaneously for more than 7 seconds to perform the hard reboot.
 
 ![hard reboot of samsung](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Put your phone in recovery mode
 
@@ -321,10 +301,6 @@ A boot loop typically starts when there is a change to your system before a rebo
 
 **3,405,439** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article summarizes some of the possible reasons why your ****phone is stuck on the boot screen****. It demonstrated three useful strategies to overcome your ****phone stuck in the boot**** with ease. However, if all the above methods do not work, why not try Dr.Fone-System Repair?
@@ -374,17 +350,9 @@ Step 4: The next screen will provide instructions on how to enter “Download mo
 
 ![bricked android phone data recovery-Download Mode](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: The program will begin an analysis of your device and then download the recovery package.
 
 ![bricked android phone data recovery-download the recovery package](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 6: Then Dr.Fone will display all the recoverable file types. You can click on the files to preview them. Select the ones you need and click on "Recover to Computer" to save them to your computer.
 
@@ -396,10 +364,6 @@ Step 6: Then Dr.Fone will display all the recoverable file types. You can click 
 
 Android devices are usually very flexible in allowing users to flash ROM but sometimes an incorrect process can result in a bricked device. While there are few solutions to this problem, here are a few things you can do;
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When the Vivo S18 device Boots Straight into Recovery
 
 If the Vivo S18 device can boot to the recovery screen, you can find an alternative ROM to install and copy it your device. Installation can then be done in the recovery menu. If the Vivo S18 device is booting to recovery mode there is a chance that it can be fixed.
@@ -409,10 +373,6 @@ Step 1: Load up Clockworkmod or any other recovery tool that you have been using
 Step 2: Once you are in, navigate to the “Reboot system now.” If you are using Clockworkmod, this should be your first option. Hopefully everything will work just right if you do this, If it doesn’t you may need to download and re-flash the ROM again.
 
 ![bricked android phone data recovery-Reboot system now.](https://images.wondershare.com/drfone/others/fix-bricked-android-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When the Vivo S18 device won’t stop rebooting
 
@@ -470,21 +430,22 @@ While installing Custom ROM can actually be a great way to customize your device
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-beat-buzzers-up-and-coming-background-scores-for-yt-shorts/"><u>[New] In 2024, Beat Buzzers Up-and-Coming Background Scores For YT Shorts</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-acoustic-ambiance-in-photo-videos/"><u>[Updated] 2024 Approved Acoustic Ambiance in Photo Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-how-to-make-awesome-youtube-channel-art-ultimate-guide/"><u>[Updated] In 2024, How to Make Awesome YouTube Channel Art [Ultimate Guide ]</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-transition-from-standard-to-intelligent-hdr-imaging-for-2024/"><u>[Updated] Transition From Standard to Intelligent HDR Imaging for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-make-a-fortune-on-reddit-without-experience-top-13-methods/"><u>2024 Approved How to Make a Fortune on Reddit Without Experience - Top 13 Methods</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-proven-methods-for-youtubers-rapid-subscriber-expansion/"><u>2024 Approved Proven Methods for Youtubers' Rapid Subscriber Expansion</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-s24-ultra-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy S24 Ultra System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-infinix-hot-30-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Hot 30 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/disassembling-efficiency-a-practical-approach-to-xbox-360-slim/"><u>Disassembling Efficiency: A Practical Approach to Xbox 360 Slim</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/everything-you-need-to-know-about-the-concept-of-wi-fi-calling/"><u>Everything You Need to Know About the Concept of Wi-Fi Calling</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-poco-f5-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Poco F5 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-11-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme 11 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-narzo-60x-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme Narzo 60x 5G Device</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-pro-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 Pro 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-exclusive-screensaver-pro-for-smartphones/"><u>[Updated] In 2024, Exclusive ScreenSaver Pro for Smartphones</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-visual-prodigies-top-4k-monitors-for-cutting-edge-work-for-2024/"><u>[Updated] Visual Prodigies Top 4K Monitors for Cutting-Edge Work for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-proven-techniques-for-effective-video-transfer-ios-to-mac/"><u>2024 Approved Proven Techniques for Effective Video Transfer IOS to MAC</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nokia-xr21-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nokia XR21 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-80-pro-straight-screen-edition-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor 80 Pro Straight Screen Edition? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-m34-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy M34 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Xiaomi Civi 3 Disney 100th Anniversary Edition? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-lava-agni-2-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Lava Agni 2 5G</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-asus-rog-phone-8-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Asus ROG Phone 8 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertir-un-fichier-3gp-a-fichier-m4a-gratuitement-en-ligne-movavi-conversion/"><u>Convertir Un Fichier 3GP À Fichier M4A Gratuitement en Ligne - Movavi Conversion</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-build-a-converted-ebook-from-multiple-pdf-files-using-flipbuilder-the-perfect-guide/"><u>How to Build a Converted eBook From Multiple PDF Files Using FlipBuilder - The Perfect Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-visionary-filmmaker-blending-clips-and-chords/"><u>In 2024, Visionary Filmmaker Blending Clips & Chords</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y77t-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y77t Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-motorola-edge-40-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Motorola Edge 40 Pro FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-honor-play-40c-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor Play 40C Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

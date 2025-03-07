@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor 90 ? Fix It Easily | Dr.fone
-date: 2025-02-12T02:20:15.067Z
-updated: 2025-02-17T20:54:05.515Z
+date: 2025-03-01T16:43:27.559Z
+updated: 2025-03-07T01:42:37.219Z
 tags: 
   - problems
 categories:
@@ -32,10 +32,6 @@ Step 1: Hold down the power key and then select "Power Off" from the options on 
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
@@ -51,10 +47,6 @@ Step 4: The white Google logo will appear immediately followed by the Android lo
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-05.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
 
@@ -101,17 +93,9 @@ Ensure your device, and your computer stays connected the entire time, and make 
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
@@ -233,10 +217,6 @@ The cache memory basically stashes the copies of the concerned application. It i
 
 ![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.3 Wipe cache partition
 
 As we know the cache memories are the temporary files build by the firmware. These are of little importance as they are bound to become a bit more corrupted in nature. And sometimes, may indirectly become a hurdle for the working of contacts app. It is good if the Honor 90 device is cleared off from the caches. Instead of manually wiping down the cache memory, we will understand how to clear off the cache partition in the following steps.
@@ -248,10 +228,6 @@ As we know the cache memories are the temporary files build by the firmware. The
 5. Finally, push the “Power” key to give consent to the selection.
 
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the Honor 90 device.
 
@@ -278,10 +254,6 @@ Many a times, we skip updating our device software thinking it is of less import
 2. There, you need to tap over “Software Update”.
 
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
 
@@ -337,10 +309,6 @@ Being one of the widely used browsers, Chrome is always our rescue whenever vita
 ## Part 1: Too many tabs opened
 
 One of the main reasons why Chrome keeps crashing could be the multiple opened tabs. If you keep open the tabs, it may slow down the performance of Chrome and the app will use RAM. As a result, it will obviously get stopped midway. Therefore, we suggest you to close the tabs which are opened. And once you do that, exit the app and then launch it again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Too much memory used
 
@@ -410,10 +378,6 @@ Now, follow the steps displaying on the screen to enter the DFU mode. When you d
 
 ![download firmware and fix Chrome crashing on Android](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Repair the Issue
 
 Once the firmware is downloaded, you will notice that the repairing process will start by the program. Wait until it gets finished and try to start Chrome again and you’ll surely get rid of the problem.
@@ -430,10 +394,6 @@ While you were trying to download from internet, the file didn’t download prop
 ![fix Chrome crashing on Android by uninstalling updates](https://images.wondershare.com/drfone/article/2019/05/uninstall-updates.jpg)
 
 - Now, you need to re-install it from Play Store. From the “My Apps” section, tap on Chrome and update it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 7: Clashes between Chrome and system
 
@@ -458,24 +418,19 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-discover-8-trusted-online-content-marketing-tools-for-2024/"><u>[New] Discover 8 Trusted Online Content Marketing Tools for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-how-to-choose-between-portable-and-plugged-in-virtual-reality-whats-your-preference-wireless-or-connected/"><u>[New] How to Choose Between Portable and Plugged-In Virtual Reality What's Your Preference, Wireless or Connected?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-utilizing-fb-features-for-broadcasting-historical-video-footage-for-2024/"><u>[New] Utilizing FB Features for Broadcasting Historical Video Footage for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-complete-guide-to-drone-racing-plus-high-speed-fpv-drones/"><u>[Updated] 2024 Approved The Complete Guide to Drone Racing + High-Speed FPV Drones</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-70-lite-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor 70 Lite 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-redmi-note-12-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Redmi Note 12 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-z-fold-5-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy Z Fold 5 is off? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/digital-dollar-first-steps-in-youtubers-revenue-for-2024/"><u>Digital Dollar First Steps in YouTubers' Revenue for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/expose-hidden-components-in-windows-11-display/"><u>Expose Hidden Components in Windows 11 Display</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facesavedownloader-suite-mobile-pc/"><u>FaceSaveDownloader Suite (Mobile, PC)</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/social-snapshot-post-photosvideos-without-a-twit/"><u>Social Snapshot Post Photos/Videos without a Twit</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-free-tools-for-live-streaming-with-a-webcam-compatible-with-windows-and-macos/"><u>Top Free Tools for Live Streaming with a Webcam: Compatible with Windows & macOS</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-infinix-hot-40i-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Infinix Hot 40i Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-initial-trial-ideal-accessories-to-boost-your-gopro-footage/"><u>[New] Initial Trial Ideal Accessories to Boost Your GoPro Footage</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-insiders-guide-to-overwatch-game-recording-for-2024/"><u>[Updated] The Insider's Guide to Overwatch Game Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-snapshot-solution-effortless-iphoneipad-video-production/"><u>[Updated] The Snapshot Solution Effortless iPhone/iPad Video Production</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-infinix-note-30-vip-racing-edition-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Infinix Note 30 VIP Racing Edition Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/advanced-blk-design-suite-pro-elite-bootstrap-4-framework-by-creative-tim/"><u>Advanced BLK Design Suite Pro: Elite Bootstrap 4 Framework by Creative Tim</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ting-video-revenue-youtubes-path-for-2024/"><u>Elevating Video Revenue YouTube's Path for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c300-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C300 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-15-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 15 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-s23-tactical-edition-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy S23 Tactical Edition ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-smart-8-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Smart 8 Pro Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 

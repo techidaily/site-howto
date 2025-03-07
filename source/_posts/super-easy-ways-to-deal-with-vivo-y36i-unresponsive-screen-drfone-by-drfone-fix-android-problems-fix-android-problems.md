@@ -1,7 +1,7 @@
 ---
 title: Super Easy Ways To Deal with Vivo Y36i Unresponsive Screen | Dr.fone
-date: 2024-07-30T11:37:14.610Z
-updated: 2024-07-31T11:37:14.610Z
+date: 2025-03-03T17:03:34.436Z
+updated: 2025-03-06T18:12:43.939Z
 tags: 
   - problems
 categories:
@@ -20,30 +20,20 @@ Vivo Y36i smartphones are gaining popularity owing to their low costs, high qual
 
 Some common issues might arise for Vivo Y36i phone users. The Redmi note 4 touch not working is a serious problem. It can only go up to the initialization screen. In this guide, you'll find the information you need to troubleshoot and fix the most common problems reported by Motorola customers.
 
-
 ## **What causes a Vivo Y36i Screen to be unresponsive?**
 
 The screen on your Vivo Y36i phone could stop responding for several reasons. The touchscreen, the system software, or the hardware itself might all be at fault. To effectively address an issue, it is crucial to locate its origins.
 
 The following are some potential reasons for an unresponsive screen on a Vivo Y36i device, along with descriptions of each.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **There are signs of soft bricking**
 
 A touch screen not working on Vivo Y36i smartphones indicates a soft brick (recoverable by firmware update), often caused by a defective or undercharged battery. System file corruption, old firmware, or failed upgrades are all possible causes. Several customers have complained that after installing a software update, their Vivo Y36i 4 or 5 device's screen became unresponsive and remained at the boot logo.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **There might be issues with the Vivo Y36i device itself**
 
 Screens on Vivo Y36i devices may become unresponsive for a variety of hardware-related reasons. A broken LCD panel, faulty touch sensor, or loosened ribbon wires are all possible causes. Every Vivo Y36i device, including the Note 4 and 5, is susceptible to these problems.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **There might be errors in the updated software**
 
 The Android operating system is adjustable. Some of our technological advancements may backfire on us. The phone won't power on or become stuck in a boot loop where the logo will only show intermittently. For example, some Vivo Y36i 4 and 5 users have reported their screens are unresponsive after a software update, rendering the Vivo Y36i device unusable.
@@ -54,10 +44,6 @@ Could anything be more annoying than a broken touchscreen on your Vivo Y36i phon
 
 Before taking the item in for repairs, see if you can figure out the problem independently. Do you want to learn the method? If the touch screens on your Vivo Y36i stop working, don’t panic; we'll teach you exactly what to do.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### **Solution 1: Try to restart your device**
 
 ![restart your phone](https://images.wondershare.com/drfone/article/2023/03/reset-button-android-1.jpg)
@@ -68,9 +54,6 @@ Giving your Vivo Y36i a restart is one of the most common solutions if you encou
 
 **Step 2:** After 1 minute or so, hold the **power button** again to power on the Vivo Y36i device.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Solution 2: Check your charging port and battery**
 
 ![xiaomi battery and charger](https://images.wondershare.com/drfone/article/2023/03/charge-your-phone.jpg)
@@ -104,15 +87,8 @@ Steps to activate full screen gestures
 
 This may include gestures to get used to but it will also fix when your touchscreen sometimes stops responding.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### **Solution 5: Backup and Factory Reset is always a choice**
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset on android](https://images.wondershare.com/drfone/article/2023/03/android-factory-reset-fix.jpg)
 
 Doing a factory reset may be your last remaining choice if the preceding solutions are unsuccessful. If you do this, all of the information on your phone will be deleted.
@@ -138,13 +114,6 @@ Regularly updating the Vivo Y36i phone's software is necessary to keep it runnin
 
 Avoiding severe temperatures and humidity may protect the Vivo Y36i device's internal components and keep the screen responsive. Using high-quality charging cords is also recommended. For once, consumers won't have to worry about breaking the screen because they accidentally dropped their cell phones. If users follow these measures, they may reduce the likelihood that their Vivo Y36i smartphone will have an unresponsive screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## **Conclusion**
@@ -169,9 +138,6 @@ Well! There can be a number of reasons why this thing happens. For instance, cus
 - [Part 6: Factory reset your Android](https://drfone.wondershare.com/android-stopped/unfortunately-settings-has-stopped.html#Part6)
 - [Part 7: Check and update Android OS](https://drfone.wondershare.com/android-stopped/unfortunately-settings-has-stopped.html#Part7)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Part 1: Clear the cache of Settings and Google Play Service
 
 It is possible that the corrupted cache files are responsible for this error. Hence, as the first tip, we would like you to clear the Settings cache if that is what triggers the “Unfortunately Settings has stopped” issue. Clearing it would definitely make Settings run appropriately. And The steps to clear the cache of the Google Play Services app are similar. Here is how to clear the cache of Settings:
@@ -184,9 +150,6 @@ It is possible that the corrupted cache files are responsible for this error. He
 
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Clear the Android phone’s RAM and retry
 
 As the next tip, we would like to suggest you clear your device’s RAM by ceasing the running apps in the background. RAM, if at the increased level, is responsible for the Vivo Y36i device’s freezing, poor performance, and most probably is the reason behind crashing Settings. Also, if the apps in the background keep running, they might conflict with the Settings and stop it to perform properly. Therefore clearing RAM is important when Android Settings is not responding. Here is how to do it.
@@ -197,9 +160,6 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
 
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Uninstall the Google update
 
 Uninstalling Google Play Store updates has also responded well to many users. It has worked in the case of the “Unfortunately Settings has stopped” error. So, we would also like to suggest you use this tip if the others don’t work. Here are the steps to be followed for this.
@@ -208,16 +168,11 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 2. Now, head to all the apps and select “Google Play Store” from there.
 3. Tap on “Uninstall Updates” and restart your device to check if the crashing Settings issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
 
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Vivo Y36i, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Vivo Y36i devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -275,14 +230,8 @@ Like RAM, wiping cache is also vital so as to make the Vivo Y36i device’s oper
 4. On reaching the required option, press the “Power” button to start wiping.
 5. Once finished, click the reboot option and the Vivo Y36i device will be rebooted, fixing the issue hopefully.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding - cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 6: Factory reset your Android
 
 You can also opt for Factory resetting your device to fix the issue of Settings keeps stopping. By removing everything from the Vivo Y36i device, it will make your device run properly. If you have important data on your device, please make sure to [create a backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before taking action if you don’t want to lose it. The steps are as follows.
@@ -291,9 +240,6 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 2. Tap on “Factory data reset” followed by “Reset device”.
 3. Wait for the completion of the process and check if Settings is stopping or not after it gets rebooted.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
 ## Part 7: Check and update Android OS
@@ -306,28 +252,19 @@ A lot of times minor issues crop up due to the operating systems that get outdat
 
 ![Android settings not responding - update android firmware](https://images.wondershare.com/drfone/article/2019/04/update-samsung.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 If your Vivo Y36i shows the "Unfortunately Settings has stopped" error, don't worry. This problem can come from many things like old software or cache issues. You can try easy fixes like clearing cache or updating your system. Sometimes, removing custom ROMs might be needed.
 
 For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html). It's known for fixing many iOS problems without losing any data. Remember, a well-working device is just a few steps away!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
-
-
 
 ## How To Revive Your Bricked Vivo Y36i in Minutes
 
 Vivo Y36i has established a notable presence within the custom development arena. This trait holds for Vivo Y36i. Today, it's still one of the most popular budget smartphones available. The popular smartphone offers the freedom to flash custom ROMs, attain administrative privileges, access countless customization options, and much more.
 
 Yet, delving into these capabilities comes with its share of risks. The potential for your **Vivo Y36i to brick** is high if you don't know what you're doing. This page teaches you how to **unbrick your Vivo Y36i** if it happens.
-
 
 ## Part 1. Potential Causes of a Vivo Y36i Becoming Bricked
 
@@ -344,19 +281,12 @@ Every Android device is susceptible to experiencing a system failure that leads 
 
 When faced with a **bricked Vivo Y36i**, below are various techniques to revive it. Whether through software resets or hardware interventions, these methods can help breathe life back into your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![unbrick redmi note 9 techniques](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-02.jpg)
 
 ### Discharge the Battery
 
 A particular suggestion involves allowing the Vivo Y36i device's battery to discharge fully, enabling proper functionality of the Flash Tool software. This process typically spans a few days and is recommended by some specialists.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Perform a Factory Reset
 
 Accessing the Vivo Y36i device settings is impossible if your **Vivo Y36i bricks**. For this reason, it is recommended to enter **Recovery Mode**. Here's how.
@@ -367,27 +297,16 @@ Accessing the Vivo Y36i device settings is impossible if your **Vivo Y36i bricks
 
 - **Step 2:** The main menu will show three options: **Reboot**, **Wipe Data**, and **Connect with MIAssistant**. Choose **Reboot**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Explore Dedicated Software Tools To Fix Bricked Phones
 
 Vivo Y36i offers its official software tools, such as the Vivo Y36iFlash Tool. It's designed for advanced users familiar with flashing firmware onto their devices. Here's how.
 
 - **Step 1**: Download and install the [Vivo Y36iFlash Tool](https://xiaomiflashtool.com/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![mi flash tool main window](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-04.jpg)
 
 - **Step 2**: Download the [Stock Firmware](https://xiaomistockrom.com/category/stock-rom) of Vivo Y36i and extract it on your computer. Press and Hold the Power and Volume Down buttons for at least 5-10 seconds to enter Fastboot Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![mi flash fastboot mode](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-05.jpg)
 
 - **Step 3**: Connect your Vivo Y36i to the computer using a USB cable. Launch Vivo Y36iFlash Tool and locate the Firmware you have downloaded on the computer. Click the **refresh** > **flash** to begin the flashing process.
@@ -400,21 +319,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 However, if the Vivo Y36iFlash Tool did not unbrick your Vivo Y36i, consider using [Wondershare Dr.Fone - System Repair (Android).](https://tools.techidaily.com/wondershare/drfone/android-repair/) The platform allows you to **unbrick your Vivo Y36i** with a few clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. Reviving Your Vivo Y36i Using Wondershare Dr.Fone - System Repair (Android)
 
 Dr.Fone - System Repair (Android) equips Vivo Y36i users with the ability to tackle soft brick and hard brick issues. This specialized Android repair tool enables you to restore your Vivo Y36i through a streamlined process, requiring just a few simple clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone system repair main window](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,227,773** people have downloaded it
@@ -427,9 +337,6 @@ Dr.Fone - System Repair (Android) offers several benefits to **unbrick your Vivo
 - **Compatibility with Over 1000 Android Models**. This app fixes glitches across modern Android devices. The software is compatible with an extensive range of models. Whether your Vivo Y36i is unlocked or carrier-bound, restoration is not a problem.
 - **Unparalleled Software Flexibility**. Dr.Fone - System Repair (Android) also boasts an added capacity to mend iOS devices. This versatile tool is your all-inclusive solution for mobile devices, ensuring convenience whether you own an iOS or Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Advantage of Dr.Fone - System Repair (Android) for Unbricking Vivo Y36i
 
 Here are three benefits to choosing Dr.Fone - System Repair (Android) for **unbricking a Vivo Y36i**. You'll further believe Dr.Fone is a reliable assistant when reviving your **bricked Vivo Y36i**.
@@ -450,14 +357,8 @@ Dr.Fone - System Repair (Android) offers a free version for everyone. It allows 
 
 Dr. Fone's features are perfect for unbricking Vivo Y36i devices. Below are the procedures to restore your Vivo Y36i from its bricked state.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Repair Android System Errors without Any Trouble.
@@ -476,9 +377,6 @@ Repair Android System Errors without Any Trouble.
 
 - **Step 2**: Select the appropriate device information corresponding to your Vivo Y36i. Choose **Brand**, **Name**, **Model**, **Country**, and **Carrier**. Confirm by checking the **I agree** button, then proceed to the next step by clicking **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set up device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 3:** Given that the Vivo Y36i lacks a **Home** button, click the **Phone without Home button** option. Follow the prompts displayed on-screen and proceed by clicking **Next** to initiate the process of restoring your bricked phone.
@@ -487,9 +385,6 @@ Repair Android System Errors without Any Trouble.
 
 - **Step 4**: As your Vivo Y36i enters Download Mode, the firmware download will start automatically. Follow the on-screen instructions. Wait for the system to initiate the repair procedure automatically. Upon completion, a message will pop up on the main window. Click **Done** to exit the tool. You can click **Try again** to repeat the process if needed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![redmi note 9 finished unbricking](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 **You May Also like:**
@@ -497,15 +392,11 @@ Repair Android System Errors without Any Trouble.
 [How To Fix iPhone Bricked After iOS 17/iOS 16/iOS 15 Update](https://drfone.wondershare.com/iphone-problems/iphone-bricked-after-update.html)  
 [How to Fix It If Your Vivo Y36i Phone Got Bricked?](https://drfone.wondershare.com/android-issue/samsung-brick.html)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Don't let a **bricked Vivo Y36i** stand in your way. Use the array of techniques from basic troubleshooting to advanced software tools to breathe life back into your device. **Unbrick your Vivo Y36i** to its full functionality using the methods provided or Dr.Fone's adept assistance.
 
 Lastly, you can still refer to Vivo Y36i for repairs. It remains the primary solution in numerous cases. Utilizing your warranty can alleviate the associated costs. Seeking assistance from a specialized technician is also a viable route to consider for a thorough device assessment.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -519,7 +410,26 @@ Lastly, you can still refer to Vivo Y36i for repairs. It remains the primary sol
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlock-the-secret-to-massive-engagement-3-top-tips-for-making-powerful-two-pov-reaction-videos-on-youtube/"><u>[Updated] 2024 Approved Unlock the Secret to Massive Engagement 3 Top Tips for Making Powerful Two-POV Reaction Videos on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-fan-favorite-films-reimagined-7-replacements/"><u>[Updated] In 2024, Fan-Favorite Films Reimagined - #7 Replacements</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/boost-your-campaigns-using-cutting-edge-cookiebot-technology/"><u>Boost Your Campaigns Using Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-t2-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo T2 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-g54-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola G54 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-90-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor 90 Quickly | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-motorola-moto-g24-by-drfone-android/"><u>How to Bypass FRP from Motorola Moto G24?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-brother-hl-l2370dw-printer-drivers-step-by-step-guide-with-free-downloads/"><u>How to Upgrade Brother HL-L2370DW Printer Drivers: Step-by-Step Guide with Free Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-electronics-with-toms-insider-knowledge/"><u>Navigating the World of Electronics with Tom’s Insider Knowledge</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-advanced-editing-eliminating-audio-tracks-in-imovie-productions/"><u>New 2024 Approved Advanced Editing Eliminating Audio Tracks in iMovie Productions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211364388-9781763566132-tarot-tells/"><u>Tarot Tells | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-itel-s23plus-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Itel S23+ Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more/"><u>Unleash Creativity The Best 9 Camera Accessories for Vloggers and More</u></a></li>
+<li><a href="https://howto.techidaily.com/zte-blade-a73-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Blade A73 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+</ul></div>
 

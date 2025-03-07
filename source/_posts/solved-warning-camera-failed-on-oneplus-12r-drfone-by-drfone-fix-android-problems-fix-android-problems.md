@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on OnePlus 12R | Dr.fone
-date: 2025-02-17T09:35:41.437Z
-updated: 2025-02-17T22:19:08.696Z
+date: 2025-03-03T23:34:35.401Z
+updated: 2025-03-06T16:48:35.867Z
 tags: 
   - problems
 categories:
@@ -69,10 +69,6 @@ One-click solution to fix camera failed on OnePlus 12R devices
 
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** As soon as the firmware is downloaded, the software will automatically initiate the repair process. You will be able to see the ongoing repair.
 
 ![fixing samsung camera failed](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -113,10 +109,6 @@ Simply, follow the instructions given below to remove Apps from OnePlus 12R Devi
 
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14997067161727.jpg "uninstall app")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
 
 ## Part 5: How to fix Camera Failed error by wiping Cache Partition?
@@ -126,10 +118,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 1\. Firstly, switch off the OnePlus 12R device by pressing the power button and tapping on “Power Off” as shown in the screenshot below. Then wait for the lit screen to turn off completely before proceeding further.
 
 ![power off device](https://images.wondershare.com/drfone/article/2017/07/14997067521730.jpeg "power off device")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Now, press and hold the power on/off, home and volume up button simultaneously. Your device will now vibrate. This a signal to let go of the power button (only).
 
@@ -173,10 +161,6 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![phone settings](https://images.wondershare.com/drfone/article/2017/07/14997069645058.jpg "phone settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Now from the list of options before you, select “Backup and reset” and move ahead.
 
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/07/14997069833129.jpg "backup and reset")
@@ -192,10 +176,6 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 Note: You will have to set up your OnePlus 12R device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your OnePlus 12R devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bricked Your OnePlus 12R? Here’s A Full Solution
 
@@ -247,10 +227,6 @@ Step 5: The program will begin an analysis of your device and then download the 
 Step 6: Then Dr.Fone will display all the recoverable file types. You can click on the files to preview them. Select the ones you need and click on "Recover to Computer" to save them to your computer.
 
 ![bricked android phone data recovery-click on Recover](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <iframe width="750" height="415" src="https://www.youtube.com/embed/m12WULZ-6aA" frameborder="0" allowfullscreen=""></iframe>
 
@@ -310,10 +286,6 @@ If you are planning on installing custom ROM you need to install Custom Recovery
 
 While installing Custom ROM can actually be a great way to customize your device, it is also the leading reason for bricked devices. Therefore ensure that you understand what you are doing when you decide to customize your device. Learn as much as you can about the process before attempting everything.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7 Solutions to Fix Error Code 963 on Google Play Of OnePlus 12R
 
 People are increasingly complaining about Google Play Error Codes which pop-up during downloading, installing or updating an App via Google Play Store. Amongst these, the most recent and common one being Error Code 963.
@@ -337,10 +309,6 @@ Error 963 pop-up message reads as follows: “cannot be downloaded due to an err
 A similar message shows up even while you are trying to update an App, as shown in the screenshot below.
 
 ![can't update app](https://images.wondershare.com/drfone/article/2017/06/14984132013078.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Error Code 963 is basically an outcome of data crash which mostly is seen in cheaper smartphones. There might another reason for Error 963 preventing Apps from downloading and updating, which is Google Play Store Cache being corrupted. People also speculate SD Card related issues as many-a-times external memory enhancer chips do not support large Apps and their updates. Also, Error 963 is very common with HTC M8 and HTC M9 smartphones.
 
@@ -379,10 +347,6 @@ Step 3 – On the following screen, you need to choose the appropriate details f
 
 ![device references selected](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Phase 2: Taking Android device in Download mode for repairing**
 
 Step 1 – It is essential to get your OnePlus 12R or tablet entered in Download mode. For this, following are the steps to be taken:
@@ -392,10 +356,6 @@ If the OnePlus 12R device contains Home button:
 - Turn the OnePlus 12R device off and then keep holding the ‘Power’, ‘Volume Down’ and ‘Home’ buttons altogether for about 10 seconds. Next, release them all and push the ‘Volume Up’ key. This way, your device will enter the Download mode.
 
 ![fix google play error 963 on android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the OnePlus 12R device contains no Home button:
 
@@ -539,22 +499,19 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-fashion-memes-for-social-sharing-via-adobe-for-2024/"><u>[New] Fashion Memes for Social Sharing via Adobe for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-media-locate-your-latest-favorites-on-facebook/"><u>[New] Mastering Media Locate Your Latest Favorites on Facebook</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-ultimate-guide-to-calculate-your-youtube-views-and-money/"><u>[Updated] In 2024, Ultimate Guide to Calculate Your YouTube Views and Money.</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-accelerate-with-these-key-windows-10-tricks/"><u>2024 Approved Accelerate with These Key Windows 10 Tricks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-speedy-streams-optimizing-fb-videos-essential-extensions-and-apps-guide/"><u>2024 Approved Speedy Streams Optimizing FB Videos - Essential Extensions and Apps Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-uploading-maximum-length-videos-successfully-on-instagram/"><u>2024 Approved Uploading Maximum-Length Videos Successfully on Instagram</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-motorola-defy-2-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Motorola Defy 2? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-nokia-105-classic-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Nokia 105 Classic? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/error-4013-on-iphone-troubleshooting-tips-for-successful-updaterestore/"><u>Error 4013 on iPhone - Troubleshooting Tips for Successful Update/Restore</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solving-your-media-dilemma-why-kmplayer-cant-play-mkvmp4flv-files-and-the-fixes-you-need/"><u>Solving Your Media Dilemma - Why KMPlayer Can't Play MKV/MP4/FLV Files and The Fixes You Need</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-gt-neo-5-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme GT Neo 5 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-spark-10-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-12-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi 12 5G? Here is How | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-13c-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 13C 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-strategies-to-enhance-your-viewing-experience-on-facebook/"><u>[New] 2024 Approved Strategies to Enhance Your Viewing Experience on Facebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-power-of-personal-storytelling-in-video-content/"><u>2024 Approved The Power of Personal Storytelling in Video Content</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-x-flip-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo X Flip Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-x6-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X6 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-k70e-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi K70E to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-win11s-finest-screen-recorder-software-insights/"><u>In 2024, Win11's Finest Screen Recorder Software Insights</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-asus-rog-phone-8-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Asus ROG Phone 8 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-realme-narzo-60x-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Realme Narzo 60x 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/er-these-ten-youtube-sources-with-the-fastest-growth-rates-for-2024/"><u>Uncover These Ten YouTube Sources with the Fastest Growth Rates for 2024</u></a></li>
 </ul></div>
 

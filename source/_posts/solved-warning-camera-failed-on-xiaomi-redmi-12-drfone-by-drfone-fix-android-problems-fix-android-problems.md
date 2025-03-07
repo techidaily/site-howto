@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Xiaomi Redmi 12 | Dr.fone
-date: 2025-02-13T23:23:33.990Z
-updated: 2025-02-17T23:34:58.926Z
+date: 2025-03-01T20:31:15.681Z
+updated: 2025-03-06T16:14:16.644Z
 tags: 
   - problems
 categories:
@@ -38,17 +38,9 @@ We are all aware that no device runs smoothly, without any glitches. We also kno
 
 There might be much more reasons for the camera failed error, but these are the most obvious ones. Now let us now move on to troubleshooting the problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to fix Xiaomi Redmi 12 Camera Failed in One Click?
 
 If you are experiencing some kind of issues in your Xiaomi Redmi 12s such as Xiaomi Redmi 12 camera failed, the Xiaomi Redmi 12 device stopped working, black screen, play store not working, etc. There is a special software is designed for such kind of issues in Android devices, i.e. dr. fone. The tool enables the users to fix various kinds of issues in the Xiaomi Redmi 12 devices and perform a complete system repair so the Xiaomi Redmi 12 device starts working normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -117,10 +109,6 @@ Simply, follow the instructions given below to remove Apps from Xiaomi Redmi 12 
 
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14997067161727.jpg "uninstall app")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
 
 ## Part 5: How to fix Camera Failed error by wiping Cache Partition?
@@ -153,10 +141,6 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 ![tap on camera](https://images.wondershare.com/drfone/article/2017/07/14997068859206.jpg "tap on camera")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Then go to Camera “Settings” by tapping on the circular gear like icon.
 
 ![camera settings](https://images.wondershare.com/drfone/article/2017/07/14997069036741.jpeg "camera settings")
@@ -184,10 +168,6 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 3\. Now you must first select “Factory data reset” and then tap on “Reset Device” as shown in the screenshot below.
 
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4\. Finally, you have to click on “Erase Everything” and wait for the Xiaomi Redmi 12 device to reboot itself.
 
@@ -231,10 +211,6 @@ Issues with verifying Google accounts can restrict access to the Play Store. It 
 
 Device settings or parental controls may impose restrictions on certain app downloads. You may encounter limitations in accessing specific apps. It can affect the Xiaomi Redmi 12 device's versatility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Incorrect Date and Time Settings
 
 Inaccurate date and time settings on the Xiaomi Redmi 12 device can disrupt the Play Store's functionality. You'll face obstacles in downloading apps due to authentication errors or syncing issues. It can have a negative impact on the overall user experience.
@@ -254,10 +230,6 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,307,222** people have downloaded it
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -350,10 +322,6 @@ Device settings or parental controls might impose restrictions on certain app do
 
 ![download restrictions on android](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Restart the Xiaomi Redmi 12 device
 
 Sometimes, a simple restart can resolve various issues. Power off your device, wait a few seconds and then power it back on. This can help refresh system processes and eliminate temporary glitches.
@@ -414,10 +382,6 @@ If the above solutions don't work, contacting a professional is best. A trained 
 
 For different Xiaomi Redmi 12 models, there may be additional solutions to consider:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Check the Phone's Temperature
 
 ![realme phone temperature](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-4.jpg)
@@ -427,10 +391,6 @@ Sometimes, a Xiaomi Redmi 12 phone's screen, specifically Xiaomi Redmi 12 8 Pro,
 **Step 1:** Go to **Settings** \> **Battery** > **Battery Temperature.**
 
 **Step 2:** If the phone is overheating, let it cool down before using it again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Reset to Factory Settings
 
@@ -502,24 +462,18 @@ To deal with an unresponsive screen, users can try restarting the Xiaomi Redmi 1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mac-techniques-for-capturing-your-minecraft-adventures-for-2024/"><u>[New] Mac Techniques for Capturing Your Minecraft Adventures for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-skyrocket-your-twitter-presence-through-livestreaming/"><u>[Updated] 2024 Approved Skyrocket Your Twitter Presence Through Livestreaming</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-syncsound-pro-downloads-and-analysis/"><u>[Updated] 2024 Approved SyncSound Pro Downloads & Analysis</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-3d-video-player-for-android/"><u>[Updated] Best 3D Video Player for Android</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-carminati-ajay-mastering-the-art-and-science-of-online-income/"><u>[Updated] In 2024, Carminati (Ajay) Mastering the Art and Science of Online Income</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-spice-up-your-storytelling-the-secrets-behind-looped-videos-in-instagram-for-2024/"><u>[Updated] Spice Up Your Storytelling The Secrets Behind Looped Videos in Instagram for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-redmi-note-13-proplus-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi Redmi Note 13 Pro+ 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-s23-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy S23 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://solve-news.techidaily.com/easy-guide-how-to-download-your-favorite-songs-from-youtube-videos-as-mp3-files-using-top-video-to-audio-extractor/"><u>Easy Guide: How to Download Your Favorite Songs From YouTube Videos as MP3 Files Using Top Video-to-Audio Extractor</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-google-pixel-7a-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Google Pixel 7a Phone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y56-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y56 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleash-the-full-potential-of-your-xbox-series-x-with-ideal-displays/"><u>Unleash The Full Potential of Your Xbox Series X with Ideal Displays</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/k-content-insights-7-premier-free-tag-extraction-tools/"><u>Unlock Content Insights 7 Premier Free Tag Extraction Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-x50iplus-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor X50i+? Here is How | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-v30-lite-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo V30 Lite 5G Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oppo-find-x7-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Find X7 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-xcover-7-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy XCover 7 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-youtube-shorts-description-everything-you-need-to-know/"><u>[Updated] YouTube Shorts Description Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtubes-monetization-milestone-500-subscribers-achieved/"><u>[Updated] YouTube's Monetization Milestone 500 Subscribers Achieved</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-amplify-your-voice-expert-insights-on-podcast-editing-in-garageband/"><u>2024 Approved Amplify Your Voice Expert Insights on Podcast Editing in GarageBand</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/comment-recuperer-des-fichiers-perdus-dans-windows-server-2012-r2/"><u>Comment Récupérer Des Fichiers Perdus Dans Windows Server 2012 R2</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-windows-canary-a-guide-for-first-timers/"><u>Exploring Windows Canary: A Guide for First-Timers</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-note-12-4g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi Note 12 4G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-essential-techniques-in-producing-persuasive-video-testimonials/"><u>In 2024, Essential Techniques in Producing Persuasive Video Testimonials</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-poco-c55-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Poco C55 ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
 

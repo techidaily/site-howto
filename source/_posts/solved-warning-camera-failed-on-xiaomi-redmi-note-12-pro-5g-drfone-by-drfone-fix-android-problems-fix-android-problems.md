@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Xiaomi Redmi Note 12 Pro 5G | Dr.fone
-date: 2025-02-11T21:25:34.774Z
-updated: 2025-02-17T22:05:27.194Z
+date: 2025-03-05T01:20:45.118Z
+updated: 2025-03-06T19:33:36.942Z
 tags: 
   - problems
 categories:
@@ -38,17 +38,9 @@ We are all aware that no device runs smoothly, without any glitches. We also kno
 
 There might be much more reasons for the camera failed error, but these are the most obvious ones. Now let us now move on to troubleshooting the problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to fix Xiaomi Redmi Note 12 Pro 5G Camera Failed in One Click?
 
 If you are experiencing some kind of issues in your Xiaomi Redmi Note 12 Pro 5Gs such as Xiaomi Redmi Note 12 Pro 5G camera failed, the Xiaomi Redmi Note 12 Pro 5G device stopped working, black screen, play store not working, etc. There is a special software is designed for such kind of issues in Android devices, i.e. dr. fone. The tool enables the users to fix various kinds of issues in the Xiaomi Redmi Note 12 Pro 5G devices and perform a complete system repair so the Xiaomi Redmi Note 12 Pro 5G device starts working normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -130,10 +122,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 2\. Now, press and hold the power on/off, home and volume up button simultaneously. Your device will now vibrate. This a signal to let go of the power button (only).
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14997067742072.jpg "boot in recovery mode")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Once the Recovery Screen appears, leave all buttons and use the volume down key till you reach “Wipe Cache Partition”.
 
@@ -306,10 +294,6 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - launch gbwhatsapp](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Simply proceed with entering your name, country and contact number. The app will verify your account. You are now ready to use this app.
 
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
@@ -368,10 +352,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ****Step 2:**** When the Xiaomi Redmi Note 12 Pro 5G device turns off, wait a few seconds.
 
 ****Step 3:**** Press and hold the “Power” button to restart the Xiaomi Redmi Note 12 Pro 5G device.
@@ -408,15 +388,7 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Reset Device to Factory Settings
 
@@ -429,10 +401,6 @@ Resetting your device to its factory settings will return it to its state when y
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -462,10 +430,6 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
@@ -481,10 +445,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **For a device that lacks a Home button:**
 
@@ -553,19 +513,21 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-implementing-seamless-audio-diminishment/"><u>[New] Implementing Seamless Audio Diminishment</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-8-cameras-transforming-online-broadcasting/"><u>[New] Innovative 8 Cameras Transforming Online Broadcasting</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nsightful-analysis-the-impact-and-mechanics-of-youtubes-shorts-fund-for-2024/"><u>[New] Insightful Analysis The Impact and Mechanics of YouTube's Shorts Fund for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725287233373-winx/"><u>【セキュリティ保証】WinXメディアトランス公式購入サイト - 完全無料の安心買い方</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nokia-xr21-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nokia XR21 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-video-to-image-how-to-convert-videos-to-photos/"><u>New 2024 Approved Video to Image How to Convert Videos to Photos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-controller-malfunctions-fast-troubleshoot-and-resolve-issually/"><u>Stop Controller Malfunctions Fast - Troubleshoot and Resolve Issually</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-lava-storm-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Lava Storm 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-quartet-of-social-media-understanding-facebook-twitter-instagram-and-youtube-dynamics/"><u>The Powerhouse Quartet of Social Media: Understanding Facebook, Twitter, Instagram & YouTube Dynamics</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-stylus-tablets-comprehensive-reviews-by-industry-experts-techradar/"><u>Top-Rated Stylus Tablets : Comprehensive Reviews by Industry Experts | TechRadar</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-building-confidence-against-youtube-critiques/"><u>[New] Building Confidence Against YouTube Critiques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/op-tier-video-transcription-aid-automated-in-2024/"><u>[New] Top-Tier Video Transcription Aid, Automated, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-block-spotifys-predicted-podcast-selections-for-2024/"><u>[Updated] How to Block Spotify's Predicted Podcast Selections for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-navigating-to-facebook-video-streams-on-your-apple-tv/"><u>[Updated] In 2024, Navigating to Facebook Video Streams on Your Apple TV</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-lure-inducing-title-engineer/"><u>[Updated] Lure-Inducing Title Engineer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-90-lite-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor 90 Lite Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-itel-a70-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Itel A70 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/asian-language-phenomena-prime-rankings-unveiled/"><u>Asian Language Phenomena: Prime Rankings Unveiled</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-zte-nubia-flip-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on ZTE Nubia Flip 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-6s-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 6s Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-redmi-note-13-proplus-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Redmi Note 13 Pro+ 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

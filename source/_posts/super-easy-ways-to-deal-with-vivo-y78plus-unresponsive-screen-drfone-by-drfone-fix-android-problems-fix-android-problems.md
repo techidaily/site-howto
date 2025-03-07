@@ -1,7 +1,7 @@
 ---
 title: Super Easy Ways To Deal with Vivo Y78+ Unresponsive Screen | Dr.fone
-date: 2024-07-30T11:37:21.013Z
-updated: 2024-07-31T11:37:21.014Z
+date: 2025-02-27T18:36:54.705Z
+updated: 2025-03-06T18:55:31.993Z
 tags: 
   - problems
 categories:
@@ -20,7 +20,6 @@ Vivo Y78+ smartphones are gaining popularity owing to their low costs, high qual
 
 Some common issues might arise for Vivo Y78+ phone users. The Redmi note 4 touch not working is a serious problem. It can only go up to the initialization screen. In this guide, you'll find the information you need to troubleshoot and fix the most common problems reported by Motorola customers.
 
-
 ## **What causes a Vivo Y78+ Screen to be unresponsive?**
 
 The screen on your Vivo Y78+ phone could stop responding for several reasons. The touchscreen, the system software, or the hardware itself might all be at fault. To effectively address an issue, it is crucial to locate its origins.
@@ -35,9 +34,6 @@ A touch screen not working on Vivo Y78+ smartphones indicates a soft brick (reco
 
 Screens on Vivo Y78+ devices may become unresponsive for a variety of hardware-related reasons. A broken LCD panel, faulty touch sensor, or loosened ribbon wires are all possible causes. Every Vivo Y78+ device, including the Note 4 and 5, is susceptible to these problems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### **There might be errors in the updated software**
 
 The Android operating system is adjustable. Some of our technological advancements may backfire on us. The phone won't power on or become stuck in a boot loop where the logo will only show intermittently. For example, some Vivo Y78+ 4 and 5 users have reported their screens are unresponsive after a software update, rendering the Vivo Y78+ device unusable.
@@ -60,10 +56,6 @@ Giving your Vivo Y78+ a restart is one of the most common solutions if you encou
 
 ### **Solution 2: Check your charging port and battery**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![xiaomi battery and charger](https://images.wondershare.com/drfone/article/2023/03/charge-your-phone.jpg)
 
 If the battery of your Vivo Y78+ is empty, your screen is expected to be unresponsive. To fix that, here are some easy steps for you:
@@ -73,14 +65,8 @@ If the battery of your Vivo Y78+ is empty, your screen is expected to be unrespo
 3. Come back to check. Turn your phone on.
 4. Test if the touchscreen is now working.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Solution 3: Contact Customer Service**
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![xiaomi contact customer service](https://images.wondershare.com/drfone/article/2023/03/xiaomi-customer-service-1.jpg)
 
 Let's assume you've applied every possible course of action. For example, your Vivo Y78+ 4 touchscreen is still unresponsive. You may contact the brand's customer support department if you need assistance. When the time comes, they'll always know what to do.
@@ -89,9 +75,6 @@ Based on the customer’s feedback, one of the frequent issues of the Vivo Y78+ 
 
 ### **Solution 4: Turning on your full screen option offered by MI**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![full screen options](https://images.wondershare.com/drfone/article/2023/03/xiaomi-full-screen-gestures-menu.jpg)
 
 Steps to activate full screen gestures
@@ -119,9 +102,6 @@ Doing a factory reset may be your last remaining choice if the preceding solutio
 
 ### **Solution 6: Using Dr. Fone Android Repair Toolkit**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr fone system repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 If you want to fix issues like this, most simply, Dr. Fone offers that. It is made to provide you with a complete mobile solution. You may have your phone fixed without losing any information. Dr. Fone's many handy tools will quickly get your phone back in working order.
@@ -134,25 +114,14 @@ Regularly updating the Vivo Y78+ phone's software is necessary to keep it runnin
 
 Avoiding severe temperatures and humidity may protect the Vivo Y78+ device's internal components and keep the screen responsive. Using high-quality charging cords is also recommended. For once, consumers won't have to worry about breaking the screen because they accidentally dropped their cell phones. If users follow these measures, they may reduce the likelihood that their Vivo Y78+ smartphone will have an unresponsive screen.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Conclusion**
 
 Sometimes, Vivo Y78+ smartphones may experience problems with their screen. This occurs if there is an issue with the functioning of a new app or a software update. Several Vivo Y78+ phone owners have reported problems with an unresponsive screen. However, the remedies outlined here should help you quickly and efficiently fix the issue and get your phone back up and running. Keep your phone updated, and remember to back up your data often to avoid this problem in the future.
 
 When following the directions, the user may require more research into some troubleshooting techniques. If this is the case, Dr.Fone Repair is usually the solution. The fact that Dr. Fone can continually tweak his system of unresponsive screens is wonderful news. This helpful tool can fix both black screens and endless starting cycles. That's why it's an integral part of every modern computer.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## How to Fix Android.Process.Media Has Stopped on Vivo Y78+
 
 Like any other technological system, Android is not without its fair share of problems. One of the most common issues that Android users face is the android.process.media error. If you have encountered this problem lately, you don’t need to worry, this article will clearly explain what exactly causes this error and how to fix it safely.
@@ -169,18 +138,10 @@ There are several reasons why this error can occur repeatedly and it is worth no
 - 4\. Restoring apps via a Titanium backup is also a major cause
 - 5\. Failure of certain apps such as the download manager and the media storage
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Part 2. Back up your Android Data First
 
 It is always a good idea to back up your data especially before embarking on any attempt to fix any problem with your device. This way you will always have your data with you just in case something goes wrong and you lose all your data. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) will help you easily back up your Vivo Y78+. The application will allow you to back up your device with a few clicks and you can restore what you want from your backup .
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexibly Back up and Restore Android Data
@@ -204,9 +165,6 @@ Step 2. Connect your device
 
 Then connect your Vivo Y78+ to the computer and make sure that it can be recognized by your computer. Then click on "My Backup" on Dr.Fone.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Android. Process. Media - recognize phone](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 Step 3. Begin to backup
@@ -221,9 +179,6 @@ When your device is displayed on the window of the program, click "Back Up Now "
 
 With a full backup of your Vivo Y78+, you can now embark on a mission to fix the error. There are several methods to clear this error. We have outlined three of the most effective solutions here.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Ensure app and system updates
 
 Updates often include patches for known issues and vulnerabilities. Ensuring that both apps and the system are up to date can resolve many potential problems.
@@ -242,9 +197,6 @@ Step 2: Access "Apps."
 
 Step 3: Tap the menu icon in the upper-right corner and select "Reset App Preferences."
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Clear the cache and data on your device
 
 Step 1: Go to Settings> Applications> Manage Applications and find the Google Services framework.
@@ -253,9 +205,6 @@ Step 2: Next, find Google Play from the same Manage Applications page.
 
 Step 3: Tap on it and then Tap on clear cache.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear crash](https://images.wondershare.com/drfone/others/android-process-media-02.jpg)
 
 Step 4: Press the back button to go back to the Google Services framework and then choose Force stop > clear cache > OK
@@ -264,9 +213,6 @@ Step 5: Next you need to open Google Play and when presented with an error, clic
 
 Step 6: Turn off the Vivo Y78+ device and then turn it back on. Go to the Google Services framework again and turn it on to see if the issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Check Google Sync & Media Storage settings
 
 Step 1: Go to Settings > Accounts and Personal> Google Sync and uncheck all the checkboxes to stop the Google Synchronization.
@@ -285,8 +231,6 @@ This Should clear the error message for good.
 
 ### Method 6: Fix the error by using a dedicated repair tool
 
-
-
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Fix Android process media has stopped issue in one click
@@ -302,30 +246,18 @@ Fix Android process media has stopped issue in one click
 
 After launching Dr.Fone, click on "System Repair" from the main window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![fix android.process.media stopping by drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Then connect your Vivo Y78+ with the correct cable and choose "Android" > click "Start".
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![select android repair to fix android.process.media stopping](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 In the Vivo Y78+ device information interface, remember to select the correct information. Then confirm the warning and click "Next".
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 To confirm the Android repair may erase all data on your device, you need to type in "000000" to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android.process.media stopping by entering code](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step 2. Repair your Vivo Y78+ in Download mode.**
@@ -342,14 +274,8 @@ It may take a while, so you could have a cup of coffee to wait for the repair pr
 
 ![android.process.media stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Method 7: Factory Reset your device
 
 If the above steps fail, you might need to perform a factory reset. A factory reset restores the Vivo Y78+ device to its initial state, which can eliminate many problems, but it will also erase all data. Ensure you back up your important data before proceeding.
@@ -360,16 +286,8 @@ If the problem persists after trying the above steps, it could be related to spe
 
 It is our hope that when faced with this fairly common error, you will not panic. This is a fairly mild issue that can easily be fixed as we have seen above.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## How To Fix Unresponsive Touch Screen on Vivo Y78+
 
 With the increase in our reliance on smartphones, having **touchscreen problems** on your device can be annoying. Sometimes, it’s even more frustrating than a physically broken screen because you don’t know where the issue is coming from.
@@ -398,23 +316,8 @@ If any of the outlined reasons above are the cause of your **touch screen malfun
 
 Some phone cases and screen protectors cause **touch problems** on your Android screen. This issue is prevalent if you recently changed your phone case or screen protector. It may be due to incompatibility, but you should remove them to see if your phone starts responding again.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android remove screen protector](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Method 2: Clean Your Android Smartphone
 
 A **touchscreen malfunctioning** can also be a sign of a dirty display. Since the screen relies on contact between your fingers and the touchpad to perform actions, this also applies to foreign particles such as dirt, debris, smudges, oil, and more. Clean your touchscreen with wipes or a soft cloth by gently wiping over the screen.
@@ -429,9 +332,6 @@ A **touchscreen malfunctioning** can also be a sign of a dirty display. Since th
 
 Performing a reboot sounds trivial with such a complicated issue. But sometimes, it’s often the most successful way to fix a **touchscreen problem** on an Android device. Restarting your Android shuts down and resets all background services, which may have led to your issue.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![android restart method](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-04.jpg)
 
 To restart your Android, press and hold the **Power** button for several seconds to switch off your phone. In other smartphones, you may need to hold down the **Power** button as well as the **Volume Down** button at the same time.
@@ -444,9 +344,6 @@ Before attempting to have your device checked for any hardware defects, you shou
 
 Performing a Factory Data Reset will erase all your data and restore your device to its factory default settings. Creating a backup before doing this step is recommended, as you will lose all your personal data once the process starts.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 6: Put Your Android into Recovery Mode
 
 If all else fails, placing your Android into Recovery Mode should be a last resort. Doing this method works similarly to the method above. You should perform this method if the screen is unresponsive and only the buttons on your Android are functional. Here’s how.
@@ -461,23 +358,14 @@ Placing your Android into **Recovery Mode** is different depending on your Andro
 
 **Step 1C**: If step 1A did not put your Android into **Recovery Mode**, press and hold the **Power** and **Volume Up** and **Down** buttons simultaneously. Continue pressing all three until the screen starts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![android recovery mode 01](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-06.jpg)
 
 **Step 2**: Use the **Volume** buttons to navigate the choices, select Wipe data/factory reset, and confirm your choice with the **Power** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![android recovery mode 02](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-07.jpg)
 
 **Step 3**: Wait for the process to complete and for your Vivo Y78+ to restart automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 7: Replace Your Android Touchscreen
 
 If doing all the earlier workarounds and fixes couldn’t resolve the **touchscreen problem,** it could be the screen itself. While replacing the touchscreen yourself is possible if you have the technical know-how, it’s still best to bring it to a professional to prevent further damage. You should have your Vivo Y78+ checked by a technician if the screen is getting weak, has water damage, or has failing screen components.
@@ -492,10 +380,6 @@ Your **phone touch problem** might not be caused by the screen, even when you ha
 
 If all the general **phone touch problems** on your Vivo Y78+ persist, you should strongly consider [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) to do the job. The program can fix all Android system issues without any required skills. Problems caused by the operating system or software, such as the black screen of death, boot loop, ghost touch, and more, are done within less than 10 minutes with the program.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ### Key Features
@@ -510,9 +394,6 @@ Wondershare Dr.Fone allows you to fix all **touchscreen problems** on your smart
 
 The program supports almost all Vivo Y78+ models and other Android devices, whether unlocked or from a carrier. Dr.Fone is equipped with all the proper firmware to flash your Vivo Y78+ with just a few clicks. In addition, it has handy on-screen instructions to help you complete the whole process with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Pros and Cons
 
 Here are the pros and cons of using Dr.Fone – System Repair (Android) to know if you’re still undecided.
@@ -547,9 +428,6 @@ Follow the step-by-step guide below to start fixing general phone screen problem
 
 Here are some FAQs you should remember when experiencing **phone touch problems**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### 1\. Does a Cracked Screen Affect Touch on an Android?
 
 If you continue using a smartphone with a cracked screen, there are several implications. Your device will be vulnerable to further damage and might develop **touchscreen problems**,and your sensors will gradually begin to malfunction. The capabilities of your device are also compromised the longer you delay repairing it. Moreover, a cracked screen can put your fingers at risk of injury due to potential glass splinters.
@@ -558,30 +436,19 @@ If you continue using a smartphone with a cracked screen, there are several impl
 
 If you can’t take your cracked screen to a repair shop, apply a small amount of vegetable oil or petroleum jelly to the screen. Doing this will not fix the issue but will make the cracks less noticeable. On the other hand, you can also apply a screen protector to safeguard your phone against further damage. The screen protector slows down or prevents the cracks from getting worse.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 3\. Can I Use Dr.Fone for Free?
 
 You can download and install Dr.Fone – System Repair (iOS) or (Android) for free to evaluate the program’s offerings. You can do the first few steps to see if the app supports your device. However, you need to get the full version and enter a valid license code to repair your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **4,471,551** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 If the **touchscreen is malfunctioning** on your smartphone, one of the fixes above should help solve the problem. If it did not solve the issue, consider using Dr. Fone – System Repair for iOS or Android when you need an all-in-one solution to all your phone screen problems.
 
 However, if your screen is broken or cracked, going to an authorized service center is still your best bet, especially when your screen urgently needs a replacement. Delaying it further may hurt your wallet in the long run, so it’s best to fix it as soon as possible.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -595,7 +462,24 @@ However, if your screen is broken or cracked, going to an authorized service cen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-navigating-the-seas-of-sponsorships-a-youtubers-playbook/"><u>[New] In 2024, Navigating the Seas of Sponsorships A Youtuber's Playbook</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-edge-2023-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola Edge 2023 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-innovation-beyond-apples-walls-why-diverse-workplaces-spark-creativity/"><u>Embracing Innovation Beyond Apple's Walls - Why Diverse Workplaces Spark Creativity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-the-ultimate-selection-of-55-inch-televisions-insights-from-zdnet/"><u>Expert Picks: The Ultimate Selection of 55-Inch Televisions - Insights From ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-xr21-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia XR21 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/malaysia-set-to-boost-tech-sector-with-2-billion-google-datacenter-and-cloud-expansion-project/"><u>Malaysia Set to Boost Tech Sector with $2 Billion Google Datacenter & Cloud Expansion Project</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/s-visibility-enhanced-issue-resolved/"><u>Shorts Visibility Enhanced – Issue Resolved</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-strategy-for-professional-gopro-filming-for-2024/"><u>The Ultimate Strategy for Professional Gopro Filming for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-lava-blaze-2-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Lava Blaze 2 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/wiidvd/"><u>Wiiを使ってDVDを視聴する方法：初めてのユーザーもわかりやすいガイド</u></a></li>
+</ul></div>
 

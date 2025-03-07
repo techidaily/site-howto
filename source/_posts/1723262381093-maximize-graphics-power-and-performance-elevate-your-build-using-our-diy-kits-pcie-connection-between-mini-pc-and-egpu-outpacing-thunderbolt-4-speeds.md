@@ -1,7 +1,7 @@
 ---
 title: Maximize Graphics Power & Performance - Elevate Your Build Using Our DIY Kit's PCIe Connection Between Mini PC and eGPU, Outpacing Thunderbolt 4 Speeds
-date: 2025-02-12T05:40:58.738Z
-updated: 2025-02-17T22:55:15.608Z
+date: 2025-02-28T23:05:18.375Z
+updated: 2025-03-06T16:09:13.228Z
 tags:
   - desktop
 categories:
@@ -31,10 +31,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,10 +45,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  The StreamPlay X is a remarkably compact eGPU, but an attractive one. It allows you to see your card through a wrap-around plastic window and it has a case fan to help cool your graphics card. The device is available with different power supply capacities: 250, 350 or 400 watts.
@@ -60,10 +52,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  At the upper end of this power envelope, you could probably run an RTX 4080\. You'd probably need an adapter as there are two 8-pin connectors, but no 16-pin. The top, which has some air holes, easily pops off to allow you to install your card.
 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -88,16 +76,22 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-beyond-wonders-the-unseen-disadvantages-in-vr/"><u>[Updated] Beyond Wonders The Unseen Disadvantages in VR</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/aquatic-adventures-unveiled-tips-on-captivating-underwater-video-with-a-gopro-for-2024/"><u>Aquatic Adventures Unveiled Tips on Captivating Underwater Video with a GoPro for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/clipboxitunes/"><u>ClipboxとiTunes同期ガイド - トラブルシューティングも詳しく</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-dos-and-donts-navigating-generative-ai-effectively-avoiding-common-errors/"><u>Essential Dos and Don'ts: Navigating Generative AI Effectively (Avoiding Common Errors)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leading-apps-for-dji-video-manipulation-and-mixing-for-2024/"><u>Leading Apps for DJi Video Manipulation and Mixing for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-gtx-960-drivers-new-release/"><u>Nvidia GTX 960 Drivers: New Release</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-creativity-an-in-depth-review-and-tutorial-for-powerdirector-2024/"><u>Unlocking Creativity An In-Depth Review & Tutorial for PowerDirector 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-lava-blaze-curve-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Lava Blaze Curve 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-an-introduction-to-simple-and-effective-hdr-methods/"><u>[Updated] An Introduction to Simple and Effective HDR Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-art-of-retracing-instagram-pictures-roots/"><u>[Updated] In 2024, The Art of Retracing Instagram Pictures' Roots</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-expert-advice-for-monitoring-and-engaging-with-fbs-video-on-apple-tv/"><u>2024 Approved Expert Advice for Monitoring and Engaging With FB's Video on Apple TV</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-lava-yuva-2-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Lava Yuva 2? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/como-convertir-archivos-wtv-a-formato-de-video-online-sin-coste-guia-inmediata-con-movavi/"><u>Cómo Convertir Archivos WTV a Formato De Vídeo Online Sin Coste: Guía Inmediata Con Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flipping-srt-to-sub-easy-conversion-techniques/"><u>In 2024, Flipping SRT to SUB Easy Conversion Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-civi-3-disney-100th-anniversary-edition-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi Civi 3 Disney 100th Anniversary Edition Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-lava-yuva-3-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Lava Yuva 3 Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unravel-the-10-best-free-iphone-image-organizers-and-designers/"><u>Unravel the 10 Best FREE iPhone Image Organizers and Designers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-fcpx-countdown-timer-in-3-simple-steps/"><u>Updated 2024 Approved FCPX Countdown Timer in 3 Simple Steps</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-note-12r-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi Note 12R Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10-at-a-crossroads-for-microsoft-just-one-year-to-turn-things-around-digitalreview/"><u>Windows 10 at a Crossroads for Microsoft - Just One Year to Turn Things Around | DigitalReview</u></a></li>
 </ul></div>
 

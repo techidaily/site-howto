@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Xiaomi Civi 3 Step-by-Step Solutions | Dr.fone
-date: 2025-02-12T10:42:23.243Z
-updated: 2025-02-18T11:35:19.421Z
+date: 2025-02-28T01:29:06.190Z
+updated: 2025-03-07T01:46:11.431Z
 tags: 
   - problems
 categories:
@@ -61,14 +61,6 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Re-enable disabled app
 
 **App icons can also disappear on the Android** home screen if you unintentionally or intentionally disable them. Certain phone models even offer a functionality known as 'Freezer,' allowing users to temporarily halt the apps. While in a frozen state, the app remains inactive and doesn't appear on the home screen until you unfrozen it.
@@ -78,10 +70,6 @@ To re-enable the disabled app, you can follow the steps here:
 - **Step 1**. Open the Apps & Notifications on the Settings.
 - **Step 2.** Select the app which icon is missing on your home screen. For example, tap the phone app if the **phone icon disappears on your Android.**
 - **Step 3:** In the App Info, tap Enable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Reset Android to factory settings
 
@@ -110,10 +98,6 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4,136,839** people have downloaded it
 
 - **Step 2.** Begin Repair
@@ -139,10 +123,6 @@ Follow the instructions to put your Xiaomi Civi 3 into Download Mode. Once you a
 Remember, the repair may erase data. It’s advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar. Once finished, click Done and see if your phone has returned to normal.
 
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **More Articles About Android System:**
 
@@ -209,10 +189,6 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 
 ![fix Wifi Authentication Error by android repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Connect your Xiaomi Civi 3 to the computer, and select "Android Repair" in the middle.
 
 ![fix Wifi Authentication Error by selecting option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -242,10 +218,6 @@ Step 3: Depending on your Xiaomi Civi 3 model, look for “IP Settings” and ta
 Step 4: Note down the static IP address fields and wipe off all the fields. Punch it in again and then save it.
 
 ![change dhcp settings of wifi](https://images.wondershare.com/drfone/article/2019/06/dhcp-static.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Check carefully for duplicate Wi-Fi names before you connect
 
@@ -411,10 +383,6 @@ Step 3: Once Dr.Fone - System Repair (Android) verifies the downloaded firmware,
 
 ![fixing App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: 3 Common fixes if a particular App won’t open
 
 In this segment, we will discuss the three best ways to help you fix the problem if only a particular App won't open/launch/ run and takes an indefinite time to load.
@@ -432,10 +400,6 @@ Follow the steps given below to update the app which won't open on your phone:
 • Now select “My Apps & Games” from the main menu.
 
 ![select “My Apps & Games](https://images.wondershare.com/drfone/article/2017/06/14984183627979.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 • In this step, you may click on “Update All” to update all Apps for which an update is available or manually select the Apps which you wish to Update.
 
@@ -472,10 +436,6 @@ Carefully follow the step-by-step instructions given below to clear all App cach
 • Now tap on “Clear Cache” and “Clear data” directly or under “Storage”.
 
 ![Clear data](https://images.wondershare.com/drfone/article/2017/06/14984585184488.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: 3 Common fix if all Apps won’t open on Android
 
@@ -545,24 +505,22 @@ So go ahead and try them out now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-easy-hdr-a-step-by-step-guide/"><u>[New] Mastering Easy HDR A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-10-secret-tips-to-better-use-canva-photo-editor/"><u>[Updated] 10 Secret Tips to Better Use Canva Photo Editor</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-dynamic-tiktok-effects-a-double-approach/"><u>[Updated] Dynamic TikTok Effects A Double Approach</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-mp3-capture-skype-calls-no-cost/"><u>2024 Approved Mastering MP3 Capture Skype Calls, No Cost</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-youtube-to-mp4-the-ultimate-guide/"><u>2024 Approved Mastering YouTube to MP4 The Ultimate Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-honor-90-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor 90 Pro? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-xiaomi-redmi-note-12r-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Xiaomi Redmi Note 12R to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-y100-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo Y100 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-redmi-note-12-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi Redmi Note 12 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/micro-videos-whats-the-gist/"><u>Micro Videos What's the Gist?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203711677-oddworld-soulstorm-pc-game-crash-no-more-discover-effective-fix-strategies-here/"><u>Oddworld: Soulstorm PC Game Crash No More? Discover Effective Fix Strategies Here!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-reactivating-the-webcam-feature-on-a-lenovo-computer/"><u>Step-by-Step Guide: Reactivating the Webcam Feature on a Lenovo Computer</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-a2plus-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi A2+ ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-tips-for-fixing-libxml2dll-not-found-errors-on-windows/"><u>The Ultimate Troubleshooting Tips for Fixing 'Libxml2.dll Not Found' Errors on Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-f54-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy F54 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-13-pro-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 13 Pro 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-obs-scheduling-mastery-implementing-a-countdown-clock/"><u>[New] 2024 Approved Obs Scheduling Mastery Implementing a Countdown Clock</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-video-recording-camstudios-total-package/"><u>[Updated] 2024 Approved Mastering Video Recording CamStudio's Total Package</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-canvas-potential-10-secrets-for-professionals/"><u>[Updated] Unlocking Canvas Potential - 10 Secrets for Professionals</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-x-fold-2-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo X Fold 2? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/hogwarts-legacy-wont-start-discover-8-key-solutions-to-get-you-gaming-again/"><u>Hogwarts Legacy Won't Start? Discover 8 Key Solutions to Get You Gaming Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-apples-tvos-18-update-boosts-speech-quality-for-a-superior-sound-on-apple-tv/"><u>How Apple's tvOS 18 Update Boosts Speech Quality for a Superior Sound on Apple TV</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-oneplus-11-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve OnePlus 11 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-doc-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .doc file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-fresh-vlog-discussion-ideas-each-day/"><u>In 2024, Fresh Vlog Discussion Ideas Each Day</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210484516-revitalize-your-laptops-charging-issues-with-these-straightforward-tips/"><u>Revitalize Your Laptop's Charging Issues with These Straightforward Tips!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-and-overcome-ps4-freezing-issues-with-easy-steps/"><u>Troubleshoot and Overcome PS4 Freezing Issues with Easy Steps</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-nubia-red-magic-9-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Nubia Red Magic 9 Pro Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-s17-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo S17 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

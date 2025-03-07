@@ -1,7 +1,7 @@
 ---
 title: Super Easy Ways To Deal with Vivo S18e Unresponsive Screen | Dr.fone
-date: 2024-07-30T11:36:33.281Z
-updated: 2024-07-31T11:36:33.281Z
+date: 2025-02-28T18:23:41.391Z
+updated: 2025-03-06T21:58:06.729Z
 tags: 
   - problems
 categories:
@@ -20,19 +20,12 @@ Vivo S18e smartphones are gaining popularity owing to their low costs, high qual
 
 Some common issues might arise for Vivo S18e phone users. The Redmi note 4 touch not working is a serious problem. It can only go up to the initialization screen. In this guide, you'll find the information you need to troubleshoot and fix the most common problems reported by Motorola customers.
 
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **What causes a Vivo S18e Screen to be unresponsive?**
 
 The screen on your Vivo S18e phone could stop responding for several reasons. The touchscreen, the system software, or the hardware itself might all be at fault. To effectively address an issue, it is crucial to locate its origins.
 
 The following are some potential reasons for an unresponsive screen on a Vivo S18e device, along with descriptions of each.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **There are signs of soft bricking**
 
 A touch screen not working on Vivo S18e smartphones indicates a soft brick (recoverable by firmware update), often caused by a defective or undercharged battery. System file corruption, old firmware, or failed upgrades are all possible causes. Several customers have complained that after installing a software update, their Vivo S18e 4 or 5 device's screen became unresponsive and remained at the boot logo.
@@ -51,9 +44,6 @@ Could anything be more annoying than a broken touchscreen on your Vivo S18e phon
 
 Before taking the item in for repairs, see if you can figure out the problem independently. Do you want to learn the method? If the touch screens on your Vivo S18e stop working, don’t panic; we'll teach you exactly what to do.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Solution 1: Try to restart your device**
 
 ![restart your phone](https://images.wondershare.com/drfone/article/2023/03/reset-button-android-1.jpg)
@@ -64,10 +54,6 @@ Giving your Vivo S18e a restart is one of the most common solutions if you encou
 
 **Step 2:** After 1 minute or so, hold the **power button** again to power on the Vivo S18e device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### **Solution 2: Check your charging port and battery**
 
 ![xiaomi battery and charger](https://images.wondershare.com/drfone/article/2023/03/charge-your-phone.jpg)
@@ -79,9 +65,6 @@ If the battery of your Vivo S18e is empty, your screen is expected to be unrespo
 3. Come back to check. Turn your phone on.
 4. Test if the touchscreen is now working.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Solution 3: Contact Customer Service**
 
 ![xiaomi contact customer service](https://images.wondershare.com/drfone/article/2023/03/xiaomi-customer-service-1.jpg)
@@ -92,9 +75,6 @@ Based on the customer’s feedback, one of the frequent issues of the Vivo S18e 
 
 ### **Solution 4: Turning on your full screen option offered by MI**
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![full screen options](https://images.wondershare.com/drfone/article/2023/03/xiaomi-full-screen-gestures-menu.jpg)
 
 Steps to activate full screen gestures
@@ -107,14 +87,8 @@ Steps to activate full screen gestures
 
 This may include gestures to get used to but it will also fix when your touchscreen sometimes stops responding.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### **Solution 5: Backup and Factory Reset is always a choice**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset on android](https://images.wondershare.com/drfone/article/2023/03/android-factory-reset-fix.jpg)
 
 Doing a factory reset may be your last remaining choice if the preceding solutions are unsuccessful. If you do this, all of the information on your phone will be deleted.
@@ -142,32 +116,20 @@ Avoiding severe temperatures and humidity may protect the Vivo S18e device's int
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Conclusion**
 
 Sometimes, Vivo S18e smartphones may experience problems with their screen. This occurs if there is an issue with the functioning of a new app or a software update. Several Vivo S18e phone owners have reported problems with an unresponsive screen. However, the remedies outlined here should help you quickly and efficiently fix the issue and get your phone back up and running. Keep your phone updated, and remember to back up your data often to avoid this problem in the future.
 
 When following the directions, the user may require more research into some troubleshooting techniques. If this is the case, Dr.Fone Repair is usually the solution. The fact that Dr. Fone can continually tweak his system of unresponsive screens is wonderful news. This helpful tool can fix both black screens and endless starting cycles. That's why it's an integral part of every modern computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How To Deal With the Vivo S18e Screen Black But Still Works?
 
 With the advance of technology over the years, many of us rely on smartphones to communicate, work, and play. As such, it can be pretty concerning when your device begins to act strange like your **phone screen suddenly went blank**.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![phone screen is black but still works intro](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-01.jpg)
 
 Whether you’re using an iPhone or an Android device, you’ll eventually encounter a problematic symptom like this. Therefore, this article will explore **what to do when your phone screen goes black**. After exploring below, you’ll learn the common causes of why your **phone screen went black** and how to fix it. Read on below to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why Did My Vivo S18e Screen Go Black but Still Works? Common Causes
 
 Experiencing a **cell phone blank screen** is not exclusive to Android or iOS users. A **phone screen not turning on** happens all the time due to several factors that may or may not be out of your control. While they can be frustrating, here are some common causes you should know as to why **your phone screen went black but still works.**
@@ -178,9 +140,6 @@ The first thing that comes to mind when your **phone screen suddenly goes black*
 
 ![drained iphone battery](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### App Troubles
 
 If your **phone is working, but the screen is black,** there’s also a high probability that you are having an isolated issue with a particular application. An app could be loading something, which often happens for streaming apps such as YouTube, Netflix, Prime, and more, especially if you have slow internet connectivity.
@@ -189,9 +148,6 @@ If your **phone is working, but the screen is black,** there’s also a high pro
 
 A potential reason why **your phone screen went black but still works** could be because of your smartphone’s software. This problem suggests that your Vivo S18e is crashing, potentially freezing your device if not addressed immediately. If this is the cause, then your device is likely experiencing a critical system error, and you should directly try to reboot your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Hardware Problem
 
 If you dropped your phone, there’s a high chance the LCD connectors went loose due to the physical impact. If this happened to you, the phone might be working, but the screen is black due to the LCD cable dislodging. Another issue could be your phone got exposed to extreme temperatures. This can also cause a **black screen but your phone is still on.**
@@ -212,9 +168,6 @@ Here is how you force restart an Android device when your **phone screen doesn�
 
 **Step 1**: Press and hold the **Power** and **Volume Down** buttons simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![force restart android device](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-04.jpg)
 
 **Step 2**: Hold the same buttons until your device restarts, and display the phone’s logo.
@@ -237,9 +190,6 @@ If you own an iPhone 7, press and hold the **Side** button and **Volume Down** 
 
 In some cases, your **phone screen is black but still works** because of installing incompatible apps on your iOS/Android device. If the installed app is frequently crashing, it may be the source of a blank cell phone **screen.** Uninstall the problem app to see if the black screen disappears or not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Inspect the LCD Connectors
 
 If **your phone screen goes black but still works,** you should inspect the logic board to the LCD screen to see if it has become disconnected. It is common for smartphones that often get dropped a few times. It’s best to plug the connectors back to regain your screen’s functionality.
@@ -266,9 +216,6 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 **Step 1C**: Press and hold the **Power** button as well as the **Volume Up** and **Volume Down** buttons simultaneously and continue holding until the screen starts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![android recovery mode 01](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-06.jpg)
 
 **Step 2**: Use the **Volume** buttons to navigate the choices and select **Wipe data/factory reset** and confirm your choice with the **Power** button.
@@ -283,9 +230,6 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 **Step 2:** Next, choose **Erase All Content and Settings**. Check the list of items you want to remove.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios erase all content and settings](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-08.jpg)
 
 **Step 3:** Tap **Continue** and enter your iPhone passcode. A message warns you that the process will delete all media and data and reset all settings.
@@ -296,9 +240,6 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 If **your phone screen went black but still works** and doing the methods above did not solve the issue, you can use Wondershare Dr.Fone for [<u>iOS</u>](https://drfone.wondershare.com/ios-system-repair.html) and [<u>Android</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) as a last resort. It’s one of the most popular smartphone repair tools today, enabling you to fix all kinds of annoying scenarios. These include black screen, boot loop, white screen of death, bricked iOS or Android device, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![drfone system repair main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ### Key Features
@@ -313,18 +254,6 @@ Dr.Fone – System Repair can fix all kinds of issues on your Android/iOS, such 
 
 All iOS versions, including the latest iOS 16 and iOS 16 beta, are fully supported by Dr.Fone – System Repair. The app handles all your smartphone issues without data loss to secure your info. On the other hand, if you own an Android, the app supports up to 1000+ Android smartphones, making it highly versatile for Android owners.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tech Specs
 
 Dr.Fone – System Repair (Android)’s minimum system requirements for your computer are listed below.
@@ -354,9 +283,6 @@ If you’re still undecided about Dr.Fone – System Repair, here are its pros a
 - Each version for each OS is sold separately.
 - The free version works up to your device’s compatibility. Once you start the repair process, the app will ask you for a valid license key.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Fix Black Phone Screen With Dr.Fone – System Repair
 
 Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Android.
@@ -369,9 +295,6 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 **Step 2B (For Android)**: Click **Start.** On the next window, choose the **Brand, Name, Model, Country,** and **Carrier** of your smartphone, then click **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step 3**: Follow the on-screen instructions provided on the main program window and wait for the repair process to complete.
@@ -382,37 +305,22 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 **4,262,204** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Our increasing reliance on smartphones has led to amazing advancements in new technologies. However, lingering issues such as your **phone screen not turning on** or your **phone screen being black but still working** are ongoing problems to many. That’s why learning how to prevent these events is essential to take care of your smartphone.
 
 Doing all the recommended methods above usually solves the case. If the different fixes don’t work for you, Dr.Fone – System Repair for iOS and Android can help resolve all your problems within less than 10 minutes. You can download it for free on Windows and Mac to test it yourself.
 
-
-
 ## Why Your Vivo S18e Screen Might be Unresponsive and How to Fix It
 
 This article aims to provide practical solutions for troubleshooting an **unresponsive Vivo S18e screen**. Whether you're facing a software glitch or hardware damage, this guide will offer useful tips and tricks to help you resolve the issue and get your device back up and running smoothly.
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 5 Solutions to Solve Vivo S18e Screen Unresponsive Issues
 
 An unresponsive Vivo S18e screen can be frustrating, but several potential solutions can help. This article will explore five methods for troubleshooting an unresponsive Vivo S18e screen. From force restarting your device to contacting customer service, we'll cover everything you need to know to get your device back up and running.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Force Restart
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![force restart oppo device](https://images.wondershare.com/drfone/article/2023/03/oppo-a3s-touch-not-working-1.jpg)
 
 If your Vivo S18e screen is unresponsive, the first thing to try is a force restart. This can help refresh the system and clear any temporary files causing the issue.
@@ -423,14 +331,8 @@ If your Vivo S18e screen is unresponsive, the first thing to try is a force rest
 
 **Step 3**. **Hold** the power button if the screen is completely unresponsive until the Vivo S18e device shuts down. Then, **press** and **hold** the power button to turn the Vivo S18e device back on.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Drain the Battery Completely
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![drain the battery of oppo device](https://images.wondershare.com/drfone/article/2023/03/oppo-a3s-touch-not-working-2.jpg)
 
 If force restarting doesn't work, let the battery drain completely. This can help reset the Vivo S18e device and clear any temporary files or processes causing the issue.
@@ -439,9 +341,6 @@ If force restarting doesn't work, let the battery drain completely. This can hel
 
 **Step 2. Connect** your device to a power source and **turn it** back on.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Check for Software Updates
 
 ![software update of oppo device](https://images.wondershare.com/drfone/article/2023/03/oppo-a3s-touch-not-working-3.jpg)
@@ -456,17 +355,10 @@ Sometimes, an unresponsive Vivo S18e screen can be caused by outdated software. 
 
 ### 4\. Using Dr. Fone Repair
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![dr fone system repair feature](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Dr. Fone Repair is a professional tool that can help fix a wide range of software issues on your Vivo S18e device. Dr. Fone Repair can be a good option to protect your data and files while troubleshooting an unresponsive Vivo S18e screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **Step 1. Download and install** Dr. Fone Repair software on your computer.
@@ -523,7 +415,6 @@ Vivo S18e Screen unresponsiveness can be a frustrating issue to deal with, but t
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -536,7 +427,20 @@ Vivo S18e Screen unresponsiveness can be a frustrating issue to deal with, but t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/1715859639368-new-2023s-best-screen-recorder-discover-with-camstudio/"><u>[New] 2023'S Best Screen Recorder? Discover with CamStudio!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-resident-evil-village-audio-issues/"><u>[Solved] Resident Evil Village Audio Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vanguard-20-top-anime-song-starters/"><u>[Updated] Vanguard 20 Top Anime Song Starters</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-poco-x5-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Poco X5 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/impatient-for-ai-conversation-at-your-fingertips-check-out-these-fantastic-open-source-chatbots/"><u>Impatient for AI Conversation at Your Fingertips? Check Out These Fantastic Open Source Chatbots</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/one-finger-technique-for-quickly-expanding-views-in-google-maps-for-better-navigation/"><u>One-Finger Technique for Quickly Expanding Views in Google Maps for Better Navigation</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-camon-30-pro-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Camon 30 Pro 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nokia-c210-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nokia C210? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

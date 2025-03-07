@@ -1,7 +1,7 @@
 ---
 title: Revolutionary 'U'-Formed Chinese PC, Enhanced by Additional External PCIe Slot Support
-date: 2025-02-17T12:35:37.756Z
-updated: 2025-02-18T10:19:27.457Z
+date: 2025-03-04T22:58:40.311Z
+updated: 2025-03-06T20:14:22.472Z
 tags:
   - desktop
 categories:
@@ -31,10 +31,6 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -60,19 +56,18 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-audio-treasures-to-amplify-youtube/"><u>[New] 2024 Approved Free Audio Treasures to Amplify YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-can-you-stream-a-pre-recorded-video-live-on-facebook/"><u>[New] 2024 Approved How Can You Stream A Pre-Recorded Video Live on Facebook?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ix-mastery-choosing-top-dj-videos-for-events-for-2024/"><u>[New] Mix Mastery Choosing Top DJ Videos for Events for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-simulate-hand-held-camera-effects-in-photoshop/"><u>[New] Simulate Hand-Held Camera Effects in Photoshop</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-v29e-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo V29e Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-lava-blaze-2-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Lava Blaze 2 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-the-perfect-iphone-for-mobile-game-lovers/"><u>Choosing the Perfect iPhone for Mobile Game Lovers</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-the-pros-handbook-to-perfecting-your-gopro-studio-project/"><u>In 2024, The Pro's Handbook to Perfecting Your GoPro Studio Project</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-minds-and-their-stance-on-ai-evolution/"><u>Leading Minds and Their Stance on AI Evolution</u></a></li>
-<li><a href="https://win-blog.techidaily.com/left-4-dead-2-game-crashes-diagnosed-and-fixed-comprehensive-solutions-provided/"><u>Left 4 Dead 2 Game Crashes - Diagnosed & Fixed: Comprehensive Solutions Provided</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-12plus-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme 12+ 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-xsplit-source-centralized-game-downloads-and-insights/"><u>[Updated] 2024 Approved XSplit Source Centralized Game Downloads & Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximizing-health-outreach-via-fb-advertising/"><u>[Updated] Maximizing Health Outreach via FB Advertising</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-s18e-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo S18e System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/apple-music-and-video-harmony-explained/"><u>Apple Music and Video Harmony Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y100a-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y100A Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-f54-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy F54 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-downloading-and-updating-toshibas-dynabook-printerscanner-drivers-on-windows-pcs/"><u>Easy Guide: Downloading & Updating Toshiba's Dynabook Printer/Scanner Drivers on Windows PCs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6s Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-media-locate-your-latest-favorites-on-facebook/"><u>In 2024, Mastering Media Locate Your Latest Favorites on Facebook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/outdoor-tech-battle-gopro-vs-garmin-for-2024/"><u>Outdoor Tech Battle GoPro Vs. Garmin for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nokia-130-music-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nokia 130 Music Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-11winx-dvd-mp4-dvd/"><u>Windows 11用フリーのWinX DVD からMP4への高速コンバータ -簡単なDVD変換ツール</u></a></li>
 </ul></div>
 

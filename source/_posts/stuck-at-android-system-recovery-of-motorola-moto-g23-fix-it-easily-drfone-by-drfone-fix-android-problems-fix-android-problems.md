@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Motorola Moto G23 ? Fix It Easily | Dr.fone
-date: 2025-02-15T22:48:07.936Z
-updated: 2025-02-18T09:53:36.382Z
+date: 2025-03-05T19:02:41.289Z
+updated: 2025-03-06T19:44:24.903Z
 tags: 
   - problems
 categories:
@@ -32,10 +32,6 @@ Step 1: Hold down the power key and then select "Power Off" from the options on 
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
@@ -51,10 +47,6 @@ Step 4: The white Google logo will appear immediately followed by the Android lo
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-05.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
 
@@ -100,10 +92,6 @@ Your device should already be in this mode but follow the instructions to make s
 Ensure your device, and your computer stays connected the entire time, and make sure your internet connection remains stable.
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
@@ -202,19 +190,11 @@ Step 6: Then Dr.Fone will display all the recoverable file types. You can click 
 
 ![bricked android phone data recovery-click on Recover](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <iframe width="750" height="415" src="https://www.youtube.com/embed/m12WULZ-6aA" frameborder="0" allowfullscreen=""></iframe>
 
 ## Part 2: How to Fix Your Bricked Android Phone
 
 Android devices are usually very flexible in allowing users to flash ROM but sometimes an incorrect process can result in a bricked device. While there are few solutions to this problem, here are a few things you can do;
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When the Motorola Moto G23 device Boots Straight into Recovery
 
@@ -268,19 +248,11 @@ If you are planning on installing custom ROM you need to install Custom Recovery
 
 While installing Custom ROM can actually be a great way to customize your device, it is also the leading reason for bricked devices. Therefore ensure that you understand what you are doing when you decide to customize your device. Learn as much as you can about the process before attempting everything.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Motorola Moto G23
 
 The revolutionized world is about the internet, online life, and social media. You can get all the information you need from the internet. You are a click away from booking tickets, buying groceries, calling your loved ones, or even you can handle office meetings with the internet.
 
 ![fix wifi keep disconnecting android](https://images.wondershare.com/drfone/article/2023/08/why-does-my-phone-keep-disconnecting-from-wifi.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Since everything revolves around the internet, it's annoying if your WI-FI disconnects. You might question yourself **why does my Wi-Fi keep disconnecting from the phone**? To know the answer, read the article below.
 
@@ -326,10 +298,6 @@ If the Wi-Fi keeps disconnecting from your Motorola Moto G23, but the internet i
 
 ![select reboot option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check Router Settings
 
 If your Android keeps disconnecting from Wi-Fi, you can also fix the problem by checking the router settings. This is because your phone might be blocked from connecting to the network, and if this is the scenario, your phone will never maintain the connection. You should check the Router’s admin panel or app to remove your phone from the blocklist.
@@ -343,10 +311,6 @@ To fix the annoying problem that your Wi-Fi keeps disconnecting, you should try 
 **Step 1**: First, you need to open the Wi-Fi settings menu. This could be done by pressing and holding the Wi-Fi option from the drop-down menu of your phone until the settings open up.
 
 ![tap on your wifi option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2**: A list of all the Wi-Fi networks will appear on the screen. Select the network that is causing trouble from that list and hit the 'Forget Network' option.
 
@@ -373,10 +337,6 @@ The problem that your Wi-Fi keeps disconnecting can also occur because of the li
 **Step 2**: You will see a list of all the Wi-Fi networks you have connected to previously. One by one, select each network and hit the 'Forget Network' button to remove it.
 
 ![forgot unnecessary wifi connections](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6. Check Recently Installed Applications
 
@@ -448,22 +408,19 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-making-friends-across-networks-instagram-plus-facebook/"><u>[New] In 2024, Making Friends Across Networks Instagram + Facebook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-premium-picks-for-impeccable-4k-screen-recorders-for-2024/"><u>[New] Premium Picks for Impeccable 4K Screen Recorders for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-record-pc-sounds-effortlessly-with-x-recorder-for-2024/"><u>[New] Record PC Sounds Effortlessly with X-Recorder for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-stream-your-snapchat-moments-flawlessly/"><u>[Updated] 2024 Approved How to Stream Your Snapchat Moments Flawlessly</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-infinix-smart-8-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Infinix Smart 8 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-future-of-vr-with-metas-upcoming-october-headset-launch/"><u>Explore the Future of VR with Meta's Upcoming October Headset Launch</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-tecno-camon-20-premier-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Tecno Camon 20 Premier 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-realme-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Realme</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c51-phone-without-password-by-drfone-android/"><u>How To Unlock Realme C51 Phone Without Password?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/mline-your-seo-strategy-with-the-leading-7-online-youtube-tags-tools/"><u>Streamline Your SEO Strategy with the Leading 7 Online Youtube Tags Tools</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/the-dos-and-donts-of-creating-an-authentic-tiktok-version-of-ourselves-for-2024/"><u>The Dos and Don'ts of Creating an Authentic TikTok Version of Ourselves for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-a18-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo A18 Screen | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-soundtrack-to-instagram-fame-for-2024/"><u>[New] The Soundtrack to Instagram Fame for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-secure-and-seamless-file-sharing-with-20-preferred-no-fee-services-for-2024/"><u>[Updated] Secure & Seamless File Sharing with 20 Preferred No-Fee Services for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y27-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y27 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-offline-status-of-valve-games-via-steam-desktop-client/"><u>Addressing Offline Status of Valve Games via Steam Desktop Client</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nokia-g310-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nokia G310 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/improving-system-responsiveness-on-your-laptop-expert-advice-by-yl-software/"><u>Improving System Responsiveness on Your Laptop - Expert Advice by YL Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-avoid-unwanted-interrucier-top-7-selective-android-adblockers-reviewed/"><u>In 2024, Avoid Unwanted Interrucier Top 7 Selective Android AdBlockers Reviewed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-m34-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-system-improvements-with-seamless-windows-updates/"><u>Mastering System Improvements with Seamless Windows Updates</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Nokia G22 | Dr.fone</u></a></li>
 </ul></div>
 

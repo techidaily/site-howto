@@ -1,7 +1,7 @@
 ---
 title: Super Easy Ways To Deal with Xiaomi Redmi 12 5G Unresponsive Screen | Dr.fone
-date: 2024-07-30T11:37:34.272Z
-updated: 2024-07-31T11:37:34.272Z
+date: 2025-03-01T19:05:06.005Z
+updated: 2025-03-06T16:46:34.650Z
 tags: 
   - problems
 categories:
@@ -20,16 +20,12 @@ Xiaomi Redmi 12 5G smartphones are gaining popularity owing to their low costs, 
 
 Some common issues might arise for Xiaomi Redmi 12 5G phone users. The Redmi note 4 touch not working is a serious problem. It can only go up to the initialization screen. In this guide, you'll find the information you need to troubleshoot and fix the most common problems reported by Motorola customers.
 
-
 ## **What causes a Xiaomi Redmi 12 5G Screen to be unresponsive?**
 
 The screen on your Xiaomi Redmi 12 5G phone could stop responding for several reasons. The touchscreen, the system software, or the hardware itself might all be at fault. To effectively address an issue, it is crucial to locate its origins.
 
 The following are some potential reasons for an unresponsive screen on a Xiaomi Redmi 12 5G device, along with descriptions of each.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **There are signs of soft bricking**
 
 A touch screen not working on Xiaomi Redmi 12 5G smartphones indicates a soft brick (recoverable by firmware update), often caused by a defective or undercharged battery. System file corruption, old firmware, or failed upgrades are all possible causes. Several customers have complained that after installing a software update, their Xiaomi Redmi 12 5G 4 or 5 device's screen became unresponsive and remained at the boot logo.
@@ -42,9 +38,6 @@ Screens on Xiaomi Redmi 12 5G devices may become unresponsive for a variety of h
 
 The Android operating system is adjustable. Some of our technological advancements may backfire on us. The phone won't power on or become stuck in a boot loop where the logo will only show intermittently. For example, some Xiaomi Redmi 12 5G 4 and 5 users have reported their screens are unresponsive after a software update, rendering the Xiaomi Redmi 12 5G device unusable.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **The common solutions to solve a Xiaomi Redmi 12 5G Screen unresponsive**
 
 Could anything be more annoying than a broken touchscreen on your Xiaomi Redmi 12 5G phone? If this happens, the gadget is useless, and you won't be able to do even the simplest tasks. Even so, it's common for the screen to cease responding to touches.
@@ -61,15 +54,8 @@ Giving your Xiaomi Redmi 12 5G a restart is one of the most common solutions if 
 
 **Step 2:** After 1 minute or so, hold the **power button** again to power on the Xiaomi Redmi 12 5G device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### **Solution 2: Check your charging port and battery**
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![xiaomi battery and charger](https://images.wondershare.com/drfone/article/2023/03/charge-your-phone.jpg)
 
 If the battery of your Xiaomi Redmi 12 5G is empty, your screen is expected to be unresponsive. To fix that, here are some easy steps for you:
@@ -81,9 +67,6 @@ If the battery of your Xiaomi Redmi 12 5G is empty, your screen is expected to b
 
 ### **Solution 3: Contact Customer Service**
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![xiaomi contact customer service](https://images.wondershare.com/drfone/article/2023/03/xiaomi-customer-service-1.jpg)
 
 Let's assume you've applied every possible course of action. For example, your Xiaomi Redmi 12 5G 4 touchscreen is still unresponsive. You may contact the brand's customer support department if you need assistance. When the time comes, they'll always know what to do.
@@ -92,18 +75,6 @@ Based on the customer’s feedback, one of the frequent issues of the Xiaomi Red
 
 ### **Solution 4: Turning on your full screen option offered by MI**
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![full screen options](https://images.wondershare.com/drfone/article/2023/03/xiaomi-full-screen-gestures-menu.jpg)
 
 Steps to activate full screen gestures
@@ -116,14 +87,8 @@ Steps to activate full screen gestures
 
 This may include gestures to get used to but it will also fix when your touchscreen sometimes stops responding.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### **Solution 5: Backup and Factory Reset is always a choice**
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset on android](https://images.wondershare.com/drfone/article/2023/03/android-factory-reset-fix.jpg)
 
 Doing a factory reset may be your last remaining choice if the preceding solutions are unsuccessful. If you do this, all of the information on your phone will be deleted.
@@ -137,9 +102,6 @@ Doing a factory reset may be your last remaining choice if the preceding solutio
 
 ### **Solution 6: Using Dr. Fone Android Repair Toolkit**
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr fone system repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 If you want to fix issues like this, most simply, Dr. Fone offers that. It is made to provide you with a complete mobile solution. You may have your phone fixed without losing any information. Dr. Fone's many handy tools will quickly get your phone back in working order.
@@ -152,9 +114,6 @@ Regularly updating the Xiaomi Redmi 12 5G phone's software is necessary to keep 
 
 Avoiding severe temperatures and humidity may protect the Xiaomi Redmi 12 5G device's internal components and keep the screen responsive. Using high-quality charging cords is also recommended. For once, consumers won't have to worry about breaking the screen because they accidentally dropped their cell phones. If users follow these measures, they may reduce the likelihood that their Xiaomi Redmi 12 5G smartphone will have an unresponsive screen.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## **Conclusion**
@@ -163,14 +122,8 @@ Sometimes, Xiaomi Redmi 12 5G smartphones may experience problems with their scr
 
 When following the directions, the user may require more research into some troubleshooting techniques. If this is the case, Dr.Fone Repair is usually the solution. The fact that Dr. Fone can continually tweak his system of unresponsive screens is wonderful news. This helpful tool can fix both black screens and endless starting cycles. That's why it's an integral part of every modern computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## My Videos Aren't Playing on Xiaomi Redmi 12 5G – What Can I Do?
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![person holding their android with black screen](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-1.jpg)
 
 There’s a reason Android holds over two-thirds of the mobile operating system market share. It’s a powerful OS that gives you the utmost freedom and flexibility, allowing you to customize your phone to suit your needs.
@@ -201,16 +154,10 @@ There could be a wide variety of reasons that is happening, including:
 
 An array of hardware and software issues could lead to you being unable to play videos on your Android. However, that doesn’t mean you should immediately send your device for repairs or delete the videos that won’t play. There might be a few better solutions you could try.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## What You Can Do if Your Videos Aren’t Playing On Android Phone
 
 Since there are many reasons for having problems with videos not playing on your Android, you could also try many solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1. Do a Factory Reset
 
 ![person holding a black android](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-3.jpg)
@@ -225,11 +172,6 @@ Though there could be slight variations between different phones, you can usuall
 
 ![factory reset on android](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### 2. Restart Your Xiaomi Redmi 12 5G
 
 While a factory reset is all but guaranteed to fix the issues you’re encountering with your videos, sometimes a simple restart might do the trick just fine. A restart works by clearing your RAM (Random Access Memory).
@@ -246,14 +188,8 @@ As a general rule of thumb, the videos you capture should be in a format your de
 
 If the format isn’t supported, installing the right video player with the necessary compatibility is the most straightforward fix. Some of the most popular video players for Android include VLC for Android, GOM Player, MX Player, Bsplayer, and RealPlayer. You can easily find all of them in the Google Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### 4. Check the Internet Connection
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![pull-down bar on android showing wifi is turned off](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-5.jpg)
 
 If you’re having problems playing downloaded or online videos, check your internet connection to see if there’s an issue there. If your internet’s down, any downloaded videos might not have downloaded correctly, and any online videos that haven’t been loaded will not play.
@@ -262,9 +198,6 @@ Make sure that you turn the Airplane mode off and your Wi-Fi on. Check the conne
 
 You might need a network reset if your phone can’t connect to a Wi-Fi network. The path might differ between Android devices, but you should be able to find the option for a network reset at the exact location of your factory reset. Go to **Settings > General Management > Reset > Reset Network settings > Reset settings**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![android network reset](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-6.jpg)
 
 ### 5. Clear the Cache
@@ -277,9 +210,6 @@ To clear the cache from your apps, you’ll want to go to **Settings > Apps.** F
 
 ![clear cache on android apps](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6. Update Android OS
 
 An outdated Android OS is usually the culprit behind many bugs and glitches you may encounter on your phone. It can prevent you from playing video files, accessing apps, taking photos, and more. It can lead to data corruption and loss, expose you to malware and cyberattacks, and compromise phone performance.
@@ -304,9 +234,6 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your Xiaomi Redmi 
 - **Step 3**: Select **System Repair > Android**.
 - **Step 4**: In the new window, select **Start**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare dr.fone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 5**: Fill in information about your phone’s **Brand, Name, Model, Country,** and **Carrier**.
@@ -317,9 +244,6 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your Xiaomi Redmi 
 - **Step 7**: Follow the on-screen instructions to put your device in **Download Mode**.
 - **Step 8**: Wondershare Dr.Fone will automatically start downloading the necessary firmware, so wait for the process to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![dr.fone downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 9**: When the download is complete, select **Fix Now** to install it.
@@ -368,11 +292,6 @@ Like other smartphones, Android devices occasionally encounter glitches when pla
 
 Whatever the case is, don’t despair. There’s usually a solution that can fix the problem and ensure your device works as expected.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## App Won't Open on Your Xiaomi Redmi 12 5G? Here Are All Fixes
 
 It is not a very rare phenomenon where an App won't open, crash abruptly or face trouble while launching on an Android device. Many Android phone users also add to the fact that whenever they try to launch an App, it keeps loading but does not run smoothly, as it should in normal circumstances.
@@ -383,9 +302,6 @@ Many people are also interested in knowing about the causes behind why an App wo
 
 Here are all the fixes you need if an App won’t open on your Xiaomi Redmi 12 5G. Read on to find out all about why Apps won't open on your Xiaomi Redmi 12 5G and solutions to overcome such a problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Possible reasons for Apps won't open
 
 If you are an Android phone user and face a problem while trying to open an App on your device, you will ask yourself “Why won't my App open?”. To answer your question and explain to you why an App won't open on your phone, here are some probable and simple reasons to make you understand the real problem.
@@ -394,34 +310,18 @@ It is appropriate to tag our generation as smartphone addicts because we use sma
 
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984182929893.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Settings](https://images.wondershare.com/drfone/article/2017/06/14984583143306.jpg)
 
 Another possible reason for Apps to crash or why an App won't open is a possible data crash. This may occur due to **an unstable internet connection** or **various other background software interruptions**.
 
 The causes for the problem to occur are many and no specific reason can be established as the only reason why Apps won't open on your Xiaomi Redmi 12 5G. There are a lot of speculations about why such a problem occurs and persists, but it is more important to focus on how to fix if a particular App won't open or if all Apps won't open on Android.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Part 2: Quickest solution to fix _apps won’t open_ on Android
 
 You have already understood ‘why won't your app open?’ at the start of this article. But, you are not happy with the traditional solutions to fix the app won't open issue.
 
 Well, in such a case [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can prove to be your savior. It resolves failed Android system update issues, crashing apps, and black screen of death. It can also get an unresponsive or bricked Android device or boot loop stuck device fixed with one click.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Why won't my app open? The quick fix is here!
@@ -442,16 +342,10 @@ Why won't my app open? The quick fix is here!
 
 Step 1: Post-installation and launch of Dr.Fone on your computer, you got to press the ‘System Repair’ tab. Connect the Android device later.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix App won't open by repairing android system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Hit the ‘Android Repair’ located on the left panel followed by tapping the ‘Start’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start to fix App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Feed your Xiaomi Redmi 12 5G details under the Xiaomi Redmi 12 5G device information screen. Please check the warning and press the ‘Next’ button right after that.
@@ -464,9 +358,6 @@ Step 1: You got to boot the Android device under Download mode, as it’s import
 
 - Android devise with a ‘Home’ button – Press together ‘Volume Down’, ‘Home’, and ‘Power’ buttons together for 5 to 10 seconds after turning off the Xiaomi Redmi 12 5G device. Release them afterward and click the ‘Volume Up’ button to get into the ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![boot android in download mode with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - When there is no ‘Home’ button – Turn off the Xiaomi Redmi 12 5G device and then for 5 to 10 seconds, keep the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons pressed. Tap the ‘Volume Up’ button after releasing all the buttons to enter the ‘Download’ mode.
@@ -479,9 +370,6 @@ Step 2: Hitting the ‘Next’ button starts downloading the Android firmware.
 
 Step 3: Once Dr.Fone - System Repair (Android) verifies the downloaded firmware, it begins fixing the app won't open the issue asap.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![fixing App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Part 3: 3 Common fixes if a particular App won’t open
@@ -500,16 +388,10 @@ Follow the steps given below to update the app which won't open on your phone:
 
 • Now select “My Apps & Games” from the main menu.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select “My Apps & Games](https://images.wondershare.com/drfone/article/2017/06/14984183627979.jpg)
 
 • In this step, you may click on “Update All” to update all Apps for which an update is available or manually select the Apps which you wish to Update.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update All](https://images.wondershare.com/drfone/article/2017/06/14984183782889.jpg)
 
 Once the App is updated, close all Apps and tabs running in the background. Now try to launch the app once again. If it opens, your problem is solved. If not, DO NOT worry as there are more ways to help you.
@@ -542,9 +424,6 @@ Carefully follow the step-by-step instructions given below to clear all App cach
 
 • Now tap on “Clear Cache” and “Clear data” directly or under “Storage”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Clear data](https://images.wondershare.com/drfone/article/2017/06/14984585184488.jpg)
 
 ## Part 4: 3 Common fix if all Apps won’t open on Android
@@ -593,9 +472,6 @@ To Factory Reset your Xiaomi Redmi 12 5G, carefully follow the guidelines given 
 
 • Now click on “Factory Data Reset”>“Reset Device”>“Erase Everything”
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Erase Everything](https://images.wondershare.com/drfone/article/2017/06/14984185334400.jpg)
 
 Your phone will now reboot and will be required to set up from scratch.
@@ -603,7 +479,6 @@ Your phone will now reboot and will be required to set up from scratch.
 “Why Won’t my App open” is a question asked by many Android phone users who fear that the problem occurs due to a virus attack or a system failure. However, this is not the case. The reason for the error to the surface is quite minor and can be fixed by you, sitting at home, without resorting to any kind of technical or external assistance. The solutions listed above are easy to understand and not very time-consuming.
 
 So go ahead and try them out now!
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -617,7 +492,26 @@ So go ahead and try them out now!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-journey-through-time-with-these-top-10-historical-youtube-sources/"><u>[New] In 2024, Journey Through Time with These Top 10 Historical YouTube Sources</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-market-mastery-top-20-words-for-effective-advertising/"><u>[New] Market Mastery Top 20 Words for Effective Advertising</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-vivavideo-uncovered-user-perspectives-and-features/"><u>[Updated] In 2024, VivaVideo Uncovered User Perspectives and Features</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-xr-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone XR to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/comment-changer-vite-un-fichier-mkv-en-mp4-sans-pertes-de-definition/"><u>Comment Changer Vite Un Fichier MKV en MP4 Sans Pertes De Définition ?</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/geometry-meets-quietude-with-eskimo-junior-24-an-appraisal-of-its-uncommon-look-and-moderate-workmanship/"><u>Geometry Meets Quietude with Eskimo Junior 24: An Appraisal of Its Uncommon Look and Moderate Workmanship</u></a></li>
+<li><a href="https://fox-http.techidaily.com/high-definition-gaming-with-lg-27ud68-monitor-review/"><u>High Definition Gaming with LG 27UD68 Monitor Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-full-facetune-experience-from-novice-to-expert-photographer/"><u>In 2024, The Full Facetune Experience From Novice to Expert Photographer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/leading-graphics-tech-for-uhd-videography/"><u>Leading Graphics Tech for UHD Videography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamers-choice-should-you-opt-for-vlc-or-mpc-in-2024/"><u>Streamer's Choice Should You Opt for VLC or MPC, In 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-hot-40-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix Hot 40 Bricked Devices | Dr.fone</u></a></li>
+</ul></div>
 

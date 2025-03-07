@@ -1,7 +1,7 @@
 ---
 title: Super Easy Ways To Deal with Lava Yuva 2 Pro Unresponsive Screen | Dr.fone
-date: 2024-07-30T11:32:23.146Z
-updated: 2024-07-31T11:32:23.146Z
+date: 2025-02-28T23:19:12.041Z
+updated: 2025-03-06T16:22:44.893Z
 tags: 
   - problems
 categories:
@@ -20,23 +20,16 @@ Lava Yuva 2 Pro smartphones are gaining popularity owing to their low costs, hig
 
 Some common issues might arise for Lava Yuva 2 Pro phone users. The Redmi note 4 touch not working is a serious problem. It can only go up to the initialization screen. In this guide, you'll find the information you need to troubleshoot and fix the most common problems reported by Motorola customers.
 
-
 ## **What causes a Lava Yuva 2 Pro Screen to be unresponsive?**
 
 The screen on your Lava Yuva 2 Pro phone could stop responding for several reasons. The touchscreen, the system software, or the hardware itself might all be at fault. To effectively address an issue, it is crucial to locate its origins.
 
 The following are some potential reasons for an unresponsive screen on a Lava Yuva 2 Pro device, along with descriptions of each.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### **There are signs of soft bricking**
 
 A touch screen not working on Lava Yuva 2 Pro smartphones indicates a soft brick (recoverable by firmware update), often caused by a defective or undercharged battery. System file corruption, old firmware, or failed upgrades are all possible causes. Several customers have complained that after installing a software update, their Lava Yuva 2 Pro 4 or 5 device's screen became unresponsive and remained at the boot logo.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **There might be issues with the Lava Yuva 2 Pro device itself**
 
 Screens on Lava Yuva 2 Pro devices may become unresponsive for a variety of hardware-related reasons. A broken LCD panel, faulty touch sensor, or loosened ribbon wires are all possible causes. Every Lava Yuva 2 Pro device, including the Note 4 and 5, is susceptible to these problems.
@@ -96,9 +89,6 @@ This may include gestures to get used to but it will also fix when your touchscr
 
 ### **Solution 5: Backup and Factory Reset is always a choice**
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![factory reset on android](https://images.wondershare.com/drfone/article/2023/03/android-factory-reset-fix.jpg)
 
 Doing a factory reset may be your last remaining choice if the preceding solutions are unsuccessful. If you do this, all of the information on your phone will be deleted.
@@ -116,9 +106,6 @@ Doing a factory reset may be your last remaining choice if the preceding solutio
 
 If you want to fix issues like this, most simply, Dr. Fone offers that. It is made to provide you with a complete mobile solution. You may have your phone fixed without losing any information. Dr. Fone's many handy tools will quickly get your phone back in working order.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **How to avoid a Lava Yuva 2 Pro screen unresponsive?**
 
 Users may take several precautions to avoid the Lava Yuva 2 Pro screen unresponsive problem. Stop using any app stores or other unofficial app providers. There is a risk that doing so may damage your device or introduce viruses that will force your phone to restart. There's also a risk of losing important information like photos and files.
@@ -129,32 +116,20 @@ Avoiding severe temperatures and humidity may protect the Lava Yuva 2 Pro device
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Conclusion**
 
 Sometimes, Lava Yuva 2 Pro smartphones may experience problems with their screen. This occurs if there is an issue with the functioning of a new app or a software update. Several Lava Yuva 2 Pro phone owners have reported problems with an unresponsive screen. However, the remedies outlined here should help you quickly and efficiently fix the issue and get your phone back up and running. Keep your phone updated, and remember to back up your data often to avoid this problem in the future.
 
 When following the directions, the user may require more research into some troubleshooting techniques. If this is the case, Dr.Fone Repair is usually the solution. The fact that Dr. Fone can continually tweak his system of unresponsive screens is wonderful news. This helpful tool can fix both black screens and endless starting cycles. That's why it's an integral part of every modern computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Spotify Keeps Crashing: A Complete List of Fixes You Can Use on Lava Yuva 2 Pro
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![spotify logo](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-1.jpg)
 
 Does your **Spotify keep crashing**? You’re not alone. This problem is widespread and can happen to anyone. Fortunately, there are ways to rectify it quickly and easily. We’ve prepared a guide to fixing your Spotify crashing problem.
 
 In our guide, you’ll find out why your Spotify keeps crashing. Moreover, you’ll get a list of fixes for your **Spotify closing** problem and detailed instructions. Once you’ve read our guide, you’ll successfully solve the problem of **Spotify crashing on Android**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why Spotify Keeps Crashing
 
 ![spotify crashing problem](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-2.jpg)
@@ -165,9 +140,6 @@ Another reason the Spotify app keeps crashing could be an antivirus or a VPN blo
 
 Several other reasons for this problem include network issues, a weak Wi-Fi signal, or the battery saving mode. Furthermore, your apps and files might be corrupted, or an app on your phone might block Spotify from working correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. Spotify Keeps Crashing: Best Fixes
 
 As you can see, there are numerous reasons for your Spotify crashing. Fortunately, all of them are easy fixes, and there’s no need to worry. We’ve prepared a list of 11 ways to fix your Spotify. With these fixes and detailed instructions, you’ll be able to eliminate your Spotify problem with ease.
@@ -201,9 +173,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 7:** Put your Android in **Download Mode**. You can find the steps below these instructions.
 - **Step 8:** The program will automatically download once you put the phone in Download Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![downloading firmware in progress](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
@@ -212,9 +181,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 - **Step 10:** Type “**000000**” in the dialog box and click **Confirm**.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
@@ -250,17 +216,11 @@ You can force-close Spotify and open it again to make it work properly. That is 
 - **Step 1:** Try opening Spotify.
 - **Step 2:** If it’s not working, open **App Switcher** or **Recent Apps**. Different Android devices open it differently. Thus, you can swipe up from your Home screen, or if you have three buttons at the bottom, press **Recent Apps**.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![recent apps on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-3.jpg)
 
 - **Step 3:** Find Spotify in **Recent Apps**and click **X** or swipe up over it to force-close it.
 - **Step 4:** Try opening Spotify again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3. Re-Login to Your Spotify
 
 The Spotify app may be working fine. Maybe you’re having problems with your Spotify account. If so, you can try logging out and logging in again to see if that works. That isn’t a big problem; sometimes Spotify accounts start bugging. You can re-login to your Spotify account by following these steps:
@@ -268,16 +228,10 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 - **Step 1:** Open Spotify.
 - **Step 2:** Tap **Settings**in the upper right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![settings in spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-4.jpg)
 
 - **Step 3:** Scroll to the bottom of the settings and tap **Log Out**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![log out of spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-5.jpg)
 
 - **Step 4:** Tap **Log In**.
@@ -298,10 +252,6 @@ Another way to stop Spotify from crashing can be restarting your Android. The st
 
 ![restart android to fix spotify crashing](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### 5. Set Up Your Time and Date
 
 Another possible reason for your Spotify closing problem could be the incorrect time and date on your Android. That is also an easy fix; you must set it correctly and try opening the app again. Set up your time and date with these steps:
@@ -311,77 +261,40 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 - **Step 3:** Go to **Date and Time**.
 - **Step 4:** Tap **Set Date**and set the correct date.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set date on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-9.jpg)
 
 - **Step 5:** Go to **Set Time**and set the right time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### 6. Update Your System Software
 
 Your Spotify app might keep crashing because your system is outdated. Try updating it to the latest version to try and fix the crashing problem. The steps for the Android system update are as follows:
 
 - **Step 1:** Open **Settings**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![settings on your android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-11.jpg)
 
 - **Step 2:** Go to **System** or **About Phone**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![about phone to find system update](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-12.jpg)
 
 - **Step 3:** Select **System Update**.
 - **Step 4:** If there’s an available update, tap
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![install system update on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-13.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 7. Update Your App
 
 If your system is updated, then Spotify might need an update. The app might malfunction if you’re using an older version. Thus, updating the app might solve the Spotify crashing problem. You can update Spotify by following these steps:
 
 - **Step 1:** Go to the **Play Store**.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![play store on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-14.jpg)
 
 - **Step 2:** Search and open Spotify in the Play Store.
 - **Step 3:** Tap Update
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![update spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-15.jpg)
 
 ### 8. Free up Storage
@@ -391,9 +304,6 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 - **Step 1:** Open
 - **Step 2:** Go to **Device Maintenance > Storage**or go directly to Storage.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![storage in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-16.jpg)
 
 - **Step 3:** Here, you can see how much of your storage space is available and what’s taking up the most space.
@@ -402,9 +312,6 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 
 - **Step 4:** Then, you can go ahead and clear as much space as you can.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### 9. Reinstall Spotify
 
 There’s another solution if the Spotify app keeps crashing. You can try uninstalling and reinstalling it again on your Android. That will reset the app and might solve your problem. Follow the next steps to reinstall Spotify:
@@ -423,9 +330,6 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 - **Step 7:** Once it installs, log in to test if it’s working.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 10. Check if Spotify Is Down
 
 If your Spotify keeps crashing and closing, it might not be your device’s problem. Sometimes, Spotify’s server can be down, and many people face the same issue. If that’s the case, you can check with your friends if their Spotify is working or check online if Spotify is down. To do that, follow these steps:
@@ -433,32 +337,20 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 - **Step 1:** Open your web browser.
 - **Step 2:** Type “**Is Spotify down**” in the search bar.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![search if spotify is down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-20.jpg)
 
 - **Step 3:** You’ll see several websites that check real-time app servers and if they’re down.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 11. Clear the Cache
 
 When using different apps and websites, your device caches data from those sources. Since there’s no need to pile up your Spotify cache, you can clear it. Follow these steps:
 
 - **Step 1:** Open **Settings**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-22.jpg)
 
 - **Step 2:** Go to **Apps**.
@@ -474,9 +366,6 @@ When using different apps and websites, your device caches data from those sourc
 
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Conclusion
@@ -485,11 +374,6 @@ If your Spotify app keeps crashing, several reasons might be behind it. For inst
 
 We’ve given you 11 solutions to fix the Spotify crashing problem. However, if your system needs repairing, you can try Wondershare Dr.Fone for quick and easy repair. This solution and all others will surely help you fix the crashing problem.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Why Does My Lava Yuva 2 Pro Keep Turning Off By Itself? 6 Fixes Are Here
 
 Android users are usually very happy with their smartphones; however, sometimes they do complain about their phones switching off abruptly. This is a weird situation to be in because one moment you are using your phone, and the next moment it suddenly turns itself off, and when you happen to turn it back on, it functions smoothly, but only for a while.
@@ -526,16 +410,10 @@ Now dial \*#\*#4636#\*#\* just like dialing a usual phone number and wait for th
 
 Note: Sometimes, the above-mentioned code may not work. In such cases, try dialing \*#\*#INFO#\*#\*. The following screen will appear now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Battery Info](https://images.wondershare.com/drfone/article/2017/07/14994528935445.jpg)
 
 If the battery looks good as you can see in the screenshot above and everything else seems normal, it means that your battery is healthy and need not be replaced. You may now move on to the next step to cure your device.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Part 3: One-click to fix Android phone keeps turning off
 
 We understand how annoying it is to find your Lava Yuva 2 Pro turning off randomly on its own. So, when the age-old remedies to fix the phone keeps turning off turns futile, you need to go for a reliable tool like [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/).
@@ -544,14 +422,8 @@ Apart from tackling the Android phone keeps turning off the issue, it can also r
 
 Your trouble with ‘why does My Lava Yuva 2 Pro keep shutting off?’ can be resolved easily using Dr.Fone - System Repair (Android). But, before that, you need to ensure that [the Android device has been backed up properly](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) to eliminate the risk of data erasing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
 Repair Android System Errors without Any Trouble.
@@ -574,16 +446,10 @@ Step 1: On your computer, install and launch Dr.Fone. Now, click the ‘System R
 
 Step 2: Here, you need to press the ‘Start’ button right after hitting the ‘Android’.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose repair to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Pick your Lava Yuva 2 Pro details over the Lava Yuva 2 Pro device information interface. Click the ‘Next’ button afterward.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 #### Phase 2: Enter ‘Download’ mode to repair and resolve ‘why does My Lava Yuva 2 Pro keep turning off’
@@ -604,18 +470,10 @@ Step 2: Hitting the ‘Next’ button will start the Android firmware download.
 
 Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once downloaded. Within some time the Android system gets repaired.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![fixed phone keeps turning off with the repair program](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Part 4: Update software to the latest version to fix Android phone keeps turning off
 
 Software glitches or outdated operating systems can trigger automatic shutdowns on Android phones. Updating your Lava Yuva 2 Pro's software version can be an effective solution to fix the issue of the phone repeatedly turning off. Regular software updates provided by the phone manufacturer often include bug fixes, performance improvements, and security patches. These updates can address underlying problems that may be causing the random shutdowns, ensuring a more stable and reliable phone performance.
@@ -624,9 +482,6 @@ To update the software on your Lava Yuva 2 Pro, follow these steps:
 
 Go to "Settings" on your Lava Yuva 2 Pro and navigate to the "System" or "Software Update" section (the exact wording may vary depending on your device model and Android version). Look for the option to "Check for updates" to see if any new software updates are available.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![update software](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off.jpg)
 
 ## Part 5: Cool down your phone to avoid your phone keeps turning off
@@ -645,9 +500,6 @@ To boot into Safe Mode:
 
 Long press the power button to see the following options on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![device options](https://images.wondershare.com/drfone/article/2017/07/14994529157169.jpeg)
 
 Now tap on “Power Off” for about 10 seconds and click “OK” on the message that pops-up as shown below.
@@ -656,28 +508,16 @@ Now tap on “Power Off” for about 10 seconds and click “OK” on the messag
 
 Once done, the phone will reboot and you will see “Safe Mode” on the main screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe mode](https://images.wondershare.com/drfone/article/2017/07/14994529591962.jpg)
 
 That's all. Well, booting to Safe Mode is easy and it also helps you to identify the real problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Part 7: Back up your data and perform a factory reset
 
 **Note:** _You must take a back-up of all your data because once you perform a factory reset on your device, all media, contents, data, and other files are wiped out, including your device settings._
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a great way to back up all your data to prevent it from getting lost after resetting the phone. It works brilliantly as it backs up all data and allows users to retrieve it fully or selectively. You can backup all files from your Android to PC in just a click and restore them later. Try this software for free before purchasing it to understand it's working better. It does not tamper with your data and only requires you to follow the simple steps given below to backup your Android data:
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexibly Back up and Restore Android Data
@@ -697,9 +537,6 @@ Once you have the main screen of the software with multiple options that will ap
 
 Now connect the Android phone to the PC and make sure that USB debugging is turned on. Then hit “Back Up Now” and wait for the next screen to open.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 You will see the file types that will be backed up. Wait for the backup process to complete.
@@ -716,9 +553,6 @@ Now moving on to factory reset your phone:
 
 Simply visit “Settings” on your Lava Yuva 2 Pro by clicking the settings icon as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![visit “Settings”](https://images.wondershare.com/drfone/article/2017/07/14994531602106.jpg)
 
 And then select the “Backup and Reset” option.
@@ -739,7 +573,6 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -752,7 +585,26 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-a-practical-pathway-for-profit-tracking-the-straightforward-steps-to-analyze-youtube-earnings/"><u>[Updated] A Practical Pathway for Profit Tracking The Straightforward Steps to Analyze YouTube Earnings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-compact-guide-to-macs-screen-recording-shortcuts/"><u>[Updated] Compact Guide to Mac's Screen Recording Shortcuts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-effortless-mac-pics-with-no-cost-for-2024/"><u>[Updated] Effortless Mac Pics with No Cost for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/44cm44oh44o844k44oz44o844k544kv44ot44o844ol44oz44kw5lit44gu44k44o844ky44od44oi44or44o844og44kj44k344on44oz57eo6zug5pa55rov44cn/"><u>「データベースクローニング中のターゲットパーティション編集方法」</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-supreme-display-quality-top-10-ranking-of-4k-screens/"><u>2024 Approved Supreme Display Quality #Top 10 Ranking of 4K Screens</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-a14-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy A14 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oneplus-ace-2-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for OnePlus Ace 2 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/finding-the-perfect-recorders-outside-microsofts-ecosystem-for-2024/"><u>Finding the Perfect Recorders Outside Microsoft's Ecosystem for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-m14-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy M14 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-x100-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo X100 Quickly | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-y200-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo Y200 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-understanding-instagrams-video-limit-policy/"><u>In 2024, Understanding Instagram's Video Limit Policy</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209842971-9781911134091-quareia-the-initiate/"><u>Quareia The Initiate | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/time-traveling-gaming-from-old-to-new-consoles/"><u>Time Traveling Gaming: From Old to New Consoles</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-echoes-of-innovation-uncovering-the-top-8-digital-hubs-for-comprehensive-free-sound-effect-collections-for-todays-creators/"><u>Updated Echoes of Innovation Uncovering the Top 8 Digital Hubs for Comprehensive Free Sound Effect Collections (For Todays Creators)</u></a></li>
+</ul></div>
 

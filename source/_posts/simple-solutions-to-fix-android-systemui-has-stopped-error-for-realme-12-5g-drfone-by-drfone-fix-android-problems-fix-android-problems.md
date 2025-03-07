@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme 12 5G | Dr.fone
-date: 2025-02-16T16:31:11.549Z
-updated: 2025-02-17T21:34:37.217Z
+date: 2025-03-02T16:59:33.000Z
+updated: 2025-03-06T16:11:52.843Z
 tags: 
   - problems
 categories:
@@ -52,10 +52,6 @@ Step 1 – Download the Dr.Fone toolkit over your PC. Install it and launch it o
 
 ![fix Android system UI stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2 – You need to select “Android Repair” from the left panel and then hit the ‘Start’ button.
 
 ![option to fix Android system UI not responding](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -88,17 +84,9 @@ Step 3 – As soon as the download completes, the Android repair will automatica
 
 ![repair firmware to fix Android system UI stopping](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4 – In a just a matter of a few minutes, your Android system UI isn’t responding issue will be resolved.
 
 ![com.android.systemui stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Uninstall Google updates to fix Android SystemUI issue
 
@@ -238,10 +226,6 @@ Step 1: On your computer, install and launch Dr.Fone. Now, click the ‘System R
 
 ![fix phone keeps turning off](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Here, you need to press the ‘Start’ button right after hitting the ‘Android’.
 
 ![choose repair to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -258,10 +242,6 @@ For a device with the ‘Home’ button – Turn off the mobile and then hold do
 
 ![fix phone keeps turning off with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For a device lacking ‘Home’ button – After switching off the Android mobile, hold down ‘Bixby’, ‘Power’, ‘Volume Down’ key still 10 seconds. Now, un-hold them and tap the ‘Volume Up’ button to enter the ‘Download’ mode.
 
 ![fix phone keeps turning off with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
@@ -275,10 +255,6 @@ Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once dow
 ![fixed phone keeps turning off with the repair program](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Update software to the latest version to fix Android phone keeps turning off
 
@@ -371,10 +347,6 @@ Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your devi
 
 ![tap on “ERASE EVERYTHING”](https://images.wondershare.com/drfone/article/2017/07/14994532028525.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Note: Once the factory reset process is complete, your device will automatically restart and you will have to set it up once again. You can restore the backup data on your Realme 12 5G once you factory reset it, again using the Dr.Fone toolkit.
 
 Now for all those of you who are wondering why does My Realme 12 5G keeps turning off by itself, please understand that the reasons behind the problem are simple, and so are its fixes. All you need to do is examine the problem carefully and move on to the fixes given in this article. Dr.Fone toolkit Android Data Backup & Restore feature provides an excellent platform for you to store all your data safely on your PC and retrieve it whenever you like so that you can go ahead to solve the error yourself without stressing about data loss.“Why does My Realme 12 5G keep shutting off?” might be common questions but can be dealt with ease if you follow the methods explained above.
@@ -434,10 +406,6 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Realme 12 5G, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Realme 12 5G devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
 
@@ -517,14 +485,6 @@ A lot of times minor issues crop up due to the operating systems that get outdat
 
 ![Android settings not responding - update android firmware](https://images.wondershare.com/drfone/article/2019/04/update-samsung.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If your Realme 12 5G shows the "Unfortunately Settings has stopped" error, don't worry. This problem can come from many things like old software or cache issues. You can try easy fixes like clearing cache or updating your system. Sometimes, removing custom ROMs might be needed.
@@ -547,18 +507,18 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-screen-recording-face-off-obs-studio-vs-fraps-comparison/"><u>[Updated] In 2024, Screen Recording Face-Off OBS Studio Vs Fraps Comparison</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-step-by-step-process-for-aesthetic-and-engaging-instagram-video-content/"><u>[Updated] In 2024, Step-by-Step Process for Aesthetic and Engaging Instagram Video Content</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/advanced-gif-maker-all-in-one-solution-with-video-and-swf-to-gif-conversion-tools/"><u>Advanced GIF Maker: All-in-One Solution with Video & SWF to GIF Conversion Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/apex-legends-error-resolution-guide-for-smooth-gaming-experience/"><u>Apex Legends Error Resolution Guide for Smooth Gaming Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-honor-90-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Honor 90 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratuito-conversor-de-audiovisuales-online-transforma-tu-video-mkv-a-mp4-y-audio-m4a-en-segundos/"><u>Gratuito Conversor De Audiovisuales Online: Transforma Tu Vídeo MKV a MP4 Y Audio M4A en Segundos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-direct-mp3-to-youtube-3-steps-for-seamless-video-posting/"><u>In 2024, Direct MP3 to YouTube 3 Steps for Seamless Video Posting</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/kopiere-dvds-auf-windows-1110-vier-praktische-ansatze-fur-einen-einfachen-umgang-mit-filmen/"><u>Kopiere DVDs Auf Windows 11/10: Vier Praktische Ansätze Für Einen Einfachen Umgang Mit Filmen</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nokia-c32-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nokia C32 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-oppo-find-n3-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo Find N3 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-get-unlimited-echoes-for-online-content-makers-in-2024/"><u>[Updated] Get Unlimited Echoes for Online Content Makers, In 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-meizu-21-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Meizu 21? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-expensive-advanced-ai-cue-sheets-justify-their-cost-through-performance/"><u>Can Expensive Advanced AI Cue Sheets Justify Their Cost Through Performance?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-artful-pictures-on-android-devices/"><u>Crafting Artful Pictures on Android Devices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/earning-in-a-world-dominated-by-youtubers-for-2024/"><u>Earning in a World Dominated by YouTubers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/solutions-rapides-aux-difficultes-les-plus-frequentes-du-surface-pro-7-avec-windows-11/"><u>Solutions Rapides Aux Difficultés Les Plus Fréquentes Du Surface Pro 7 Avec Windows 11</u></a></li>
+<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-file-not-opening-error-by-stellar-guide/"><u>Top 5 Ways to Fix Excel File Not Opening Error</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/urgent-critical-zero-day-vulnerability-discovered-in-google-chrome-immediate-update-required/"><u>Urgent: Critical Zero-Day Vulnerability Discovered in Google Chrome - Immediate Update Required!</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-y27-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo Y27 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-complete-list-of-affordable-1440p-monitors-ready-to-play/"><u>Your Complete List of Affordable 1440P Monitors, Ready to Play</u></a></li>
 </ul></div>
 

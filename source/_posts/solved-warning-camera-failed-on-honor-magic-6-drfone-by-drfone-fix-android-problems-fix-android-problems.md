@@ -1,7 +1,7 @@
 ---
 title: Solved Warning Camera Failed on Honor Magic 6 | Dr.fone
-date: 2025-02-12T02:52:41.161Z
-updated: 2025-02-17T20:01:28.276Z
+date: 2025-02-28T16:29:52.425Z
+updated: 2025-03-06T19:09:14.224Z
 tags: 
   - problems
 categories:
@@ -73,10 +73,6 @@ One-click solution to fix camera failed on Honor Magic 6 devices
 
 ![fixing samsung camera failed](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When the software is done repairing the system, you will be notified. Thus, the Camera failed Honor Magic 6 error in your phone will be fixed.
 
 ## Part 3: How to fix Camera Failed error by clearing camera data?
@@ -134,10 +130,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You may try to use the camera app once the process completes.
 
@@ -252,10 +244,6 @@ Step 2 – Now you can see several options. Select “Automatic date and time”
 
 ![Select “Automatic date and time”](https://images.wondershare.com/drfone/article/2017/06/14985032658893.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3 – Now, go to the Play store and try to connect again. This should be working without any problem now.
 
 ### 2\. Cleaning of Cache data of Play Store
@@ -287,10 +275,6 @@ Step 3 – Now, instead of tapping “Clear cache”, tap on “Clear data”. T
 ![tap on “Clear data”](https://images.wondershare.com/drfone/article/2017/06/14985033317238.jpg)
 
 After this, open “Google Play Store” and now your problem might be solved now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Reconnecting the Google account
 
@@ -378,15 +362,7 @@ Step 2 – Now, click on ‘Reboot’ or ‘Restart’ option. Your device will 
 
 ![click on ‘Reboot’](https://images.wondershare.com/drfone/article/2017/06/14985035964108.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After restarting, try to open the Google Play Store again and this time you should succeed. If any case, it's not opening, try the last (but not the least) method by hard reset your Android.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 10\. Hard reset your device
 
@@ -443,10 +419,6 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![dr.fone homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 **3,391,426** people have downloaded it
@@ -479,10 +451,6 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![repair complete](https://images.wondershare.com/drfone/guide/ios-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Using Safe Mode
 
 Safe Mode is like a secret agent—it helps but with a downside. It turns off third-party apps, making your phone useful only for basic calls or texts. Use this method if any solutions in this section do not work. It’s especially handy if you use your phone before sending it to a technician. This way, you’ll learn **how you can get a virus off your phone** before actually letting a technician do it.
@@ -512,10 +480,6 @@ Anti-virus software works like a shield, protecting your phone from sneaky virus
 - Norton 360: Online Security
 - Bitdefender Mobile Security & Anti-virus
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4: Performing a Factory Reset
 
 A [Factory Reset](https://drfone.wondershare.com/factory-reset-protection/bypass-factory-reset-on-android.html) is like a phone makeover—it wipes everything and starts fresh. But be cautious, as it erases all data!
@@ -541,10 +505,6 @@ To keep your phone safe from viruses, follow these easy tips that act as a shiel
 
 These simple yet crucial tips will fortify your phone’s defenses, reducing the likelihood of virus infections and ensuring a safer digital experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Viruses can make your phones act weird, but you have the tools to fight back. Keep your phone healthy by updating software, being cautious with downloads and links, using secure networks, and having an anti-virus app.
@@ -565,22 +525,24 @@ And, if you’re thinking, “**How do I get a virus off My Honor Magic 6?**” 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-advancing-audible-experience-safely-on-spotify-platforms/"><u>[New] Advancing Audible Experience Safely on Spotify Platforms</u></a></li>
-<li><a href="https://fox-links.techidaily.com/10-essential-meme-blueprints-for-2024/"><u>10 Essential Meme Blueprints for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-comprehensible-techniques-for-effective-classroom-recordings-on-mac/"><u>2024 Approved Comprehensible Techniques for Effective Classroom Recordings on Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-guide-crafting-the-perfect-hdr-portrait-image/"><u>2024 Approved Expert Guide Crafting the Perfect HDR Portrait Image</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-pova-5-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Pova 5 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-audio-alliance-for-podcasters/"><u>Advanced Audio Alliance for Podcasters</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oneplus-open-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on OnePlus Open? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/does-immediate-subscribing-affect-content-recommendations/"><u>Does Immediate Subscribing Affect Content Recommendations?</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-audio-techniques-for-your-podcasts/"><u>In 2024, Innovative Audio Techniques for Your Podcasts</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-z-flip-5-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy Z Flip 5 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unleashing-broadcast-potential-from-obs-to-facebook-platform/"><u>Unleashing Broadcast Potential From OBS to Facebook Platform</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebooks-best-friend-on-mobile-top-10-android-extractor-apps-overview/"><u>[New] In 2024, Facebook's Best Friend on Mobile Top 10 Android Extractor Apps Overview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-the-full-potential-of-your-phone-into-vr-realm/"><u>[New] Unleashing the Full Potential of Your Phone Into VR Realm</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-earnings-explosion-how-to-maximize-income-on-youtube-shorts/"><u>[Updated] 2024 Approved Earnings Explosion How to Maximize Income on YouTube Shorts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-editing-apps-revolutionize-your-photo-backgrounds-for-2024/"><u>[Updated] Top Editing Apps Revolutionize Your Photo Backgrounds for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-come-recuperare-le-foto-di-sistema-dal-tuo-disco-rigido-esterno/"><u>1. Come Recuperare Le Foto Di Sistema Dal Tuo Disco Rigido Esterno?</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-honor-x8b-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor X8b? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-motorola-moto-g73-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Moto G73 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-poco-f5-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Poco F5 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-content-cultivating-capital-your-videography-voyage-for-2024/"><u>Crafting Content, Cultivating Capital Your Videography Voyage for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-content-with-metai-innovative-approaches-for-instagram-success/"><u>Elevate Your Content with MetAI: Innovative Approaches for Instagram Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-images-a-professionals-palette-playbook/"><u>Elevating Images A Professional's Palette Playbook</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-z-fold-5-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy Z Fold 5 Phone Screen?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-audio-visual-synergy-iphones-role-in-modern-music-videos/"><u>In 2024, Audio-Visual Synergy IPhone's Role in Modern Music Videos</u></a></li>
 </ul></div>
 
